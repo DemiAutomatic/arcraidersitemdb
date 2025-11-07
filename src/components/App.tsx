@@ -2,6 +2,7 @@ import { useState, useMemo } from "react";
 import Items from "../data/items.json";
 import Quests from "../data/quests.json";
 import Hideout from "../data/hideout.json";
+import Projects from "../data/projects.json";
 import "./App.css";
 
 function App() {
@@ -11,9 +12,10 @@ function App() {
   const [sortDirection, setSortDirection] = useState<"asc" | "desc">("asc");
 
   // Create lookup maps for performance - computed once on load
-  const { questRequirementsMap, hideoutRequirementsMap } = useMemo(() => {
+  const { questRequirementsMap, hideoutRequirementsMap, projectRequirementsMap } = useMemo(() => {
     const questMap: Record<string, { questName: string; quantity: number }[]> = {};
     const hideoutMap: Record<string, { moduleName: string; level: number; quantity: number }[]> = {};
+    const projectMap: Record<string, { projectName: string; phase: number; quantity: number }[]> = {};
 
     // Build quest requirements map
     Quests.forEach((quest) => {
@@ -82,7 +84,25 @@ function App() {
       });
     });
 
-    return { questRequirementsMap: questMap, hideoutRequirementsMap: hideoutMap };
+    // Build project requirements map
+    Projects.forEach((project) => {
+      const projectName = (project.name as Record<string, string>)?.[locale] || project.name.en || project.id;
+
+      project.phases?.forEach((phase) => {
+        phase.requirementItemIds?.forEach((req) => {
+          if (!projectMap[req.itemId]) {
+            projectMap[req.itemId] = [];
+          }
+          projectMap[req.itemId].push({
+            projectName,
+            phase: phase.phase,
+            quantity: req.quantity,
+          });
+        });
+      });
+    });
+
+    return { questRequirementsMap: questMap, hideoutRequirementsMap: hideoutMap, projectRequirementsMap: projectMap };
   }, [locale]); // Recompute when locale changes
 
   const handleSort = (column: string) => {
@@ -108,6 +128,8 @@ function App() {
         return (questRequirementsMap[item.id] || []).length.toString();
       case "HideoutUpgrades":
         return (hideoutRequirementsMap[item.id] || []).length.toString();
+      case "Projects":
+        return (projectRequirementsMap[item.id] || []).length.toString();
       default:
         return "";
     }
@@ -116,6 +138,7 @@ function App() {
   // Simplified functions that use the pre-computed maps
   const getQuestRequirements = (itemId: string) => questRequirementsMap[itemId] || [];
   const getHideoutRequirements = (itemId: string) => hideoutRequirementsMap[itemId] || [];
+  const getProjectRequirements = (itemId: string) => projectRequirementsMap[itemId] || [];
 
   const filtered = Items.filter((item) => {
     const name = (item.name as Record<string, string>)?.[locale] || item.id;
@@ -127,7 +150,7 @@ function App() {
     const bValue = getSortValue(b, sortColumn);
 
     // For numeric columns (counts), sort numerically
-    if (["recyclesInto", "Quests", "HideoutUpgrades"].includes(sortColumn)) {
+    if (["recyclesInto", "Quests", "HideoutUpgrades", "Projects"].includes(sortColumn)) {
       const aNum = parseInt(aValue) || 0;
       const bNum = parseInt(bValue) || 0;
       return sortDirection === "asc" ? aNum - bNum : bNum - aNum;
@@ -185,12 +208,16 @@ function App() {
               <th onClick={() => handleSort("HideoutUpgrades")} style={{ cursor: "pointer" }}>
                 Hideout Upgrades {sortColumn === "HideoutUpgrades" && (sortDirection === "asc" ? "↑" : "↓")}
               </th>
+              <th onClick={() => handleSort("Projects")} style={{ cursor: "pointer" }}>
+                Projects {sortColumn === "Projects" && (sortDirection === "asc" ? "↑" : "↓")}
+              </th>
             </tr>
           </thead>
           <tbody>
             {recyclableItems.map((item, index) => {
               const questReqs = getQuestRequirements(item.id);
               const hideoutReqs = getHideoutRequirements(item.id);
+              const projectReqs = getProjectRequirements(item.id);
 
               return (
                 <tr key={item.id || index}>
@@ -226,6 +253,13 @@ function App() {
                       </div>
                     ))}
                   </td>
+                  <td>
+                    {projectReqs.map((req, idx) => (
+                      <div key={idx}>
+                        {req.projectName} Ph.{req.phase} x{req.quantity}
+                      </div>
+                    ))}
+                  </td>
                 </tr>
               );
             })}
@@ -238,6 +272,7 @@ function App() {
         {recyclableItems.map((item, index) => {
           const questReqs = getQuestRequirements(item.id);
           const hideoutReqs = getHideoutRequirements(item.id);
+          const projectReqs = getProjectRequirements(item.id);
 
           return (
             <div key={item.id || index} className="mobile-card">
@@ -283,12 +318,23 @@ function App() {
                 </div>
               </div>
 
-              <div className="card-row" style={{ borderBottom: "none" }}>
+              <div className="card-row">
                 <span className="card-label">Hideout Upgrades:</span>
                 <div className="card-value">
                   {hideoutReqs.map((req, idx) => (
                     <div key={idx}>
                       {req.moduleName} Lv.{req.level} x{req.quantity}
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              <div className="card-row" style={{ borderBottom: "none" }}>
+                <span className="card-label">Projects:</span>
+                <div className="card-value">
+                  {projectReqs.map((req, idx) => (
+                    <div key={idx}>
+                      {req.projectName} Ph.{req.phase} x{req.quantity}
                     </div>
                   ))}
                 </div>
