@@ -46,6 +46,7 @@ h1 {
   max-width: 600px;
   margin: 0 auto 20px;
   position: relative;
+  box-sizing: border-box;
 }
 
 input {
@@ -58,6 +59,7 @@ input {
   color: #e0e0e0;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
   transition: box-shadow 0.3s, border-color 0.3s;
+  box-sizing: border-box;
 }
 
 input:focus {
@@ -82,6 +84,12 @@ input:focus {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
   background: rgba(30, 30, 30, 0.9);
   overflow-x: auto;
+}
+
+.mobile-cards {
+  display: none;
+  max-width: 100%;
+  margin: auto;
 }
 
 table {
@@ -160,57 +168,63 @@ td div:last-child {
 }
 
 @media (max-width: 768px) {
-  table,
-  thead,
-  tbody,
-  th,
-  td,
-  tr {
+  .table-container {
+    display: none;
+  }
+
+  .mobile-cards {
     display: block;
+    max-width: 100%;
   }
-  thead tr {
-    position: absolute;
-    top: -9999px;
-    left: -9999px;
-  }
-  tr {
+
+  .mobile-card {
+    background: rgba(30, 30, 30, 0.9);
     border: 1px solid #333;
-    margin-bottom: 10px;
-    border-radius: 4px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+    padding: 16px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   }
-  td {
-    border: none;
+
+  .mobile-card:hover {
+    background: rgba(44, 44, 44, 0.8);
+    transition: background-color 0.2s;
+  }
+
+  .card-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 12px;
+    color: #e0e0e0;
+  }
+
+  .card-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+    align-items: flex-start;
     border-bottom: 1px solid #333;
-    position: relative;
-    padding-left: 50%;
   }
-  td:before {
-    position: absolute;
-    top: 12px;
-    left: 16px;
-    width: 45%;
-    padding-right: 10px;
-    white-space: nowrap;
+
+  .card-label {
     font-weight: 500;
     color: #bbb;
+    min-width: 100px;
+    flex-shrink: 0;
   }
-  td:nth-of-type(1):before {
-    content: "Item";
+
+  .card-value {
+    color: #e0e0e0;
+    flex: 1;
+    text-align: right;
   }
-  td:nth-of-type(2):before {
-    content: "Type";
+
+  .card-value div {
+    margin-bottom: 4px;
   }
-  td:nth-of-type(3):before {
-    content: "Rarity";
-  }
-  td:nth-of-type(4):before {
-    content: "Recycles Into";
-  }
-  td:nth-of-type(5):before {
-    content: "Quests";
-  }
-  td:nth-of-type(6):before {
-    content: "Hideout Upgrades";
+
+  .card-value div:last-child {
+    margin-bottom: 0;
   }
 }
 
@@ -219,9 +233,14 @@ td div:last-child {
     max-width: 100%;
   }
   .search-container {
-    max-width: 100%;
+    width: 100%;
+    max-width: none;
   }
   input {
     font-size: 14px;
+    padding: 10px 35px 10px 12px;
+  }
+  .search-icon {
+    right: 12px;
   }
 }

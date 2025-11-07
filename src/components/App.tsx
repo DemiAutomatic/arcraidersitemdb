@@ -122,25 +122,24 @@ function App() {
     return name.toLowerCase().includes(search.toLowerCase());
   });
 
-  const recyclableItems = filtered
-    .sort((a, b) => {
-      const aValue = getSortValue(a, sortColumn);
-      const bValue = getSortValue(b, sortColumn);
+  const recyclableItems = filtered.sort((a, b) => {
+    const aValue = getSortValue(a, sortColumn);
+    const bValue = getSortValue(b, sortColumn);
 
-      // For numeric columns (counts), sort numerically
-      if (["recyclesInto", "Quests", "HideoutUpgrades"].includes(sortColumn)) {
-        const aNum = parseInt(aValue) || 0;
-        const bNum = parseInt(bValue) || 0;
-        return sortDirection === "asc" ? aNum - bNum : bNum - aNum;
-      }
+    // For numeric columns (counts), sort numerically
+    if (["recyclesInto", "Quests", "HideoutUpgrades"].includes(sortColumn)) {
+      const aNum = parseInt(aValue) || 0;
+      const bNum = parseInt(bValue) || 0;
+      return sortDirection === "asc" ? aNum - bNum : bNum - aNum;
+    }
 
-      // For text columns, sort alphabetically
-      if (sortDirection === "asc") {
-        return aValue.localeCompare(bValue);
-      } else {
-        return bValue.localeCompare(aValue);
-      }
-    });
+    // For text columns, sort alphabetically
+    if (sortDirection === "asc") {
+      return aValue.localeCompare(bValue);
+    } else {
+      return bValue.localeCompare(aValue);
+    }
+  });
 
   return (
     <div>
@@ -177,7 +176,7 @@ function App() {
                 Rarity {sortColumn === "rarity" && (sortDirection === "asc" ? "↑" : "↓")}
               </th>
               <th onClick={() => handleSort("recyclesInto")} style={{ cursor: "pointer" }}>
-                Recycles Into {sortColumn === "recyclesInto" && (sortDirection === "asc" ? "↑" : "↓")}
+                Recycle {sortColumn === "recyclesInto" && (sortDirection === "asc" ? "↑" : "↓")}
               </th>
               <th onClick={() => handleSort("Quests")} style={{ cursor: "pointer" }}>
                 Quests {sortColumn === "Quests" && (sortDirection === "asc" ? "↑" : "↓")}
@@ -232,6 +231,71 @@ function App() {
             })}
           </tbody>
         </table>
+      </div>
+
+      {/* Mobile Cards View */}
+      <div className="mobile-cards">
+        {recyclableItems.map((item, index) => {
+          const questReqs = getQuestRequirements(item.id);
+          const hideoutReqs = getHideoutRequirements(item.id);
+
+          return (
+            <div key={item.id || index} className="mobile-card">
+              <div className="card-title">{(item.name as Record<string, string>)?.[locale] || item.id}</div>
+
+              <div className="card-row">
+                <span className="card-label">Type:</span>
+                <span className="card-value">{item.type}</span>
+              </div>
+
+              <div className="card-row">
+                <span className="card-label">Rarity:</span>
+                <span className="card-value">{item.rarity}</span>
+              </div>
+
+              <div className="card-row">
+                <span className="card-label">Recycle:</span>
+                <div className="card-value">
+                  {item.recyclesInto && Object.keys(item.recyclesInto).length > 0 ? (
+                    Object.entries(item.recyclesInto as Record<string, number>).map(([recycleId, qty]) => {
+                      const recycleItem = Items.find((i) => i.id === recycleId);
+                      const recycleName = (recycleItem?.name as Record<string, string>)?.[locale] || recycleId;
+                      return (
+                        <div key={recycleId}>
+                          {recycleName} x{qty}
+                        </div>
+                      );
+                    })
+                  ) : (
+                    <span style={{ color: "#666", fontStyle: "italic" }}>No recycling data</span>
+                  )}
+                </div>
+              </div>
+
+              <div className="card-row">
+                <span className="card-label">Quests:</span>
+                <div className="card-value">
+                  {questReqs.map((req, idx) => (
+                    <div key={idx}>
+                      {req.questName} x{req.quantity}
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              <div className="card-row" style={{ borderBottom: "none" }}>
+                <span className="card-label">Hideout Upgrades:</span>
+                <div className="card-value">
+                  {hideoutReqs.map((req, idx) => (
+                    <div key={idx}>
+                      {req.moduleName} Lv.{req.level} x{req.quantity}
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
+          );
+        })}
       </div>
     </div>
   );
