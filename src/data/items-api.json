@@ -440,6 +440,17 @@
       },
       {
         "item": {
+          "id": "showstopper",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/showstopper.webp",
+          "name": "Showstopper",
+          "rarity": "Rare",
+          "item_type": "Throwable",
+          "description": "A grenade that detonates after a delay, stunning enemies within its radius."
+        },
+        "quantity": 1
+      },
+      {
+        "item": {
           "id": "tactical-mk-3-healing",
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/tactical-mk-3-healing.webp",
           "name": "Tactical Mk. 3 (Healing)",
@@ -1261,6 +1272,17 @@
           "rarity": "Rare",
           "item_type": "Weapon",
           "description": "A scoped bolt-action sniper rifle with reliable damage output and accuracy."
+        },
+        "quantity": 2
+      },
+      {
+        "item": {
+          "id": "bastion-part",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/bastion-part.webp",
+          "name": "Bastion Cell",
+          "rarity": "Epic",
+          "item_type": "Recyclable",
+          "description": "A salvaged component from a Bastion unit. Can be recycled into crafting materials."
         },
         "quantity": 2
       },
@@ -3860,6 +3882,17 @@
       },
       {
         "item": {
+          "id": "bastion-part",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/bastion-part.webp",
+          "name": "Bastion Cell",
+          "rarity": "Epic",
+          "item_type": "Recyclable",
+          "description": "A salvaged component from a Bastion unit. Can be recycled into crafting materials."
+        },
+        "quantity": 2
+      },
+      {
+        "item": {
           "id": "snitch-scanner",
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/snitch-scanner.webp",
           "name": "Snitch Scanner",
@@ -3956,17 +3989,6 @@
           "description": "Can be recycled into crafting materials."
         },
         "quantity": 1
-      },
-      {
-        "item": {
-          "id": "bastion-part",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/bastion-part.webp",
-          "name": "Bastion Cell",
-          "rarity": "Epic",
-          "item_type": "Recyclable",
-          "description": "A salvaged component from a Bastion unit. Can be recycled into crafting materials."
-        },
-        "quantity": 2
       }
     ],
     "mods": [],
@@ -4749,17 +4771,6 @@
           "rarity": "Epic",
           "item_type": "Refined Material",
           "description": "Used to craft advanced weapons."
-        },
-        "quantity": 1
-      },
-      {
-        "item": {
-          "id": "bastion-part",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/bastion-part.webp",
-          "name": "Bastion Cell",
-          "rarity": "Epic",
-          "item_type": "Recyclable",
-          "description": "A salvaged component from a Bastion unit. Can be recycled into crafting materials."
         },
         "quantity": 1
       }
@@ -6891,7 +6902,7 @@
     ],
     "icon": "https://cdn.metaforge.app/arc-raiders/icons/bastion-part.webp",
     "rarity": "Epic",
-    "value": 3000,
+    "value": 5000,
     "workbench": null,
     "stat_block": {
       "range": 0,
@@ -6909,7 +6920,7 @@
       "duration": 0,
       "fireRate": 0,
       "stability": 0,
-      "stackSize": 1,
+      "stackSize": 3,
       "damageMult": 0,
       "raiderStun": 0,
       "weightLimit": 0,
@@ -6948,7 +6959,7 @@
     "flavor_text": null,
     "subcategory": null,
     "created_at": "2025-09-23T18:21:03.51415+00:00",
-    "updated_at": "2025-11-04T15:52:37.53908+00:00",
+    "updated_at": "2025-11-13T05:48:27.251975+00:00",
     "shield_type": null,
     "loot_area": "ARC",
     "sources": null,
@@ -6969,14 +6980,14 @@
         }
       },
       {
-        "quantity": 1,
+        "quantity": 2,
         "component": {
-          "id": "arc-motion-core",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-motion-core.webp",
-          "name": "ARC Motion Core",
+          "id": "advanced-mechanical-components",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/advanced-mechanical-components.webp",
+          "name": "Advanced Mechanical Components",
           "rarity": "Rare",
-          "item_type": "Topside Material",
-          "description": "Obtained from ARC enemies or activities. Used to craft components. Can be recycled into ARC Alloy."
+          "item_type": "Advanced Material",
+          "description": "Mostly used to craft advanced weapons. Can be recycled into crafting materials."
         }
       }
     ],
@@ -6996,7 +7007,7 @@
       }
     ],
     "sold_by": [],
-    "recycle_value": 1400
+    "recycle_value": 3900
   },
   {
     "id": "battery",
@@ -7119,17 +7130,6 @@
       },
       {
         "item": {
-          "id": "cracked-bioscanner",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/cracked-bioscanner.webp",
-          "name": "Cracked Bioscanner",
-          "rarity": "Rare",
-          "item_type": "Recyclable",
-          "description": "Can be recycled into crafting materials."
-        },
-        "quantity": 3
-      },
-      {
-        "item": {
           "id": "showstopper",
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/showstopper.webp",
           "name": "Showstopper",
@@ -7138,6 +7138,17 @@
           "description": "A grenade that detonates after a delay, stunning enemies within its radius."
         },
         "quantity": 2
+      },
+      {
+        "item": {
+          "id": "cracked-bioscanner",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/cracked-bioscanner.webp",
+          "name": "Cracked Bioscanner",
+          "rarity": "Rare",
+          "item_type": "Recyclable",
+          "description": "Can be recycled into crafting materials."
+        },
+        "quantity": 3
       },
       {
         "item": {
@@ -18286,23 +18297,23 @@
       },
       {
         "item": {
-          "id": "advanced-electrical-components",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/advanced-electrical-components.webp",
-          "name": "Advanced Electrical Components",
-          "rarity": "Rare",
-          "item_type": "Refined Material",
-          "description": "Used to craft utility items and shield mods. Can be recycled into crafting materials. Used to craft: Raider Hatch Key, Photoelectric Cloak"
-        },
-        "quantity": 1
-      },
-      {
-        "item": {
           "id": "showstopper",
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/showstopper.webp",
           "name": "Showstopper",
           "rarity": "Rare",
           "item_type": "Throwable",
           "description": "A grenade that detonates after a delay, stunning enemies within its radius."
+        },
+        "quantity": 1
+      },
+      {
+        "item": {
+          "id": "advanced-electrical-components",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/advanced-electrical-components.webp",
+          "name": "Advanced Electrical Components",
+          "rarity": "Rare",
+          "item_type": "Refined Material",
+          "description": "Used to craft utility items and shield mods. Can be recycled into crafting materials. Used to craft: Raider Hatch Key, Photoelectric Cloak"
         },
         "quantity": 1
       },
@@ -18847,21 +18858,72 @@
   {
     "id": "esr-analyzer",
     "name": "ESR Analyzer",
-    "description": "A specialized medical device for analyzing erythrocyte sedimentation rates.",
-    "item_type": "Misc",
+    "description": "A portable analyzer from the world before, complete with several spare tubes.",
+    "item_type": "Quest Item",
     "loadout_slots": [
       "backpack",
       "safePocket"
     ],
-    "icon": "esr-analyzer",
-    "rarity": null,
+    "icon": "https://cdn.metaforge.app/arc-raiders/icons/esr-analyzer.webp",
+    "rarity": "Common",
     "value": 0,
     "workbench": null,
-    "stat_block": {},
+    "stat_block": {
+      "range": 0,
+      "damage": 0,
+      "health": 0,
+      "radius": 0,
+      "shield": 0,
+      "weight": 0.25,
+      "agility": 0,
+      "arcStun": 0,
+      "healing": 0,
+      "stamina": 0,
+      "stealth": 0,
+      "useTime": 0,
+      "duration": 0,
+      "fireRate": 0,
+      "stability": 0,
+      "stackSize": 0,
+      "damageMult": 0,
+      "raiderStun": 0,
+      "weightLimit": 0,
+      "augmentSlots": 0,
+      "healingSlots": 0,
+      "magazineSize": 0,
+      "reducedNoise": 0,
+      "shieldCharge": 0,
+      "backpackSlots": 0,
+      "quickUseSlots": 0,
+      "damagePerSecond": 0,
+      "movementPenalty": 0,
+      "safePocketSlots": 0,
+      "damageMitigation": 0,
+      "healingPerSecond": 0,
+      "reducedEquipTime": 0,
+      "staminaPerSecond": 0,
+      "increasedADSSpeed": 0,
+      "increasedFireRate": 0,
+      "reducedReloadTime": 0,
+      "illuminationRadius": 0,
+      "increasedEquipTime": 0,
+      "reducedUnequipTime": 0,
+      "shieldCompatibility": "",
+      "increasedUnequipTime": 0,
+      "reducedVerticalRecoil": 0,
+      "increasedBulletVelocity": 0,
+      "increasedVerticalRecoil": 0,
+      "reducedMaxShotDispersion": 0,
+      "reducedPerShotDispersion": 0,
+      "reducedDurabilityBurnRate": 0,
+      "reducedRecoilRecoveryTime": 0,
+      "increasedRecoilRecoveryTime": 0,
+      "reducedDispersionRecoveryTime": 0
+    },
     "flavor_text": null,
     "subcategory": null,
     "created_at": "2025-09-23T18:21:03.51415+00:00",
-    "updated_at": "2025-09-23T18:21:03.51415+00:00",
+    "updated_at": "2025-11-11T22:48:08.107308+00:00",
     "shield_type": null,
     "loot_area": null,
     "sources": null,
@@ -20767,6 +20829,7 @@
     "stat_block": {
       "range": 0,
       "damage": 0,
+      "health": 0,
       "radius": 0,
       "shield": 0,
       "weight": 0,
@@ -20783,6 +20846,10 @@
       "damageMult": 0,
       "raiderStun": 0,
       "weightLimit": 0,
+      "augmentSlots": 0,
+      "healingSlots": 0,
+      "magazineSize": 0,
+      "reducedNoise": 0,
       "shieldCharge": 0,
       "backpackSlots": 0,
       "quickUseSlots": 0,
@@ -20796,17 +20863,25 @@
       "increasedADSSpeed": 0,
       "increasedFireRate": 0,
       "reducedReloadTime": 0,
+      "illuminationRadius": 0,
+      "increasedEquipTime": 0,
       "reducedUnequipTime": 0,
       "shieldCompatibility": "",
+      "increasedUnequipTime": 0,
       "reducedVerticalRecoil": 0,
+      "increasedBulletVelocity": 0,
       "increasedVerticalRecoil": 0,
+      "reducedMaxShotDispersion": 0,
+      "reducedPerShotDispersion": 0,
       "reducedDurabilityBurnRate": 0,
-      "increasedRecoilRecoveryTime": 0
+      "reducedRecoilRecoveryTime": 0,
+      "increasedRecoilRecoveryTime": 0,
+      "reducedDispersionRecoveryTime": 0
     },
     "flavor_text": null,
     "subcategory": null,
     "created_at": "2025-09-23T18:21:03.51415+00:00",
-    "updated_at": "2025-10-28T12:58:32.940898+00:00",
+    "updated_at": "2025-11-12T13:49:32.907552+00:00",
     "shield_type": null,
     "loot_area": null,
     "sources": null,
@@ -25766,7 +25841,7 @@
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/voltage-converter.webp",
           "name": "Voltage Converter",
           "rarity": "Rare",
-          "item_type": "Material"
+          "item_type": "Topside Material"
         }
       }
     ],
@@ -28039,7 +28114,7 @@
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/voltage-converter.webp",
           "name": "Voltage Converter",
           "rarity": "Rare",
-          "item_type": "Material",
+          "item_type": "Topside Material",
           "description": "A device that adjusts electrical voltage for various crafting purposes."
         }
       }
@@ -35091,17 +35166,6 @@
       },
       {
         "item": {
-          "id": "vertical-grip-iii",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/vertical-grip-iii.webp",
-          "name": "Vertical Grip III",
-          "rarity": "Rare",
-          "item_type": "Modification",
-          "description": "Significantly reduces vertical recoil."
-        },
-        "quantity": 2
-      },
-      {
-        "item": {
           "id": "extended-medium-mag-iii",
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/extended-medium-mag-iii.webp",
           "name": "Extended Medium Mag III",
@@ -35110,6 +35174,17 @@
           "description": "Moderately extends the ammo capacity of compatible weapons that use medium ammo"
         },
         "quantity": 1
+      },
+      {
+        "item": {
+          "id": "vertical-grip-iii",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/vertical-grip-iii.webp",
+          "name": "Vertical Grip III",
+          "rarity": "Rare",
+          "item_type": "Modification",
+          "description": "Significantly reduces vertical recoil."
+        },
+        "quantity": 2
       },
       {
         "item": {
@@ -43588,17 +43663,6 @@
     "recycle_from": [
       {
         "item": {
-          "id": "voltage-converter",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/voltage-converter.webp",
-          "name": "Voltage Converter",
-          "rarity": "Rare",
-          "item_type": "Material",
-          "description": "A device that adjusts electrical voltage for various crafting purposes."
-        },
-        "quantity": 1
-      },
-      {
-        "item": {
           "id": "electrical-components",
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/electrical-components.webp",
           "name": "Electrical Components",
@@ -43948,6 +44012,17 @@
           "description": "Just by looking at this, you too start to feel slightly deflated."
         },
         "quantity": 9
+      },
+      {
+        "item": {
+          "id": "voltage-converter",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/voltage-converter.webp",
+          "name": "Voltage Converter",
+          "rarity": "Rare",
+          "item_type": "Topside Material",
+          "description": "A device that adjusts electrical voltage for various crafting purposes."
+        },
+        "quantity": 1
       }
     ],
     "mods": [],
@@ -46479,10 +46554,11 @@
     "icon": "https://cdn.metaforge.app/arc-raiders/icons/showstopper.webp",
     "rarity": "Rare",
     "value": 2200,
-    "workbench": null,
+    "workbench": "Explosives Bench III",
     "stat_block": {
       "range": 0,
       "damage": 0,
+      "health": 0,
       "radius": 6,
       "shield": 0,
       "weight": 0.4,
@@ -46499,6 +46575,10 @@
       "damageMult": 0,
       "raiderStun": 2,
       "weightLimit": 0,
+      "augmentSlots": 0,
+      "healingSlots": 0,
+      "magazineSize": 0,
+      "reducedNoise": 0,
       "shieldCharge": 0,
       "backpackSlots": 0,
       "quickUseSlots": 0,
@@ -46512,23 +46592,52 @@
       "increasedADSSpeed": 0,
       "increasedFireRate": 0,
       "reducedReloadTime": 0,
+      "illuminationRadius": 0,
+      "increasedEquipTime": 0,
       "reducedUnequipTime": 0,
       "shieldCompatibility": "",
+      "increasedUnequipTime": 0,
       "reducedVerticalRecoil": 0,
+      "increasedBulletVelocity": 0,
       "increasedVerticalRecoil": 0,
+      "reducedMaxShotDispersion": 0,
+      "reducedPerShotDispersion": 0,
       "reducedDurabilityBurnRate": 0,
-      "increasedRecoilRecoveryTime": 0
+      "reducedRecoilRecoveryTime": 0,
+      "increasedRecoilRecoveryTime": 0,
+      "reducedDispersionRecoveryTime": 0
     },
     "flavor_text": null,
     "subcategory": null,
     "created_at": "2025-09-23T18:21:03.915759+00:00",
-    "updated_at": "2025-10-28T12:58:32.940898+00:00",
+    "updated_at": "2025-11-12T16:54:27.009295+00:00",
     "shield_type": null,
     "loot_area": null,
     "sources": null,
     "ammo_type": null,
     "locations": [],
-    "components": [],
+    "components": [
+      {
+        "quantity": 1,
+        "component": {
+          "id": "advanced-electrical-components",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/advanced-electrical-components.webp",
+          "name": "Advanced Electrical Components",
+          "rarity": "Rare",
+          "item_type": "Refined Material"
+        }
+      },
+      {
+        "quantity": 1,
+        "component": {
+          "id": "voltage-converter",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/voltage-converter.webp",
+          "name": "Voltage Converter",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        }
+      }
+    ],
     "used_in": [],
     "recycle_components": [
       {
@@ -50703,6 +50812,17 @@
       },
       {
         "item": {
+          "id": "extended-medium-mag-iii",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/extended-medium-mag-iii.webp",
+          "name": "Extended Medium Mag III",
+          "rarity": "Rare",
+          "item_type": "Modification",
+          "description": "Moderately extends the ammo capacity of compatible weapons that use medium ammo"
+        },
+        "quantity": 6
+      },
+      {
+        "item": {
           "id": "advanced-mechanical-components",
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/advanced-mechanical-components.webp",
           "name": "Advanced Mechanical Components",
@@ -50722,17 +50842,6 @@
           "description": "Used to craft weapon mods. Can be recycled into crafting materials."
         },
         "quantity": 2
-      },
-      {
-        "item": {
-          "id": "extended-medium-mag-iii",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/extended-medium-mag-iii.webp",
-          "name": "Extended Medium Mag III",
-          "rarity": "Rare",
-          "item_type": "Modification",
-          "description": "Moderately extends the ammo capacity of compatible weapons that use medium ammo"
-        },
-        "quantity": 6
       },
       {
         "item": {
@@ -57193,7 +57302,7 @@
     "id": "voltage-converter",
     "name": "Voltage Converter",
     "description": "A device that adjusts electrical voltage for various crafting purposes.",
-    "item_type": "Material",
+    "item_type": "Topside Material",
     "loadout_slots": [
       "backpack",
       "safePocket"
@@ -57222,6 +57331,8 @@
       "damageMult": 0,
       "raiderStun": 0,
       "weightLimit": 0,
+      "augmentSlots": 0,
+      "healingSlots": 0,
       "magazineSize": 0,
       "reducedNoise": 0,
       "shieldCharge": 0,
@@ -57255,7 +57366,7 @@
     "flavor_text": null,
     "subcategory": null,
     "created_at": "2025-09-23T18:21:03.915759+00:00",
-    "updated_at": "2025-10-31T11:26:40.184209+00:00",
+    "updated_at": "2025-11-12T16:54:06.422973+00:00",
     "shield_type": null,
     "loot_area": "Electrical",
     "sources": null,
@@ -57273,6 +57384,17 @@
           "description": "A heavy shield that blocks a large portion of incoming damage, but carries a significant cost to mobility."
         },
         "quantity": 2
+      },
+      {
+        "item": {
+          "id": "showstopper",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/showstopper.webp",
+          "name": "Showstopper",
+          "rarity": "Rare",
+          "item_type": "Throwable",
+          "description": "A grenade that detonates after a delay, stunning enemies within its radius."
+        },
+        "quantity": 1
       }
     ],
     "recycle_components": [
@@ -58481,17 +58603,6 @@
       },
       {
         "item": {
-          "id": "voltage-converter",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/voltage-converter.webp",
-          "name": "Voltage Converter",
-          "rarity": "Rare",
-          "item_type": "Material",
-          "description": "A device that adjusts electrical voltage for various crafting purposes."
-        },
-        "quantity": 1
-      },
-      {
-        "item": {
           "id": "shotgun-choke-iii",
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/shotgun-choke-iii.webp",
           "name": "Shotgun Choke III",
@@ -58685,6 +58796,17 @@
           "rarity": "Uncommon",
           "item_type": "Modification",
           "description": "Moderately reduces base dispersion."
+        },
+        "quantity": 1
+      },
+      {
+        "item": {
+          "id": "voltage-converter",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/voltage-converter.webp",
+          "name": "Voltage Converter",
+          "rarity": "Rare",
+          "item_type": "Topside Material",
+          "description": "A device that adjusts electrical voltage for various crafting purposes."
         },
         "quantity": 1
       }
