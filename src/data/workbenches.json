@@ -1,5 +1,5 @@
-{
-    "equipment-bench": {
+[
+    {
         "id": "equipment-bench",
         "name": {
             "en": "Gear Bench",
@@ -72,7 +72,7 @@
             }
         ]
     },
-    "explosives-bench": {
+    {
         "id": "explosives-bench",
         "name": {
             "en": "Explosives Station",
@@ -145,7 +145,7 @@
             }
         ]
     },
-    "med-station": {
+    {
         "id": "med-station",
         "name": {
             "en": "Medical Lab",
@@ -218,7 +218,7 @@
             }
         ]
     },
-    "refiner": {
+    {
         "id": "refiner",
         "name": {
             "en": "Refiner",
@@ -291,7 +291,7 @@
             }
         ]
     },
-    "scrappy": {
+    {
         "id": "scrappy",
         "name": {
             "en": "Scrappy",
@@ -377,7 +377,7 @@
             }
         ]
     },
-    "stash": {
+    {
         "id": "stash",
         "name": {
             "en": "Stash",
@@ -480,7 +480,7 @@
             }
         ]
     },
-    "utility-bench": {
+    {
         "id": "utility-bench",
         "name": {
             "en": "Utility Station",
@@ -553,7 +553,7 @@
             }
         ]
     },
-    "weapon-bench": {
+    {
         "id": "weapon-bench",
         "name": {
             "en": "Gunsmith",
@@ -626,7 +626,7 @@
             }
         ]
     },
-    "workbench": {
+    {
         "id": "workbench",
         "name": {
             "en": "Workbench",
@@ -651,4 +651,4 @@
         "maxLevel": 0,
         "levels": []
     }
-}
+]
