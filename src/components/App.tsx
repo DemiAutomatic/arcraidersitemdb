@@ -10,6 +10,7 @@ function App() {
   const [sortColumn, setSortColumn] = useState("name");
   const [sortDirection, setSortDirection] = useState<"asc" | "desc">("asc");
   const debounceTimer = useRef<number | null>(null);
+  const searchInputRef = useRef<HTMLInputElement | null>(null);
 
   const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     debounceTimer.current && clearTimeout(debounceTimer.current);
@@ -17,6 +18,14 @@ function App() {
     debounceTimer.current = setTimeout(() => {
       setDebouncedSearch(e.target.value);
     }, 300);
+  };
+
+  const handleItemClick = (itemName: string) => {
+    setDebouncedSearch(itemName);
+    if (searchInputRef.current) {
+      searchInputRef.current.value = itemName;
+    }
+    window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
   const { questRequirementsMap, workbenchRequirementsMap, projectRequirementsMap, itemLookup } = useMemo(() => {
@@ -180,7 +189,7 @@ function App() {
       <img src="https://cdn1.epicgames.com/spt-assets/9e8b37541e614575b4de303d2c2e44cf/arc-raiders-weavs.jpg" alt="ARC Raiders Logo" className="logo" />
       <h1>Item Database</h1>
       <div className="search-container">
-        <input type="text" placeholder="Search for an item..." onChange={handleSearchChange} />
+        <input ref={searchInputRef} type="text" placeholder="Search for an item..." onChange={handleSearchChange} />
       </div>
       <div className="table-container">
         <table>
@@ -264,7 +273,7 @@ function App() {
                         const recycleItem = itemLookup[recycle];
                         const recycleName = recycleItem?.name.en || `Unknown (${recycleItem?.id})`;
                         return (
-                          <div key={idx} style={{ cursor: "pointer" }} onClick={() => setDebouncedSearch(recycleName)}>
+                          <div key={idx} className={"clickable-item-search"} onClick={() => handleItemClick(recycleName)}>
                             {/* @ts-ignore */}
                             {recycleName} x{item.recyclesInto[recycle]}
                           </div>
@@ -280,7 +289,7 @@ function App() {
                         const salvageItem = itemLookup[salvage];
                         const salvageName = salvageItem?.name.en || `Unknown (${salvageItem?.id})`;
                         return (
-                          <div key={idx} style={{ cursor: "pointer" }} onClick={() => setDebouncedSearch(salvageName)}>
+                          <div key={idx} className={"clickable-item-search"} onClick={() => handleItemClick(salvageName)}>
                             {/* @ts-ignore */}
                             {salvageName} x{item.salvagesInto[salvage]}
                           </div>
@@ -291,7 +300,7 @@ function App() {
                         const recycleItem = itemLookup[recycle];
                         const recycleName = recycleItem?.name.en || `Unknown (${recycleItem?.id})`;
                         return (
-                          <div key={idx} style={{ cursor: "pointer" }} onClick={() => setDebouncedSearch(recycleName)}>
+                          <div key={idx} className={"clickable-item-search"} onClick={() => handleItemClick(recycleName)}>
                             {/* @ts-ignore */}
                             {recycleName} x{item.recyclesInto[recycle]}
                           </div>
@@ -309,7 +318,7 @@ function App() {
                           const recycleItem = itemLookup[itemId];
                           const recycleName = recycleItem?.name?.en || `Unknown (${itemId})`;
                           return (
-                            <div key={idx} style={{ cursor: "pointer" }} onClick={() => setDebouncedSearch(recycleName)}>
+                            <div key={idx} className={"clickable-item-search"} onClick={() => handleItemClick(recycleName)}>
                               {recycleName} x{qty}
                             </div>
                           );
@@ -430,7 +439,7 @@ function App() {
                       const recycleItem = itemLookup[recycle];
                       const recycleName = recycleItem?.name.en || `Unknown (${recycleItem?.id})`;
                       return (
-                        <div key={idx}>
+                        <div key={idx} className={"clickable-item-search"} onClick={() => handleItemClick(recycleName)}>
                           {recycleName} x{item.recyclesInto[recycle as keyof typeof item.recyclesInto]}
                         </div>
                       );
@@ -449,7 +458,7 @@ function App() {
                       const salvageItem = itemLookup[salvage];
                       const salvageName = salvageItem?.name.en || `Unknown (${salvageItem?.id})`;
                       return (
-                        <div key={idx}>
+                        <div key={idx} className={"clickable-item-search"} onClick={() => handleItemClick(salvageName)}>
                           {salvageName} x{item.salvagesInto[salvage as keyof typeof item.salvagesInto]}
                         </div>
                       );
@@ -468,7 +477,7 @@ function App() {
                       const recycleItem = itemLookup[recycle];
                       const recycleName = recycleItem?.name.en || `Unknown (${recycleItem?.id})`;
                       return (
-                        <div key={idx}>
+                        <div key={idx} className={"clickable-item-search"} onClick={() => handleItemClick(recycleName)}>
                           {recycleName} x{item.recycledFrom[recycle as keyof typeof item.recycledFrom]}
                         </div>
                       );
@@ -488,7 +497,7 @@ function App() {
                       .map((arc: any, idx: number) => {
                         const enemyName = arc?.name || arc?.id || `Unknown (${arc?.id})`;
                         return (
-                          <div style={{ display: "flex", alignItems: "center", justifyContent: "flex-end", gap: '10px' }} key={idx}>
+                          <div style={{ display: "flex", alignItems: "center", justifyContent: "flex-end", gap: "10px" }} key={idx}>
                             {enemyName}
                             <div style={{ width: "30px", height: "30px", backgroundImage: `url(${arc.icon})`, backgroundSize: "contain", backgroundRepeat: "no-repeat" }} />
                           </div>
