@@ -4,14 +4,5 @@ import react from "@vitejs/plugin-react";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/arcraidersitemdb.github.io/", // Add this line
-  server: {
-    proxy: {
-      "/api": {
-        target: "https://metaforge.app",
-        changeOrigin: true,
-        rewrite: (path) => path.replace(/^\/api/, "/api"),
-      },
-    },
-  },
+  base: "/arcraidersitemdb"
 });
