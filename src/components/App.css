@@ -170,7 +170,7 @@ td {
 @media (max-width: 1920px) {
   th,
   td {
-    font-size: 16px;
+    font-size: 15px;
     padding: clamp(6px, 2vw, 12px);
   }
 }
@@ -184,7 +184,7 @@ th {
   text-align: center;
   border-top: 2px solid var(--border-accent);
   cursor: pointer;
-  font-size: 20px;
+  font-size: 1.3em;
 }
 
 tr:hover {
