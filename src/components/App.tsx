@@ -259,10 +259,10 @@ function App() {
                   <td style={{ whiteSpace: "wrap" }}>{item.name.en}</td>
                   <td>
                     <div style={{ display: "flex", gap: "8px", alignItems: "center" }}>
-                      <Currency style={{ width: "1em" }} />
+                      <Currency style={{ width: "1em", height: "1em" }} />
                       <span
                         style={{
-                          color: highestValue > 0 && item.value == highestValue ? "#4CAF50" : "var(--text-muted)",
+                          color: highestValue > 0 && item.value == highestValue ? "rgb(var(--green))" : "var(--text-muted)",
                           fontWeight: highestValue > 0 && item.value == highestValue ? "bold" : "normal",
                         }}
                       >
@@ -271,14 +271,14 @@ function App() {
                       <span style={{ color: "#999" }}>/</span>
                       <span
                         style={{
-                          color: highestValue > 0 && item.recycleValue == highestValue ? "#4CAF50" : "var(--text-muted)",
+                          color: highestValue > 0 && item.recycleValue == highestValue ? "rgb(var(--green))" : "var(--text-muted)",
                           fontWeight: highestValue > 0 && item.recycleValue == highestValue ? "bold" : "normal",
                         }}
                       >
                         {item.recycleValue}
                       </span>
                       <span style={{ color: "#999" }}>/</span>
-                      <span style={{ color: highestValue > 0 && item.salvageValue == highestValue ? "#4CAF50" : "var(--text-muted)", fontWeight: highestValue > 0 && item.salvageValue == highestValue ? "bold" : "normal" }}>{item.salvageValue !== undefined ? item.salvageValue : "-"}</span>
+                      <span style={{ color: highestValue > 0 && item.salvageValue == highestValue ? "rgb(var(--green))" : "var(--text-muted)", fontWeight: highestValue > 0 && item.salvageValue == highestValue ? "bold" : "normal" }}>{item.salvageValue !== undefined ? item.salvageValue : "-"}</span>
                     </div>
                   </td>
                   <td>{item.type}</td>
@@ -402,7 +402,7 @@ function App() {
 
       {/* Mobile Cards View */}
       <div className="mobile-cards">
-        {filteredItems.map((item, index) => {
+        {filteredItems.slice(0, 50).map((item, index) => {
           const questReqs = getQuestRequirements(item.id);
           const workbenchReqs = getWorkbenchRequirements(item.id);
           const projectReqs = getProjectRequirements(item.id);
@@ -424,26 +424,29 @@ function App() {
 
               <div className="card-row">
                 <span className="card-label">Sell/Recycle/Salvage:</span>
-                <div className="card-value" style={{ display: "flex", gap: "8px", alignItems: "center", justifyContent: "flex-end" }}>
-                  <span
-                    style={{
-                      color: highestValue > 0 && item.value == highestValue ? "#4CAF50" : "var(--text-muted)",
-                      fontWeight: highestValue > 0 && item.value == highestValue ? "bold" : "normal",
-                    }}
-                  >
-                    {item.value !== undefined ? item.value : "-"}
-                  </span>
-                  <span style={{ color: "#999" }}>/</span>
-                  <span
-                    style={{
-                      color: highestValue > 0 && item.recycleValue == highestValue ? "#4CAF50" : "var(--text-muted)",
-                      fontWeight: highestValue > 0 && item.recycleValue == highestValue ? "bold" : "normal",
-                    }}
-                  >
-                    {item.recycleValue}
-                  </span>
-                  <span style={{ color: "#999" }}>/</span>
-                  <span style={{ color: highestValue > 0 && item.salvageValue == highestValue ? "#4CAF50" : "var(--text-muted)", fontWeight: highestValue > 0 && item.salvageValue == highestValue ? "bold" : "normal" }}>{item.salvageValue !== undefined ? item.salvageValue : "-"}</span>
+                <div className="card-value">
+                  <div style={{ display: "flex", gap: "8px", alignItems: "center", justifyContent: "flex-end" }}>
+                    <Currency style={{ width: "1em", height: "1em" }} />
+                    <span
+                      style={{
+                        color: highestValue > 0 && item.value == highestValue ? "rgb(var(--green))" : "var(--text-muted)",
+                        fontWeight: highestValue > 0 && item.value == highestValue ? "bold" : "normal",
+                      }}
+                    >
+                      {item.value !== undefined ? item.value : "-"}
+                    </span>
+                    <span style={{ color: "#999" }}>/</span>
+                    <span
+                      style={{
+                        color: highestValue > 0 && item.recycleValue == highestValue ? "rgb(var(--green))" : "var(--text-muted)",
+                        fontWeight: highestValue > 0 && item.recycleValue == highestValue ? "bold" : "normal",
+                      }}
+                    >
+                      {item.recycleValue}
+                    </span>
+                    <span style={{ color: "#999" }}>/</span>
+                    <span style={{ color: highestValue > 0 && item.salvageValue == highestValue ? "rgb(var(--green))" : "var(--text-muted)", fontWeight: highestValue > 0 && item.salvageValue == highestValue ? "bold" : "normal" }}>{item.salvageValue !== undefined ? item.salvageValue : "-"}</span>
+                  </div>
                 </div>
               </div>
 
