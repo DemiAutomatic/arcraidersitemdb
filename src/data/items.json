@@ -48,7 +48,7 @@
       "chemicals": 1,
       "plastic_parts": 1
     },
-    "weightKg": 0.2,
+    "weightKg": 0.3,
     "stackSize": 5,
     "effects": {
       "Stamina Regeneration": {
@@ -122,8 +122,11 @@
       "plastic_parts": 3
     },
     "craftBench": "med_station",
+    "salvagesInto": {
+      "chemicals": 1
+    },
     "recycleValue": 110,
-    "salvageValue": 110,
+    "salvageValue": 50,
     "recycledFrom": {},
     "salvagedFrom": {},
     "droppedBy": []
@@ -993,7 +996,7 @@
     "name": {
       "en": "Anvil Blueprint",
       "de": "Anvil-Blaupause",
-      "fr": "Plan d'Enclume",
+      "fr": "Schéma d'Enclume",
       "es": "Plano de Anvil",
       "pt": "Projeto de Anvil",
       "pl": "Projekt Anvil",
@@ -2085,7 +2088,7 @@
     "description": {
       "en": "Obtained from ARC enemies or activities, or by recycling certain ARC parts. Used to craft components. Used to craft: Light Shield, ARC Motion Core, ARC Circuitry",
       "de": "Von ARC-Gegnern oder Aktivitäten erhalten oder durch Recycling bestimmter ARC-Teile. Wird zur Herstellung von Komponenten verwendet. Wird verwendet für: Leichtes Schild, ARC-Bewegungskern, ARC-Schaltkreise",
-      "fr": "Obtenu auprès d'ennemis ARC ou d'activités, ou en recyclant certaines pièces ARC. Permet de fabriquer des composants. Permet de fabriquer : Bouclier léger, Noyau de mouvement ARC, Circuits ARC",
+      "fr": "Obtenu auprès d'ennemis ARC ou d'activités, ou en recyclant certaines pièces ARC. Permet de fabriquer des composants. Permet de fabriquer : Bouclier léger, Processeur de mobilité ARC, Câblage ARC",
       "es": "Se obtiene de enemigos ARC o actividades, o reciclando ciertas piezas ARC. Se usa para fabricar componentes. Se usa para fabricar: Escudo ligero, Núcleo de movimiento ARC, Circuitos ARC",
       "pt": "Obtida de inimigos ARC ou atividades, ou reciclando certas peças ARC. Usada para fabricar componentes. Usada para fabricar: Escudo leve, Núcleo de movimento ARC, Circuitos ARC",
       "pl": "Otrzymywany od wrogów ARC lub z działań, lub przez przetwarzanie niektórych części ARC. Używany do wytwarzania komponentów. Używany do wytworzenia: Lekka tarcza, Rdzeń ruchu ARC, Obwody ARC",
@@ -2406,7 +2409,7 @@
     "name": {
       "en": "ARC Flex Rubber",
       "de": "Arc-Flex-Gummi",
-      "fr": "Caoutchouc Arc Flex",
+      "fr": "Caoutchouc flexible ARC",
       "es": "Goma Arc Flex",
       "pt": "Borracha Arc Flex",
       "pl": "Guma Arc Flex",
@@ -2479,7 +2482,7 @@
     "name": {
       "en": "ARC Motion Core",
       "de": "ARC-Bewegungskern",
-      "fr": "Noyau de mouvement ARC",
+      "fr": "Processeur de mobilité ARC",
       "es": "Núcleo de movimiento ARC",
       "pt": "Núcleo de movimento ARC",
       "pl": "Rdzeń ruchu ARC",
@@ -2575,7 +2578,7 @@
     "name": {
       "en": "ARC Performance Steel",
       "de": "ARC-Hochleistungsstahl",
-      "fr": "Acier haute performance ARC",
+      "fr": "Acier de performance ARC",
       "es": "Acero de alto rendimiento ARC",
       "pt": "Aço de alto desempenho ARC",
       "pl": "Stal wydajnościowa ARC",
@@ -4195,7 +4198,7 @@
     "name": {
       "en": "Barricade Kit Blueprint",
       "de": "Barrikaden-Set Blaupause",
-      "fr": "Plan de kit de barricade",
+      "fr": "Schéma de kit de barricade",
       "es": "Plano de kit de barricada",
       "pt": "Projeto de kit de barricada",
       "pl": "Projekt zestawu barykady",
@@ -4388,7 +4391,7 @@
     "name": {
       "en": "Bettina Blueprint",
       "de": "Bettina-Bauplan",
-      "fr": "Plan Bettina",
+      "fr": "Schéma Bettina",
       "es": "Plano Bettina",
       "pt": "Projeto Bettina",
       "pl": "Projekt Bettina",
@@ -5512,7 +5515,7 @@
     "name": {
       "en": "Blaze Grenade Blueprint",
       "de": "Flammen-Granate Blaupause",
-      "fr": "Plan de grenade flamboyante",
+      "fr": "Schéma de grenade flamboyante",
       "es": "Plano de granada de fuego",
       "pt": "Projeto de granada de fogo",
       "pl": "Projekt granatu płomiennego",
@@ -5976,7 +5979,7 @@
     "name": {
       "en": "Blue Light Stick Blueprint",
       "de": "Blauer Leuchtstab-Blaupause",
-      "fr": "Plan de bâton lumineux bleu",
+      "fr": "Schéma de bâton lumineux bleu",
       "es": "Plano de barra luminosa azul",
       "pt": "Projeto de bastão luminoso azul",
       "pl": "Projekt niebieskiego patyka świetlnego",
@@ -6149,7 +6152,7 @@
     "name": {
       "en": "Breathtaking Snow Globe",
       "de": "Atemberaubende Schneekugel",
-      "fr": "Boule à neige époustouflante",
+      "fr": "Boule à neige incroyable",
       "es": "Bola de nieve impresionante",
       "pt": "Globo de neve deslumbrante",
       "pl": "Zapierająca dech kula śnieżna",
@@ -6224,7 +6227,7 @@
     },
     "rarity": "Rare",
     "type": "Recyclable",
-    "value": null,
+    "value": 1000,
     "recyclesInto": {
       "battery": 2,
       "metal_parts": 6
@@ -6542,6 +6545,7 @@
     "type": "Key",
     "rarity": "Rare",
     "value": 100,
+    "weightKg": 0.25,
     "recyclesInto": {},
     "updatedAt": "10/30/2025",
     "recycleValue": 0,
@@ -6665,7 +6669,7 @@
     "name": {
       "en": "Burletta Blueprint",
       "de": "Burletta-Blaupause",
-      "fr": "Plan de Burletta",
+      "fr": "Schéma de Burletta",
       "es": "Plano de Burletta",
       "pt": "Projeto de Burletta",
       "pl": "Projekt Burletta",
@@ -6685,7 +6689,7 @@
     "description": {
       "en": "A blueprint to craft the Burletta weapon.",
       "de": "Eine Blaupause zur Herstellung der Burletta-Waffe.",
-      "fr": "Un plan pour fabriquer l'arme Burletta.",
+      "fr": "Un schéma pour fabriquer l'arme Burletta.",
       "es": "Un plano para fabricar el arma Burletta.",
       "pt": "Um projeto para fabricar a arma Burletta.",
       "pl": "Projekt do wytworzenia broni Burletta.",
@@ -6928,6 +6932,7 @@
     "type": "Weapon",
     "rarity": "Uncommon",
     "value": 5000,
+    "weightKg": 4,
     "recyclesInto": {
       "mechanical_components": 2,
       "simple_gun_parts": 2
@@ -6985,6 +6990,7 @@
     "type": "Weapon",
     "rarity": "Uncommon",
     "value": 7000,
+    "weightKg": 4,
     "recyclesInto": {
       "mechanical_components": 3,
       "simple_gun_parts": 3
@@ -7042,6 +7048,7 @@
     "type": "Weapon",
     "rarity": "Uncommon",
     "value": 9000,
+    "weightKg": 4,
     "recyclesInto": {
       "mechanical_components": 4,
       "simple_gun_parts": 4
@@ -7113,7 +7120,7 @@
     "name": {
       "en": "Burned Arc Circuitry",
       "de": "Durchgebrannte ARC-Schaltkreise",
-      "fr": "Circuits ARC brûlés",
+      "fr": "Câblage ARC brûlé",
       "es": "Circuitos ARC quemados",
       "pt": "Circuitos ARC queimados",
       "pl": "Spalone obwody ARC",
@@ -7175,7 +7182,7 @@
     "name": {
       "en": "Camera Lens",
       "de": "Kameraobjektiv",
-      "fr": "Objectif d'appareil photo",
+      "fr": "Objectif de caméra",
       "es": "Lente de cámara",
       "pt": "Lente de câmera",
       "pl": "Obiektyw aparatu",
@@ -7711,6 +7718,7 @@
       "yellow_light_stick": 1
     },
     "salvagedFrom": {
+      "adrenaline_shot": 1,
       "arc_coolant": 9,
       "crude_explosives": 2,
       "light_impact_grenade": 1,
@@ -8302,7 +8310,7 @@
       "hr": "Borbeni Mk. 3 (Agresivni) Nacrt",
       "pl": "Bojowy Mk. 3 (Agresywny) Projekt",
       "zh-TW": "戰鬥 Mk. 3（進攻型）藍圖",
-      "fr": "Plan de Combat 3 (agression)",
+      "fr": "Schéma de Combat 3 (agression)",
       "zh-CN": "战斗 Mk. 3（进攻型）蓝图",
       "no": "Kamp Mk. 3 (Aggressiv) Tegning",
       "ru": "Чертёж Боевой Mk. 3 (Агрессивный)",
@@ -8733,7 +8741,7 @@
     "name": {
       "en": "Compensator II Blueprint",
       "de": "Kompensator II Blaupause",
-      "fr": "Plan de compensateur II",
+      "fr": "Schéma de compensateur II",
       "es": "Plano de compensador II",
       "pt": "Projeto do compensador II",
       "pl": "Projekt kompensatora II",
@@ -8861,7 +8869,7 @@
     "name": {
       "en": "Complex Gun Parts Blueprint",
       "de": "Komplexe Waffenteile Blaupause",
-      "fr": "Plan de pièces d'arme complexes",
+      "fr": "Schéma de pièces d'arme complexes",
       "es": "Plano de piezas de armas complejas",
       "pt": "Projeto de peças de armas complexas",
       "pl": "Projekt złożonych części broni",
@@ -8978,7 +8986,7 @@
     "name": {
       "en": "Cooling Coil",
       "de": "Kühlspule",
-      "fr": "Bobine de refroidissement",
+      "fr": "Serpentin de refroidissement",
       "es": "Bobina de refrigeración",
       "pt": "Bobina de resfriamento",
       "pl": "Cewka chłodząca",
@@ -9096,7 +9104,7 @@
     "name": {
       "en": "Cracked Bioscanner",
       "de": "Angeschlagener Bioscanner",
-      "fr": "Bioscanner fissuré",
+      "fr": "Bioscanner fêlé",
       "es": "Bioescáner agrietado",
       "pt": "Bioescâner rachado",
       "pl": "Pęknięty bioskaner",
@@ -9116,6 +9124,7 @@
     "rarity": "Rare",
     "type": "Recyclable",
     "value": 1000,
+    "weightKg": 2,
     "recyclesInto": {
       "rubber_parts": 3,
       "battery": 3
@@ -9339,7 +9348,7 @@
     "name": {
       "en": "Damaged ARC Motion Core",
       "de": "Beschädigter ARC-Bewegungskern",
-      "fr": "Noyau de mouvement ARC endommagé",
+      "fr": "Processeur de mobilité ARC endommagé",
       "es": "Núcleo de movimiento ARC dañado",
       "pt": "Núcleo de movimento ARC danificado",
       "pl": "Uszkodzony rdzeń ruchu ARC",
@@ -9580,7 +9589,7 @@
     "name": {
       "en": "Damaged Hornet Driver",
       "de": "Beschädigter Hornissenantrieb",
-      "fr": "Propulseur Hornet endommagé",
+      "fr": "Pilote d'Artificier endommagé",
       "es": "Propulsor Hornet dañado",
       "pt": "Propulsor Hornet danificado",
       "pl": "Uszkodzony napęd Hornet",
@@ -9642,7 +9651,7 @@
     "name": {
       "en": "Damaged Rocketeer Driver",
       "de": "Beschädigter Raketenantrieb",
-      "fr": "Propulseur de fusée endommagé",
+      "fr": "Pilote d'Artificier endommagé",
       "es": "Propulsor de cohete dañado",
       "pt": "Propulsor de foguete danificado",
       "pl": "Uszkodzony napęd rakietowy",
@@ -9701,7 +9710,7 @@
     "name": {
       "en": "Damaged Tick Pod",
       "de": "Beschädigte Zeckenkapsel",
-      "fr": "Capsule de Tick endommagée",
+      "fr": "Nacelle de Tique endommagée",
       "es": "Cápsula de garrapata dañada",
       "pt": "Cápsula de carrapato danificada",
       "pl": "Uszkodzona kapsuła kleszcza",
@@ -9757,7 +9766,7 @@
     "name": {
       "en": "Damaged Wasp Drive",
       "de": "Beschädigter Wespen-Antrieb",
-      "fr": "Propulseur Wasp endommagé",
+      "fr": "Pilote de Guêpe endommagé",
       "es": "Propulsor Wasp dañado",
       "pt": "Propulsor Wasp danificado",
       "pl": "Uszkodzony napęd Wasp",
@@ -9796,6 +9805,7 @@
     },
     "type": "Recyclable",
     "rarity": "Common",
+    "value": 270,
     "weightKg": 0.25,
     "stackSize": 3,
     "foundIn": "ARC",
@@ -9962,6 +9972,7 @@
     "updatedAt": "11/10/2025",
     "imageFilename": "https://cdn.arctracker.io/items/dam_staff_room_key.png",
     "value": 100,
+    "weightKg": 0.25,
     "stackSize": 1,
     "rarity": "Uncommon",
     "recycleValue": 0,
@@ -10124,6 +10135,7 @@
     "updatedAt": "11/10/2025",
     "imageFilename": "https://cdn.arctracker.io/items/dam_utility_key.png",
     "value": 100,
+    "weightKg": 0.25,
     "stackSize": 1,
     "rarity": "Uncommon",
     "recycleValue": 0,
@@ -10424,7 +10436,7 @@
     "name": {
       "en": "Defibrillator Blueprint",
       "de": "Defibrillator-Blaupause",
-      "fr": "Plan de défibrillateur",
+      "fr": "Schéma de défibrillateur",
       "es": "Plano de desfibrilador",
       "pt": "Projeto de desfibrilador",
       "pl": "Projekt defibrylatora",
@@ -10525,6 +10537,7 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/deflated_football.png",
     "rarity": "Uncommon",
+    "value": 1000,
     "weightKg": 0.8,
     "stackSize": 3,
     "foundIn": "Residential",
@@ -10783,7 +10796,7 @@
     "name": {
       "en": "Dried-Out ARC Resin",
       "de": "Ausgetrocknetes ARC-Harz",
-      "fr": "Résine ARC séchée",
+      "fr": "Résine ARC déséchée",
       "es": "Resina ARC seca",
       "pt": "Resina ARC seca",
       "pl": "Wysuszona żywica ARC",
@@ -11351,7 +11364,7 @@
       "pl": "Projekt Equalizera",
       "no": "Equalizer-tegning",
       "ja": "イコライザー設計図",
-      "fr": "Plan de l'Égaliseur",
+      "fr": "Schéma de l'Égaliseur",
       "es": "Plano del Ecualizador",
       "hr": "Nacrt Izjednačivača",
       "pt": "Projeto do Equalizador",
@@ -12401,7 +12414,7 @@
     "name": {
       "en": "Extended Medium Mag III Blueprint",
       "de": "Erweitertes mittleres Magazin III-Blaupause",
-      "fr": "Plan de chargeur moyen étendu III",
+      "fr": "Schéma de chargeur moyen étendu III",
       "es": "Plano de cargador mediano extendido III",
       "pt": "Projeto de carregador médio estendido III",
       "pl": "Projekt rozszerzonego średniego magazynka III",
@@ -12479,7 +12492,7 @@
     "name": {
       "en": "Extended Medium Mag II Blueprint",
       "de": "Erweitertes mittleres Magazin II-Blaupause",
-      "fr": "Plan de chargeur moyen étendu II",
+      "fr": "Schéma de chargeur moyen étendu II",
       "es": "Plano de cargador mediano extendido II",
       "pt": "Projeto de carregador médio estendido II",
       "pl": "Projekt rozszerzonego średniego magazynka II",
@@ -12776,7 +12789,7 @@
     "name": {
       "en": "Extended Shotgun Mag III Blueprint",
       "de": "Erweitertes Schrotflinten-Magazin III Blaupause",
-      "fr": "Plan Chargeur de fusil à pompe étendu III",
+      "fr": "Schéma chargeur de fusil à pompe étendu III",
       "es": "Plano Cargador extendido de escopeta III",
       "pt": "Projeto Carregador estendido de espingarda III",
       "pl": "Projekt Rozszerzony magazynek do strzelby III",
@@ -12831,7 +12844,7 @@
     "name": {
       "en": "Extended Shotgun Mag II Blueprint",
       "de": "Erweitertes Schrotflinten-Magazin II-Blaupause",
-      "fr": "Plan de chargeur de fusil à pompe étendu II",
+      "fr": "Schéma de chargeur de fusil à pompe étendu II",
       "es": "Plano de cargador de escopeta extendido II",
       "pt": "Projeto de carregador de espingarda estendido II",
       "pl": "Projekt rozszerzonego magazynka strzelby II",
@@ -14606,6 +14619,7 @@
     "type": "Recyclable",
     "rarity": "Rare",
     "value": 1000,
+    "weightKg": 3,
     "foundIn": "Technological",
     "recyclesInto": {
       "plastic_parts": 5,
@@ -15473,7 +15487,7 @@
     "name": {
       "en": "Green Light Stick Blueprint",
       "de": "Grüner Leuchtstab Blaupause",
-      "fr": "Plan de bâton lumineux vert",
+      "fr": "Schéma de bâton lumineux vert",
       "es": "Plano de barra luminosa verde",
       "pt": "Projeto de bastão luminoso verde",
       "pl": "Projekt zielonego świecącego patyka",
@@ -16757,7 +16771,7 @@
     "name": {
       "en": "Heavy Gun Parts Blueprint",
       "de": "Bauplan für Waffen Teile mit schwerer Munition",
-      "fr": "Plan de pièces d'arme lourde",
+      "fr": "Schéma de pièces d'arme lourde",
       "es": "Plano de piezas de arma pesada",
       "pt": "Projeto de peças de arma pesada",
       "pl": "Projekt części ciężkiej broni",
@@ -17242,7 +17256,7 @@
       "pt": "Projeto de Empunhadura Horizontal",
       "ru": "Чертёж Горизонтальной Рукоятки",
       "de": "Horizontaler Griff Blaupause",
-      "fr": "Plan de Poignée Horizontale",
+      "fr": "Schéma de poignée horizontale",
       "zh-CN": "水平握把蓝图",
       "no": "Horisontalt Grep Tegning",
       "tr": "Yatay Kabza Planı",
@@ -17490,7 +17504,7 @@
       "pt": "Plano de Hullcracker",
       "ru": "Чертёж Hullcracker",
       "de": "Hullcracker-Bauplan",
-      "fr": "Plan de Brise-fuselage",
+      "fr": "Schéma de Brise-fuselage",
       "zh-CN": "碎舰者蓝图",
       "no": "Hullcracker-Blåkopi",
       "tr": "Hullcracker Planı",
@@ -18433,7 +18447,7 @@
     "name": {
       "en": "Il Toro Blueprint",
       "de": "Il Toro Blaupause",
-      "fr": "Plan d'Il Toro",
+      "fr": "Schéma d'Il Toro",
       "es": "Plano de Il Toro",
       "pt": "Projeto do Il Toro",
       "pl": "Projekt Il Toro",
@@ -19262,7 +19276,7 @@
     },
     "rarity": "Uncommon",
     "type": "Recyclable",
-    "value": null,
+    "value": 640,
     "recyclesInto": {
       "chemicals": 13
     },
@@ -19680,7 +19694,7 @@
     "name": {
       "en": "Jolt Mine Blueprint",
       "de": "Schock-Mine Blaupause",
-      "fr": "Plan de mine paralysante",
+      "fr": "Schéma de mine paralysante",
       "es": "Plano de mina aturdidora",
       "pt": "Projeto de mina atordoante",
       "pl": "Projekt miny paraliżującej",
@@ -19983,7 +19997,7 @@
       "pl": "Projekt Jupitera",
       "no": "Jupiter-tegning",
       "ja": "ジュピター設計図",
-      "fr": "Plan de Jupiter",
+      "fr": "Schéma de Jupiter",
       "es": "Plano de Júpiter",
       "hr": "Jupiter nacrt",
       "pt": "Projeto do Júpiter",
@@ -20239,6 +20253,7 @@
     "type": "Weapon",
     "rarity": "Common",
     "value": 840,
+    "weightKg": 7,
     "recyclesInto": {
       "plastic_parts": 6,
       "rubber_parts": 6
@@ -20765,6 +20780,7 @@
     "type": "Recyclable",
     "rarity": "Rare",
     "value": 2000,
+    "weightKg": 3,
     "recyclesInto": {
       "chemicals": 2,
       "crude_explosives": 2
@@ -20904,7 +20920,7 @@
     "name": {
       "en": "Launcher Ammo (Hullcracker) Blueprint",
       "de": "Werfer-Munition (Hullcracker) Blaupause",
-      "fr": "Plan de munitions de lanceur (Brise-fuselage)",
+      "fr": "Schéma de munitions de lanceur (Brise-fuselage)",
       "es": "Plano de munición de lanzador (Hullcracker)",
       "pt": "Projeto de munição de lançador (Hullcracker)",
       "pl": "Projekt amunicji do wyrzutni (Hullcracker)",
@@ -20958,7 +20974,7 @@
     "name": {
       "en": "Leaper Pulse Unit",
       "de": "Springer-Pulseinheit",
-      "fr": "Unité d'impulsion de sauteur",
+      "fr": "Unité d'impulsion de Bondisseur",
       "es": "Unidad de pulso de saltador",
       "pt": "Unidade de pulso de saltador",
       "pl": "Jednostka pulsacyjna skoczka",
@@ -21382,7 +21398,7 @@
     "name": {
       "en": "Lightweight Stock Blueprint",
       "de": "Leichtgewicht-Schaft Blaupause",
-      "fr": "Plan de crosse légère",
+      "fr": "Schéma de crosse légère",
       "es": "Plano de culata ligera",
       "pt": "Projeto de coronha leve",
       "pl": "Projekt lekkiej kolby",
@@ -21633,7 +21649,7 @@
     "name": {
       "en": "Light Gun Parts Blueprint",
       "de": "Teile für Waffen mit leichter Munition Blaupause",
-      "fr": "Plan de pièces d'arme légère",
+      "fr": "Schéma de pièces d'arme légère",
       "es": "Plano de piezas de armas ligeras",
       "pt": "Projeto de peças de armas leves",
       "pl": "Projekt lekkich części broni",
@@ -22646,7 +22662,7 @@
     "name": {
       "en": "Looting Mk. 3 (Survivor) Blueprint",
       "de": "Plünderungs-Mk. 3 (Überlebender) Blaupause",
-      "fr": "Plan Butin 3 (survie)",
+      "fr": "Schéma Butin 3 (survie)",
       "es": "Plano Saqueo Mk. 3 (Superviviente)",
       "pt": "Projeto Saque Mk. 3 (Sobrevivente)",
       "pl": "Projekt Grabież Mk. 3 (Ocalały)",
@@ -22740,6 +22756,7 @@
     "type": "Quick Use",
     "rarity": "Uncommon",
     "value": 1000,
+    "weightKg": 0.4,
     "imageFilename": "https://cdn.arctracker.io/items/lure_grenade.png",
     "updatedAt": "10/30/2025",
     "recipe": {
@@ -22761,7 +22778,7 @@
     "name": {
       "en": "Lure Grenade Blueprint",
       "de": "Lockgranaten-Bauplan",
-      "fr": "Plan de grenade leurre",
+      "fr": "Schéma de grenade leurre",
       "es": "Plano de granada señuelo",
       "pt": "Projeto de granada isca",
       "pl": "Projekt granatu wabika",
@@ -23527,7 +23544,7 @@
     "name": {
       "en": "Medium Gun Parts Blueprint",
       "de": "Teile für Waffen mit mittlerer Munition Blaupause",
-      "fr": "Plan de pièces d'arme moyennes",
+      "fr": "Schéma de pièces d'arme moyennes",
       "es": "Plano de piezas de arma medianas",
       "pt": "Projeto de peças de arma médias",
       "pl": "Projekt średnich części broni",
@@ -24284,6 +24301,7 @@
     "type": "Recyclable",
     "rarity": "Rare",
     "value": 1000,
+    "weightKg": 3,
     "recyclesInto": {
       "oil": 2,
       "mechanical_components": 1
@@ -24853,7 +24871,7 @@
     "name": {
       "en": "Muzzle Brake II Blueprint",
       "de": "Mündungsbremse II-Blaupause",
-      "fr": "Plan de frein de bouche II",
+      "fr": "Schéma de frein de bouche II",
       "es": "Plano de freno de boca II",
       "pt": "Projeto de freio de boca II",
       "pl": "Projekt hamulca wylotowego II",
@@ -24951,7 +24969,7 @@
     "name": {
       "en": "Noisemaker",
       "de": "Geräuschmacher",
-      "fr": "Générateur de bruit",
+      "fr": "Crécelle",
       "es": "Generador de ruido",
       "pt": "Gerador de ruído",
       "pl": "Generator hałasu",
@@ -25050,7 +25068,7 @@
     "name": {
       "en": "Number Plate",
       "de": "Nummernschild",
-      "fr": "Plaque d'Immatriculation",
+      "fr": "Numéro de plaque",
       "es": "Matrícula",
       "pt": "Placa de Matrícula",
       "pl": "Tablica Rejestracyjna",
@@ -25287,7 +25305,7 @@
     "name": {
       "en": "Osprey Blueprint",
       "de": "Osprey-Blaupause",
-      "fr": "Plan de Balbuzard",
+      "fr": "Schéma de Balbuzard",
       "es": "Plano de Osprey",
       "pt": "Projeto de Osprey",
       "pl": "Projekt Osprey",
@@ -26929,7 +26947,7 @@
     "name": {
       "en": "Poster of Natural Wonders",
       "de": "Poster der Naturwunder",
-      "fr": "Affiche des merveilles naturelles",
+      "fr": "Poster des merveilles de la nature",
       "es": "Póster de maravillas naturales",
       "pt": "Pôster de maravilhas naturais",
       "pl": "Plakat cudów natury",
@@ -27555,6 +27573,7 @@
     "type": "Recyclable",
     "rarity": "Legendary",
     "value": 13000,
+    "weightKg": 10,
     "recyclesInto": {
       "power_rod": 1,
       "magnetic_accelerator": 1
@@ -28896,7 +28915,7 @@
     "name": {
       "en": "Remote Raider Flare Blueprint",
       "de": "Ferngesteuerte Raider-Leuchtrakete Blaupause",
-      "fr": "Plan de Fusée éclairante télécommandée",
+      "fr": "Schéma de fusée éclairante télécommandée",
       "es": "Plano de Bengala de asaltante remota",
       "pt": "Plano do Sinalizador de invasor remoto",
       "pl": "Projekt zdalnej flary najeźdźcy",
@@ -29289,6 +29308,7 @@
       }
     },
     "value": 10000,
+    "weightKg": 10,
     "upgradeCost": {
       "advanced_mechanical_components": 1,
       "medium_gun_parts": 2
@@ -29503,6 +29523,7 @@
       }
     },
     "value": 13000,
+    "weightKg": 10,
     "upgradeCost": {
       "advanced_mechanical_components": 1,
       "medium_gun_parts": 2
@@ -29717,6 +29738,7 @@
       }
     },
     "value": 17000,
+    "weightKg": 10,
     "upgradeCost": {
       "advanced_mechanical_components": 2,
       "medium_gun_parts": 2
@@ -29886,7 +29908,7 @@
     "name": {
       "en": "Rocketeer Driver",
       "de": "Raketenkanoniertreiber",
-      "fr": "Propulseur de fusée",
+      "fr": "Pilote d'Artificier",
       "es": "Impulsor de cohete",
       "pt": "Driver de fogueteiro",
       "pl": "Napęd rakietowy",
@@ -30249,7 +30271,7 @@
     "name": {
       "en": "Rubber Duck",
       "de": "Quietscheente",
-      "fr": "Canard en caoutchouc",
+      "fr": "Canard en plastique",
       "es": "Pato de goma",
       "pt": "Pato de borracha",
       "pl": "Gumowa kaczka",
@@ -30305,7 +30327,7 @@
     "name": {
       "en": "Rubber Pad",
       "de": "Gummiunterlage",
-      "fr": "Tampon en Caoutchouc",
+      "fr": "Tapis en caoutchouc",
       "es": "Almohadilla de Goma",
       "pt": "Almofada de Borracha",
       "pl": "Gumowa Podkładka",
@@ -30334,7 +30356,7 @@
     "description": {
       "en": "Can be recycled into rubber parts.",
       "de": "Kann zu Gummiteilen recycelt werden.",
-      "fr": "Peut être recyclé en pièces en caoutchouc.",
+      "fr": "Peut être recyclé en composants en caoutchouc.",
       "es": "Puede reciclarse en piezas de goma.",
       "pt": "Pode ser reciclado em peças de borracha.",
       "pl": "Można przetworzyć na części gumowe.",
@@ -30567,6 +30589,8 @@
     },
     "type": "Recyclable",
     "rarity": "Uncommon",
+    "value": 640,
+    "weightKg": 0.8,
     "recyclesInto": {},
     "imageFilename": "https://cdn.arctracker.io/items/ruined_baton.png",
     "updatedAt": "10/30/2025",
@@ -30581,7 +30605,7 @@
     "name": {
       "en": "Ruined Handcuffs",
       "de": "Ruinierte Handschellen",
-      "fr": "Menottes en ruine",
+      "fr": "Menottes abîmées",
       "es": "Esposas arruinadas",
       "pt": "Algemas arruinadas",
       "pl": "Zrujnowane kajdanki",
@@ -30620,6 +30644,7 @@
     },
     "type": "Recyclable",
     "rarity": "Uncommon",
+    "value": 640,
     "weightKg": 0.8,
     "stackSize": 3,
     "foundIn": "Security",
@@ -30916,6 +30941,7 @@
     "type": "Recyclable",
     "rarity": "Rare",
     "value": 1000,
+    "weightKg": 3,
     "recyclesInto": {
       "syringe": 2,
       "antiseptic": 1
@@ -30973,6 +30999,7 @@
     "type": "Recyclable",
     "rarity": "Rare",
     "value": 1000,
+    "weightKg": 2,
     "recyclesInto": {
       "metal_parts": 8,
       "steel_spring": 1
@@ -32546,7 +32573,7 @@
     "name": {
       "en": "Silencer II Blueprint",
       "de": "Schalldämpfer II Blaupause",
-      "fr": "Plan Silencieux II",
+      "fr": "Schéma silencieux II",
       "es": "Plano de Silenciador II",
       "pt": "Projeto de Silenciador II",
       "pl": "Projekt Tłumika II",
@@ -32566,7 +32593,7 @@
     "description": {
       "en": "A blueprint to craft the Silencer II.",
       "de": "Eine Blaupause zur Herstellung des Schalldämpfers II.",
-      "fr": "Un plan pour fabriquer le Silencieux II.",
+      "fr": "Un schéma pour fabriquer le silencieux II.",
       "es": "Un plano para fabricar el Silenciador II.",
       "pt": "Um projeto para fabricar o Silenciador II.",
       "pl": "Projekt do wytworzenia Tłumika II.",
@@ -32600,7 +32627,7 @@
     "name": {
       "en": "Silencer I Blueprint",
       "de": "Schalldämpfer I Blaupause",
-      "fr": "Plan Silencieux I",
+      "fr": "Schéma silencieux I",
       "es": "Plano de Silenciador I",
       "pt": "Projeto de Silenciador I",
       "pl": "Projekt Tłumika I",
@@ -32620,7 +32647,7 @@
     "description": {
       "en": "A blueprint to craft the Silencer I.",
       "de": "Eine Blaupause zur Herstellung des Schalldämpfers I.",
-      "fr": "Un plan pour fabriquer le Silencieux I.",
+      "fr": "Un schéma pour fabriquer le Silencieux I.",
       "es": "Un plano para fabricar el Silenciador I.",
       "pt": "Um projeto para fabricar o Silenciador I.",
       "pl": "Projekt do wytworzenia Tłumika I.",
@@ -33234,7 +33261,7 @@
     "name": {
       "en": "Snap Hook Blueprint",
       "de": "Snap-Haken-Blaupause",
-      "fr": "Plan de Snap Hook",
+      "fr": "Schéma de Snap Hook",
       "es": "Plano de Snap Hook",
       "pt": "Projeto de Snap Hook",
       "pl": "Projekt Snap Hook",
@@ -33559,10 +33586,10 @@
       "sr": "Ključ skladišta u Svemirskoj Luci."
     },
     "type": "Key",
+    "rarity": "Uncommon",
     "value": 100,
     "weightKg": 0.25,
     "updatedAt": "11/16/2025",
-    "rarity": "Uncommon",
     "imageFilename": "https://cdn.arctracker.io/items/spaceport_trench_tower_key.png",
     "recycleValue": 0,
     "salvageValue": 0,
@@ -35198,6 +35225,7 @@
     "type": "Weapon",
     "rarity": "Uncommon",
     "value": 840,
+    "weightKg": 5,
     "recyclesInto": {},
     "imageFilename": "https://cdn.arctracker.io/items/stitcher.png",
     "updatedAt": "10/30/2025",
@@ -35252,6 +35280,7 @@
     "type": "Weapon",
     "rarity": "Uncommon",
     "value": 5000,
+    "weightKg": 5,
     "recyclesInto": {
       "mechanical_components": 2,
       "simple_gun_parts": 2
@@ -35485,6 +35514,7 @@
     "type": "Topside Material",
     "rarity": "Rare",
     "value": 700,
+    "weightKg": 0.5,
     "recyclesInto": {
       "oil": 1,
       "plastic_parts": 1
@@ -36075,7 +36105,7 @@
     "name": {
       "en": "Tactical Mk. 3 (Healing) Blueprint",
       "de": "Taktisch Mk. 3 (Heilung) Blaupause",
-      "fr": "Plan Tactique 3 (soins)",
+      "fr": "Schéma Tactique 3 (soins)",
       "es": "Plano Táctico Mk. 3 (Curación)",
       "pt": "Projeto Tático Mk. 3 (Cura)",
       "pl": "Projekt Taktyczny Mk. 3 (Leczenie)",
@@ -36565,6 +36595,7 @@
       }
     },
     "value": 13000,
+    "weightKg": 11,
     "recipe": {
       "advanced_mechanical_components": 2,
       "medium_gun_parts": 1
@@ -36777,6 +36808,7 @@
       }
     },
     "value": 17000,
+    "weightKg": 11,
     "recyclesInto": {
       "advanced_mechanical_components": 3,
       "medium_gun_parts": 3
@@ -36988,6 +37020,7 @@
       }
     },
     "value": 22000,
+    "weightKg": 11,
     "recyclesInto": {
       "advanced_mechanical_components": 4,
       "medium_gun_parts": 4
@@ -37199,6 +37232,7 @@
       }
     },
     "value": 22000,
+    "weightKg": 11,
     "recyclesInto": {
       "advanced_mechanical_components": 5,
       "medium_gun_parts": 4
@@ -37281,7 +37315,7 @@
     "name": {
       "en": "Tick Pod",
       "de": "Zeckenkapsel",
-      "fr": "Capsule de tique",
+      "fr": "Nacelle de Tique",
       "es": "Cápsula de garrapata",
       "pt": "Cápsula de carrapato",
       "pl": "Kapsuła kleszcza",
@@ -37526,7 +37560,7 @@
     "name": {
       "en": "Torrente Blueprint",
       "de": "Torrente-Blaupause",
-      "fr": "Plan de Torrente",
+      "fr": "Schéma de Torrente",
       "es": "Plano de Torrente",
       "pt": "Projeto de Torrente",
       "pl": "Projekt Torrente",
@@ -38531,7 +38565,7 @@
     "name": {
       "en": "Trigger Nade Blueprint",
       "de": "Auslösegranaten-Bauplan",
-      "fr": "Plan de grenade à déclenchement",
+      "fr": "Schéma de grenade à déclenchement",
       "es": "Plano de granada de activación",
       "pt": "Projeto de granada de ativação",
       "pl": "Projekt granatu wyzwalającego",
@@ -38585,7 +38619,7 @@
     "name": {
       "en": "Turbo Pump",
       "de": "Turbopumpe",
-      "fr": "Pompe turbo",
+      "fr": "Turbopompe",
       "es": "Bomba turbo",
       "pt": "Bomba turbo",
       "pl": "Turbopompa",
@@ -38764,7 +38798,7 @@
     "name": {
       "en": "Venator Blueprint",
       "de": "Venator-Blaupause",
-      "fr": "Plan de Venator",
+      "fr": "Schéma de Venator",
       "es": "Plano de Venator",
       "pt": "Projeto de Venator",
       "pl": "Projekt Venator",
@@ -38985,6 +39019,7 @@
       }
     },
     "value": 7000,
+    "weightKg": 2,
     "recipe": {
       "advanced_mechanical_components": 2,
       "medium_gun_parts": 3,
@@ -39219,6 +39254,7 @@
       }
     },
     "value": 10000,
+    "weightKg": 2,
     "recyclesInto": {
       "advanced_mechanical_components": 2,
       "medium_gun_parts": 2
@@ -39451,6 +39487,7 @@
       }
     },
     "value": 13000,
+    "weightKg": 2,
     "recyclesInto": {
       "advanced_mechanical_components": 2,
       "medium_gun_parts": 3
@@ -39683,6 +39720,7 @@
       }
     },
     "value": 17000,
+    "weightKg": 2,
     "recyclesInto": {
       "advanced_mechanical_components": 3,
       "medium_gun_parts": 3
@@ -39978,7 +40016,7 @@
     "name": {
       "en": "Vertical Grip III Blueprint",
       "de": "Vertikalgriff III Blaupause",
-      "fr": "Plan de Poignée verticale III",
+      "fr": "Schéma de poignée verticale III",
       "es": "Plano de Empuñadura Vertical III",
       "pt": "Projeto de Empunhadura Vertical III",
       "pl": "Projekt Chwytu Pionowego III",
@@ -40192,7 +40230,7 @@
     "name": {
       "en": "Vita Shot Blueprint",
       "de": "Vita-Spritze Blaupause",
-      "fr": "Plan de Dose de Vita",
+      "fr": "Schéma de Dose de Vita",
       "es": "Plano de Inyección Vita",
       "pt": "Plano da Injeção Vita",
       "pl": "Projekt Zastrzyku Vita",
@@ -40378,7 +40416,7 @@
     "name": {
       "en": "Vita Spray Blueprint",
       "de": "Vita-Spray-Blaupause",
-      "fr": "Plan de spray Vita",
+      "fr": "Schéma de spray Vita",
       "es": "Plano de aerosol Vita",
       "pt": "Projeto de spray Vita",
       "pl": "Projekt sprayu Vita",
@@ -40629,6 +40667,7 @@
     "imageFilename": "https://cdn.arctracker.io/items/vulcano.png",
     "updatedAt": "11/12/2025",
     "value": 10000,
+    "weightKg": 8,
     "recyclesInto": {
       "advanced_mechanical_components": 2,
       "heavy_gun_parts": 2
@@ -41889,7 +41928,7 @@
     "name": {
       "en": "Wolfpack Blueprint",
       "de": "Wolfpack-Bauplan",
-      "fr": "Plan Wolfpack",
+      "fr": "Schéma Wolfpack",
       "es": "Plano Wolfpack",
       "pt": "Projeto Wolfpack",
       "pl": "Projekt Wolfpack",
