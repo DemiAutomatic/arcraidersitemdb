@@ -195,6 +195,11 @@
         "icon": "https://cdn.metaforge.app/arc-raiders/icons/bombardier.webp"
       },
       {
+        "id": "leaper",
+        "name": "Leaper",
+        "icon": "https://cdn.metaforge.app/arc-raiders/icons/bison.webp"
+      },
+      {
         "id": "rocketeer",
         "name": "Rocketeer",
         "icon": "https://cdn.metaforge.app/arc-raiders/icons/rocketeer.webp"
@@ -2474,6 +2479,11 @@
     "salvagedFrom": {},
     "droppedBy": [
       {
+        "id": "leaper",
+        "name": "Leaper",
+        "icon": "https://cdn.metaforge.app/arc-raiders/icons/bison.webp"
+      },
+      {
         "id": "the_queen",
         "name": "The Queen",
         "icon": "https://cdn.metaforge.app/arc-raiders/icons/queen.webp"
@@ -2643,6 +2653,11 @@
     "recycledFrom": {},
     "salvagedFrom": {},
     "droppedBy": [
+      {
+        "id": "leaper",
+        "name": "Leaper",
+        "icon": "https://cdn.metaforge.app/arc-raiders/icons/bison.webp"
+      },
       {
         "id": "the_queen",
         "name": "The Queen",
@@ -4321,7 +4336,13 @@
     "salvageValue": 3500,
     "recycledFrom": {},
     "salvagedFrom": {},
-    "droppedBy": []
+    "droppedBy": [
+      {
+        "id": "bastion",
+        "name": "Bastion",
+        "icon": "https://cdn.metaforge.app/arc-raiders/icons/bastion.webp"
+      }
+    ]
   },
   {
     "id": "battery",
@@ -12586,6 +12607,7 @@
       "combat_mk2": 1,
       "fried_motherboard": 2,
       "hornet_driver": 2,
+      "looting_mk2": 1,
       "rotary_encoder": 2,
       "sample_cleaner": 2,
       "showstopper": 1,
@@ -13343,7 +13365,13 @@
       "deadline": 1
     },
     "salvagedFrom": {},
-    "droppedBy": []
+    "droppedBy": [
+      {
+        "id": "leaper",
+        "name": "Leaper",
+        "icon": "https://cdn.metaforge.app/arc-raiders/icons/bison.webp"
+      }
+    ]
   },
   {
     "name": {
@@ -22653,7 +22681,13 @@
     "salvageValue": 4100,
     "recycledFrom": {},
     "salvagedFrom": {},
-    "droppedBy": []
+    "droppedBy": [
+      {
+        "id": "leaper",
+        "name": "Leaper",
+        "icon": "https://cdn.metaforge.app/arc-raiders/icons/bison.webp"
+      }
+    ]
   },
   {
     "id": "lemon",
@@ -23993,9 +24027,13 @@
       "electrical_components": 2,
       "magnet": 3
     },
+    "recyclesInto": {
+      "magnet": 1,
+      "electrical_components": 1
+    },
     "craftBench": "equipment_bench",
-    "recycleValue": 0,
-    "salvageValue": 0,
+    "recycleValue": 940,
+    "salvageValue": 940,
     "recycledFrom": {},
     "salvagedFrom": {},
     "droppedBy": []
@@ -24581,6 +24619,7 @@
       "combat_mk2": 1,
       "exodus_modules": 2,
       "industrial_magnet": 2,
+      "looting_mk2": 1,
       "microscope": 3,
       "ruined_tactical_vest": 1,
       "snap_blast_grenade": 1
@@ -24978,7 +25017,13 @@
       "sentinel_firing_core": 2,
       "surveyor_vault": 2
     },
-    "droppedBy": []
+    "droppedBy": [
+      {
+        "id": "leaper",
+        "name": "Leaper",
+        "icon": "https://cdn.metaforge.app/arc-raiders/icons/bison.webp"
+      }
+    ]
   },
   {
     "id": "medium_ammo",
@@ -33127,7 +33172,13 @@
     "salvageValue": 1280,
     "recycledFrom": {},
     "salvagedFrom": {},
-    "droppedBy": []
+    "droppedBy": [
+      {
+        "id": "sentinel",
+        "name": "Sentinel",
+        "icon": "https://cdn.metaforge.app/arc-raiders/icons/sentinel.webp"
+      }
+    ]
   },
   {
     "id": "shield_recharger",
@@ -33983,7 +34034,13 @@
     "salvageValue": 2520,
     "recycledFrom": {},
     "salvagedFrom": {},
-    "droppedBy": []
+    "droppedBy": [
+      {
+        "id": "shredder",
+        "name": "Shredder",
+        "icon": "https://cdn.metaforge.app/arc-raiders/icons/shredder.webp"
+      }
+    ]
   },
   {
     "name": {
