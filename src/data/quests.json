@@ -1,11 +1,11 @@
 [
     {
         "id": "ss10y",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "After Rain Comes",
             "de": "Nach dem Regen kommt",
-            "fr": "Après la pluie",
+            "fr": "Ensoleillement",
             "es": "Después de la lluvia viene",
             "pt": "Depois da chuva vem",
             "pl": "Po deszczu przychodzi",
@@ -22,6 +22,9 @@
             "sr": "Posle kiše dolazi",
             "hr": "Nakon kiše dolazi"
         },
+        "map": [
+            "buried_city"
+        ],
         "trader": "Celeste",
         "videoUrl": "https://youtu.be/jP__SkIV-9E",
         "description": {
@@ -35,7 +38,7 @@
             "da": "Jeg ved det, jeg ved det! Strømmen er nede i sektoren— Åh, hej. En lynflod ødelagde nogle af vores solpaneler i den begravede by, og generatorerne holder kun så længe. Gør os alle en tjeneste når du er deroppe, OK?",
             "it": "Lo so, lo so! La corrente è saltata nel settore— Oh, ehi. Un'alluvione improvvisa ha distrutto alcuni dei nostri pannelli solari nella città sepolta, e i generatori reggono solo per un certo tempo. Facci un favore quando sei lassù, OK?",
             "uk": "Я знаю, я знаю! Електрика вимкнена в секторі— О, привіт. Раптова повінь знищила деякі наші сонячні панелі в Похованому Місті, а генератори протримаються не так довго. Зроби нам усім послугу, коли будеш там, добре?",
-            "kr": "알아요, 알아요! 구역의 전력이 나갔어요— 아, 안녕하세요. 급작스런 홍수가 매장된 도시의 태양광 패널 몇 개를 망가뜨렸고, 발전기도 오래 버티지 못할 거예요. 거기 가면 우리 좀 도와주실 수 있죠?",
+            "kr": "알아요, 알아요! 구역의 전력이 나갔어요— 아, 안녕하세요. 급작스런 홍수가 파묻힌 도시의 태양광 패널 몇 개를 망가뜨렸고, 발전기도 오래 버티지 못할 거예요. 거기 가면 우리 좀 도와주실 수 있죠?",
             "ru": "Я знаю, я знаю! Электричество отключилось в секторе— О, привет. Внезапное наводнение уничтожило несколько наших солнечных панелей в Погребённом Городе, а генераторы продержатся недолго. Окажи нам всем услугу, когда будешь там, ладно?",
             "zh-CN": "我知道，我知道！那个区域停电了——哦，嘿。一场山洪冲毁了我们在埋没之城的一些太阳能板，而发电机也撑不了多久。你去那儿的时候帮帮我们，好吗？",
             "ja": "わかってる、わかってるよ！セクターの電源が落ちて— あ、やあ。鉄砲水が埋もれた街の太陽光パネルをいくつか壊しちゃってさ、発電機も長くは持たないんだ。そこに行ったら、みんなのために頼むよ？",
@@ -124,7 +127,7 @@
     },
     {
         "id": "ss10x20",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "Armored Transports",
             "de": "Gepanzerte Transporter",
@@ -145,6 +148,9 @@
             "sr": "Oklopni Transporti",
             "hr": "Oklopni Transporti"
         },
+        "map": [
+            "the_blue_gate"
+        ],
         "trader": "Shani",
         "description": {
             "en": "Ever since we expanded the tunnels to the Blue Gate, some rare pieces have started appearing on the black market.\n\nMeanwhile, I'm stuck here peddling battered old Rattlers. If I don't find new supply lines, I'll be left in the dust.",
@@ -284,7 +290,7 @@
             "it": "Una brutta sensazione",
             "uk": "Погане передчуття",
             "kr": "불길한 예감",
-            "ru": "Плохое предчувствие",
+            "ru": "Дурное предчувствие",
             "zh-CN": "不祥的预感",
             "ja": "嫌な予感",
             "tr": "Kötü Bir His",
@@ -294,7 +300,24 @@
         },
         "trader": "Celeste",
         "description": {
-            "de": "Schon die kleinste Änderung am Verhalten der ARC könnte eine Katastrophe bedeuten. Und das Signal, das du gehört hast? Sowas haven wir noch nie aufgefangen. Wenn die irgendwas vorhaben, müssen wir das unbedint herausfinden."
+            "en": "Even the smallest change in the ARC's behavior could mean catastrophe. And that signal you picked up? We've never intercepted anything like it before. If they're planning something, we have to find out what it is.",
+            "de": "Schon die kleinste Änderung am Verhalten der ARC könnte eine Katastrophe bedeuten. Und das Signal, das du gehört hast? Sowas haven wir noch nie aufgefangen. Wenn die irgendwas vorhaben, müssen wir das unbedint herausfinden.",
+            "fr": "Le moindre changement dans le comportement de l'ARC pourrait signifier une catastrophe. Et ce signal que tu as capté ? Nous n'avons jamais intercepté quelque chose comme ça auparavant. S'ils préparent quelque chose, nous devons absolument découvrir de quoi il s'agit.",
+            "es": "Incluso el menor cambio en el comportamiento de ARC podría significar una catástrofe. ¿Y esa señal que captaste? Nunca habíamos interceptado algo así antes. Si están planeando algo, tenemos que averiguar qué es.",
+            "pt": "Até a menor mudança no comportamento da ARC pode significar uma catástrofe. E esse sinal que você captou? Nunca interceptamos algo assim antes. Se eles estão planejando algo, temos que descobrir o que é.",
+            "pl": "Nawet najmniejsza zmiana w zachowaniu ARC może oznaczać katastrofę. A ten sygnał, który przechwyciliście? Nigdy wcześniej nie przechwyciliśmy czegoś takiego. Jeśli coś planują, musimy dowiedzieć się, co to jest.",
+            "no": "Selv den minste endringen i ARCs oppførsel kan bety katastrofe. Og det signalet du fanget opp? Vi har aldri avlyttet noe slikt før. Hvis de planlegger noe, må vi finne ut hva det er.",
+            "da": "Selv den mindste ændring i ARCs adfærd kunne betyde katastrofe. Og det signal du opfangede? Vi har aldrig opfanget noget lignende før. Hvis de planlægger noget, er vi nødt til at finde ud af, hvad det er.",
+            "it": "Anche il più piccolo cambiamento nel comportamento dell'ARC potrebbe significare una catastrofe. E quel segnale che hai captato? Non abbiamo mai intercettato nulla del genere prima. Se stanno pianificando qualcosa, dobbiamo scoprire cosa sia.",
+            "uk": "Навіть найменша зміна в поведінці ARC може означати катастрофу. А той сигнал, який ти перехопив? Ми ніколи раніше не перехоплювали нічого подібного. Якщо вони щось планують, ми повинні з'ясувати, що саме.",
+            "kr": "ARC의 행동에 조금만 변화가 생겨도 재앙을 의미할 수 있어. 그리고 네가 포착한 그 신호는? 우리는 이런 걸 전에 차단한 적이 없어. 만약 그들이 뭔가 계획하고 있다면, 우리는 그게 뭔지 알아내야 해.",
+            "ru": "Даже малейшее изменение в поведении ARC может означать катастрофу. А тот сигнал, который ты перехватил? Мы никогда раньше не перехватывали ничего подобного. Если они что-то замышляют, мы должны выяснить, что именно.",
+            "zh-CN": "ARC行为上哪怕最微小的变化都可能意味着灾难。而你截获的那个信号？我们以前从未截获过这样的东西。如果他们在策划什么，我们必须查明是什么。",
+            "ja": "ARCの行動にわずかな変化があっても、大惨事を意味する可能性がある。そして、君が拾ったあの信号は？あんなものは今まで傍受したことがない。もし奴らが何か企んでいるなら、それが何なのか突き止めなければならない。",
+            "tr": "ARC'nin davranışındaki en küçük değişiklik bile felakete yol açabilir. Peki ya yakaladığın o sinyal? Daha önce böyle bir şeyi hiç ele geçirmedik. Eğer bir şey planlıyorlarsa, bunun ne olduğunu öğrenmemiz gerek.",
+            "zh-TW": "ARC行為上哪怕最微小的變化都可能意味著災難。而你截獲的那個信號？我們以前從未截獲過這樣的東西。如果他們在策劃什麼，我們必須查明是什麼。",
+            "sr": "Čak i najmanja promena u ponašanju ARC-a može da znači katastrofu. A onaj signal koji si uhvatio? Nikada ranije nismo presreli nešto slično. Ako nešto planiraju, moramo da saznamo šta je to.",
+            "hr": "Čak i najmanja promjena u ponašanju ARC-a može značiti katastrofu. A onaj signal koji si uhvatio? Nikada prije nismo presreli nešto slično. Ako nešto planiraju, moramo saznati što je to."
         },
         "objectives": [
             {
@@ -309,7 +332,7 @@
                 "it": "Trova e perquisisci qualsiasi sonda ARC o corriere ARC",
                 "uk": "Знайдіть і обшукайте будь-який зонд ARC або кур'єра ARC",
                 "kr": "ARC 탐사선 또는 ARC 수송선 찾아서 수색",
-                "ru": "Найдите и обыщите любой зонд ARC или курьера ARC",
+                "ru": "Найдите и обыщите любой зонд ARC или доставщик ARC",
                 "zh-CN": "寻找并搜索任意ARC探测器或ARC运输船",
                 "ja": "ARC探査機、ARC配達機、残骸を探して見つける",
                 "tr": "Herhangi bir ARC Sondası veya ARC Kuryesi bul ve ara",
@@ -478,7 +501,7 @@
         "name": {
             "en": "A Better Use",
             "de": "Eine bessere Verwendung",
-            "fr": "Une meilleure utilisation",
+            "fr": "Un meilleur usage",
             "es": "Un mejor uso",
             "pt": "Um uso melhor",
             "pl": "Lepsze zastosowanie",
@@ -487,7 +510,7 @@
             "it": "Un uso migliore",
             "uk": "Краще застосування",
             "kr": "더 나은 용도",
-            "ru": "Лучшее применение",
+            "ru": "Применение получше",
             "zh-CN": "更好的用途",
             "ja": "より良い使い道",
             "tr": "Daha İyi Bir Kullanım",
@@ -529,7 +552,7 @@
                 "it": "Richiedi un lancio di rifornimenti da una stazione di chiamata",
                 "uk": "Замовте скидання припасів на станції виклику",
                 "kr": "호출 스테이션에서 보급 투하 요청하기",
-                "ru": "Запросите сброс припасов на станции вызова",
+                "ru": "Запросите ящик с припасами через станцию вызова",
                 "zh-CN": "在呼叫站请求补给空投",
                 "ja": "コールステーションで物資投下を申請する",
                 "tr": "Bir Çağrı İstasyonundan İkmal Paketi talep et",
@@ -549,7 +572,7 @@
                 "it": "Saccheggia un lancio di rifornimenti",
                 "uk": "Заберіть вміст скинутих припасів",
                 "kr": "보급 투하 상자 약탈하기",
-                "ru": "Заберите содержимое сброшенных припасов",
+                "ru": "Возьмите добычу из ящика с припасами",
                 "zh-CN": "掠夺补给空投",
                 "ja": "投下物資を漁る",
                 "tr": "Bir İkmal Paketini yağmala",
@@ -582,12 +605,12 @@
     },
     {
         "id": "ss11",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "A First Foothold",
             "de": "Der erste Schritt",
             "fr": "Premier point d'appui",
-            "es": "Un primer punto de apoyo",
+            "es": "Afianzando la presencia",
             "pt": "Um primeiro ponto de apoio",
             "pl": "Pierwsza przyczółek",
             "no": "Et første fotfeste",
@@ -603,6 +626,9 @@
             "sr": "Prvo Uporište",
             "hr": "Prvo Uporište"
         },
+        "map": [
+            "the_blue_gate"
+        ],
         "trader": "Shani",
         "description": {
             "en": "We've only just finished expanding the Tube network towards the Blue Gate, and we're still laboring away at the rest. My crew's been building new infrastructure around the valley to safeguard our Raiders, but the constant ARC threat has made it difficult to get anything done.",
@@ -615,7 +641,7 @@
             "da": "Vi er lige blevet færdige med at udvide Tube-netværket mod den Blå Port, og vi arbejder stadig på resten. Mit mandskab har bygget ny infrastruktur rundt om dalen for at beskytte vores Raiders, men den konstante ARC-trussel har gjort det svært at få noget gjort.",
             "it": "Abbiamo appena finito di espandere la rete dei Tubi verso il Cancello Blu, e stiamo ancora lavorando al resto. Il mio equipaggio ha costruito nuove infrastrutture intorno alla valle per proteggere i nostri Raiders, ma la costante minaccia dell'ARC ha reso difficile portare a termine qualsiasi cosa.",
             "uk": "Ми щойно закінчили розширення мережі тунелів до Блакитних Воріт, і все ще працюємо над рештою. Моя команда будує нову інфраструктуру по всій долині, щоб захистити наших Рейдерів, але постійна загроза ARC ускладнює виконання будь-якої роботи.",
-            "kr": "블루 게이트로 가는 튜브 네트워크 확장을 막 끝냈고, 나머지 작업은 아직 진행 중입니다. 우리 팀은 레이더들을 보호하기 위해 계곡 주변에 새로운 인프라를 건설하고 있지만, 끊임없는 ARC의 위협 때문에 일을 진행하기가 어렵습니다.",
+            "kr": "블루 게이트로 가는 튜브 네트워크 확장을 막 끝냈고, 나머지 작업은 아직 진행 중입니다. 우리 팀은 레이더들을 보호하기 위해 계곡 주변에 새로운 인프라를 건설하고 있지만, 끊임없는 아크의 위협 때문에 일을 진행하기가 어렵습니다.",
             "ru": "Мы только что закончили расширение сети туннелей к Синим Воротам, и всё ещё работаем над остальным. Моя команда строит новую инфраструктуру по всей долине, чтобы защитить наших Рейдеров, но постоянная угроза ARC затрудняет выполнение любой работы.",
             "zh-CN": "我们刚刚完成了通往蓝门的管道网络扩建，其余部分还在施工中。我的团队一直在山谷周围建设新的基础设施来保护我们的掠夺者，但ARC持续的威胁让我们难以完成任何工作。",
             "ja": "ブルーゲートへのチューブネットワークの拡張をようやく終えたばかりで、残りの作業はまだ続いている。私のチームは谷の周辺に新しいインフラを建設してレイダーたちを守ろうとしているが、ARCの絶え間ない脅威のせいで作業が進まない。",
@@ -637,7 +663,7 @@
                 "it": "Stabilizza la piattaforma di osservazione vicino al crinale",
                 "uk": "Стабілізувати оглядовий майданчик біля Гірського хребта",
                 "kr": "능선 근처의 전망대 안정화하기",
-                "ru": "Стабилизировать смотровую площадку возле Горного хребта",
+                "ru": "Стабилизируйте смотровую площадку у хребтов",
                 "zh-CN": "稳固山脊线附近的观察台",
                 "ja": "尾根の近くの展望台を安定化させる",
                 "tr": "Sırt Hattı yakınındaki gözlem güvertesini sabitle",
@@ -657,7 +683,7 @@
                 "it": "Attiva il terminale di comunicazione vicino all'uliveto",
                 "uk": "Увімкнути комунікаційний термінал біля Оливкової гаї",
                 "kr": "올리브 숲 근처의 통신 터미널 활성화하기",
-                "ru": "Включить коммуникационный терминал возле Оливковой рощи",
+                "ru": "Включите терминал связи у оливковой рощи",
                 "zh-CN": "启用橄榄林附近的通讯终端",
                 "ja": "オリーブ畑の近くの通信端末を使用可能にする",
                 "tr": "Zeytin Korusu yakınındaki iletişim terminalini etkinleştir",
@@ -677,7 +703,7 @@
                 "it": "Ruota le parabole satellitari sul tetto della chiesa, a nord del caveau dati",
                 "uk": "Повернути супутникові антени на даху церкви на північ від Сховища даних",
                 "kr": "데이터 금고 북쪽 교회 지붕의 위성 접시 회전시키기",
-                "ru": "Повернуть спутниковые антенны на крыше церкви к северу от Хранилища данных",
+                "ru": "Поверните спутниковые тарелки на крыше церкви к северу от хранилища данных",
                 "zh-CN": "旋转数据库北侧教堂屋顶上的卫星天线",
                 "ja": "データ保管室の北にある教会の屋根で衛星アンテナを回転させる",
                 "tr": "Veri Kasası'nın kuzeyindeki kilise çatısındaki uydu çanaklarını döndür",
@@ -697,7 +723,7 @@
                 "it": "Inchioda le lastre del tetto sulla struttura Raider vicino alla radura del cacciatore",
                 "uk": "Прибити дахові пластини на споруді Рейдерів біля Пастки мисливця",
                 "kr": "트래퍼스 글레이드 근처 레이더 구조물의 지붕 판 고정하기",
-                "ru": "Прибить кровельные пластины на строении Рейдеров возле Поляны охотника",
+                "ru": "Закрепите крышу постройки рейдеров в прогалине зверолова",
                 "zh-CN": "钉牢捕猎者林地附近掠夺者建筑的屋顶板",
                 "ja": "罠猟師の空地の近くにあるレイダーの住居に屋根板を釘付けする",
                 "tr": "Tuzakçı Açıklığı yakınındaki Akıncı yapısının çatı levhalarını çivile",
@@ -737,12 +763,12 @@
     },
     {
         "id": "ss10k",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "A Lay of the Land",
             "de": "Eine Lagebeschreibung",
             "fr": "Un aperçu du terrain",
-            "es": "Un reconocimiento del terreno",
+            "es": "Reconociendo el terreno",
             "pt": "Um reconhecimento do terreno",
             "pl": "Rozpoznanie terenu",
             "no": "Et overblikk over terrenget",
@@ -750,7 +776,7 @@
             "it": "Una ricognizione del territorio",
             "uk": "Огляд місцевості",
             "kr": "지형 파악",
-            "ru": "Изучение местности",
+            "ru": "Рельеф местности",
             "zh-CN": "地形勘察",
             "ja": "地勢の把握",
             "tr": "Arazinin Keşfi",
@@ -758,6 +784,9 @@
             "sr": "Pregled terena",
             "hr": "Pregled terena"
         },
+        "map": [
+            "the_spaceport"
+        ],
         "trader": "Shani",
         "videoUrl": "https://youtu.be/pWXjplDChHc",
         "description": {
@@ -793,7 +822,7 @@
                 "it": "Raggiungi il magazzino di Jiangsu",
                 "uk": "Дістаньтеся до складу Цзянсу",
                 "kr": "Jiangsu 창고에 도착",
-                "ru": "Доберитесь до склада Цзянсу",
+                "ru": "Доберитесь до склада Jiangsu",
                 "zh-CN": "抵达江苏仓库",
                 "ja": "江蘇省倉庫に向かう",
                 "tr": "Jiangsu Deposu'na ulaş",
@@ -990,12 +1019,12 @@
     },
     {
         "id": "ss10g",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "A Reveal in Ruins",
             "de": "Eine Enthüllung in Trümmern",
             "fr": "Ruines révélatrices",
-            "es": "Una revelación en ruinas",
+            "es": "Descubrimiento en ruinas",
             "pt": "Uma revelação nas ruínas",
             "pl": "Odkrycie w ruinach",
             "no": "En avsløring i ruiner",
@@ -1003,7 +1032,7 @@
             "it": "Una rivelazione tra le rovine",
             "uk": "Розкриття серед руїн",
             "kr": "폐허 속 공개",
-            "ru": "Раскрытие в руинах",
+            "ru": "Что скрывают развалины",
             "zh-CN": "废墟中的揭秘",
             "ja": "早計な発表",
             "tr": "Harabelerde Açığa Çıkan",
@@ -1011,6 +1040,9 @@
             "sr": "Otkrivanje u ruševinama",
             "hr": "Otkrivanje u ruševinama"
         },
+        "map": [
+            "buried_city"
+        ],
         "trader": "Lance",
         "description": {
             "en": "I got my hands on a fancy new ESR analyzer; had a whole big reveal planned. One minute it's here, next minute—poof. Please help?",
@@ -1044,7 +1076,7 @@
                 "da": "Søg efter en ESR-analysator inde i et apotek i den begravede by",
                 "it": "Cerca un analizzatore ESR all'interno di qualsiasi farmacia nella città sepolta",
                 "uk": "Знайдіть ESR аналізатор у будь-якій аптеці в Похованому місті",
-                "kr": "매장된 도시의 약국에서 ESR 분석기 찾기",
+                "kr": "파묻힌 도시의 약국에서 ESR 분석기 찾기",
                 "ru": "Найдите ESR анализатор в любой аптеке Погребённого города",
                 "zh-CN": "在埋没之城的任意药店中搜寻ESR分析仪",
                 "ja": "埋もれた街の薬局でESR分析装置を調査した",
@@ -1065,7 +1097,7 @@
                 "it": "Consegna l'analizzatore ESR a Lance",
                 "uk": "Доставте ESR аналізатор Ленсу",
                 "kr": "ESR 분석기를 Lance에게 전달",
-                "ru": "Доставьте ESR анализатор Лэнсу",
+                "ru": "Доставьте Лэнсу анализатор СОЭ",
                 "zh-CN": "将ESR分析仪交给Lance",
                 "ja": "ランスにESR分析装置を届ける",
                 "tr": "ESR Analizörünü Lance'e teslim et",
@@ -1094,11 +1126,11 @@
     },
     {
         "id": "ss10r",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "A Symbol of Unification",
             "de": "Ein Symbol der Einheit",
-            "fr": "Un symbole d'unification",
+            "fr": "Un symbole d'union",
             "es": "Un símbolo de unificación",
             "pt": "Um símbolo de unificação",
             "pl": "Symbol zjednoczenia",
@@ -1115,6 +1147,9 @@
             "sr": "Simbol ujedinjenja",
             "hr": "Simbol ujedinjenja"
         },
+        "map": [
+            "dam_battlegrounds"
+        ],
         "trader": "Celeste",
         "description": {
             "en": "Y'know, back in the day we actually used to have a flag - well, a scrap of cloth more than anything. Still, seeing it meant you knew you had allies nearby, that you were on your own home turf. So, I was thinking...",
@@ -1225,11 +1260,11 @@
     },
     {
         "id": "ss10x8",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "A Warm Place to Rest",
             "de": "Ein warmer Ort zum Ausruhen",
-            "fr": "Un endroit chaud pour se reposer",
+            "fr": "Un nid douillet",
             "es": "Un lugar cálido para descansar",
             "pt": "Um Lugar Quente para Descansar",
             "pl": "Ciepłe miejsce na odpoczynek",
@@ -1246,6 +1281,9 @@
             "sr": "Toplo mesto za odmor",
             "hr": "Toplo mjesto za odmor"
         },
+        "map": [
+            "buried_city"
+        ],
         "trader": "Apollo",
         "description": {
             "en": "A customer of mine saw a family taking cover in an old encampment in Buried City. I'll pay anyone who manages to find them and escort them back to safety.",
@@ -1258,7 +1296,7 @@
             "da": "En kunde af mig så en familie søge ly i en gammel lejr i den begravede by. Jeg betaler enhver, der formår at finde dem og eskortere dem tilbage til sikkerhed.",
             "it": "Un mio cliente ha visto una famiglia rifugiarsi in un vecchio accampamento nella Città Sepolta. Pagherò chiunque riesca a trovarli e a scortarli in un luogo sicuro.",
             "uk": "Мій клієнт бачив сім'ю, що сховалася у старому таборі в Похованому Місті. Я заплачу кожному, хто зможе знайти їх і супроводити до безпечного місця.",
-            "kr": "내 고객이 매장된 도시의 오래된 야영지에서 피신 중인 가족을 목격했습니다. 그들을 찾아서 안전한 곳으로 호위해주는 사람에게 보상하겠습니다.",
+            "kr": "내 고객이 파묻힌 도시의 오래된 야영지에서 피신 중인 가족을 목격했습니다. 그들을 찾아서 안전한 곳으로 호위해주는 사람에게 보상하겠습니다.",
             "ru": "Мой клиент видел семью, укрывшуюся в старом лагере в Погребённом Городе. Я заплачу любому, кто сумеет найти их и сопроводить в безопасное место.",
             "zh-CN": "我的一位客户看到一家人在埋没之城的旧营地避难。我会付钱给任何能找到他们并护送他们安全返回的人。",
             "ja": "私の顧客が、埋もれた街の古い野営地に避難している家族を見かけました。彼らを見つけて安全な場所まで護衛してくれた人には報酬を支払います。",
@@ -1382,7 +1420,7 @@
             "en": "Back on Top",
             "de": "Wieder an der Spitze",
             "fr": "Retour au sommet",
-            "es": "De vuelta a la cima",
+            "es": "Recuperando la ventaja",
             "pt": "De volta ao topo",
             "pl": "Z powrotem na szczycie",
             "no": "Tilbake på toppen",
@@ -1398,6 +1436,12 @@
             "sr": "Ponovo na Vrhu",
             "hr": "Ponovno na Vrhu"
         },
+        "map": [
+            "the_blue_gate",
+            "dam_battlegrounds",
+            "buried_city",
+            "the_spaceport"
+        ],
         "trader": "Tian Wen",
         "description": {
             "en": "Guess what? Shani asked me to help out with something, and for once, I'm actually glad she did. We're setting up new outposts topside! Or, planning to, at least. Can you believe it?",
@@ -1471,7 +1515,7 @@
                 "da": "På Spaceport, markér Syd-Skyttegravstårnet",
                 "it": "Su Spaceport, segna la Torre della Trincea Sud",
                 "uk": "На Космопорту позначити Південну траншейну вежу",
-                "kr": "우주기지에서 남부 참호 타워 표시",
+                "kr": "우주기지에서 남부 도랑 탑 표시",
                 "ru": "На Космопорту отметить Южную траншейную башню",
                 "zh-CN": "在太空港标记南部战壕塔",
                 "ja": "宇宙港で南トレンチタワーの場所をマークする",
@@ -1491,7 +1535,7 @@
                 "da": "På Buried City, markér bygningen med vægmaleriet i Buried Properties",
                 "it": "Su Buried City, segna l'edificio con il murale nelle Proprietà Sepolte",
                 "uk": "У Похованому місті позначити будівлю з муралом у Похованих володіннях",
-                "kr": "매장된 도시에서 매장된 구역의 벽화가 있는 건물 표시",
+                "kr": "파묻힌 도시에서 매장된 구역의 벽화가 있는 건물 표시",
                 "ru": "В Погребённом городе отметить здание с фреской в Погребённых владениях",
                 "zh-CN": "在埋葬之城标记埋葬区域中有壁画的建筑",
                 "ja": "埋もれた街の埋もれた物件で壁画のある建物の場所をマークする",
@@ -1526,7 +1570,7 @@
     },
     {
         "id": "ss10x12",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "Bees!",
             "de": "Bienen!",
@@ -1547,6 +1591,9 @@
             "sr": "Pčele!",
             "hr": "Pčele!"
         },
+        "map": [
+            "the_blue_gate"
+        ],
         "trader": "Celeste",
         "description": {
             "en": "Bees! There are bees still around! While I'm no expert, our greenhouse crew desperately wants some.",
@@ -1641,7 +1688,7 @@
             "en": "Broken Monument",
             "de": "Zerstörtes Monument",
             "fr": "Monument brisé",
-            "es": "Monumento roto",
+            "es": "Monumento destrozado",
             "pt": "Monumento quebrado",
             "pl": "Zrujnowany pomnik",
             "no": "Ødelagt monument",
@@ -1649,7 +1696,7 @@
             "it": "Monumento infranto",
             "uk": "Зруйнований монумент",
             "kr": "부서진 기념비",
-            "ru": "Разрушенный монумент",
+            "ru": "Поврежденный памятник",
             "zh-CN": "破碎的纪念碑",
             "ja": "壊れた記念碑",
             "tr": "Kırık Anıt",
@@ -1691,7 +1738,7 @@
                 "it": "Raggiungi il terreno sacro presso il deposito di rottami",
                 "uk": "Дістатися священної землі біля Звалища брухту",
                 "kr": "고철 야적장 옆 성스러운 땅에 도달",
-                "ru": "Достичь священной земли у Свалки металлолома",
+                "ru": "Доберитесь до памятного места рядом со свалкой металлолома",
                 "zh-CN": "到达废料场旁的神圣之地",
                 "ja": "廃品置き場の近くにある神聖な地に向かう",
                 "tr": "Hurda Sahası'nın yanındaki kutsal alana ulaş",
@@ -1711,7 +1758,7 @@
                 "it": "Cerca una bussola vicino ai veicoli in panne",
                 "uk": "Шукати компас біля зламаних транспортних засобів",
                 "kr": "고장난 차량 근처에서 나침반 수색",
-                "ru": "Искать компас возле сломанных транспортных средств",
+                "ru": "Найдите компас среди сломанных автомобилей",
                 "zh-CN": "在损坏的车辆附近搜索指南针",
                 "ja": "壊れた車両の近くでコンパスを探す",
                 "tr": "Bozuk araçların yakınında bir pusula ara",
@@ -1731,7 +1778,7 @@
                 "it": "Cerca la videocassetta vicino ai container cilindrici",
                 "uk": "Шукати відеокасету біля циліндричних контейнерів",
                 "kr": "원통형 컨테이너 근처에서 비디오 테이프 수색",
-                "ru": "Искать видеокассету возле цилиндрических контейнеров",
+                "ru": "Поищите видеокассету рядом с контейнерами цилиндрической формы",
                 "zh-CN": "在圆柱形集装箱附近搜索录像带",
                 "ja": "円筒型のコンテナの近くでビデオテープを探す",
                 "tr": "Silindirik konteynerlerin yakınında video kaseti ara",
@@ -1751,7 +1798,7 @@
                 "it": "Cerca le vecchie razioni da campo nell'accampamento Raider",
                 "uk": "Шукати старі польові пайки в таборі Рейдерів",
                 "kr": "레이더 캠프에서 오래된 야전 식량 수색",
-                "ru": "Искать старые полевые пайки в лагере Рейдеров",
+                "ru": "Обыскать старые полевые рационы в лагере рейдеров",
                 "zh-CN": "在掠夺者营地搜索旧野战口粮",
                 "ja": "レイダーの野営地で古い野戦食を探す",
                 "tr": "Raider kampında eski saha rasyonlarını ara",
@@ -1859,7 +1906,7 @@
     },
     {
         "id": "ss10x18",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "Building a Library",
             "de": "Eine Bibliothek aufbauen",
@@ -1880,6 +1927,9 @@
             "sr": "Izgradnja biblioteke",
             "hr": "Izgradnja knjižnice"
         },
+        "map": [
+            "buried_city"
+        ],
         "trader": "Apollo",
         "description": {
             "en": "Our library selection has grown pretty stale. Could you head out to Buried City, and find something more for us to read? Make sure you bring something for everyone.",
@@ -1892,7 +1942,7 @@
             "da": "Vores biblioteksudvalg er blevet ret forældet. Kunne du tage til den Begravede By og finde noget mere til os at læse? Sørg for at du tager noget med til alle.",
             "it": "La nostra selezione di biblioteca è diventata piuttosto stantia. Potresti andare alla Città Sepolta e trovare qualcosa in più da leggere per noi? Assicurati di portare qualcosa per tutti.",
             "uk": "Наша бібліотечна колекція стала досить застарілою. Не могли б ви відправитися до Похованого Міста і знайти щось нове для читання? Переконайтеся, що принесете щось для кожного.",
-            "kr": "우리 도서관 장서가 꽤 진부해졌어. 매장된 도시로 가서 읽을 만한 걸 더 찾아줄래? 모두를 위한 책을 가져오도록 해.",
+            "kr": "우리 도서관 장서가 꽤 진부해졌어. 파묻힌 도시로 가서 읽을 만한 걸 더 찾아줄래? 모두를 위한 책을 가져오도록 해.",
             "ru": "Наша библиотечная коллекция изрядно устарела. Не могли бы вы отправиться в Погребённый Город и найти что-нибудь новое для чтения? Убедитесь, что принесёте что-то для каждого.",
             "zh-CN": "我们图书馆的藏书已经相当陈旧了。你能去埋藏之城找些新书给我们读吗？确保给每个人都带点东西。",
             "ja": "図書館の蔵書がかなり古くなってしまった。埋もれた都市に行って、読むものを探してきてくれないか？みんなのために何か持ってきてくれ。",
@@ -2165,8 +2215,8 @@
         "name": {
             "en": "Clearer Skies",
             "de": "Klarer Himmel",
-            "fr": "Cieux plus clairs",
-            "es": "Cielos más despejados",
+            "fr": "Ciel dégagé",
+            "es": "Cielos despejados",
             "pt": "Céus mais claros",
             "pl": "Jaśniejsze niebo",
             "no": "Klarere himmel",
@@ -2174,7 +2224,7 @@
             "it": "Cieli più sereni",
             "uk": "Ясніші небеса",
             "kr": "맑아진 하늘",
-            "ru": "Ясное небо",
+            "ru": "Чистое небо",
             "zh-CN": "晴朗天空",
             "ja": "晴れ渡る空",
             "tr": "Daha Açık Gökyüzü",
@@ -2195,7 +2245,7 @@
                 "da": "Ødelæg 3 ARC-fjender",
                 "it": "Distruggi 3 nemici ARC",
                 "uk": "Знищте 3 ворогів ARC",
-                "kr": "ARC 적 3명을 처치하세요",
+                "kr": "아크 적 3명을 처치하세요",
                 "ru": "Уничтожьте 3 врагов ARC",
                 "zh-CN": "消灭3个ARC敌人",
                 "ja": "ARCの敵を3体倒す",
@@ -2215,7 +2265,7 @@
                 "da": "Skaff 3 ARC-legeringer til Shani",
                 "it": "Ottieni 3 leghe ARC per Shani",
                 "uk": "Отримайте 3 сплави ARC для Шані",
-                "kr": "샤니를 위해 ARC 합금 3개를 구하세요",
+                "kr": "샤니를 위해 아크 합금 3개를 구하세요",
                 "ru": "Добудьте 3 сплава ARC для Шани",
                 "zh-CN": "为莎妮获取3个ARC合金",
                 "ja": "シャニのためにARC合金を3つ入手する",
@@ -2255,7 +2305,7 @@
     },
     {
         "id": "12_cold_storage",
-        "updatedAt": "11/20/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "Cold Storage",
             "de": "Tiefkühllagerung",
@@ -2276,6 +2326,9 @@
             "sr": "Hladnjača",
             "hr": "Hladnjača"
         },
+        "map": [
+            "stella_montis"
+        ],
         "trader": "Celeste",
         "videoUrl": "https://youtu.be/tc7nK7AmixQ",
         "description": {
@@ -2361,7 +2414,7 @@
     },
     {
         "id": "ss11b2",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "Communication Hideout",
             "de": "Kommunikationsversteck",
@@ -2382,7 +2435,9 @@
             "sr": "Komunikaciono skrovište",
             "hr": "Komunikacijsko skrovište"
         },
-        "map": "buried_city",
+        "map": [
+            "buried_city"
+        ],
         "trader": "Shani",
         "description": {
             "en": "We've been losing signals in some areas of Buried City—my guess is that our equipment is acting up. You're quite skilled with repairs, aren't you? Could you check it out?",
@@ -2395,7 +2450,7 @@
             "da": "Vi har mistet signaler i nogle områder af Buried City — jeg gætter på, at vores udstyr driller. Du er ret dygtig til reparationer, ikke? Kunne du tjekke det?",
             "it": "Stiamo perdendo segnali in alcune aree della Città Sepolta—immagino che la nostra attrezzatura stia dando problemi. Sei piuttosto abile con le riparazioni, vero? Potresti dare un'occhiata?",
             "uk": "Ми втрачаємо сигнали в деяких районах Похованого міста — гадаю, наше обладнання збоїть. Ти ж добре розбираєшся в ремонті, чи не так? Не міг би перевірити?",
-            "kr": "매장된 도시의 일부 지역에서 신호가 끊기고 있어요—우리 장비가 오작동하는 것 같습니다. 수리에 꽤 능숙하시죠? 확인해 주실 수 있나요?",
+            "kr": "파묻힌 도시의 일부 지역에서 신호가 끊기고 있어요—우리 장비가 오작동하는 것 같습니다. 수리에 꽤 능숙하시죠? 확인해 주실 수 있나요?",
             "ru": "Мы теряем сигналы в некоторых районах Погребённого города — думаю, наше оборудование барахлит. Ты ведь хорошо разбираешься в ремонте, верно? Не мог бы проверить?",
             "zh-CN": "我们在埋葬之城的某些区域失去了信号——我猜是我们的设备出了问题。你很擅长维修，对吧？能去检查一下吗？",
             "ja": "埋もれた街のいくつかのエリアで信号が途切れている——おそらく機器の調子が悪いんだ。君は修理が得意だろう？確認してくれないか？",
@@ -2532,7 +2587,7 @@
     },
     {
         "id": "ss10x16",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "Digging Up Dirt",
             "de": "Schmutz ausgraben",
@@ -2553,6 +2608,9 @@
             "sr": "Iskopavanje prljavštine",
             "hr": "Iskopavanje prljavštine"
         },
+        "map": [
+            "buried_city"
+        ],
         "trader": "Celeste",
         "description": {
             "en": "We caught a break. One of our scouts saw a member of the Tubes Management make a dead drop inside the Santa Maria Houses in the Buried City. This might be our chance to dig up some dirt on them for a change. You in?",
@@ -2565,7 +2623,7 @@
             "da": "Vi fik et gennembrud. En af vores spejdere så et medlem af Tubes Management lave en død aflevering inde i Santa Maria-husene i den Begravede By. Dette kan være vores chance for at grave snavs op på dem for en gangs skyld. Er du med?",
             "it": "Abbiamo avuto una svolta. Uno dei nostri esploratori ha visto un membro del Tubes Management fare una consegna morta nelle Case Santa Maria nella Città Sepolta. Questa potrebbe essere la nostra occasione per scavare dello sporco su di loro per una volta. Ci stai?",
             "uk": "Нам пощастило. Один з наших розвідників бачив, як член управління труб зробив тайник у будинках Санта-Марія в Похованому місті. Це може бути нашим шансом нарешті викопати на них компромат. Ви з нами?",
-            "kr": "기회가 왔어요. 우리 정찰병 중 한 명이 튜브 관리국 일원이 매장된 도시의 산타 마리아 하우스에서 비밀 전달을 하는 걸 봤어요. 이번에는 우리가 그들의 비밀을 파헤칠 기회일지도 몰라요. 함께 하시겠어요?",
+            "kr": "기회가 왔어요. 우리 정찰병 중 한 명이 튜브 관리국 일원이 파묻힌 도시의 산타 마리아 하우스에서 비밀 전달을 하는 걸 봤어요. 이번에는 우리가 그들의 비밀을 파헤칠 기회일지도 몰라요. 함께 하시겠어요?",
             "ru": "Нам повезло. Один из наших разведчиков видел, как член управления труб сделал тайник в домах Санта-Мария в Погребённом городе. Это может быть нашим шансом наконец накопать на них компромат. Вы с нами?",
             "zh-CN": "我们有突破了。我们的一名侦察员看到管道管理局的一名成员在埋藏之城的圣玛丽亚住宅区进行了死信箱交接。这可能是我们挖掘他们黑料的机会。你要参与吗？",
             "ja": "チャンスが来た。我々の斥候の一人が、チューブ管理局のメンバーが埋もれた街のサンタ・マリア・ハウスでデッドドロップをするのを見た。これは彼らの秘密を暴く絶好の機会かもしれない。参加するか？",
@@ -2642,7 +2700,7 @@
             "en": "Doctor's Orders",
             "de": "Ärztliche Anweisung",
             "fr": "Consignes du docteur",
-            "es": "Órdenes del doctor",
+            "es": "Receta del doctor",
             "pt": "Ordens do doutor",
             "pl": "Rozkazy doktora",
             "no": "Doktorens ordre",
@@ -2650,7 +2708,7 @@
             "it": "Ordini del dottore",
             "uk": "Наказ лікаря",
             "kr": "의사의 명령",
-            "ru": "Приказ доктора",
+            "ru": "Указания врача",
             "zh-CN": "医生的命令",
             "ja": "ドクターの言いつけ",
             "tr": "Doktorun Emirleri",
@@ -2691,7 +2749,7 @@
                 "da": "Få 2 antiseptisk middel",
                 "it": "Ottieni 2 antisettici",
                 "uk": "Отримати 2 Антисептика",
-                "kr": "소독제 2개 획득",
+                "kr": "소독약 2개 획득",
                 "ru": "Получить 2 Антисептика",
                 "zh-CN": "获得2个消毒剂",
                 "ja": "注射器を1個手に入れる",
@@ -2712,7 +2770,7 @@
                 "it": "Ottieni 1 siringa",
                 "uk": "Отримати 1 Шприц",
                 "kr": "주사기 1개 획득",
-                "ru": "Получить 1 Шприц",
+                "ru": "Добудьте 1 шприц",
                 "zh-CN": "获得1个注射器",
                 "ja": "消毒液を2個手に入れる",
                 "tr": "1 Şırınga edin",
@@ -2731,7 +2789,7 @@
                 "da": "Få 1 holdbart stof",
                 "it": "Ottieni 1 tessuto resistente",
                 "uk": "Отримати 1 Міцну тканину",
-                "kr": "내구성 천 1개 획득",
+                "kr": "질긴 천 1개 획득",
                 "ru": "Получить 1 Прочную ткань",
                 "zh-CN": "获得1个耐用布料",
                 "ja": "ビロードモウズイカを1個入手する",
@@ -2751,7 +2809,7 @@
                 "da": "Få 1 kongelys",
                 "it": "Ottieni 1 verbasco",
                 "uk": "Отримати 1 Коров'як",
-                "kr": "큰 뮬레인 1개 획득",
+                "kr": "우단담배풀 1개 획득",
                 "ru": "Получить 1 Коровяк",
                 "zh-CN": "获得1个毛蕊花",
                 "ja": "丈夫な服を1個手に入れる",
@@ -2807,8 +2865,8 @@
         "name": {
             "en": "Dormant Barons",
             "de": "Schlafende Barone",
-            "fr": "Barons dormants",
-            "es": "Barones inactivos",
+            "fr": "Barons latents",
+            "es": "Barones durmientes",
             "pt": "Barões adormecidos",
             "pl": "Uśpieni Baronowie",
             "no": "Sovende baroner",
@@ -2816,7 +2874,7 @@
             "it": "Baroni dormienti",
             "uk": "Сплячі барони",
             "kr": "휴면 중인 바론들",
-            "ru": "Спящие бароны",
+            "ru": "Спящие «бароны»",
             "zh-CN": "休眠男爵",
             "ja": "休眠中のバロン",
             "tr": "Uykudaki Baronlar",
@@ -2836,7 +2894,7 @@
             "da": "Under den første bølge gjorde baronerne mere skade end alle de andre maskiner tilsammen. Nu er de blot tomme skrog; fastgjort på stedet, hvor de engang faldt... Alligevel kan deres indre dele indeholde svaret på at holde ARC i skak. Så åbn en op, og bring mig hvad der er indeni.",
             "it": "Durante la Prima Ondata, i Baroni hanno fatto più danni di tutte le altre macchine messe insieme. Ora sono solo gusci vuoti; fissati nel punto in cui sono caduti... Tuttavia, i loro componenti interni potrebbero contenere la risposta per tenere ARC a bada. Quindi aprine uno e portami qualunque cosa ci sia dentro.",
             "uk": "Під час Першої хвилі барони завдали більше шкоди, ніж усі інші машини разом узяті. Тепер вони лише порожні оболонки, закріплені там, де колись впали... Проте їхні внутрішні компоненти можуть містити відповідь на те, як тримати ARC на відстані. Тож розкрийте одного з них і принесіть мені все, що всередині.",
-            "kr": "첫 번째 웨이브 동안, 바론들은 다른 모든 기계들을 합친 것보다 더 많은 피해를 입혔어. 이제 그들은 단지 껍데기일 뿐이지. 한때 쓰러진 그 자리에 고정되어 있어... 그래도 그들의 내부에는 ARC를 막을 수 있는 답이 있을지도 몰라. 그러니 하나를 열어서 안에 있는 것을 가져와 줘.",
+            "kr": "첫 번째 웨이브 동안, 바론들은 다른 모든 기계들을 합친 것보다 더 많은 피해를 입혔어. 이제 그들은 단지 껍데기일 뿐이지. 한때 쓰러진 그 자리에 고정되어 있어... 그래도 그들의 내부에는 아크를 막을 수 있는 답이 있을지도 몰라. 그러니 하나를 열어서 안에 있는 것을 가져와 줘.",
             "ru": "Во время Первой волны бароны нанесли больше урона, чем все остальные машины вместе взятые. Теперь они всего лишь пустые оболочки, застывшие там, где когда-то пали... Тем не менее, их внутренности могут содержать ответ на то, как держать ARC в страхе. Так что вскрой одного из них и принеси мне всё, что внутри.",
             "zh-CN": "在第一波攻势期间，男爵造成的破坏比所有其他机器加起来还要多。现在它们只是空壳，固定在曾经倒下的地方……不过，它们的内部可能藏有阻止ARC的答案。所以打开一个，把里面的东西带给我。",
             "ja": "第一波の襲撃時、バロンは他のすべてのマシンを合わせたよりも多くの被害をもたらした。今や彼らは単なる抜け殻で、かつて倒れた場所に固定されている……それでも、その内部にはARCを食い止める答えが隠されているかもしれない。だから一体を開けて、中にあるものを持ってきてくれ。",
@@ -2858,7 +2916,7 @@
                 "it": "Saccheggia un guscio di Barone",
                 "uk": "Заберіть вміст оболонки барона",
                 "kr": "바론 껍데기 약탈하기",
-                "ru": "Заберите содержимое оболочки барона",
+                "ru": "Соберите ресурсы с обломков «Барона»",
                 "zh-CN": "掠夺男爵残骸",
                 "ja": "バロンの残骸を略奪する",
                 "tr": "Bir Baron kabukunu yağmala",
@@ -2892,7 +2950,7 @@
         "name": {
             "en": "Down To Earth",
             "de": "Bodenständig",
-            "fr": "Les pieds sur terre",
+            "fr": "Retour sur terre",
             "es": "Pies en la tierra",
             "pt": "De volta à terra",
             "pl": "Z powrotem na ziemię",
@@ -2901,7 +2959,7 @@
             "it": "Coi piedi per terra",
             "uk": "Повернення на Землю",
             "kr": "지상으로",
-            "ru": "Возвращение на Землю",
+            "ru": "Приземленные загадки",
             "zh-CN": "脚踏实地",
             "ja": "フィールドワーク",
             "tr": "Yere İniş",
@@ -2926,7 +2984,7 @@
                 "it": "Visita un deposito sul campo",
                 "uk": "Відвідайте польове сховище",
                 "kr": "야전 보급소 방문",
-                "ru": "Посетите полевое хранилище",
+                "ru": "Посетите полевую станцию",
                 "zh-CN": "访问野外仓库",
                 "ja": "フィールド貯蔵庫を訪れる",
                 "tr": "Bir Saha Deposunu ziyaret et",
@@ -2946,7 +3004,7 @@
                 "it": "Consegna una cassa da campo alla stazione di rifornimento",
                 "uk": "Доставте польовий ящик на станцію постачання",
                 "kr": "야전 상자를 보급 기지에 배달",
-                "ru": "Доставьте полевой ящик на станцию снабжения",
+                "ru": "Доставьте ящик на полевую станцию",
                 "zh-CN": "将野外箱子运送到补给站",
                 "ja": "フィールド・クレートをフィールド貯蔵庫に届ける",
                 "tr": "Saha Sandığını İkmal İstasyonuna teslim et",
@@ -2966,7 +3024,7 @@
                 "it": "Raccogli la ricompensa",
                 "uk": "Отримайте винагороду",
                 "kr": "보상 수령",
-                "ru": "Получите награду",
+                "ru": "Получить награду",
                 "zh-CN": "领取奖励",
                 "ja": "報酬を収集する",
                 "tr": "Ödülü topla",
@@ -3006,7 +3064,7 @@
             "en": "Echoes of Victory Ridge",
             "de": "Echos vom Siegeskamm",
             "fr": "Échos de la crête de la victoire",
-            "es": "Ecos de Victory Ridge",
+            "es": "Ecos de la Cordillera Victoriosa",
             "pt": "Ecos de Victory Ridge",
             "pl": "Echa Victory Ridge",
             "no": "Ekko fra Victory Ridge",
@@ -3129,11 +3187,11 @@
     },
     {
         "id": "ss10x13",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "Espresso",
             "de": "Espresso",
-            "fr": "Espresso",
+            "fr": "Expresso",
             "es": "Espresso",
             "pt": "Espresso",
             "pl": "Espresso",
@@ -3150,6 +3208,9 @@
             "sr": "Espresso",
             "hr": "Espresso"
         },
+        "map": [
+            "buried_city"
+        ],
         "trader": "Apollo",
         "description": {
             "en": "A Raider came into my shop earlier, to trade some grenades for a machine she found in Buried City. She said it makes coffee, but it seems to be missing a few parts. Up for a job?",
@@ -3162,7 +3223,7 @@
             "da": "En Raider kom ind i min butik tidligere for at bytte nogle granater for en maskine, hun fandt i Buried City. Hun sagde, den laver kaffe, men det ser ud til at mangle nogle dele. Klar til et job?",
             "it": "Un Raider è venuto nel mio negozio prima per scambiare delle granate con una macchina che ha trovato nella Città Sepolta. Ha detto che fa il caffè, ma sembra mancare qualche pezzo. Ti va un lavoro?",
             "uk": "Рейдерка зайшла до мого магазину раніше, щоб обміняти кілька гранат на машину, яку вона знайшла в Похованому місті. Вона сказала, що та робить каву, але, схоже, їй бракує кількох деталей. Готові взятися за роботу?",
-            "kr": "레이더가 아까 내 가게에 와서 매장된 도시에서 찾은 기계를 수류탄 몇 개와 교환했어. 커피를 만드는 기계라는데, 부품 몇 개가 빠진 것 같더라고. 일 맡을래?",
+            "kr": "레이더가 아까 내 가게에 와서 파묻힌 도시에서 찾은 기계를 수류탄 몇 개와 교환했어. 커피를 만드는 기계라는데, 부품 몇 개가 빠진 것 같더라고. 일 맡을래?",
             "ru": "Рейдерша заходила в мою лавку, чтобы обменять несколько гранат на машину, которую она нашла в Погребённом городе. Она сказала, что та варит кофе, но, похоже, в ней не хватает нескольких деталей. Возьмёшься за работу?",
             "zh-CN": "一个掠夺者早些时候来到我的店里，用她在埋葬之城找到的机器换了些手榴弹。她说那机器能做咖啡，但似乎缺了几个零件。接这活吗？",
             "ja": "レイダーが先ほど店に来て、埋もれた街で見つけた機械を手榴弾と交換していった。コーヒーを作る機械らしいが、いくつか部品が足りないようだ。仕事を引き受けるか？",
@@ -3175,7 +3236,7 @@
             {
                 "en": "Find an espresso machine to salvage for spare parts",
                 "de": "Finde eine Espressomaschine, um Ersatzteile zu bergen",
-                "fr": "Trouvez une machine à espresso à récupérer pour des pièces détachées",
+                "fr": "Trouvez une machine à expresso à récupérer pour des pièces détachées",
                 "es": "Encuentra una máquina de espresso para recuperar piezas de repuesto",
                 "pt": "Encontre uma máquina de espresso para recuperar peças sobressalentes",
                 "pl": "Znajdź ekspres do kawy, aby odzyskać części zamienne",
@@ -3195,7 +3256,7 @@
             {
                 "en": "Get the Espresso Machine Parts for Apollo",
                 "de": "Besorge die Espressomaschinen-Teile für Apollo",
-                "fr": "Obtenez les pièces de la machine à espresso pour Apollo",
+                "fr": "Obtenez les pièces de la machine à Expresso pour Apollo",
                 "es": "Consigue las piezas de la máquina de espresso para Apollo",
                 "pt": "Consiga as peças da máquina de espresso para Apollo",
                 "pl": "Zdobądź części ekspresu do kawy dla Apollo",
@@ -3254,6 +3315,11 @@
             "sr": "Oči na nebu",
             "hr": "Oči na nebu"
         },
+        "map": [
+            "dam_battlegrounds",
+            "the_spaceport",
+            "buried_city"
+        ],
         "trader": "Shani",
         "description": {
             "en": "Requires a zipline to get on top of the tower. Those LiDAR scanners you found work best when put in high locations. I've identified a few good spots around the Rust Belt; hope you're surefooted.",
@@ -3327,7 +3393,7 @@
                 "da": "I den begravede by, installer en LiDAR-scanner oven på Galleria-skiltet",
                 "it": "Nella città sepolta, installa uno scanner LiDAR in cima all'insegna della Galleria",
                 "uk": "У Похованому місті встановіть LiDAR сканер на вивісці Галереї",
-                "kr": "매장된 도시에서 갤러리아 간판 위에 LiDAR 스캐너 설치",
+                "kr": "파묻힌 도시에서 갤러리아 간판 위에 LiDAR 스캐너 설치",
                 "ru": "В Погребённом городе установите LiDAR сканер на вывеске Галереи",
                 "zh-CN": "在埋没之城的购物中心招牌顶部安装LiDAR扫描仪",
                 "ja": "埋もれた街でガレリアの標識の上にLiDARスキャナを設置する",
@@ -3369,7 +3435,7 @@
     },
     {
         "id": "ss10m",
-        "updatedAt": "11/12/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "Eyes on the Prize",
             "de": "Die Augen auf den Preis",
@@ -3390,6 +3456,9 @@
             "sr": "Oči na Nagradi",
             "hr": "Oči na Nagradi"
         },
+        "map": [
+            "buried_city"
+        ],
         "trader": "Tian Wen",
         "description": {
             "en": "Everything's been calm around my drop-offs since you helped out, but that doesn't mean it'll stay that way for long. I've set up surveillance at one of my most used spots in Buried City, to prevent future tampering. Only problem is, it needs power to go live.",
@@ -3402,7 +3471,7 @@
             "da": "Alt har været roligt omkring mine afleveringssteder siden du hjalp, men det betyder ikke, at det forbliver sådan længe. Jeg har sat overvågning op på et af mine mest brugte steder i Buried City for at forhindre fremtidig manipulation. Det eneste problem er, at det har brug for strøm for at blive aktiveret.",
             "it": "Tutto è stato tranquillo nei miei punti di consegna da quando hai aiutato, ma questo non significa che rimarrà così a lungo. Ho installato una sorveglianza in uno dei miei posti più usati a Buried City, per prevenire future manomissioni. L'unico problema è che ha bisogno di energia per attivarsi.",
             "uk": "Все було спокійно навколо моїх точок скидання відтоді, як ти допоміг, але це не означає, що так буде довго. Я встановив спостереження в одному з найбільш використовуваних місць у Похованому Місті, щоб запобігти майбутнім втручанням. Єдина проблема - йому потрібне живлення, щоб запрацювати.",
-            "kr": "네가 도와준 이후로 내 투하 지점 주변은 조용했지만, 그게 오래 갈 거라는 뜻은 아니야. 앞으로의 훼손을 막기 위해 매장된 도시에서 가장 자주 쓰는 장소 중 한 곳에 감시 장비를 설치했어. 유일한 문제는 작동하려면 전력이 필요하다는 거야.",
+            "kr": "네가 도와준 이후로 내 투하 지점 주변은 조용했지만, 그게 오래 갈 거라는 뜻은 아니야. 앞으로의 훼손을 막기 위해 파묻힌 도시에서 가장 자주 쓰는 장소 중 한 곳에 감시 장비를 설치했어. 유일한 문제는 작동하려면 전력이 필요하다는 거야.",
             "ru": "Всё было спокойно вокруг моих точек сброса с тех пор, как ты помог, но это не значит, что так будет долго. Я установил наблюдение в одном из самых используемых мест в Погребённом Городе, чтобы предотвратить будущие вмешательства. Единственная проблема - ему нужно питание, чтобы заработать.",
             "zh-CN": "自从你帮忙之后，我的投放点周围一直很平静，但这不意味着会一直这样。我在埋葬之城最常用的地点之一设置了监控，以防止未来的破坏。唯一的问题是，它需要电力才能启动。",
             "ja": "君が手伝ってくれてから受け渡し場所の周辺は静かだが、それが長く続くとは限らない。将来の改ざんを防ぐため、埋もれた街で最もよく使う場所の一つに監視装置を設置した。唯一の問題は、稼働させるには電力が必要だということだ。",
@@ -3627,7 +3696,7 @@
     },
     {
         "id": "ss10a",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/25/2025",
         "name": {
             "en": "Greasing Her Palms",
             "de": "Hände gerieben",
@@ -3640,7 +3709,7 @@
             "it": "Ungerle le mani",
             "uk": "Підмащування коліс",
             "kr": "그녀에게 뇌물 주기",
-            "ru": "Подмазать ей ладони",
+            "ru": "Взяточные запчасти",
             "zh-CN": "给她点好处",
             "ja": "潤いを求めて",
             "tr": "Avucunu Yağlamak",
@@ -3648,6 +3717,11 @@
             "sr": "Podmazivanje Njenih Dlanova",
             "hr": "Podmazivanje Njezinih Dlanova"
         },
+        "map": [
+            "dam_battlegrounds",
+            "the_spaceport",
+            "buried_city"
+        ],
         "trader": "Celeste",
         "description": {
             "en": "Recently, I've been trying and failing to get Tian Wen to join our community projects. I may have to sweeten the deal. She's been complaining about the quality of salvage found on the market; think we could do her a solid?",
@@ -3682,7 +3756,7 @@
                 "it": "Su Dam Battlegrounds, visita la stanza chiusa nell'edificio di controllo del trattamento dell'acqua",
                 "uk": "На Дамбі, відвідайте закриту кімнату в будівлі управління водоочисткою",
                 "kr": "댐 전장에서 수처리 제어 건물의 잠긴 방 방문하기",
-                "ru": "На Дамбе посетите закрытую комнату в здании управления водоочисткой",
+                "ru": "Проберитесь в закрытую комнату в здании диспетчерской водоочистителя на поле битвы у дамбы",
                 "zh-CN": "在大坝战场，访问水处理控制大楼的上锁房间",
                 "ja": "ダム戦場の水質管理センターにある鍵のかかった部屋に入る",
                 "tr": "Baraj Savaş Alanında, Su Arıtma Kontrol binasındaki Kilitli Odayı ziyaret et",
@@ -3702,7 +3776,7 @@
                 "it": "Su Spaceport, esamina i propulsori del razzo fuori dall'assemblaggio del razzo",
                 "kr": "우주 기지에서 로켓 조립소 밖의 로켓 추진기 조사하기",
                 "uk": "На Космопорті, огляньте ракетні двигуни біля будівлі збирання ракет",
-                "ru": "На Космопорте осмотрите ракетные двигатели возле здания сборки ракет",
+                "ru": "Найдите ракетные двигатели снаружи цеха сбора ракет в космопорте",
                 "zh-CN": "在太空港，侦察火箭组装厂外的火箭推进器",
                 "ja": "宇宙港でロケット組み立て場の外にあるロケットスラスターを確認する",
                 "tr": "Uzay Limanında, Roket Montaj binasının dışındaki roket iticilerini keşfet",
@@ -3721,7 +3795,7 @@
                 "da": "På Buried City, besøg det barrikaderede område på etage 6 i rumrejsebygningen",
                 "it": "Su Buried City, visita l'area barricata al piano 6 dell'edificio dei viaggi spaziali",
                 "uk": "У Похованому місті, відвідайте барикадовану зону на 6 поверсі будівлі космічних подорожей",
-                "kr": "매장된 도시에서 우주 여행 빌딩 6층의 바리케이드 지역 방문하기",
+                "kr": "파묻힌 도시에서 우주 여행 빌딩 6층의 바리케이드 지역 방문하기",
                 "ru": "В Погребённом городе посетите баррикадированную зону на 6 этаже здания космических путешествий",
                 "zh-CN": "在埋没之城，访问太空旅行大楼6层的路障区域",
                 "ja": "埋もれた街のスペーストラベル施設6階にあるバリケードが組まれた区画に入る",
@@ -3817,7 +3891,7 @@
                 "it": "Ripara i tubi idraulici che perdono vicino a una botola dei Predoni",
                 "uk": "Відремонтуйте протікаючі гідравлічні труби біля люка рейдерів",
                 "kr": "약탈자 해치 근처의 새는 유압 파이프 수리",
-                "ru": "Отремонтируйте протекающие гидравлические трубы возле люка рейдеров",
+                "ru": "Устраните утечку гидропровода у рейдерского люка",
                 "zh-CN": "修理掠夺者舱门附近泄漏的液压管道",
                 "ja": "レイダーハッチの近くにある水圧管の漏れを修理する",
                 "tr": "Bir Yağmacı Kapağının yakınındaki sızdıran hidrolik boruları onar",
@@ -4093,12 +4167,12 @@
     },
     {
         "id": "12_in_my_image",
-        "updatedAt": "11/14/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "In My Image",
             "de": "Mein Ebenbild",
             "fr": "À mon image",
-            "es": "A mi imagen",
+            "es": "A mi semejanza",
             "pt": "À Minha Imagem",
             "pl": "Na mój obraz",
             "no": "I mitt bilde",
@@ -4106,7 +4180,7 @@
             "it": "A mia immagine",
             "uk": "За моїм образом",
             "kr": "내 모습대로",
-            "ru": "По моему образу",
+            "ru": "По образу и подобию",
             "zh-CN": "按我的样子",
             "ja": "同じ姿",
             "tr": "Benim Suretimde",
@@ -4114,6 +4188,9 @@
             "sr": "Po Mom Liku",
             "hr": "Po Mom Liku"
         },
+        "map": [
+            "stella_montis"
+        ],
         "trader": "Lance",
         "description": {
             "en": "I just treated one of the first Raiders who visited Stella Montis, and she said that she saw... others. Androids, very much like me.",
@@ -4204,7 +4281,7 @@
             "en": "Keeping the Memory",
             "de": "Die Erinnerung bewahren",
             "fr": "Conservation mémorielle",
-            "es": "Guardando la memoria",
+            "es": "Preservar la memoria",
             "pt": "Guardando a memória",
             "pl": "Zachowanie pamięci",
             "no": "Bevare minnet",
@@ -4212,7 +4289,7 @@
             "it": "Preservare la memoria",
             "uk": "Зберігаючи пам'ять",
             "kr": "기억 지키기",
-            "ru": "Сохраняя память",
+            "ru": "В память о былом",
             "zh-CN": "保存记忆",
             "ja": "受け継がれる記憶",
             "tr": "Anıyı Korumak",
@@ -4254,7 +4331,7 @@
                 "it": "Raggiungi il relitto nelle Formicai Hills",
                 "uk": "Дістаньтеся до уламків на Формікайських пагорбах",
                 "kr": "Formicai Hills의 잔해에 도달하세요",
-                "ru": "Доберитесь до обломков на Формикайских холмах",
+                "ru": "Добраться до обломков на Холмах Формикаи",
                 "zh-CN": "到达Formicai山丘的残骸处",
                 "ja": "フォルミカイ山地の残骸に到達する",
                 "tr": "Formicai Tepeleri'ndeki enkaza ulaşın",
@@ -4331,7 +4408,7 @@
         "name": {
             "en": "Life of a Pharmacist",
             "de": "Leben eines Apothekers",
-            "fr": "Vie d'un pharmacien",
+            "fr": "La vie d'un pharmacien",
             "es": "Vida de un farmacéutico",
             "pt": "Vida de um farmacêutico",
             "pl": "Życie farmaceuty",
@@ -4495,7 +4572,7 @@
     },
     {
         "id": "ss11b",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "Lost in Transmission",
             "de": "Übertragung unterbrochen",
@@ -4516,6 +4593,9 @@
             "sr": "Izgubljeno u prenosu",
             "hr": "Izgubljeno u prijenosu"
         },
+        "map": [
+            "the_spaceport"
+        ],
         "trader": "Shani",
         "description": {
             "en": "I have equipment set up at the Spaceport, to monitor ARC's movements. My connection broke down just now — I need you to head to the Control Towers and help me retrieve my logs.",
@@ -4528,7 +4608,7 @@
             "da": "Jeg har udstyr sat op ved rumhavnen for at overvåge ARCs bevægelser. Min forbindelse brød sammen lige nu — jeg har brug for, at du tager til kontroltårnene og hjælper mig med at hente mine logfiler.",
             "it": "Ho installato delle attrezzature allo spazioporto per monitorare i movimenti di ARC. La mia connessione si è appena interrotta — ho bisogno che tu vada alle torri di controllo e mi aiuti a recuperare i miei registri.",
             "uk": "У мене встановлено обладнання в космопорту для моніторингу переміщень ARC. Щойно зв'язок перервався — мені потрібно, щоб ти відправився до контрольних веж і допоміг мені відновити мої журнали.",
-            "kr": "ARC의 움직임을 감시하기 위해 우주항에 장비를 설치해 두었습니다. 방금 연결이 끊겼어요 — 관제탑으로 가서 로그를 복구하는 것을 도와주세요.",
+            "kr": "아크의 움직임을 감시하기 위해 우주 기지에 장비를 설치해 두었습니다. 방금 연결이 끊겼어요 — 관제탑으로 가서 로그를 복구하는 것을 도와주세요.",
             "ru": "У меня установлено оборудование в космопорту для отслеживания перемещений ARC. Только что связь прервалась — мне нужно, чтобы ты отправился к диспетчерским вышкам и помог мне восстановить мои журналы.",
             "zh-CN": "我在太空港设置了设备来监视ARC的动向。我的连接刚刚中断了——我需要你前往控制塔帮我找回日志。",
             "ja": "ARCの動きを監視するため、スペースポートに機器を設置してある。たった今接続が切れてしまった——管制塔に向かって、ログの回収を手伝ってほしい。",
@@ -4621,11 +4701,11 @@
     },
     {
         "id": "ss10i",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "Marked for Death",
             "de": "Zum Tode verurteilt",
-            "fr": "Marqué pour la mort",
+            "fr": "Condamnation",
             "es": "Marcado para morir",
             "pt": "Marcado para a morte",
             "pl": "Naznaczony śmiercią",
@@ -4634,7 +4714,7 @@
             "it": "Segnato per la morte",
             "uk": "Мічений смертю",
             "kr": "죽음의 표적",
-            "ru": "Помечен смертью",
+            "ru": "Метка смерти",
             "zh-CN": "死亡标记",
             "ja": "マークされた標的",
             "tr": "Ölüme Mahkum",
@@ -4642,6 +4722,9 @@
             "sr": "Obeležen za Smrt",
             "hr": "Obilježen za Smrt"
         },
+        "map": [
+            "buried_city"
+        ],
         "trader": "Tian Wen",
         "description": {
             "en": "Someone has been lifting supplies from my drop-off point in Buried City. I've set up a trap, but I need someone to check it for me.",
@@ -4654,7 +4737,7 @@
             "da": "Nogen har stjålet forsyninger fra mit afleveringssted i Buried City. Jeg har sat en fælde op, men jeg har brug for nogen til at tjekke den for mig.",
             "it": "Qualcuno sta rubando rifornimenti dal mio punto di consegna a Città Sepolta. Ho preparato una trappola, ma ho bisogno che qualcuno la controlli per me.",
             "uk": "Хтось краде припаси з моєї точки скидання в Похованому Місті. Я встановив пастку, але мені потрібен хтось, щоб перевірити її.",
-            "kr": "누군가 매장된 도시에 있는 내 물품 투하 지점에서 보급품을 훔쳐가고 있어. 함정을 설치해뒀는데, 누군가 대신 확인해줬으면 해.",
+            "kr": "누군가 파묻힌 도시에 있는 내 물품 투하 지점에서 보급품을 훔쳐가고 있어. 함정을 설치해뒀는데, 누군가 대신 확인해줬으면 해.",
             "ru": "Кто-товорует припасы из моей точки сброса в Погребённом Городе. Я установил ловушку, но мне нужен кто-то, чтобы проверить её.",
             "zh-CN": "有人一直在埋葬之城的投放点偷我的补给。我设了个陷阱，但需要有人帮我去检查一下。",
             "ja": "誰かが埋もれた街の私の受け渡し場所から物資を盗んでいる。罠を仕掛けたが、誰かに確認してもらう必要がある。",
@@ -4675,7 +4758,7 @@
                 "da": "Nå Su Durante-lagrene i udkanten af Buried City",
                 "it": "Raggiungi i magazzini Su Durante nella periferia di Città Sepolta",
                 "uk": "Дістатися до складів Су Дуранте на околицях Похованого Міста",
-                "kr": "매장된 도시 외곽의 수 두란테 창고에 도착하기",
+                "kr": "파묻힌 도시 외곽의 수 두란테 창고에 도착하기",
                 "ru": "Добраться до складов Су Дуранте на окраине Погребённого Города",
                 "zh-CN": "前往埋葬之城郊区的苏·杜兰特仓库",
                 "ja": "埋もれた街の郊外にあるスー・ドゥランテ倉庫に向かう",
@@ -4853,7 +4936,7 @@
     },
     {
         "id": "ss10f",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/25/2025",
         "name": {
             "en": "Medical Merchandise",
             "de": "Medizinisches Merchandise",
@@ -4874,6 +4957,11 @@
             "sr": "Medicinska Roba",
             "hr": "Medicinska Roba"
         },
+        "map": [
+            "dam_battlegrounds",
+            "the_spaceport",
+            "buried_city"
+        ],
         "trader": "Lance",
         "description": {
             "en": "I've become quite crafty at weaving bandages from Fabric, but to my shame, I haven't quite mastered weaving an x-ray machine or a pulse oximiter.",
@@ -4908,7 +4996,7 @@
                 "it": "Allo spazioporto, perquisci 2 contenitori nelle sale visite dell'edificio partenze",
                 "uk": "На Космопорту обшукати 2 контейнери в оглядових кімнатах Будівлі відправлення",
                 "kr": "우주 정거장에서 출발 건물의 검사실에 있는 컨테이너 2개 수색",
-                "ru": "На Космопорте обыскать 2 контейнера в смотровых кабинетах Здания отправления",
+                "ru": "Обыщите контейнеры (2) в комнатах досмотра зоны отправления космопорта",
                 "zh-CN": "在太空港，搜索出发大楼检查室中的2个容器",
                 "ja": "宇宙港の出発棟でコンテナを2個調べる",
                 "tr": "Uzay Limanı'nda, Kalkış Binası'nın muayene odalarındaki 2 konteyneri ara",
@@ -4927,7 +5015,7 @@
                 "da": "Gennemsøg 3 containere på hospitalet i den begravede by",
                 "it": "Perquisci 3 contenitori nell'ospedale della città sepolta",
                 "uk": "Обшукати 3 контейнери в Лікарні в Похованому місті",
-                "kr": "매장된 도시의 병원에서 컨테이너 3개 수색",
+                "kr": "파묻힌 도시의 병원에서 컨테이너 3개 수색",
                 "ru": "Обыскать 3 контейнера в Больнице в Погребенном городе",
                 "zh-CN": "在埋藏之城的医院中搜索3个容器",
                 "ja": "埋もれた街の病院でコンテナを3個調べる",
@@ -4948,7 +5036,7 @@
                 "it": "Sul campo di battaglia della diga, perquisci 2 contenitori nella sala medica dell'edificio ricerca e amministrazione",
                 "uk": "На Полі бою біля дамби обшукати 2 контейнери в медичній кімнаті будівлі Дослідження та Адміністрації",
                 "kr": "댐 전장에서 연구 및 관리 건물의 의료실에 있는 컨테이너 2개 수색",
-                "ru": "На Поле боя у дамбы обыскать 2 контейнера в медицинской комнате здания Исследований и Администрации",
+                "ru": "Обыщите контейнеры (2) в медкабинете исследовательско-административного центра на поле битвы у дамбы",
                 "zh-CN": "在大坝战场，搜索研究与行政大楼医疗室中的2个容器",
                 "ja": "ダム戦場の研究管理センターで診察室のコンテナを2個調べる",
                 "tr": "Baraj Savaş Alanı'nda, Araştırma ve İdare binasının tıbbi odasındaki 2 konteyneri ara",
@@ -4994,7 +5082,7 @@
             "it": "Segnali contrastanti",
             "uk": "Змішані сигнали",
             "kr": "혼선",
-            "ru": "Смешанные сигналы",
+            "ru": "Смешанный сигнал",
             "zh-CN": "混杂信号",
             "ja": "混合信号",
             "tr": "Karışık Sinyaller",
@@ -5035,7 +5123,7 @@
                 "da": "Ødelæg en ARC-landmåler",
                 "it": "Distruggi un Rilevatore ARC",
                 "uk": "Знищити ARC Геодезиста",
-                "kr": "ARC 서베이어 파괴",
+                "kr": "아크 서베이어 파괴",
                 "ru": "Уничтожить ARC Геодезиста",
                 "zh-CN": "摧毁一个ARC勘测者",
                 "ja": "ARC偵察機を破壊する",
@@ -5056,7 +5144,7 @@
                 "it": "Ottieni 1 cassaforte del Rilevatore",
                 "uk": "Отримати 1 Сховище Геодезиста",
                 "kr": "서베이어 금고 1개 획득",
-                "ru": "Получить 1 Хранилище Геодезиста",
+                "ru": "Добудьте 1 сейф «Наблюдателя»",
                 "zh-CN": "获得1个勘测者保险库",
                 "ja": "偵察機のボックスを1個手に入れる",
                 "tr": "1 Surveyor Kasası edin",
@@ -5103,7 +5191,7 @@
         "name": {
             "en": "Off The Radar",
             "de": "Unter dem Radar",
-            "fr": "Hors radar",
+            "fr": "Hors du radar",
             "es": "Fuera del radar",
             "pt": "Fora do radar",
             "pl": "Poza radarem",
@@ -5112,7 +5200,7 @@
             "it": "Fuori dal radar",
             "uk": "Поза радаром",
             "kr": "레이더 밖으로",
-            "ru": "Вне радара",
+            "ru": "Уход в тень",
             "zh-CN": "脱离雷达",
             "ja": "レーダー回避",
             "tr": "Radarın Dışında",
@@ -5137,7 +5225,7 @@
                 "it": "Visita un deposito sul campo",
                 "uk": "Відвідайте польове депо",
                 "kr": "야전 보급소 방문",
-                "ru": "Посетите полевое депо",
+                "ru": "Посетите полевую станцию",
                 "zh-CN": "访问野外补给站",
                 "ja": "フィールド貯蔵庫に向かう",
                 "tr": "Bir Saha Deposunu ziyaret et",
@@ -5157,7 +5245,7 @@
                 "it": "Ripara l'antenna sul tetto del deposito sul campo",
                 "uk": "Відремонтуйте антену на даху польового депо",
                 "kr": "야전 보급소 지붕의 안테나 수리",
-                "ru": "Отремонтируйте антенну на крыше полевого депо",
+                "ru": "Почините антенну на крыше полевой станции",
                 "zh-CN": "修理野外补给站屋顶的天线",
                 "ja": "フィールド貯蔵庫の屋上のアンテナを修理する",
                 "tr": "Saha Deposunun çatısındaki anteni onar",
@@ -5192,7 +5280,7 @@
             "en": "Our Presence Up There",
             "de": "Unsere Präsenz dort oben",
             "fr": "Retour à la surface",
-            "es": "Nuestra presencia allá arriba",
+            "es": "Nuestra presencia ahí arriba",
             "pt": "A nossa presença lá em cima",
             "pl": "Nasza obecność tam na górze",
             "no": "Vår tilstedeværelse der oppe",
@@ -5221,7 +5309,7 @@
             "da": "ARC ændrer sig måske, men vi ændrer os endelig med det. Lad os færdiggøre de udposter og revolutionere måden, vi sporer dem, flankerer dem og smadrer dem til stumper og stykker.",
             "it": "ARC potrebbe cambiare, ma finalmente stiamo cambiando con esso. Finiamo quegli avamposti e rivoluzionamo il modo in cui li tracciamo, li aggiriamo e li facciamo a pezzi.",
             "uk": "ARC може змінюватися, але ми нарешті змінюємося разом з ним. Давай закінчимо ці аванпости і революціонізуємо спосіб, яким ми їх відстежуємо, обходимо з флангу і розбиваємо на шматки.",
-            "kr": "ARC는 변하고 있지만, 우리도 드디어 함께 변하고 있어. 전초기지들을 완성하고 그들을 추적하고, 측면을 공격하고, 산산조각 내는 방식을 혁신하자.",
+            "kr": "아크는 변하고 있지만, 우리도 드디어 함께 변하고 있어. 전초기지들을 완성하고 그들을 추적하고, 측면을 공격하고, 산산조각 내는 방식을 혁신하자.",
             "ru": "ARC может меняться, но мы наконец меняемся вместе с ним. Давай закончим эти аванпосты и революционизируем способ, которым мы их отслеживаем, обходим с фланга и разбиваем вдребезги.",
             "zh-CN": "ARC可能在改变，但我们终于也在随之改变。让我们完成这些前哨站，彻底改变我们追踪、侧翼包抄和粉碎他们的方式。",
             "ja": "ARCは変わりつつあるが、我々もついに一緒に変わっている。前哨基地を完成させて、奴らを追跡し、側面から攻撃し、粉々に打ち砕く方法を革新しよう。",
@@ -5320,8 +5408,8 @@
         "name": {
             "en": "Out of the Shadows",
             "de": "Aus den Schatten",
-            "fr": "Hors de l'ombre",
-            "es": "Fuera de las sombras",
+            "fr": "Hors des ombres",
+            "es": "Saliendo de las sombras",
             "pt": "Fora das sombras",
             "pl": "Z cienia",
             "no": "Ut av skyggene",
@@ -5447,7 +5535,7 @@
             "it": "Raccogliere i pezzi",
             "uk": "Збираючи уламки",
             "kr": "파편 수습하기",
-            "ru": "Собирая осколки",
+            "ru": "Сбор по крупицам",
             "zh-CN": "收拾残局",
             "ja": "部品を回収",
             "tr": "Parçaları Toplama",
@@ -5489,7 +5577,7 @@
                 "it": "Visita qualsiasi area sulla tua mappa con un'icona di categoria bottino",
                 "uk": "Відвідайте будь-яку область на вашій карті з іконкою категорії здобичі",
                 "kr": "지도에서 전리품 카테고리 아이콘이 있는 지역을 방문하세요",
-                "ru": "Посетите любую область на вашей карте с иконкой категории добычи",
+                "ru": "Зайдите в любую зону со значком добычи на карте",
                 "zh-CN": "访问地图上任何带有战利品类别图标的区域",
                 "ja": "戦利品アイコンでマップに表示されたエリアに向かう",
                 "tr": "Haritanızda ganimet kategorisi simgesi olan herhangi bir bölgeyi ziyaret edin",
@@ -5509,7 +5597,7 @@
                 "it": "Saccheggia 3 contenitori",
                 "uk": "Пограбуйте 3 контейнери",
                 "kr": "컨테이너 3개를 약탈하세요",
-                "ru": "Разграбьте 3 контейнера",
+                "ru": "Возьмите добычу из контейнеров (3)",
                 "zh-CN": "搜刮3个容器",
                 "ja": "容器を3個調査する",
                 "tr": "3 konteyner yağmala",
@@ -5537,7 +5625,7 @@
     },
     {
         "id": "ss10x10",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "Power Out",
             "de": "Stromausfall",
@@ -5558,6 +5646,9 @@
             "sr": "Nestanak struje",
             "hr": "Nestanak struje"
         },
+        "map": [
+            "the_spaceport"
+        ],
         "trader": "Celeste",
         "description": {
             "en": "This goes beyond bad luck. Something—or someone—has knocked out some of our electrical substations. The engineer I sent out to fix it hasn't returned, so I need all available Raiders to look into it. That includes you.",
@@ -5591,7 +5682,7 @@
                 "da": "Find den elektriske transformerstation syd for rumhavnen, ved siden af kontrolpunktet",
                 "it": "Trova la sottostazione elettrica a sud dello spazioporto, vicino al checkpoint",
                 "uk": "Знайдіть електричну підстанцію на південь від Космопорту, біля контрольного пункту",
-                "kr": "우주항 남쪽, 검문소 옆에 있는 전기 변전소를 찾으세요",
+                "kr": "우주 기지 남쪽, 검문소 옆에 있는 전기 변전소를 찾으세요",
                 "ru": "Найдите электрическую подстанцию к югу от Космопорта, рядом с контрольно-пропускным пунктом",
                 "zh-CN": "找到太空港南边检查站旁的变电站",
                 "ja": "宇宙港の南にある変電所を見つける",
@@ -5689,11 +5780,11 @@
     },
     {
         "id": "ss10x9",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "Prescriptions of the Past",
             "de": "Rezepte der Vergangenheit",
-            "fr": "Prescriptions du passé",
+            "fr": "Prescriptions passées",
             "es": "Recetas del pasado",
             "pt": "Prescrições do Passado",
             "pl": "Recepty z przeszłości",
@@ -5710,6 +5801,9 @@
             "sr": "Recepti iz prošlosti",
             "hr": "Recepti iz prošlosti"
         },
+        "map": [
+            "the_spaceport"
+        ],
         "trader": "Lance",
         "description": {
             "en": "I've been curious about the medical area in the Spaceport for a while now. Something tells me it's got just what I need to become the undeniable champion of this place.",
@@ -5722,7 +5816,7 @@
             "da": "Jeg har været nysgerrig på det medicinske område i rumhavnen et stykke tid nu. Noget fortæller mig, at det har præcis, hvad jeg har brug for, for at blive den ubestridelige mester på dette sted.",
             "it": "Sono curioso dell'area medica nello Spazioporto da un po' di tempo ormai. Qualcosa mi dice che ha proprio ciò di cui ho bisogno per diventare il campione indiscusso di questo posto.",
             "uk": "Я вже деякий час цікавлюся медичною зоною в Космопорту. Щось підказує мені, що там є саме те, що мені потрібно, щоб стати беззаперечним чемпіоном цього місця.",
-            "kr": "한동안 우주항의 의료 구역이 궁금했습니다. 그곳에 이곳의 확실한 챔피언이 되기 위해 필요한 것이 있을 거라는 느낌이 듭니다.",
+            "kr": "한동안 우주 기지의 의료 구역이 궁금했습니다. 그곳에 이곳의 확실한 챔피언이 되기 위해 필요한 것이 있을 거라는 느낌이 듭니다.",
             "ru": "Я уже давно интересуюсь медицинской зоной в Космопорту. Что-то подсказывает мне, что там есть именно то, что мне нужно, чтобы стать бесспорным чемпионом этого места.",
             "zh-CN": "我对太空港的医疗区已经好奇了一段时间。直觉告诉我那里有我成为这个地方无可争议的冠军所需要的东西。",
             "ja": "しばらく前から宇宙港の医療エリアが気になっていました。そこには、この場所の揺るぎないチャンピオンになるために必要なものがあるような気がします。",
@@ -5743,7 +5837,7 @@
                 "da": "Besøg afgangsbygningen i rumhavnen",
                 "it": "Visita l'edificio delle partenze nello Spazioporto",
                 "uk": "Відвідайте будівлю відправлення в Космопорту",
-                "kr": "우주항의 출발 건물을 방문하세요",
+                "kr": "우주 기지의 출발 건물을 방문하세요",
                 "ru": "Посетите здание отправления в Космопорту",
                 "zh-CN": "前往太空港的出发大楼",
                 "ja": "宇宙港の出発棟を訪れた",
@@ -5817,7 +5911,7 @@
         "name": {
             "en": "Reduced to Rubble",
             "de": "Schutt und Asche",
-            "fr": "Réduit en décombres",
+            "fr": "Chemin de destruction",
             "es": "Reducido a escombros",
             "pt": "Reduzido a escombros",
             "pl": "Obrócone w gruzy",
@@ -5826,7 +5920,7 @@
             "it": "Ridotto in macerie",
             "uk": "Перетворено на руїни",
             "kr": "잔해로 변하다",
-            "ru": "Превращено в руины",
+            "ru": "Одни только щепки",
             "zh-CN": "化为废墟",
             "ja": "瓦礫道",
             "tr": "Moloz Yığınına Dönmüş",
@@ -5868,7 +5962,7 @@
                 "it": "Scatta una foto dell'autostrada crollata",
                 "uk": "Сфотографувати обвалене шосе",
                 "kr": "무너진 고속도로 사진 찍기",
-                "ru": "Сфотографировать обрушившийся хайвей",
+                "ru": "Сфотографируйте разрушенное шоссе",
                 "zh-CN": "拍摄倒塌的高速公路照片",
                 "ja": "崩壊した高速道路の写真を撮る",
                 "tr": "Çökmüş Otoyolun fotoğrafını çek",
@@ -5888,7 +5982,7 @@
                 "it": "Vai alla Terra spezzata",
                 "uk": "Відправитися до Розколотої землі",
                 "kr": "브로큰 어스로 가기",
-                "ru": "Отправиться к Разбитой земле",
+                "ru": "Идите к разломам",
                 "zh-CN": "前往破碎大地",
                 "ja": "割れた地面に向かい破壊の跡を辿る",
                 "tr": "Kırık Toprak'a git",
@@ -5908,7 +6002,7 @@
                 "it": "Segui la scia di distruzione attraverso la Terra spezzata",
                 "uk": "Слідувати слідом руйнування через Розколоту землю",
                 "kr": "브로큰 어스를 통해 파괴의 흔적 따라가기",
-                "ru": "Следовать по следу разрушения через Разбитую землю",
+                "ru": "Идите по следам разрушения через разломы",
                 "zh-CN": "沿着破坏痕迹穿过破碎大地",
                 "ja": "未知のARCマシンを調査する",
                 "tr": "Kırık Toprak boyunca yıkım izini takip et",
@@ -5927,7 +6021,7 @@
                 "da": "Undersøg de ukendte ARC-maskiner",
                 "it": "Indaga sulle macchine ARC sconosciute",
                 "uk": "Дослідити невідомі машини ARC",
-                "kr": "미확인 ARC 기계 조사하기",
+                "kr": "미확인 아크 기계 조사하기",
                 "ru": "Исследовать неизвестные машины ARC",
                 "zh-CN": "调查未知的ARC机器",
                 "ja": "未知のARCマシンを調査する",
@@ -6004,7 +6098,7 @@
                 "da": "Ødelæg 2 ARC-fjender ved at bruge en eksplosiv granat",
                 "it": "Distruggi 2 nemici ARC usando qualsiasi granata esplosiva",
                 "uk": "Знищте 2 ворогів ARC за допомогою будь-якої вибухової гранати",
-                "kr": "폭발 수류탄으로 ARC 적 2명 처치",
+                "kr": "폭발 수류탄으로 아크 2명 처치",
                 "ru": "Уничтожьте 2 врагов ARC с помощью любой взрывной гранаты",
                 "zh-CN": "使用任意爆炸手榴弹摧毁2个ARC敌人",
                 "ja": "任意のグレネードでARCを2体爆破する",
@@ -6048,11 +6142,11 @@
     },
     {
         "id": "12_snap_and_salvage",
-        "updatedAt": "11/14/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "Snap and Salvage",
             "de": "Schnappen und Ausschlachten",
-            "fr": "Clic et récupération",
+            "fr": "Démolir et recycler",
             "es": "Disparo y rescate",
             "pt": "Clique e Sucata",
             "pl": "Fotka i złom",
@@ -6061,7 +6155,7 @@
             "it": "Scatta e recupera",
             "uk": "Знімок і порятунок",
             "kr": "촬영과 회수",
-            "ru": "Снимок и утилизация",
+            "ru": "Фотогеничные детали",
             "zh-CN": "拍照与打捞",
             "ja": "スナップ・アンド・サルベージ",
             "tr": "Çek ve Kurtar",
@@ -6069,6 +6163,9 @@
             "sr": "Slikaj i Spasi",
             "hr": "Slikaj i Spasi"
         },
+        "map": [
+            "stella_montis"
+        ],
         "trader": "Tian Wen",
         "description": {
             "en": "All of Speranza is buzzing about Stella Montis right now, and I admit it's caught my attention. Let the others sort out the whats and hows; I'm interested in the tech inside.",
@@ -6103,7 +6200,7 @@
                 "it": "Scatta una foto a uno dei rover nell'area Sandbox",
                 "uk": "Зроби фото будь-якого з ровери в зоні полігону",
                 "kr": "샌드박스 지역에 있는 로버 중 아무거나 한 대를 사진 찍기",
-                "ru": "Сделай фото любого из роверов в зоне испытаний",
+                "ru": "Сфотографируйте самоходного робота в песочнице",
                 "zh-CN": "在沙盒区域为任意一台漫游者拍一张照片",
                 "ja": "検証環境でローヴァーの写真を撮る",
                 "tr": "Kum Havuzu'ndaki gezicilerden herhangi birinin fotoğrafını çek",
@@ -6123,7 +6220,7 @@
                 "it": "Perquisisci i documenti nella sala del posto di sicurezza accanto alla hall",
                 "uk": "Обшукай папери в кімнаті контрольно-пропускного пункту біля вестибюля",
                 "kr": "로비 옆 보안 검사실에 있는 서류를 조사하기",
-                "ru": "Обыщи бумаги в комнате контрольно-пропускного пункта у вестибюля",
+                "ru": "Найдите бумаги в помещении контрольного пункта охраны у лобби",
                 "zh-CN": "搜查大堂旁安检室里的文件",
                 "ja": "ロビーの隣のセキュリティ・チェックポイント室で書類を調査する",
                 "tr": "Lobinin yanındaki Güvenlik Kontrol odasındaki evrakları ara",
@@ -6143,7 +6240,7 @@
                 "it": "Consegna un magnetron a Tian Wen",
                 "uk": "Достав один магнетрон Тянь Вену",
                 "kr": "마그네트론 1개를 Tian Wen에게 전달하기",
-                "ru": "Доставь магнетрон Тянь Вену",
+                "ru": "Доставьте магнетрон Тянь Вену",
                 "zh-CN": "将一个磁控管交给田文",
                 "ja": "ティアン・ウェンにマグネトロンを届ける",
                 "tr": "Tian Wen'e bir Magnetron teslim et",
@@ -6163,7 +6260,7 @@
                 "it": "Consegna un regolatore di flusso a Tian Wen",
                 "uk": "Достав регулятор потоку Тянь Вену",
                 "kr": "유량 조절기 1개를 Tian Wen에게 전달하기",
-                "ru": "Доставь регулятор потока Тянь Вену",
+                "ru": "Доставьте регулятор потока Тянь Вену",
                 "zh-CN": "将一个流量控制器交给田文",
                 "ja": "ティアン・ウェンにフローコントローラーを届ける",
                 "tr": "Tian Wen'e bir Akış Denetleyicisi teslim et",
@@ -6342,7 +6439,7 @@
             "en": "Sparks Fly",
             "de": "Fliegende Funken",
             "fr": "Pluie d'étincelles",
-            "es": "Chispas",
+            "es": "Las chispas vuelan",
             "pt": "Faíscas",
             "pl": "Iskry lecą",
             "no": "Gnister flyr",
@@ -6392,7 +6489,7 @@
                 "it": "Distruggi un Hornet con una Trigger 'Nade o Snap Blast",
                 "uk": "Знищити Hornet за допомогою Trigger 'Nade або Snap Blast",
                 "kr": "Trigger 'Nade 또는 Snap Blast로 Hornet 파괴",
-                "ru": "Уничтожить Hornet с помощью Trigger 'Nade или Snap Blast",
+                "ru": "Уничтожьте «Шершня» с помощью триггер-гранаты или разрывной гранаты",
                 "zh-CN": "使用触发手雷或瞬爆摧毁黄蜂",
                 "ja": "トリガー・グレネードでホーネットを破壊する",
                 "tr": "Trigger 'Nade veya Snap Blast ile bir Hornet'i yok et",
@@ -6433,11 +6530,11 @@
     },
     {
         "id": "ss10j",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "Straight Record",
             "de": "Gute Aufnahme",
-            "fr": "Remettre les pendules à l'heure",
+            "fr": "Enregistrement direct",
             "es": "Registro limpio",
             "pt": "Registro limpo",
             "pl": "Czyste konto",
@@ -6446,7 +6543,7 @@
             "it": "Record pulito",
             "uk": "Чистий запис",
             "kr": "정확한 기록",
-            "ru": "Чистая запись",
+            "ru": "Поправки",
             "zh-CN": "清白记录",
             "ja": "過去のしがらみ",
             "tr": "Temiz Kayıt",
@@ -6454,6 +6551,9 @@
             "sr": "Čist Račun",
             "hr": "Čist Račun"
         },
+        "map": [
+            "dam_battlegrounds"
+        ],
         "trader": "Celeste",
         "description": {
             "en": "Back during the First Wave, my squad and I built a trap out by the Dam. Overloaded a generator, turned it into a makeshift ARC trap. Now I hear Raiders are using it to cut comms and spring ambushes on each other. I need you to end it.",
@@ -6466,7 +6566,7 @@
             "da": "Tilbage under First Wave byggede mit hold og jeg en fælde ved dæmningen. Overbelastede en generator og gjorde den til en improviseret ARC-fælde. Nu hører jeg, at Raiders bruger den til at afbryde kommunikation og lave baghold på hinanden. Jeg har brug for, at du stopper det.",
             "it": "Durante la First Wave, la mia squadra ed io costruimmo una trappola vicino alla diga. Sovraccaricammo un generatore e lo trasformammo in una trappola ARC improvvisata. Ora sento dire che i Raiders la stanno usando per interrompere le comunicazioni e tendere imboscate a vicenda. Ho bisogno che tu ci metta fine.",
             "uk": "Ще під час Першої хвилі ми з моїм загоном побудували пастку біля Дамби. Перевантажили генератор, перетворили його на імпровізовану ARC-пастку. Тепер я чую, що Рейдери використовують її, щоб глушити зв'язок і влаштовувати засідки один на одного. Мені потрібно, щоб ти покінчив з цим.",
-            "kr": "첫 번째 웨이브 당시, 우리 분대는 댐 근처에 함정을 만들었어. 발전기를 과부하시켜서 임시 ARC 함정으로 만들었지. 이제 레이더들이 그걸 이용해서 통신을 차단하고 서로 매복 공격을 한다고 들었어. 네가 끝내줘야 해.",
+            "kr": "첫 번째 웨이브 당시, 우리 분대는 댐 근처에 함정을 만들었어. 발전기를 과부하시켜서 임시 아크 함정으로 만들었지. 이제 레이더들이 그걸 이용해서 통신을 차단하고 서로 매복 공격을 한다고 들었어. 네가 끝내줘야 해.",
             "ru": "Ещё во время Первой волны мы с моим отрядом построили ловушку у Дамбы. Перегрузили генератор, превратили его в самодельную ARC-ловушку. Теперь я слышу, что Рейдеры используют её, чтобы глушить связь и устраивать засады друг на друга. Мне нужно, чтобы ты покончил с этим.",
             "zh-CN": "在第一波行动期间，我和我的小队在大坝附近建造了一个陷阱。我们让发电机超载，把它变成了一个临时的ARC陷阱。现在我听说掠夺者们用它来切断通讯，互相伏击。我需要你结束这一切。",
             "ja": "第一波の頃、私の分隊はダムのそばに罠を作った。発電機を過負荷にして、即席のARC罠に変えたんだ。今、レイダーたちがそれを使って通信を遮断し、お互いに待ち伏せをしていると聞いた。君に終わらせてほしい。",
@@ -6488,7 +6588,7 @@
                 "it": "Raggiungi Victory Ridge",
                 "uk": "Дістаньтеся до Переможного хребта",
                 "kr": "Victory Ridge에 도달하세요",
-                "ru": "Доберитесь до Победного хребта",
+                "ru": "Доберитесь до Хребта победы",
                 "zh-CN": "到达胜利岭",
                 "ja": "ビクトリー・リッジに向かう",
                 "tr": "Victory Ridge'e ulaşın",
@@ -6508,7 +6608,7 @@
                 "it": "Trova la vecchia trappola EMP",
                 "uk": "Знайдіть стару ЕМІ-пастку",
                 "kr": "오래된 EMP 함정을 찾으세요",
-                "ru": "Найдите старую ЭМИ-ловушку",
+                "ru": "Найдите старую электромагнитную ловушку",
                 "zh-CN": "找到旧的EMP陷阱",
                 "ja": "古いEMPトラップを見つける",
                 "tr": "Eski EMP tuzağını bulun",
@@ -6528,7 +6628,7 @@
                 "it": "Disattiva il primo interruttore di alimentazione",
                 "uk": "Вимкніть перший вимикач живлення",
                 "kr": "첫 번째 전원 스위치를 비활성화하세요",
-                "ru": "Отключите первый выключатель питания",
+                "ru": "Обесточьте первый переключатель",
                 "zh-CN": "禁用第一个电源开关",
                 "ja": "1~3つの電源スイッチを切る",
                 "tr": "İlk güç anahtarını devre dışı bırakın",
@@ -6548,7 +6648,7 @@
                 "it": "Disattiva il secondo interruttore di alimentazione",
                 "uk": "Вимкніть другий вимикач живлення",
                 "kr": "두 번째 전원 스위치를 비활성화하세요",
-                "ru": "Отключите второй выключатель питания",
+                "ru": "Обесточьте второй переключатель",
                 "zh-CN": "禁用第二个电源开关",
                 "ja": "EMPトラップを停止する",
                 "tr": "İkinci güç anahtarını devre dışı bırakın",
@@ -6568,7 +6668,7 @@
                 "it": "Disattiva il terzo interruttore di alimentazione",
                 "uk": "Вимкніть третій вимикач живлення",
                 "kr": "세 번째 전원 스위치를 비활성화하세요",
-                "ru": "Отключите третий выключатель питания",
+                "ru": "Обесточьте третий переключатель",
                 "zh-CN": "禁用第三个电源开关",
                 "ja": "3番目の電源スイッチを無効にする",
                 "tr": "Üçüncü güç anahtarını devre dışı bırakın",
@@ -6588,7 +6688,7 @@
                 "it": "Spegni la trappola EMP",
                 "uk": "Вимкніть ЕМІ-пастку",
                 "kr": "EMP 함정을 종료하세요",
-                "ru": "Отключите ЭМИ-ловушку",
+                "ru": "Отключите электромагнитную ловушку",
                 "zh-CN": "关闭EMP陷阱",
                 "ja": "EMP罠を停止する",
                 "tr": "EMP tuzağını kapatın",
@@ -6627,11 +6727,11 @@
     },
     {
         "id": "ss10x7",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "Switching the Supply",
             "de": "Umstellung der Versorgung",
-            "fr": "Changer l'approvisionnement",
+            "fr": "Problèmes d'alimentation",
             "es": "Cambiar el suministro",
             "pt": "Mudar o Abastecimento",
             "pl": "Zmiana zaopatrzenia",
@@ -6648,6 +6748,9 @@
             "sr": "Promena Snabdevanja",
             "hr": "Promjena Opskrbe"
         },
+        "map": [
+            "the_spaceport"
+        ],
         "trader": "Celeste",
         "description": {
             "en": "There is a reservoir beneath the Spaceport; if we manage to rout that water here, that should buy us time to deal with the contamination.",
@@ -6740,7 +6843,7 @@
             "en": "The Major's Footlocker",
             "de": "Die Truhe des Majors",
             "fr": "Le casier de la capitaine",
-            "es": "El baúl del mayor",
+            "es": "El baúl de la comandante",
             "pt": "O baú do major",
             "pl": "Kufer majora",
             "no": "Majorens fotskrin",
@@ -6827,7 +6930,7 @@
         ],
         "rewardItemIds": [
             {
-                "itemId": "launcher_ammo_blueprint",
+                "itemId": "hullcracker_blueprint",
                 "quantity": 1
             }
         ],
@@ -6852,7 +6955,7 @@
             "it": "Lo strumento giusto",
             "uk": "Правильний інструмент",
             "kr": "적절한 도구",
-            "ru": "Правильный инструмент",
+            "ru": "Подходящий инструмент",
             "zh-CN": "正确的工具",
             "ja": "正しい道具",
             "tr": "Doğru Araç",
@@ -6872,7 +6975,7 @@
             "da": "Du er en af de nyankomne, ikke? Jeg har brug for en frivillig til at teste denne forbedrede Ferro  den burde skære gennem ARC-panser som smør. Skyd nogle huller i et par maskiner og rapporter så tilbage.",
             "it": "Sei uno dei nuovi arrivati, giusto? Mi serve un volontario per provare questo Ferro potenziato  dovrebbe tagliare le armature ARC come il burro. Fai qualche buco in un paio di macchine e poi torna a riferire.",
             "uk": "Ти з новоприбулих, так? Мені потрібен доброволець, щоб випробувати це покращене Ferro  воно має різати броню ARC, як масло. Зроби кілька дірок у машинах і потім доповідь мені.",
-            "kr": "신참 중 한 명이지? 이 개량된 페로를 시험할 자원봉사가 필요하다. ARC 장갑을 버터처럼 잘라낼 수 있을 거다. 몇 대의 기계에 구멍을 내고 나서 보고하러 와라.",
+            "kr": "신참 중 한 명이지? 이 개량된 페로를 시험할 자원봉사가 필요하다. 아크 장갑을 버터처럼 잘라낼 수 있을 거다. 몇 대의 기계에 구멍을 내고 나서 보고하러 와라.",
             "ru": "Ты из новеньких, верно? Мне нужен доброволец, чтобы испытать этот улучшенный Ferro  он должен резать броню ARC как масло. Продырявь пару машин и потом доложи мне.",
             "zh-CN": "你是新来的人，对吧？我需要一个志愿者来测试这把升级版的Ferro——它应该能像切黄油一样切开ARC装甲。把几台机器打成筛子，然后回来向我汇报。",
             "ja": "新人の一人だな？ この改良型フェロを試してくれる志願者が必要だ。ARC装甲をバターのように切り裂けるはずだ。いくつかの機械に穴を開けて、後で報告に来い。",
@@ -6894,7 +6997,7 @@
                 "it": "Distruggi un Fireball",
                 "uk": "Знищте Вогняну кулю",
                 "kr": "파이어볼 파괴",
-                "ru": "Уничтожьте Огненный шар",
+                "ru": "Уничтожьте «Огнешар»",
                 "zh-CN": "摧毁火球",
                 "ja": "ファイアボールを破壊する",
                 "tr": "Bir Fireball'u yok et",
@@ -6914,7 +7017,7 @@
                 "it": "Distruggi un Hornet",
                 "uk": "Знищте Шершня",
                 "kr": "호넷 파괴",
-                "ru": "Уничтожьте Шершня",
+                "ru": "Уничтожьте «Шершня»",
                 "zh-CN": "摧毁大黄蜂",
                 "ja": "ホーネットを破壊する",
                 "tr": "Bir Hornet'i yok et",
@@ -6934,7 +7037,7 @@
                 "it": "Distruggi una torretta",
                 "uk": "Знищте турель",
                 "kr": "포탑 파괴",
-                "ru": "Уничтожьте турель",
+                "ru": "Уничтожьте «Турель»",
                 "zh-CN": "摧毁炮塔",
                 "ja": "タレットを破壊する",
                 "tr": "Bir Taret'i yok et",
@@ -7114,7 +7217,7 @@
             "it": "La Trifecta",
             "uk": "Трифекта",
             "kr": "삼관왕",
-            "ru": "Трифекта",
+            "ru": "Триада",
             "zh-CN": "三连胜",
             "ja": "トライフェクタ",
             "tr": "Üçlü Zafer",
@@ -7134,7 +7237,7 @@
             "da": "Efterretninger er fint nok, men det bringer os kun så langt. Hvis ARC virkelig nærmer sig, har jeg brug for, at hver Raider beviser, at de kan håndtere deres droner i kamp.",
             "it": "Le informazioni vanno bene, ma ci portano solo fino a un certo punto. Se ARC si sta davvero avvicinando, ho bisogno che ogni Raider dimostri di saper gestire i loro droni in combattimento.",
             "uk": "Розвідка — це добре, але вона допомагає лише до певної міри. Якщо ARC справді наближається, мені потрібно, щоб кожен Рейдер довів, що може впоратися з їхніми дронами в бою.",
-            "kr": "정보는 좋지만, 그것만으로는 한계가 있어. ARC가 정말로 접근하고 있다면, 모든 레이더가 전투에서 드론을 처리할 수 있다는 걸 증명해야 해.",
+            "kr": "정보는 좋지만, 그것만으로는 한계가 있어. 아크가 정말로 접근하고 있다면, 모든 레이더가 전투에서 드론을 처리할 수 있다는 걸 증명해야 해.",
             "ru": "Разведка — это хорошо, но она помогает лишь до определённой степени. Если ARC действительно приближается, мне нужно, чтобы каждый Рейдер доказал, что может справиться с их дронами в бою.",
             "zh-CN": "情报固然很好，但只能帮我们到这里。如果ARC真的逼近了，我需要每个掠夺者证明他们能在战斗中对付那些无人机。",
             "ja": "情報は重要だが、それだけでは限界がある。ARCが本当に迫っているなら、すべてのレイダーが戦闘でドローンを処理できることを証明する必要がある。",
@@ -7156,7 +7259,7 @@
                 "it": "Distruggi 2 Wasp",
                 "uk": "Знищити 2 Wasp",
                 "kr": "Wasp 2대 파괴",
-                "ru": "Уничтожить 2 Wasp",
+                "ru": "Уничтожьте «Осу»",
                 "zh-CN": "摧毁2个黄蜂",
                 "ja": "ワスプを破壊する",
                 "tr": "2 Wasp yok et",
@@ -7176,7 +7279,7 @@
                 "it": "Distruggi 2 Hornet",
                 "uk": "Знищити 2 Hornet",
                 "kr": "Hornet 2대 파괴",
-                "ru": "Уничтожить 2 Hornet",
+                "ru": "Уничтожьте «Шершня»",
                 "zh-CN": "摧毁2个大黄蜂",
                 "ja": "シャニのためにワスプドライバーを入手する",
                 "tr": "2 Hornet yok et",
@@ -7196,7 +7299,7 @@
                 "it": "Distruggi 2 Snitch",
                 "uk": "Знищити 2 Snitch",
                 "kr": "Snitch 2대 파괴",
-                "ru": "Уничтожить 2 Snitch",
+                "ru": "Уничтожьте «Стукача»",
                 "zh-CN": "摧毁2个告密者",
                 "ja": "ホーネットを破壊する",
                 "tr": "2 Snitch yok et",
@@ -7216,7 +7319,7 @@
                 "it": "Ottieni 2 Snitch Scanner per Shani",
                 "uk": "Отримати 2 Snitch Scanner для Шані",
                 "kr": "Shani를 위한 Snitch Scanner 2개 획득",
-                "ru": "Получить 2 Snitch Scanner для Шани",
+                "ru": "Добудьте сканер «Стукача» для Шани",
                 "zh-CN": "为莎妮获取2个告密者扫描仪",
                 "ja": "シャニのためにホーネットドライバーを入手する",
                 "tr": "Shani için 2 Snitch Scanner al",
@@ -7236,7 +7339,7 @@
                 "it": "Ottieni 2 Wasp Driver per Shani",
                 "uk": "Отримати 2 Wasp Driver для Шані",
                 "kr": "Shani를 위한 Wasp Driver 2개 획득",
-                "ru": "Получить 2 Wasp Driver для Шани",
+                "ru": "Добудьте для Шани драйвер «Осы»",
                 "zh-CN": "为莎妮获取2个黄蜂驱动器",
                 "ja": "スニッチを破壊する",
                 "tr": "Shani için 2 Wasp Driver al",
@@ -7256,7 +7359,7 @@
                 "it": "Ottieni 2 Hornet Driver per Shani",
                 "uk": "Отримати 2 Hornet Driver для Шані",
                 "kr": "Shani를 위한 Hornet Driver 2개 획득",
-                "ru": "Получить 2 Hornet Driver для Шани",
+                "ru": "Добудьте для Шани драйвер «Шершня»",
                 "zh-CN": "为莎妮获取2个大黄蜂驱动器",
                 "ja": "シャニのためスニッチスキャナを入手する",
                 "tr": "Shani için 2 Hornet Driver al",
@@ -7268,15 +7371,15 @@
         "requiredItemIds": [
             {
                 "itemId": "snitch_scanner",
-                "quantity": 1
+                "quantity": 2
             },
             {
                 "itemId": "wasp_driver",
-                "quantity": 1
+                "quantity": 2
             },
             {
                 "itemId": "hornet_driver",
-                "quantity": 1
+                "quantity": 2
             }
         ],
         "grantedItemIds": [
@@ -7311,7 +7414,7 @@
         "name": {
             "en": "Trash Into Treasure",
             "de": "Des einen Müll ist des anderen Schatz",
-            "fr": "Des déchets aux trésors",
+            "fr": "Déchets précieux",
             "es": "Basura valiosa",
             "pt": "Lixo em tesouro",
             "pl": "Ze śmieci w skarb",
@@ -7425,7 +7528,7 @@
         "name": {
             "en": "Tribute to Toledo",
             "de": "Tribut an Toledo",
-            "fr": "Tribut à Toledo",
+            "fr": "Hommage à Toledo",
             "es": "Tributo a Toledo",
             "pt": "Tributo a Toledo",
             "pl": "Trybut dla Toledo",
@@ -7569,7 +7672,7 @@
                 "da": "Gå til Nordlige Skyttegravstårn",
                 "it": "Vai alla Torre della Trincea Nord",
                 "uk": "Йдіть до Північної Траншейної Вежі",
-                "kr": "북쪽 참호 타워로 가기",
+                "kr": "북쪽 도랑 탑으로 가기",
                 "ru": "Отправляйтесь к Северной Траншейной Башне",
                 "zh-CN": "前往北方战壕塔",
                 "ja": "北トレンチタワーに行く",
@@ -7623,7 +7726,7 @@
     },
     {
         "id": "ss10q",
-        "updatedAt": "11/06/2025",
+        "updatedAt": "11/23/2025",
         "name": {
             "en": "Unexpected Initiative",
             "de": "Unerwartete Initiative",
@@ -7644,6 +7747,9 @@
             "sr": "Neočekivana inicijativa",
             "hr": "Neočekivana inicijativa"
         },
+        "map": [
+            "buried_city"
+        ],
         "trader": "Tian Wen",
         "description": {
             "en": "I'm setting up a greenhouse, to help boost our food production. I'm doing Celeste a solid, alright? That's all. But enough about that. I've got all the details worked out, but I'll need supplies, and I'm not hauling them alone.",
@@ -7677,7 +7783,7 @@
                 "da": "Nå Grandioso-lejlighederne i Buried City",
                 "it": "Raggiungi gli Appartamenti Grandioso in Buried City",
                 "uk": "Дістатися Апартаментів Грандіозо в Похованому Місті",
-                "kr": "매장된 도시의 그란디오소 아파트에 도달",
+                "kr": "파묻힌 도시의 그란디오소 아파트에 도달",
                 "ru": "Добраться до Апартаментов Грандиозо в Погребённом Городе",
                 "zh-CN": "到达埋没之城的格兰迪奥索公寓",
                 "ja": "埋もれた街のグランディオーソ・アパートに向かう",
@@ -7717,7 +7823,7 @@
                 "da": "Nå Piazza Roma i Buried City",
                 "it": "Raggiungi Piazza Roma in Buried City",
                 "uk": "Дістатися Площі Рома в Похованому Місті",
-                "kr": "매장된 도시의 피아자 로마에 도달",
+                "kr": "파묻힌 도시의 피아자 로마에 도달",
                 "ru": "Добраться до Пьяцца Рома в Погребённом Городе",
                 "zh-CN": "到达埋没之城的罗马广场",
                 "ja": "ピアッツァ・ローマにある壊れた屋上庭園で送水ポンプを探す",
@@ -8082,7 +8188,7 @@
         "name": {
             "en": "What Goes Around",
             "de": "Alles rächt sich",
-            "fr": "Tout finit par revenir",
+            "fr": "Qui sème le vent",
             "es": "Todo lo que va",
             "pt": "O que vai, volta",
             "pl": "Co się odwlecze",
@@ -8091,7 +8197,7 @@
             "it": "Ciò che gira",
             "uk": "Що посієш, те й пожнеш",
             "kr": "돌고 도는 것",
-            "ru": "Что посеешь, то и пожнёшь",
+            "ru": "Что посеешь...",
             "zh-CN": "周而复始",
             "ja": "巡り巡って",
             "tr": "Dönen Dolaplar",
@@ -8111,7 +8217,7 @@
             "da": "Vi kan ikke bygge ARC-teknologi fra bunden, men der er meget jeg kan pille ved fra de dele, du bjærger. Jeg forsøger i øjeblikket at genbruge forskellige ARC-dele. Vil du køre nogle eksperimenter for mig?",
             "it": "Non possiamo costruire tecnologia ARC da zero, ma c'è molto che posso armeggiare con i pezzi che recuperi. Sto attualmente cercando di riutilizzare diverse parti ARC. Ti dispiacerebbe fare alcuni esperimenti per me?",
             "uk": "Ми не можемо створити технології ARC з нуля, але я можу багато чого зробити з деталей, які ти здобудеш. Зараз я намагаюся переробити різні частини ARC. Не міг би ти провести для мене кілька експериментів?",
-            "kr": "ARC 기술을 처음부터 만들 수는 없지만, 네가 회수한 부품들로 손볼 수 있는 게 많아. 지금 다양한 ARC 부품들을 재활용하려고 하는 중이야. 나를 위해 실험 좀 해줄 수 있어?",
+            "kr": "아크 기술을 처음부터 만들 수는 없지만, 네가 회수한 부품들로 손볼 수 있는 게 많아. 지금 다양한 아크 부품들을 재활용하려고 하는 중이야. 나를 위해 실험 좀 해줄 수 있어?",
             "ru": "Мы не можем создать технологии ARC с нуля, но я могу многое сделать из деталей, которые ты добудешь. Сейчас я пытаюсь переделать различные части ARC. Не мог бы ты провести для меня несколько экспериментов?",
             "zh-CN": "我们无法从零开始制造ARC科技，但我可以用你回收的零件进行改造。我目前正在尝试改装不同的ARC部件。你能帮我做些实验吗？",
             "ja": "ARCの技術をゼロから作ることはできないが、君がサルベージした部品から色々と改造できる。今、様々なARCパーツの再利用を試みているんだ。いくつか実験を手伝ってくれないか？",
@@ -8132,7 +8238,7 @@
                 "da": "Ødelæg en hvilken som helst ARC-fjende ved at bruge en Fireball-brænder",
                 "it": "Distruggi qualsiasi nemico ARC usando un lanciafiamme Fireball",
                 "uk": "Знищити будь-якого ворога ARC за допомогою Fireball Burner",
-                "kr": "Fireball Burner를 사용하여 ARC 적 처치",
+                "kr": "Fireball Burner를 사용하여 아크 처치",
                 "ru": "Уничтожить любого врага ARC с помощью Fireball Burner",
                 "zh-CN": "使用火球燃烧器摧毁任意ARC敌人",
                 "ja": "ファイアボールバーナーを使ってARCを破壊する",
@@ -8176,7 +8282,7 @@
         "name": {
             "en": "What We Left Behind",
             "de": "Was wir zurückließen",
-            "fr": "Ce que nous avons laissé derrière",
+            "fr": "Ce que nous avons laissé derrière nous",
             "es": "Lo que dejamos atrás",
             "pt": "O que deixamos para trás",
             "pl": "Co zostawiliśmy za sobą",
@@ -8185,7 +8291,7 @@
             "it": "Ciò che abbiamo lasciato",
             "uk": "Те, що ми залишили",
             "kr": "우리가 남긴 것",
-            "ru": "То, что мы оставили",
+            "ru": "Следы прошлого",
             "zh-CN": "我们留下的东西",
             "ja": "置き残してきたもの",
             "tr": "Geride Bıraktıklarımız",
@@ -8193,6 +8299,11 @@
             "sr": "Šta Smo Ostavili",
             "hr": "Što Smo Ostavili"
         },
+        "map": [
+            "dam_battlegrounds",
+            "the_spaceport",
+            "buried_city"
+        ],
         "trader": "Tian Wen",
         "description": {
             "en": "Celeste told me you're the one who helped her hound me about pitching in more. I'll say this once: I don't appreciate the meddling, and I have my own reasons for refusing. I do, however, appreciate the scrap. Since you're apparently good at tracking it down, I may have a task for you.",
@@ -8226,7 +8337,7 @@
                 "da": "På Buried City, gennemsøg 2 containere i Raider-lejren under parkeringshuset",
                 "it": "A Città Sepolta, perquisisci 2 container nell'accampamento Raider sotto il parcheggio",
                 "uk": "У Похованому місті обшукати 2 контейнери в таборі Рейдерів під паркінгом",
-                "kr": "매장된 도시에서 주차장 아래 레이더 캠프의 컨테이너 2개 수색",
+                "kr": "파묻힌 도시에서 주차장 아래 레이더 캠프의 컨테이너 2개 수색",
                 "ru": "В Погребенном городе обыскать 2 контейнера в лагере Рейдеров под парковкой",
                 "zh-CN": "在掩埋之城，搜索停车场下方掠夺者营地的2个集装箱",
                 "ja": "埋もれた街で駐車ガレージの下にあるレイダーの野営地のコンテナを2個調べる",
@@ -8247,7 +8358,7 @@
                 "it": "A Campi di Battaglia della Diga, cerca qualcosa di significativo nell'avamposto della palude sud",
                 "kr": "댐 전장에서 남쪽 늪지 전초기지에서 중요한 물건 수색",
                 "uk": "На Полі бою біля дамби шукати щось значуще в Південному болотному форпості",
-                "ru": "На Поле боя у дамбы искать что-нибудь значимое в Южном болотном форпосте",
+                "ru": "Поищите что-нибудь полезное в аванпосте на южном болоте на поле битвы у дамбы",
                 "zh-CN": "在大坝战场，在南部沼泽前哨站搜索任何重要物品",
                 "ja": "ダム戦場にある南の沼の拠点で重要物を探す",
                 "tr": "Baraj Savaş Alanı'nda, Güney Bataklık Karakolu'nda önemli bir şey ara",
@@ -8267,7 +8378,7 @@
                 "it": "A Spazioporto, cerca qualcosa di significativo nel nascondiglio di Bilguun, accanto al deposito container",
                 "uk": "У Космопорту шукати щось значуще в Схованці Білгууна, біля складу контейнерів",
                 "kr": "우주 정거장에서 컨테이너 보관소 옆 빌군의 은신처에서 중요한 물건 수색",
-                "ru": "В Космопорту искать что-нибудь значимое в Убежище Билгууна, рядом с контейнерным складом",
+                "ru": "Поищите что-нибудь полезное в убежище Бильгуна рядом с хранилищем контейнеров в космопорте",
                 "zh-CN": "在太空港，在集装箱仓库旁边的比尔贡藏身处搜索任何重要物品",
                 "ja": "宇宙港のコンテナ保管庫の隣にあるビルグーンの隠れ家で重要物を探す",
                 "tr": "Uzay Limanı'nda, Konteyner Deposu'nun yanındaki Bilguun'un Sığınağı'nda önemli bir şey ara",
@@ -8305,7 +8416,7 @@
             "en": "With a Trace",
             "de": "Mit einer Spur",
             "fr": "Avec une trace",
-            "es": "Con un rastro",
+            "es": "Buscando un rastro",
             "pt": "Com um rastro",
             "pl": "Ze śladem",
             "no": "Med et spor",
@@ -8313,7 +8424,7 @@
             "it": "Con una traccia",
             "uk": "Зі слідом",
             "kr": "흔적과 함께",
-            "ru": "Со следом",
+            "ru": "По горячим следам",
             "zh-CN": "追寻踪迹",
             "ja": "痕跡と共に",
             "tr": "Bir İzle",
@@ -8355,7 +8466,7 @@
                 "it": "Raggiungi la radura brulla",
                 "uk": "Дістатися до Порожньої Галявини",
                 "kr": "황량한 공터에 도달하기",
-                "ru": "Добраться до Пустынной Поляны",
+                "ru": "Доберитесь до пустыря",
                 "zh-CN": "到达荒芜空地",
                 "ja": "荒涼とした空き地に到達する",
                 "tr": "Çorak Açıklığa Ulaş",
@@ -8374,7 +8485,7 @@
                 "da": "Find tegn på, hvem der skød ARC-maskinerne ned",
                 "it": "Trova segni di chi ha abbattuto le macchine ARC",
                 "uk": "Знайти ознаки того, хто збив машини ARC",
-                "kr": "ARC 기계를 격추시킨 자의 흔적 찾기",
+                "kr": "아크 기계를 격추시킨 자의 흔적 찾기",
                 "ru": "Найти следы тех, кто сбил машины ARC",
                 "zh-CN": "寻找击落ARC机器的人的线索",
                 "ja": "ARCマシンを撃墜した者の痕跡を見つける",
@@ -8395,7 +8506,7 @@
                 "it": "Ispeziona il relitto adornato",
                 "uk": "Оглянути Прикрашені Уламки",
                 "kr": "장식된 잔해 조사하기",
-                "ru": "Осмотреть Украшенные Обломки",
+                "ru": "Осмотрите приукрашенные развалины",
                 "zh-CN": "检查装饰过的残骸",
                 "ja": "装飾された残骸を調べる",
                 "tr": "Süslenmiş Enkazı İncele",
@@ -8415,7 +8526,7 @@
                 "it": "Ispeziona il dispositivo di comunicazione",
                 "uk": "Оглянути пристрій зв'язку",
                 "kr": "통신 장치 조사하기",
-                "ru": "Осмотреть устройство связи",
+                "ru": "Осмотрите устройство связи",
                 "zh-CN": "检查通讯设备",
                 "ja": "通信装置を調べる",
                 "tr": "İletişim cihazını incele",
