@@ -172,6 +172,13 @@ function App() {
       const aValue = getSortValue(a, sortColumn);
       const bValue = getSortValue(b, sortColumn);
 
+      if (sortColumn == "rarity") {
+        const rarityOrder = { Common: 0, Uncommon: 1, Rare: 2, Epic: 3, Legendary: 4 };
+        const aOrder = rarityOrder[aValue as keyof typeof rarityOrder] ?? -1;
+        const bOrder = rarityOrder[bValue as keyof typeof rarityOrder] ?? -1;
+        return sortDirection === "asc" ? aOrder - bOrder : bOrder - aOrder;
+      }
+
       if (["value", "recyclesTo", "recycledFrom", "droppedBy", "recycleValue", "Quests", "WorkbenchUpgrades", "Projects"].includes(sortColumn)) {
         const aNum = parseInt(aValue) || 0;
         const bNum = parseInt(bValue) || 0;
