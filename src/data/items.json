@@ -2461,7 +2461,7 @@
       "bombardier_cell": 2,
       "burned_arc_circuitry": 2,
       "damaged_arc_motion_core": 2,
-      "damaged_arc_powercell": 2,
+      "damaged_arc_powercell": 1,
       "damaged_fireball_burner": 1,
       "damaged_hornet_driver": 2,
       "damaged_rocketeer_driver": 3,
@@ -8213,7 +8213,7 @@
     "value": 2000,
     "recyclesInto": {
       "sensors": 3,
-      "wires": 3
+      "wires": 2
     },
     "updatedAt": "12/07/2025",
     "description": {
@@ -8240,8 +8240,8 @@
     "stackSize": 3,
     "foundIn": "Security",
     "imageFilename": "https://cdn.arctracker.io/items/broken_handheld_radio.png",
-    "recycleValue": 2100,
-    "salvageValue": 2100,
+    "recycleValue": 1900,
+    "salvageValue": 1900,
     "recycledFrom": {},
     "salvagedFrom": {},
     "droppedBy": []
@@ -9523,7 +9523,7 @@
       "gas_grenade": 1,
       "gas_mine": 1,
       "household_cleaner": 11,
-      "impure_arc_coolant": 13,
+      "impure_arc_coolant": 12,
       "industrial_battery": 7,
       "laboratory_reagents": 2,
       "light_impact_grenade": 1,
@@ -11629,7 +11629,7 @@
     "rarity": "Common",
     "value": 293,
     "recyclesInto": {
-      "arc_alloy": 2
+      "arc_alloy": 1
     },
     "salvagesInto": {
       "metal_parts": 1
@@ -11639,7 +11639,7 @@
     "foundIn": "ARC",
     "updatedAt": "11/10/2025",
     "imageFilename": "https://cdn.arctracker.io/items/damaged_arc_powercell.png",
-    "recycleValue": 400,
+    "recycleValue": 200,
     "salvageValue": 75,
     "recycledFrom": {},
     "salvagedFrom": {},
@@ -14236,7 +14236,7 @@
     "rarity": "Legendary",
     "value": 5000,
     "weightKg": 0,
-    "imageFilename": "https://cdn.arctracker.io/items/explosive_mine_blueprint.png",
+    "imageFilename": "https://cdn.arctracker.io/items/explosive_mine.png",
     "updatedAt": "12/07/2025",
     "recycleValue": 0,
     "salvageValue": 0,
@@ -16061,13 +16061,13 @@
     },
     "recyclesInto": {
       "metal_parts": 4,
-      "simple_gun_parts": 3
+      "rubber_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
     "updatedAt": "11/24/2025",
     "isWeapon": true,
-    "recycleValue": 1290,
-    "salvageValue": 1290,
+    "recycleValue": 450,
+    "salvageValue": 450,
     "recycledFrom": {},
     "salvagedFrom": {},
     "droppedBy": []
@@ -20186,7 +20186,7 @@
     "type": "Blueprint",
     "value": 5000,
     "weightKg": 0,
-    "imageFilename": "https://cdn.arctracker.io/items/hullcracker_blueprint.png",
+    "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
     "rarity": "Legendary",
     "updatedAt": "11/16/2025",
     "recycleValue": 0,
@@ -21934,7 +21934,7 @@
     "type": "Recyclable",
     "value": 640,
     "recyclesInto": {
-      "chemicals": 13
+      "chemicals": 12
     },
     "description": {
       "en": "Can be recycled into crafting materials.",
@@ -21961,8 +21961,8 @@
     "stackSize": 3,
     "imageFilename": "https://cdn.arctracker.io/items/impure_arc_coolant.png",
     "updatedAt": "10/30/2025",
-    "recycleValue": 650,
-    "salvageValue": 650,
+    "recycleValue": 600,
+    "salvageValue": 600,
     "recycledFrom": {},
     "salvagedFrom": {},
     "droppedBy": []
@@ -23578,60 +23578,6 @@
         "name": "Bombardier"
       }
     ]
-  },
-  {
-    "id": "launcher_ammo_blueprint",
-    "name": {
-      "en": "Launcher Ammo (Hullcracker) Blueprint",
-      "de": "Bauplan: Werfermunition (Hüllenbrecher)",
-      "fr": "Schéma de Munitions de Lanceur (Brise-fuselage)",
-      "es": "Plano de munición de lanzador (Partecascos)",
-      "pt": "Projeto de munição de lançador (Hullcracker)",
-      "pl": "Projekt amunicji do wyrzutni (Hullcracker)",
-      "no": "Kastervåpen-ammunisjon (Hullcracker) tegning",
-      "da": "Kastervåben-ammunition (Hullcracker) tegning",
-      "it": "Progetto munizioni lanciatore (Hullcracker)",
-      "ru": "Чертёж боеприпасов для гранатомёта (Hullcracker)",
-      "ja": "ランチャー弾薬（ハルクラッカー）設計図",
-      "zh-TW": "發射器彈藥（Hullcracker）藍圖",
-      "uk": "Креслення боєприпасів для гранатомета (Hullcracker)",
-      "zh-CN": "发射器弹药（Hullcracker）蓝图",
-      "kr": "발사기 탄약 (헐크래커) 설계도",
-      "tr": "Fırlatıcı Mühimmatı (Hullcracker) Planı",
-      "hr": "Nacrt za streljivo bacača (Hullcracker)",
-      "sr": "Nacrt za streljivo bacača (Hullcracker)"
-    },
-    "description": {
-      "en": "Anti-ARC payloads used mainly by the Hullcracker.",
-      "de": "Anti-ARC-Munition, wird hauptsächlich für den Hüllenbrecher verwendet. Kompatibel mit: Hüllenbrecher",
-      "fr": "Charges anti-ARC utilisées principalement par le Brise-fuselage.",
-      "es": "Cargas anti-ARC usadas principalmente por el Partecascos.",
-      "pt": "Cargas anti-ARC usadas principalmente pelo Hullcracker.",
-      "pl": "Ładunki przeciw-ARC używane głównie przez Hullcracker.",
-      "no": "Anti-ARC-nyttelast brukt hovedsakelig av Hullcracker.",
-      "da": "Anti-ARC-nyttelast brugt hovedsageligt af Hullcracker.",
-      "it": "Carichi anti-ARC usati principalmente dall'Hullcracker.",
-      "ru": "Противо-ARC боеголовки, используемые в основном Hullcracker.",
-      "ja": "主にHullcrackerが使用する対ARC弾頭。",
-      "zh-TW": "主要由 Hullcracker 使用的反 ARC 彈頭。",
-      "uk": "Протиборонні боєголовки, що використовуються в основному Hullcracker.",
-      "zh-CN": "主要由 Hullcracker 使用的反 ARC 弹头。",
-      "kr": "주로 헐크래커가 사용하는 대 아크 탄두.",
-      "tr": "Esas olarak Hullcracker tarafından kullanılan Anti-ARC yükleri.",
-      "hr": "Anti-ARC projektili koje uglavnom koristi Hullcracker.",
-      "sr": "Anti-ARC projektili koje uglavnom koristi Hullcracker."
-    },
-    "type": "Blueprint",
-    "value": 5000,
-    "weightKg": 0,
-    "imageFilename": "https://cdn.arctracker.io/items/launcher_ammo_blueprint.png",
-    "rarity": "Legendary",
-    "updatedAt": "11/12/2025",
-    "recycleValue": 0,
-    "salvageValue": 0,
-    "recycledFrom": {},
-    "salvagedFrom": {},
-    "droppedBy": []
   },
   {
     "id": "leaper_pulse_unit",
@@ -25677,7 +25623,8 @@
       "microscope": 3,
       "ripped_safety_vest": 1,
       "ruined_tactical_vest": 1,
-      "snap_blast_grenade": 1
+      "snap_blast_grenade": 1,
+      "tactical_mk2": 1
     },
     "salvagedFrom": {
       "industrial_magnet": 2
@@ -27003,7 +26950,7 @@
     },
     "type": "Recyclable",
     "rarity": "Rare",
-    "value": 1000,
+    "value": 2000,
     "weightKg": 3,
     "foundIn": "Mechanical",
     "recyclesInto": {
@@ -29273,7 +29220,7 @@
     "value": 5000,
     "weightKg": 0,
     "rarity": "Legendary",
-    "imageFilename": "https://cdn.arctracker.io/items/padded_stock_blueprint.png",
+    "imageFilename": "https://cdn.arctracker.io/items/padded_stock.png",
     "updatedAt": "11/19/2025",
     "recycleValue": 0,
     "salvageValue": 0,
@@ -30257,7 +30204,6 @@
       "looting_mk3_survivor": 1,
       "projector": 1,
       "rotary_encoder": 2,
-      "tactical_mk2": 1,
       "tactical_mk3_defensive": 1,
       "tactical_mk3_healing": 1,
       "telemetry_transceiver": 1,
@@ -32847,7 +32793,7 @@
     },
     "type": "Recyclable",
     "rarity": "Uncommon",
-    "value": 640,
+    "value": 1000,
     "recyclesInto": {
       "durable_cloth": 1,
       "magnet": 1
@@ -33409,6 +33355,7 @@
       "electrical_components": 3,
       "expired_respirator": 8,
       "ferro_i": 1,
+      "ferro_ii": 3,
       "gas_grenade": 1,
       "gas_mine": 1,
       "hairpin_i": 1,
@@ -36164,7 +36111,6 @@
       "burletta_iii": 3,
       "burletta_iv": 4,
       "complex_gun_parts": 3,
-      "ferro_ii": 3,
       "ferro_iii": 1,
       "ferro_iv": 2,
       "hairpin_iii": 1,
@@ -39733,15 +39679,15 @@
     "weightKg": 2,
     "recyclesInto": {
       "advanced_electrical_components": 1,
-      "processor": 1
+      "magnet": 1
     },
     "recipe": {
       "electrical_components": 2,
       "magnet": 3
     },
     "craftBench": "equipment_bench",
-    "recycleValue": 2250,
-    "salvageValue": 2250,
+    "recycleValue": 2050,
+    "salvageValue": 2050,
     "recycledFrom": {},
     "salvagedFrom": {},
     "droppedBy": []
@@ -40499,7 +40445,7 @@
     "rarity": "Legendary",
     "value": 5000,
     "weightKg": 0,
-    "imageFilename": "https://cdn.arctracker.io/items/tempest_blueprint.png",
+    "imageFilename": "https://cdn.arctracker.io/items/tempest.png",
     "updatedAt": "12/07/2025",
     "recycleValue": 0,
     "salvageValue": 0,
@@ -40661,8 +40607,9 @@
     "value": 13000,
     "weightKg": 11,
     "recipe": {
-      "advanced_mechanical_components": 2,
-      "medium_gun_parts": 1
+      "exodus_modules": 2,
+      "magnetic_accelerator": 1,
+      "medium_gun_parts": 3
     },
     "recyclesInto": {
       "advanced_mechanical_components": 2,
@@ -44307,7 +44254,7 @@
       "sr": "Medicinski predmet koji obnavlja veliku količinu zdravlja."
     },
     "type": "Quick Use",
-    "value": 2000,
+    "value": 2200,
     "rarity": "Rare",
     "weightKg": 0.4,
     "stackSize": 3,
@@ -45995,7 +45942,7 @@
     "recycledFrom": {
       "advanced_electrical_components": 1,
       "advanced_mechanical_components": 1,
-      "broken_handheld_radio": 3,
+      "broken_handheld_radio": 2,
       "broken_taser": 2,
       "compensator_ii": 1,
       "compensator_iii": 2,
