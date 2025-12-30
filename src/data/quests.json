@@ -6,7 +6,7 @@
             "en": "After Rain Comes",
             "de": "Nach dem Regen kommt",
             "fr": "Ensoleillement",
-            "es": "Después de la lluvia viene",
+            "es": "Tras la tormenta",
             "pt": "Depois da chuva vem",
             "pl": "Po deszczu przychodzi",
             "no": "Etter regnet kommer",
@@ -123,7 +123,9 @@
         "previousQuestIds": [
             "ss10s"
         ],
-        "nextQuestIds": []
+        "nextQuestIds": [
+            "ss10x4"
+        ]
     },
     {
         "id": "ss10x20",
@@ -361,9 +363,9 @@
         ],
         "nextQuestIds": [
             "ss5a",
-            "ss6",
             "ss7",
-            "ss8"
+            "ss8",
+            "12_in_my_image"
         ]
     },
     {
@@ -1712,10 +1714,10 @@
         ],
         "xp": 0,
         "previousQuestIds": [
-            "ss10t"
+            "ss10t",
+            "ss10s"
         ],
         "nextQuestIds": [
-            "ss10s",
             "ss10z"
         ]
     },
@@ -2751,10 +2753,11 @@
         ],
         "xp": 0,
         "previousQuestIds": [
-            "ss10y",
             "ss11b"
         ],
-        "nextQuestIds": []
+        "nextQuestIds": [
+            "ss10x5"
+        ]
     },
     {
         "id": "deciphering_the_data",
@@ -3338,7 +3341,7 @@
         ],
         "xp": 0,
         "previousQuestIds": [
-            "ss5"
+            "ss5a"
         ],
         "nextQuestIds": [
             "ss9"
@@ -4261,7 +4264,9 @@
             }
         ],
         "xp": 0,
-        "previousQuestIds": [],
+        "previousQuestIds": [
+            "deciphering_the_data"
+        ],
         "nextQuestIds": []
     },
     {
@@ -4344,7 +4349,9 @@
         "previousQuestIds": [
             "ss5"
         ],
-        "nextQuestIds": []
+        "nextQuestIds": [
+            "ss6"
+        ]
     },
     {
         "id": "ss10n",
@@ -4476,7 +4483,9 @@
         "previousQuestIds": [
             "ss10m"
         ],
-        "nextQuestIds": []
+        "nextQuestIds": [
+            "ss10q"
+        ]
     },
     {
         "id": "ss10x5",
@@ -4701,7 +4710,9 @@
             }
         ],
         "xp": 0,
-        "previousQuestIds": [],
+        "previousQuestIds": [
+            "ss5"
+        ],
         "nextQuestIds": [
             "12_cold_storage"
         ]
@@ -7550,7 +7561,9 @@
             }
         ],
         "xp": 0,
-        "previousQuestIds": [],
+        "previousQuestIds": [
+            "ss11bx"
+        ],
         "nextQuestIds": []
     },
     {
@@ -8092,7 +8105,9 @@
             }
         ],
         "xp": 0,
-        "previousQuestIds": [],
+        "previousQuestIds": [
+            "a_toxic_trail"
+        ],
         "nextQuestIds": []
     },
     {
@@ -8832,7 +8847,7 @@
             "en": "Untended Garden",
             "de": "Ungepflegter Garten",
             "fr": "Jardin abandonné",
-            "es": "Jardín descuidado",
+            "es": "Jardín desatendido",
             "pt": "Jardim abandonado",
             "pl": "Zaniedbany ogród",
             "no": "Forsømt hage",
@@ -9075,9 +9090,11 @@
         ],
         "xp": 0,
         "previousQuestIds": [
-            "ss10x3"
+            "ss10x3",
+            "ss10y"
         ],
         "nextQuestIds": [
+            "ss10x5",
             "ss10x6"
         ]
     },
