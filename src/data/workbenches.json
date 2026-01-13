@@ -2,24 +2,26 @@
     {
         "id": "equipment_bench",
         "name": {
-            "en": "Gear Bench",
-            "de": "Ausrüstungsbank",
-            "fr": "Établi à matériel",
-            "es": "Banco de equipo",
-            "pt": "Bancada de equipamento",
-            "pl": "Stół ekwipunku",
-            "no": "Utstyrsbenk",
             "da": "Udstyrsbænk",
-            "ru": "Верстак для снаряжения",
-            "ja": "装備台",
-            "it": "Banco Equipaggiamento",
-            "kr": "장비 작업대",
-            "zh-CN": "装备工作台",
-            "zh-TW": "裝備工作台",
-            "uk": "Спорядження",
-            "tr": "Ekipman Tezgahı",
+            "de": "Ausrüstungsbank",
+            "en": "Gear Bench",
+            "es": "Banco de equipo",
+            "fr": "Établi à matériel",
+            "he": "עמדת ציוד",
             "hr": "Stol za Opremu",
-            "sr": "Sto za Opremu"
+            "it": "Banco Equipaggiamento",
+            "ja": "装備ベンチ",
+            "kr": "장비 작업대",
+            "no": "Utstyrsbenk",
+            "pl": "Stół ekwipunku",
+            "pt": "Bancada de equipamento",
+            "pt-BR": "Bancada de Equipamento",
+            "ru": "Верстак для снаряжения",
+            "sr": "Sto za Opremu",
+            "tr": "Ekipman Tezgahı",
+            "uk": "Спорядження",
+            "zh-CN": "装备工作台",
+            "zh-TW": "裝備工作台"
         },
         "maxLevel": 3,
         "levels": [
@@ -75,24 +77,26 @@
     {
         "id": "explosives_bench",
         "name": {
-            "en": "Explosives Station",
-            "de": "Sprengstoffstation",
-            "fr": "Station à explosifs",
-            "es": "Estación de explosivos",
-            "pt": "Estação de explosivos",
-            "pl": "Stacja materiałów wybuchowych",
-            "no": "Eksplosivstasjon",
             "da": "Sprængstofstation",
-            "ru": "Верстак для взрывчатки",
-            "ja": "爆発物ステーション",
-            "it": "Stazione Esplosivi",
-            "kr": "폭발물 스테이션",
-            "zh-CN": "爆炸物工作站",
-            "zh-TW": "爆裂物工作站",
-            "uk": "Станція вибухівки",
-            "tr": "Patlayıcı İstasyonu",
+            "de": "Sprengstoffstation",
+            "en": "Explosives Station",
+            "es": "Estación de explosivos",
+            "fr": "Station à explosifs",
+            "he": "עמדת חומרי נפץ",
             "hr": "Stanica za eksploziv",
-            "sr": "Stanica za eksploziv"
+            "it": "Stazione Esplosivi",
+            "ja": "爆発物ステーション",
+            "kr": "폭발물 스테이션",
+            "no": "Eksplosivstasjon",
+            "pl": "Stacja materiałów wybuchowych",
+            "pt": "Estação de explosivos",
+            "pt-BR": "Estação de Explosivos",
+            "ru": "Верстак для взрывчатки",
+            "sr": "Stanica za eksploziv",
+            "tr": "Patlayıcı İstasyonu",
+            "uk": "Станція вибухівки",
+            "zh-CN": "爆炸物工作站",
+            "zh-TW": "爆裂物工作站"
         },
         "maxLevel": 3,
         "levels": [
@@ -148,24 +152,26 @@
     {
         "id": "med_station",
         "name": {
-            "en": "Medical Lab",
-            "de": "Medizinisches Labor",
-            "fr": "Laboratoire Médical",
-            "es": "Laboratorio médico",
-            "pt": "Laboratório médico",
-            "pl": "Laboratorium medyczne",
-            "no": "Medisinsk laboratorium",
             "da": "Medicinsk laboratorium",
-            "ru": "Медицинская лаборатория",
-            "ja": "医療ラボ",
-            "it": "Laboratorio Medico",
-            "kr": "의약품 연구실",
-            "zh-CN": "医疗站",
-            "zh-TW": "醫療站",
-            "uk": "Медична лабораторія",
-            "tr": "Tıbbi Laboratuvar",
+            "de": "Medizinisches Labor",
+            "en": "Medical Lab",
+            "es": "Laboratorio médico",
+            "fr": "Laboratoire Médical",
+            "he": "מעבדה רפואית",
             "hr": "Medicinski Laboratorij",
-            "sr": "Medicinska Laboratorija"
+            "it": "Laboratorio Medico",
+            "ja": "医療ラボ",
+            "kr": "의약품 연구실",
+            "no": "Medisinsk laboratorium",
+            "pl": "Laboratorium medyczne",
+            "pt": "Laboratório médico",
+            "pt-BR": "Laboratório Médico",
+            "ru": "Медицинская лаборатория",
+            "sr": "Medicinska Laboratorija",
+            "tr": "Tıbbi Laboratuvar",
+            "uk": "Медична лабораторія",
+            "zh-CN": "医疗站",
+            "zh-TW": "醫療站"
         },
         "maxLevel": 3,
         "levels": [
@@ -221,24 +227,26 @@
     {
         "id": "refiner",
         "name": {
-            "en": "Refiner",
-            "de": "Veredler",
-            "fr": "Raffineur",
-            "es": "Refinería",
-            "pt": "Refinaria",
-            "pl": "Rafineria",
-            "no": "Raffineri",
             "da": "Raffinaderi",
-            "ru": "Очиститель",
-            "ja": "精製所",
-            "it": "Raffineria",
-            "kr": "가공기",
-            "zh-CN": "精炼站",
-            "zh-TW": "精煉站",
-            "uk": "Очисник",
-            "tr": "Rafine Ünitesi",
+            "de": "Veredler",
+            "en": "Refiner",
+            "es": "Refinería",
+            "fr": "Raffineur",
+            "he": "מזקק",
             "hr": "Rafinerija",
-            "sr": "Rafinerija"
+            "it": "Raffineria",
+            "ja": "精錬機",
+            "kr": "가공기",
+            "no": "Raffineri",
+            "pl": "Rafineria",
+            "pt": "Refinaria",
+            "pt-BR": "Refinador",
+            "ru": "Очиститель",
+            "sr": "Rafinerija",
+            "tr": "Rafine Ünitesi",
+            "uk": "Очисник",
+            "zh-CN": "精炼站",
+            "zh-TW": "精煉站"
         },
         "maxLevel": 3,
         "levels": [
@@ -294,24 +302,26 @@
     {
         "id": "scrappy",
         "name": {
-            "en": "Scrappy",
-            "de": "Scrappy",
-            "fr": "Coquillard",
-            "es": "Scrappy",
-            "pt": "Sucatinha",
-            "pl": "Scrappy",
-            "no": "Scrappy",
             "da": "Scrappy",
-            "ru": "Плюшкин",
-            "ja": "スクラップ屋",
-            "it": "Rottamaio",
-            "kr": "수탉 꼬꼬",
-            "zh-CN": "废品回收站",
-            "zh-TW": "廢品回收站",
-            "uk": "Старганщик",
-            "tr": "Hurda Tezgahı",
+            "de": "Scrappy",
+            "en": "Scrappy",
+            "es": "Scrappy",
+            "fr": "Coquillard",
+            "he": "סקראפי",
             "hr": "Otpadnik",
-            "sr": "Otpadnik"
+            "it": "Rottamaio",
+            "ja": "スクラッピー",
+            "kr": "수탉 꼬꼬",
+            "no": "Scrappy",
+            "pl": "Scrappy",
+            "pt": "Sucatinha",
+            "pt-BR": "Scrappy",
+            "ru": "Плюшкин",
+            "sr": "Otpadnik",
+            "tr": "Hurda Tezgahı",
+            "uk": "Старганщик",
+            "zh-CN": "废品回收站",
+            "zh-TW": "廢品回收站"
         },
         "maxLevel": 5,
         "levels": [
@@ -380,127 +390,131 @@
     {
         "id": "stash",
         "name": {
-            "en": "Stash",
-            "de": "Lager",
-            "fr": "Réserve",
-            "es": "Alijo",
-            "pt": "Esconderijo",
-            "pl": "Schowek",
-            "no": "Oppbevaring",
             "da": "Opbevaring",
+            "de": "Lager",
+            "en": "Stash",
+            "es": "Alijo",
+            "fr": "Réserve",
+            "he": "מחסן",
+            "hr": "Skladište",
             "it": "Deposito",
             "ja": "保管庫",
             "kr": "보관함",
-            "zh-CN": "储藏箱",
-            "zh-TW": "儲藏箱",
+            "no": "Oppbevaring",
+            "pl": "Schowek",
+            "pt": "Esconderijo",
+            "pt-BR": "Depósito",
             "ru": "Хранилище",
+            "sr": "Skladište",
             "tr": "Depo",
             "uk": "Схованка",
-            "hr": "Skladište",
-            "sr": "Skladište"
+            "zh-CN": "储藏箱",
+            "zh-TW": "儲藏箱"
         },
         "maxLevel": 10,
         "levels": [
             {
+                "description": "64 slots",
                 "level": 1,
-                "requirementItemIds": [],
-                "description": "64 slots"
+                "requirementItemIds": []
             },
             {
+                "description": "+24 slots (88 total)",
                 "level": 2,
-                "requirementItemIds": [],
                 "otherRequirements": [
                     "5000 Coins"
                 ],
-                "description": "+24 slots (88 total)"
+                "requirementItemIds": []
             },
             {
+                "description": "+24 slots (112 total)",
                 "level": 3,
-                "requirementItemIds": [],
                 "otherRequirements": [
                     "10000 Coins"
                 ],
-                "description": "+24 slots (112 total)"
+                "requirementItemIds": []
             },
             {
+                "description": "+24 slots (136 total)",
                 "level": 4,
-                "requirementItemIds": [],
                 "otherRequirements": [
                     "15000 Coins"
                 ],
-                "description": "+24 slots (136 total)"
+                "requirementItemIds": []
             },
             {
+                "description": "+24 slots (160 total)",
                 "level": 5,
-                "requirementItemIds": [],
                 "otherRequirements": [
                     "25000 Coins"
                 ],
-                "description": "+24 slots (160 total)"
+                "requirementItemIds": []
             },
             {
+                "description": "+24 slots (184 total)",
                 "level": 6,
-                "requirementItemIds": [],
                 "otherRequirements": [
                     "40000 Coins"
                 ],
-                "description": "+24 slots (184 total)"
+                "requirementItemIds": []
             },
             {
+                "description": "+24 slots (208 total)",
                 "level": 7,
-                "requirementItemIds": [],
                 "otherRequirements": [
                     "60000 Coins"
                 ],
-                "description": "+24 slots (208 total)"
+                "requirementItemIds": []
             },
             {
+                "description": "+24 slots (232 total)",
                 "level": 8,
-                "requirementItemIds": [],
                 "otherRequirements": [
                     "90000 Coins"
                 ],
-                "description": "+24 slots (232 total)"
+                "requirementItemIds": []
             },
             {
+                "description": "+24 slots (256 total)",
                 "level": 9,
-                "requirementItemIds": [],
                 "otherRequirements": [
                     "130000 Coins"
                 ],
-                "description": "+24 slots (256 total)"
+                "requirementItemIds": []
             },
             {
+                "description": "+24 slots (280 total)",
                 "level": 10,
-                "requirementItemIds": [],
                 "otherRequirements": [
                     "200000 Coins"
                 ],
-                "description": "+24 slots (280 total)"
+                "requirementItemIds": []
             }
         ]
     },
     {
         "id": "utility_bench",
         "name": {
-            "en": "Utility Station",
-            "de": "Gebrauchsgegenstand-Station",
-            "fr": "Station utilitaire",
-            "es": "Estación de utilidad",
-            "pt": "Estação utilitária",
-            "pl": "Stacja użytkowa",
-            "no": "Verktøystasjon",
             "da": "Værktøjsstation",
-            "ru": "Верстак для инструментов",
-            "ja": "ユーティリティステーション",
-            "it": "Stazione Utilità",
-            "kr": "유틸리티 스테이션",
-            "zh-CN": "实用工具站",
-            "zh-TW": "實用工具站",
-            "uk": "Станція спорядження",
-            "tr": "Ekipman İstasyonu",
+            "de": "Gebrauchsgegenstand-Station",
+            "en": "Utility Station",
+            "es": "Estación de utilidad",
+            "fr": "Station utilitaire",
+            "he": "עמדת עזרים",
             "hr": "Pomoćna stanica",
-            "sr": "Pomoćna stanica"
+            "it": "Stazione Utilità",
+            "ja": "ユーティリティステーション",
+            "kr": "유틸리티 스테이션",
+            "no": "Verktøystasjon",
+            "pl": "Stacja użytkowa",
+            "pt": "Estação utilitária",
+            "pt-BR": "Estação de Utilitários",
+            "ru": "Верстак для инструментов",
+            "sr": "Pomoćna stanica",
+            "tr": "Ekipman İstasyonu",
+            "uk": "Станція спорядження",
+            "zh-CN": "实用工具站",
+            "zh-TW": "實用工具站"
         },
         "maxLevel": 3,
         "levels": [
@@ -556,24 +570,26 @@
     {
         "id": "weapon_bench",
         "name": {
-            "en": "Gunsmith",
-            "de": "Waffenstation",
-            "fr": "Armurier",
-            "es": "Armero",
-            "pt": "Armeiro",
-            "pl": "Rusznikarz",
-            "no": "Våpenmaker",
             "da": "Våbensmed",
-            "ru": "Оружейный верстак",
-            "ja": "ガンスミス",
-            "it": "Armaiolo",
-            "kr": "총기 제작",
-            "zh-CN": "枪械工坊",
-            "zh-TW": "槍械工坊",
-            "uk": "Зброярня",
-            "tr": "Silah Tezgahı",
+            "de": "Waffenstation",
+            "en": "Gunsmith",
+            "es": "Armero",
+            "fr": "Armurier",
+            "he": "נשק",
             "hr": "Oružar",
-            "sr": "Oružar"
+            "it": "Armaiolo",
+            "ja": "ガンスミス",
+            "kr": "총기 제작",
+            "no": "Våpenmaker",
+            "pl": "Rusznikarz",
+            "pt": "Armeiro",
+            "pt-BR": "Armeiro",
+            "ru": "Оружейный верстак",
+            "sr": "Oružar",
+            "tr": "Silah Tezgahı",
+            "uk": "Зброярня",
+            "zh-CN": "枪械工坊",
+            "zh-TW": "槍械工坊"
         },
         "maxLevel": 3,
         "levels": [
@@ -629,24 +645,26 @@
     {
         "id": "workbench",
         "name": {
-            "en": "Workbench",
-            "de": "Werkbank",
-            "fr": "Établi",
-            "es": "Banco de trabajo",
-            "pt": "Bancada de trabalho",
-            "pl": "Stół warsztatowy",
-            "no": "Arbeidsbenk",
             "da": "Arbejdsbænk",
-            "ru": "Верстак",
-            "ja": "作業台",
-            "it": "Banco da Lavoro",
-            "kr": "작업대",
-            "zh-CN": "工作台",
-            "zh-TW": "工作台",
-            "uk": "Верстат",
-            "tr": "Çalışma Tezgahı",
+            "de": "Werkbank",
+            "en": "Workbench",
+            "es": "Banco de trabajo",
+            "fr": "Établi",
+            "he": "שולחן עבודה",
             "hr": "Radni Stol",
-            "sr": "Radni Sto"
+            "it": "Banco da Lavoro",
+            "ja": "ワークベンチ",
+            "kr": "작업대",
+            "no": "Arbeidsbenk",
+            "pl": "Stół warsztatowy",
+            "pt": "Bancada de trabalho",
+            "pt-BR": "Bancada de Trabalho",
+            "ru": "Верстак",
+            "sr": "Radni Sto",
+            "tr": "Çalışma Tezgahı",
+            "uk": "Верстат",
+            "zh-CN": "工作台",
+            "zh-TW": "工作台"
         },
         "maxLevel": 0,
         "levels": []
