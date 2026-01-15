@@ -57,7 +57,7 @@
             "no": "Jeg vet, jeg vet! Strømmen er nede i sektoren— Å, hei. En flom tok ut noen av solpanelene våre i den begravde byen, og generatorene holder bare så lenge. Gjør oss alle en tjeneste når du er der oppe, OK?",
             "pl": "Wiem, wiem! Prąd padł w sektorze— Och, hej. Gwałtowna powódź zniszczyła niektóre nasze panele słoneczne w Pogrzebanym Mieście, a generatory wytrzymają tylko przez pewien czas. Wyświadcz nam wszystkim przysługę, kiedy tam będziesz, dobrze?",
             "pt": "Eu sei, eu sei! A energia está fora no setor— Ah, oi. Uma enchente repentina destruiu alguns dos nossos painéis solares na cidade enterrada, e os geradores só aguentam por tanto tempo. Faça-nos um favor quando estiver lá em cima, OK?",
-            "pt-BR": "Eu sei, eu sei! A energia caiu no setor— Ah, oi. Uma inundação repentina acabou com alguns dos nossos painéis solares em Buried City, e os geradores só aguentam por um tempo. Quebra esse galho pra gente quando estiver lá em cima, beleza?",
+            "pt-BR": "Eu sei, eu sei! A energia caiu no setor— Ah, oi. Uma enchente relâmpago atingiu alguns dos nossos painéis solares na Cidade Soterrada, e os geradores não estão mais dando conta. Quebra essa pra gente quando estiver lá em cima, beleza?",
             "ru": "Я знаю, я знаю! Электричество отключилось в секторе— О, привет. Внезапное наводнение уничтожило несколько наших солнечных панелей в Погребённом Городе, а генераторы продержатся недолго. Окажи нам всем услугу, когда будешь там, ладно?",
             "sr": "Znam, znam! Struja je pala u sektoru— O, hej. Bujica je uništila neke naše solarne panele u Zatrpanom Gradu, a generatori mogu da izdrže samo određeno vreme. Učini nam svima uslugu kad budeš tamo gore, OK?",
             "tr": "Biliyorum, biliyorum! Sektörde elektrik kesildi— Ah, hey. Ani bir sel, Gömülü Şehir'deki güneş panellerimizden bazılarını yok etti ve jeneratörler de ancak bu kadar dayanabilir. Oraya çıktığında hepimize bir iyilik yap, tamam mı?",
@@ -80,7 +80,7 @@
                 "no": "Finn de oversvømte solpanelene i nærheten av Grandioso-leilighetene",
                 "pl": "Znajdź zalane panele słoneczne w pobliżu apartamentów Grandioso",
                 "pt": "Encontre os painéis solares inundados perto dos apartamentos Grandioso",
-                "pt-BR": "Encontre os painéis solares inundados perto dos Apartamentos Grandioso",
+                "pt-BR": "Encontre os painéis solares inundados perto do Condomínio Grandioso",
                 "ru": "Найдите затопленные солнечные панели рядом с Grandioso Apartments",
                 "sr": "Pronađi poplavljene solarne panele u blizini Grandioso Apartmana",
                 "tr": "Grandioso Apartmanları yakınındaki sular altında kalan güneş panellerini bul",
@@ -133,7 +133,7 @@
             "ss10x4"
         ],
         "videoUrl": "https://youtu.be/jP__SkIV-9E",
-        "updatedAt": "11/23/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10x20",
@@ -313,7 +313,7 @@
             "no": "En dårlig følelse",
             "pl": "Złe przeczucie",
             "pt": "Um mau pressentimento",
-            "pt-BR": "Um Mau Pressentimento",
+            "pt-BR": "Mal pressentimento",
             "ru": "Дурное предчувствие",
             "sr": "Loš Predosećaj",
             "tr": "Kötü Bir His",
@@ -336,7 +336,7 @@
             "no": "Selv den minste endringen i ARCs oppførsel kan bety katastrofe. Og det signalet du fanget opp? Vi har aldri avlyttet noe slikt før. Hvis de planlegger noe, må vi finne ut hva det er.",
             "pl": "Nawet najmniejsza zmiana w zachowaniu ARC może oznaczać katastrofę. A ten sygnał, który przechwyciliście? Nigdy wcześniej nie przechwyciliśmy czegoś takiego. Jeśli coś planują, musimy dowiedzieć się, co to jest.",
             "pt": "Até a menor mudança no comportamento da ARC pode significar uma catástrofe. E esse sinal que você captou? Nunca interceptamos algo assim antes. Se eles estão planejando algo, temos que descobrir o que é.",
-            "pt-BR": "Até a menor mudança no comportamento das ARC pode significar uma catástrofe. E aquele sinal que você captou? Nunca interceptamos nada parecido antes. Se elas estiverem planejando algo, temos que descobrir o que é.",
+            "pt-BR": "Qualquer mínima mudança no comportamento das ARCs pode significar um desastre. Sabe o sinal que você ouviu? Nunca captamos algo do tipo. Se elas estão tramando algo, temos que descobrir o que é.",
             "ru": "Даже малейшее изменение в поведении ARC может означать катастрофу. А тот сигнал, который ты перехватил? Мы никогда раньше не перехватывали ничего подобного. Если они что-то замышляют, мы должны выяснить, что именно.",
             "sr": "Čak i najmanja promena u ponašanju ARC-a može da znači katastrofu. A onaj signal koji si uhvatio? Nikada ranije nismo presreli nešto slično. Ako nešto planiraju, moramo da saznamo šta je to.",
             "tr": "ARC'nin davranışındaki en küçük değişiklik bile felakete yol açabilir. Peki ya yakaladığın o sinyal? Daha önce böyle bir şeyi hiç ele geçirmedik. Eğer bir şey planlıyorlarsa, bunun ne olduğunu öğrenmemiz gerek.",
@@ -359,7 +359,7 @@
                 "no": "Finn og søk gjennom en hvilken som helst ARC-sonde eller ARC-kurer",
                 "pl": "Znajdź i przeszukaj dowolną sondę ARC lub kuriera ARC",
                 "pt": "Encontre e reviste qualquer sonda ARC ou mensageiro ARC",
-                "pt-BR": "Encontre e vasculhe qualquer Sonda ARC ou Mensageiro ARC",
+                "pt-BR": "Encontre e vasculhe qualquer Sonda ARC ou Emissário ARC",
                 "ru": "Найдите и обыщите любой зонд ARC или доставщик ARC",
                 "sr": "Pronađite i pretražite bilo koju ARC Sondu ili ARC Kurira",
                 "tr": "Herhangi bir ARC Sondası veya ARC Kuryesi bul ve ara",
@@ -392,7 +392,7 @@
             "ss8",
             "12_in_my_image"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10x",
@@ -410,7 +410,7 @@
             "no": "En balansert høst",
             "pl": "Zrównoważone żniwa",
             "pt": "Uma colheita equilibrada",
-            "pt-BR": "Uma Colheita Equilibrada",
+            "pt-BR": "Uma colheita balanceada",
             "ru": "Сбалансированный урожай",
             "sr": "Uravnotežena žetva",
             "tr": "Dengeli Hasat",
@@ -436,7 +436,7 @@
             "no": "Matproduksjonen vår er endelig nok til å dekke våre grunnleggende behov, men det vi virkelig trenger nå er variasjon. Jeg har et spor på noen landbruksforskning fra før den Første Bølgen. Er du med?",
             "pl": "Nasza produkcja żywności w końcu wystarcza, by zaspokoić nasze podstawowe potrzeby, ale to, czego naprawdę teraz potrzebujemy, to różnorodność. Mam trop dotyczący badań rolniczych sprzed Pierwszej Fali. Jesteś na pokładzie?",
             "pt": "A nossa produção de alimentos finalmente é suficiente para satisfazer as nossas necessidades básicas, mas o que realmente precisamos agora é de variedade. Tenho uma pista sobre uma pesquisa agrícola de antes da Primeira Onda. Estás dentro?",
-            "pt-BR": "Nossa produção de alimentos finalmente é suficiente para atender às nossas necessidades básicas, mas o que realmente precisamos agora é variedade. Tenho uma pista sobre uma pesquisa agrícola de antes da Primeira Onda. Você topa?",
+            "pt-BR": "A nossa produção de alimentos finalmente atende as nossas necessidades básicas, mas agora precisamos de variedade. Fiquei sabendo de uma pesquisa agrícola da época anterior a Primeira Onda. Tem interesse?",
             "ru": "Наше производство продовольствия наконец достаточно для удовлетворения базовых потребностей, но то, что нам действительно нужно сейчас — это разнообразие. У меня есть зацепка по сельскохозяйственным исследованиям времён до Первой Волны. Ты с нами?",
             "sr": "Naša proizvodnja hrane je konačno dovoljna da zadovolji naše osnovne potrebe, ali ono što nam sada stvarno treba je raznovrsnost. Imam trag o nekim poljoprivrednim istraživanjima od pre Prvog Talasa. Jesi li za?",
             "tr": "Gıda üretimimiz nihayet temel ihtiyaçlarımızı karşılayacak kadar yeterli, ama şu anda gerçekten ihtiyacımız olan şey çeşitlilik. Birinci Dalga'dan önceki bazı tarımsal araştırmalar hakkında bir ipucum var. Katılıyor musun?",
@@ -481,7 +481,7 @@
                 "no": "Finn Lab 1 på øverste etasje over resepsjonen",
                 "pl": "Zlokalizuj Laboratorium 1 na górnym piętrze nad recepcją",
                 "pt": "Localiza o Laboratório 1 no piso superior acima da receção",
-                "pt-BR": "Localize o Lab 1 no andar superior, acima da recepção",
+                "pt-BR": "Encontre o Laboratório 1 no andar de cima da recepção",
                 "ru": "Найдите лабораторию 1 на верхнем этаже над стойкой регистрации",
                 "sr": "Pronađi Laboratoriju 1 na gornjem spratu iznad recepcije",
                 "tr": "Resepsiyonun üst katında 1 numaralı Laboratuvarı bul",
@@ -503,7 +503,7 @@
                 "no": "Let etter spor av landbruksprosjektet",
                 "pl": "Szukaj śladów projektu rolniczego",
                 "pt": "Procure por quaisquer vestígios do projeto agrícola",
-                "pt-BR": "Procure por quaisquer vestígios do projeto agrícola",
+                "pt-BR": "Procure por vestígios do projeto de pesquisa agrícola",
                 "ru": "Ищите любые следы сельскохозяйственного проекта",
                 "sr": "Potraži bilo kakve tragove poljoprivrednog projekta",
                 "tr": "Tarım projesinin herhangi bir izini ara",
@@ -534,7 +534,7 @@
             "ss10x2"
         ],
         "videoUrl": "https://youtu.be/VYI9tJsScmg",
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10",
@@ -552,7 +552,7 @@
             "no": "En bedre bruk",
             "pl": "Lepsze zastosowanie",
             "pt": "Um uso melhor",
-            "pt-BR": "Um Uso Melhor",
+            "pt-BR": "Bom uso",
             "ru": "Применение получше",
             "sr": "Bolja Upotreba",
             "tr": "Daha İyi Bir Kullanım",
@@ -581,7 +581,7 @@
             "no": "Vi mangler alt unntatt munner å mate, men likevel skyter Celeste verdifulle forsyninger opp i luften for at Raiders skal slåss om dem. Jeg er lei av å la de gode tingene gå til spille.",
             "pl": "Brakuje nam wszystkiego oprócz gęb do wykarmienia, a mimo to Celeste wystrzeliwuje cenne zapasy w powietrze, o które Raiders mogą się szarpać. Mam dość marnowania dobrych rzeczy.",
             "pt": "Estamos com falta de tudo, menos bocas para alimentar, mas a Celeste está lançando suprimentos preciosos no ar para os Raiders brigarem por eles. Cansei de deixar as coisas boas irem para o lixo.",
-            "pt-BR": "Estamos com falta de tudo, menos de bocas para alimentar, mas a Celeste continua lançando suprimentos preciosos no ar para os Raiders disputarem. Cansei de deixar coisa boa ser desperdiçada.",
+            "pt-BR": "Falta de tudo, menos bocas para alimentar. Ainda assim, a Celeste joga suprimentos preciosos pro alto pros Combatentes se estapearem. Cansei de desperdiçar coisas boas.",
             "ru": "Нам не хватает всего, кроме ртов, которые нужно кормить, но Селеста запускает ценные припасы в воздух, чтобы Рейдеры дрались за них. С меня хватит — не позволю добру пропадать зря.",
             "sr": "Nedostaje nam sve osimusta za hranjenje, a Celeste lansira dragocene zalihe u vazduh da se Rejderi otimaju oko njih. Dosta mi je da dopuštam da dobre stvari propadaju.",
             "tr": "Doyuracak ağız dışında her şey kıt, ama Celeste değerli malzemeleri havaya fırlatıp Akıncıların kapışmasını sağlıyor. İyi şeylerin boşa gitmesine daha fazla izin vermeyeceğim.",
@@ -604,7 +604,7 @@
                 "no": "Be om en forsyningsslipp fra en kallestasjon",
                 "pl": "Zamów zrzut zaopatrzenia ze stacji wywołania",
                 "pt": "Solicite um lançamento de suprimentos de uma estação de chamada",
-                "pt-BR": "Solicite uma Entrega de Suprimentos em uma Estação de Chamada",
+                "pt-BR": "Solicite uma Entrega de Suprimentos na Estação",
                 "ru": "Запросите ящик с припасами через станцию вызова",
                 "sr": "Zatraži Isporuku Zaliha sa Pozivne Stanice",
                 "tr": "Bir Çağrı İstasyonundan İkmal Paketi talep et",
@@ -656,7 +656,7 @@
         "nextQuestIds": [
             "ss10a"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss11",
@@ -674,7 +674,7 @@
             "no": "Et første fotfeste",
             "pl": "Pierwsza przyczółek",
             "pt": "Um primeiro ponto de apoio",
-            "pt-BR": "Um Primeiro Ponto de Apoio",
+            "pt-BR": "Primeiros Passos",
             "ru": "Первый плацдарм",
             "sr": "Prvo Uporište",
             "tr": "İlk Dayanak",
@@ -709,7 +709,7 @@
             "no": "Vi har nettopp fullført utvidelsen av Tube-nettverket mot den Blå Porten, og vi jobber fortsatt med resten. Mannskapet mitt har bygget ny infrastruktur rundt dalen for å beskytte våre Raiders, men den konstante ARC-trusselen har gjort det vanskelig å få noe gjort.",
             "pl": "Dopiero co skończyliśmy rozbudowę sieci Rur w kierunku Niebieskiej Bramy i wciąż pracujemy nad resztą. Moja ekipa buduje nową infrastrukturę wokół doliny, aby chronić naszych Rajderów, ale ciągłe zagrożenie ze strony ARC utrudnia wykonanie czegokolwiek.",
             "pt": "Acabamos de terminar de expandir a rede de Tubos em direção ao Portão Azul, e ainda estamos trabalhando no resto. Minha equipe tem construído nova infraestrutura ao redor do vale para proteger nossos Raiders, mas a constante ameaça da ARC tem dificultado fazer qualquer coisa.",
-            "pt-BR": "Mal acabamos de expandir a rede de Tubos em direção ao Blue Gate e ainda estamos trabalhando duro no resto. Minha equipe tem construído nova infraestrutura pelo vale para proteger nossos Raiders, mas a ameaça constante da ARC tem tornado difícil fazer qualquer coisa.",
+            "pt-BR": "A expansão da rede de Tubos até o Portão Azul acabou de ficar pronta e ainda estamos trabalhando no que falta. Minha equipe está construindo uma nova estrutura pelo vale pra proteger os Combatentes, só que as ameaças ARC tem dificultado tudo.",
             "ru": "Мы только что закончили расширение сети туннелей к Синим Воротам, и всё ещё работаем над остальным. Моя команда строит новую инфраструктуру по всей долине, чтобы защитить наших Рейдеров, но постоянная угроза ARC затрудняет выполнение любой работы.",
             "sr": "Upravo smo završili sa proširenjem mreže Tunela prema Plavoj Kapiji, i još uvek radimo na ostatku. Moja ekipa je gradila novu infrastrukturu oko doline da zaštiti naše Rejdere, ali stalna ARC pretnja je otežala obavljanje bilo čega.",
             "tr": "Tüp ağını Mavi Kapı'ya doğru genişletmeyi yeni bitirdik ve geri kalanı üzerinde hala çalışıyoruz. Ekibim, Akıncılarımızı korumak için vadi çevresinde yeni altyapı inşa ediyor, ancak sürekli ARC tehdidi bir şeyler halletmeyi zorlaştırıyor.",
@@ -732,7 +732,7 @@
                 "no": "Stabiliser observasjonsdekket nær åskammen",
                 "pl": "Ustabilizuj platformę obserwacyjną w pobliżu grzbietu",
                 "pt": "Estabilize o deck de observação perto da cordilheira",
-                "pt-BR": "Estabilize o deque de observação perto da Crista",
+                "pt-BR": "Estabilize a plataforma de observação perto da Linha de Crista",
                 "ru": "Стабилизируйте смотровую площадку у хребтов",
                 "sr": "Stabiliziraj posmatračku palubu blizu Grebena",
                 "tr": "Sırt Hattı yakınındaki gözlem güvertesini sabitle",
@@ -754,7 +754,7 @@
                 "no": "Aktiver kommunikasjonsterminalen nær olivenlunden",
                 "pl": "Włącz terminal komunikacyjny w pobliżu gaju oliwnego",
                 "pt": "Ative o terminal de comunicações perto do olival",
-                "pt-BR": "Ative o terminal de comunicação perto do Olival",
+                "pt-BR": "Ative o terminal de comunicações perto do Olival",
                 "ru": "Включите терминал связи у оливковой рощи",
                 "sr": "Aktiviraj komunikacijski terminal blizu Maslinika",
                 "tr": "Zeytin Korusu yakınındaki iletişim terminalini etkinleştir",
@@ -798,7 +798,7 @@
                 "no": "Spikre fast takplatene på Raider-strukturen nær Trapper's Glade",
                 "pl": "Przybij płyty dachowe na strukturze Rajderów w pobliżu polany traperów",
                 "pt": "Pregue as placas do telhado na estrutura Raider perto da clareira do caçador",
-                "pt-BR": "Pregue as placas do telhado na estrutura Raider perto da Clareira do Caçador",
+                "pt-BR": "Pregue as chapas do telhado na estrutura de Combatente perto da Clareira do Caçador",
                 "ru": "Закрепите крышу постройки рейдеров в прогалине зверолова",
                 "sr": "Zakucaj krovne ploče na Rejder strukturi blizu Traperovog Proplanka",
                 "tr": "Tuzakçı Açıklığı yakınındaki Akıncı yapısının çatı levhalarını çivile",
@@ -826,7 +826,7 @@
         "nextQuestIds": [
             "ss11a"
         ],
-        "updatedAt": "11/23/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10k",
@@ -1120,7 +1120,7 @@
             "no": "En avsløring i ruiner",
             "pl": "Odkrycie w ruinach",
             "pt": "Uma revelação nas ruínas",
-            "pt-BR": "Uma Revelação em Ruínas",
+            "pt-BR": "Revelação em ruínas",
             "ru": "Что скрывают развалины",
             "sr": "Otkrivanje u ruševinama",
             "tr": "Harabelerde Açığa Çıkan",
@@ -1146,7 +1146,7 @@
             "no": "Jeg fikk tak i en fancy ny ESR-analysator; hadde planlagt en stor avsløring. Ett øyeblikk er den her, neste øyeblikk – poff. Kan du hjelpe?",
             "pl": "Zdobyłem nowy, wymyślny analizator ESR; miałem zaplanowane wielkie odsłonięcie. W jednej chwili jest tutaj, w następnej – puf. Pomożesz?",
             "pt": "Consegui um novo e sofisticado analisador ESR; tinha toda uma grande revelação planejada. Num minuto está aqui, no próximo—puf. Pode ajudar?",
-            "pt-BR": "Consegui um novo analisador ESR sofisticado; tinha toda uma grande revelação planejada. Num minuto ele está aqui, no minuto seguinte... puf. Por favor, ajude?",
+            "pt-BR": "Arranjei um analisador VHS novinho e tinha até planejado fazer uma grande revelação. Ele estava bem aqui e depois... sumiu. Me ajuda, por favor?",
             "ru": "Я заполучил новенький ESR анализатор; планировал большую презентацию. Только что он был здесь, а в следующую минуту — пуф. Поможешь?",
             "sr": "Došao sam do novog ESR analizatora; imao sam planiran veliki trenutak otkrivanja. Jedan trenutak je tu, sledeći trenutak—nestao. Molim te, pomozi?",
             "tr": "Yeni bir ESR analizörü ele geçirdim; büyük bir tanıtım planlamıştım. Bir dakika buradaydı, sonraki dakika—yok oldu. Yardım eder misin?",
@@ -1169,7 +1169,7 @@
                 "no": "Søk etter en ESR-analysator inne i et apotek i den begravde byen",
                 "pl": "Poszukaj analizatora ESR w dowolnej aptece w Pogrzebanym Mieście",
                 "pt": "Procure por um analisador ESR dentro de qualquer farmácia na cidade enterrada",
-                "pt-BR": "Procure por um Analisador ESR dentro de qualquer farmácia na Cidade Soterrada",
+                "pt-BR": "Procure um Analisador VHS dentro de qualquer farmácia na Cidade Soterrada",
                 "ru": "Найдите ESR анализатор в любой аптеке Погребённого города",
                 "sr": "Pretražite ESR analizator u bilo kojoj apoteci u Zakopanom gradu",
                 "tr": "Gömülü Şehir'deki herhangi bir eczanede ESR Analizörü ara",
@@ -1191,7 +1191,7 @@
                 "no": "Lever ESR-analysatoren til Lance",
                 "pl": "Dostarcz analizator ESR do Lance'a",
                 "pt": "Entregue o analisador ESR para Lance",
-                "pt-BR": "Entregue o Analisador ESR para Lance",
+                "pt-BR": "Entregue o Analisador de VHS para Lance",
                 "ru": "Доставьте Лэнсу анализатор СОЭ",
                 "sr": "Dostavite ESR analizator Lance-u",
                 "tr": "ESR Analizörünü Lance'e teslim et",
@@ -1217,7 +1217,7 @@
         "nextQuestIds": [
             "ss10k"
         ],
-        "updatedAt": "11/23/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10r",
@@ -1261,7 +1261,7 @@
             "no": "Vet du, i gamle dager hadde vi faktisk et flagg - vel, en fille mer enn noe annet. Likevel, å se det betydde at du visste at du hadde allierte i nærheten, at du var på ditt eget territorium. Så jeg tenkte...",
             "pl": "Wiesz, kiedyś mieliśmy flagę - no cóż, raczej strzęp materiału niż cokolwiek innego. Mimo to, widząc ją wiedziałeś, że masz sojuszników w pobliżu, że jesteś na swoim terenie. Więc pomyślałem...",
             "pt": "Sabes, antigamente tínhamos uma bandeira - bem, mais um trapo do que outra coisa. Ainda assim, vê-la significava que sabias que tinhas aliados por perto, que estavas no teu próprio território. Então, estava a pensar...",
-            "pt-BR": "Sabe, antigamente a gente tinha uma bandeira... bem, era mais um pedaço de pano do que qualquer outra coisa. Ainda assim, vê-la significava que você tinha aliados por perto, que estava em seu próprio território. Então, eu estava pensando...",
+            "pt-BR": "Antigamente, a gente tinha uma bandeira de verdade. Bom, estava mais pra um pedaço de pano. Mesmo assim, ver aquilo significava que você tinha aliados por perto, que estava no seu próprio território. Então, eu estava pensando...",
             "ru": "Знаешь, раньше у нас был флаг - ну, скорее лоскут ткани, чем что-либо ещё. Но всё же, увидев его, ты знал, что рядом союзники, что ты на своей родной земле. Так вот, я подумал...",
             "sr": "Znaš, u stara vremena smo zapravo imali zastavu - pa, više komad tkanine nego bilo šta drugo. Ipak, videti je značilo da znaš da imaš saveznike u blizini, da si na svojoj teritoriji. Tako da, razmišljao sam...",
             "tr": "Biliyor musun, eskiden aslında bir bayrağımız vardı - şey, her şeyden çok bir bez parçası. Yine de onu görmek, yakınlarda müttefikleriniz olduğunu, kendi evinizde olduğunuzu bildiğiniz anlamına geliyordu. Bu yüzden düşünüyordum da...",
@@ -1284,7 +1284,7 @@
                 "no": "Nå Formicai-utposten i Dam Battlegrounds",
                 "pl": "Dotrzyj do placówki Formicai w Dam Battlegrounds",
                 "pt": "Chega ao posto avançado Formicai em Dam Battlegrounds",
-                "pt-BR": "Chegue ao Posto Avançado Formicai no Campo de Batalha da Represa",
+                "pt-BR": "Vá até o Posto Avançado Formicai nos Campos de Batalha da Represa",
                 "ru": "Добраться до Аванпоста Формикай на Дамбовых Полях Сражений",
                 "sr": "Stigni do Formicai ispostave u Ratištu brane",
                 "tr": "Baraj Savaş Alanı'ndaki Formicai Karakolu'na ulaş",
@@ -1361,7 +1361,7 @@
             "ss10v"
         ],
         "videoUrl": "https://www.youtube.com/watch?v=6Cb6aQWBt8U",
-        "updatedAt": "11/23/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "a_toxic_trail",
@@ -1742,7 +1742,7 @@
             "no": "Gjett hva? Shani ba meg hjelpe til med noe, og for en gangs skyld er jeg faktisk glad hun gjorde det. Vi setter opp nye utposter på overflaten! Eller planlegger å gjøre det, i det minste. Kan du tro det?",
             "pl": "Zgadnij co? Shani poprosiła mnie o pomoc w czymś i tym razem naprawdę się cieszę, że to zrobiła. Zakładamy nowe placówki na powierzchni! A przynajmniej to planujemy. Możesz w to uwierzyć?",
             "pt": "Adivinha? A Shani pediu-me para ajudar com algo, e pela primeira vez, estou realmente contente por ela ter pedido. Estamos a montar novos postos avançados na superfície! Ou pelo menos a planear fazê-lo. Consegues acreditar?",
-            "pt-BR": "Adivinha só? A Shani me pediu uma ajuda com uma coisa e, pela primeira vez, estou realmente feliz que ela tenha pedido. Estamos montando novos postos avançados na superfície! Ou, pelo menos, planejando. Dá para acreditar?",
+            "pt-BR": "Adivinha? A Shani me chamou pra ajudar com uma coisa e, pela primeira vez, eu até que fiquei feliz. Vamos montar novos postos avançados na superfície! Bom, estamos planejando, pelo menos. Acredita?",
             "ru": "Знаешь что? Шани попросила меня помочь с кое-чем, и на этот раз я действительно рада, что она это сделала. Мы устанавливаем новые аванпосты наверху! Ну, по крайней мере, планируем. Можешь в это поверить?",
             "sr": "Pogodi šta? Shani me je zamolila da pomognem oko nečega, i jednom prilikom, zaista sam srećna što je to učinila. Postavljamo nove isturene položaje na površini! Ili, bar planiramo. Možeš li da poveruješ?",
             "tr": "Bil bakalım ne oldu? Shani benden bir konuda yardım istedi ve bu sefer gerçekten memnun oldum. Yüzeyde yeni karakollar kuruyoruz! Ya da en azından kurmayı planlıyoruz. İnanabiliyor musun?",
@@ -1765,7 +1765,7 @@
                 "no": "På Dam Battlegrounds, merk Mønsterhuset",
                 "pl": "Na Dam Battlegrounds oznacz Dom Wzorów",
                 "pt": "Em Dam Battlegrounds, marca a Casa de Padrões",
-                "pt-BR": "Em Dam Battlegrounds, marque a Pattern House",
+                "pt-BR": "Nos Campos de Batalha da Represa, marque a Casa Desenhada",
                 "ru": "На Дамбовом поле боя отметить Дом Узоров",
                 "sr": "Na Ratištu Brane, označi Kuću Uzoraka",
                 "tr": "Baraj Savaş Alanında Desen Evini İşaretle",
@@ -1787,7 +1787,7 @@
                 "no": "På The Blue Gate, merk det hvite utkikkstårnet sør for lagerkomplekset",
                 "pl": "Na The Blue Gate oznacz białą wieżę obserwacyjną na południe od Kompleksu Magazynowego",
                 "pt": "Em The Blue Gate, marca a torre de vigia branca a sul do Complexo de Armazéns",
-                "pt-BR": "Em The Blue Gate, marque a torre de vigia branca ao sul do Complexo de Armazéns",
+                "pt-BR": "No Portão Azul, marque a torre de vigia branca ao sul do Complexo de Armazéns",
                 "ru": "На Синих Воротах отметить белую смотровую башню к югу от складского комплекса",
                 "sr": "Na Plavoj Kapiji, označi belu osmatračnicu južno od Skladišnog Kompleksa",
                 "tr": "Mavi Kapı'da Depo Kompleksinin güneyindeki beyaz gözetleme kulesini işaretle",
@@ -1809,7 +1809,7 @@
                 "no": "På Spaceport, merk Sør-Skyttergravstårnet",
                 "pl": "Na Spaceport oznacz Wieżę Południowego Rowu",
                 "pt": "Em Spaceport, marca a Torre da Trincheira Sul",
-                "pt-BR": "Em Spaceport, marque a Torre da Trincheira Sul",
+                "pt-BR": "No Espaçoporto, marque a Torre de Trincheira da Vala Sul",
                 "ru": "На Космопорту отметить Южную траншейную башню",
                 "sr": "Na Svemirskoj Luci, označi Južni Rovovski Toranj",
                 "tr": "Uzay Limanında Güney Siper Kulesini İşaretle",
@@ -1831,7 +1831,7 @@
                 "no": "På Buried City, merk bygningen med veggmaleriet i Buried Properties",
                 "pl": "Na Buried City oznacz budynek z muralem w Buried Properties",
                 "pt": "Em Buried City, marca o edifício com o mural nas Propriedades Enterradas",
-                "pt-BR": "Em Buried City, marque o prédio com o mural em Buried Properties",
+                "pt-BR": "Na Cidade Soterrada, marque o edifício com o mural em Propriedades Soterradas",
                 "ru": "В Погребённом городе отметить здание с фреской в Погребённых владениях",
                 "sr": "U Zakopanom Gradu, označi zgradu sa muralom u Zakopanim Posedima",
                 "tr": "Gömülü Şehirde Gömülü Mülklerdeki duvar resimli binayı işaretle",
@@ -1862,7 +1862,7 @@
         "nextQuestIds": [
             "ss10z"
         ],
-        "updatedAt": "12/29/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10x12",
@@ -2001,7 +2001,7 @@
             "no": "Ødelagt monument",
             "pl": "Zrujnowany pomnik",
             "pt": "Monumento quebrado",
-            "pt-BR": "Monumento Quebrado",
+            "pt-BR": "Monumento Danificado",
             "ru": "Поврежденный памятник",
             "sr": "Slomljeni Spomenik",
             "tr": "Kırık Anıt",
@@ -2041,7 +2041,7 @@
             "no": "Jeg har et annet spesielt sted jeg trenger at du søker gjennom for meg. En gammel slagmark, fra den første bølgen. Raiders pleier vanligvis å plyndre slike steder rene i dag, til tross for betydningen de en gang hadde. Folk glemmer raskt. Raskere enn de burde.",
             "pl": "Mam kolejne specjalne miejsce, które musisz dla mnie przeszukać. Stare pole bitwy z Pierwszej Fali. Najeźdźcy w dzisiejszych czasach zazwyczaj ogałacają takie miejsca, pomimo znaczenia, jakie kiedyś miały. Ludzie szybko zapominają. Szybciej niż powinni.",
             "pt": "Tenho outro local especial que preciso que você procure para mim. Um antigo campo de batalha, da Primeira Onda. Raiders hoje em dia geralmente limpam lugares como esse, apesar da importância que já tiveram. As pessoas esquecem rápido. Mais rápido do que deveriam.",
-            "pt-BR": "Tenho outro local especial que preciso que você vasculhe para mim. Um antigo campo de batalha, da Primeira Onda. Os saqueadores de hoje costumam limpar lugares assim, apesar do significado que já tiveram. As pessoas esquecem rápido. Mais rápido do que deveriam.",
+            "pt-BR": "Tenho outro local especial para você vasculhar. É um antigo campo de batalha da Primeira Onda. Os Combatentes de hoje em dia saqueiam esse tipo de lugar sem dó, apesar da importância que já tiveram. As pessoas esquecem rápido. Mais rápido do que deveriam.",
             "ru": "У меня есть еще одно особое место, которое мне нужно, чтобы ты обыскал. Старое поле боя, времен Первой волны. Рейдеры сейчас обычно подчищают такие места дочиста, несмотря на значение, которое они когда-то имели. Люди быстро забывают. Быстрее, чем следовало бы.",
             "sr": "Imam još jedno posebno mesto koje treba da pretražiš za mene. Staro bojno polje, iz Prvog Talasa. Pljačkaši danas obično očiste takva mesta, uprkos značaju koji su nekada imala. Ljudi brzo zaboravljaju. Brže nego što bi trebalo.",
             "tr": "Senin için araştırmanı istediğim başka bir özel yer var. İlk Dalga'dan kalma eski bir savaş alanı. Günümüzde Raider'lar, bir zamanlar taşıdıkları öneme rağmen genellikle böyle yerleri temizlerler. İnsanlar çabuk unutur. Unutmaları gerekenden daha çabuk.",
@@ -2064,7 +2064,7 @@
                 "no": "Nå de hellige grunnene ved skrapplassen",
                 "pl": "Dotrzyj do świętego miejsca przy złomowisku",
                 "pt": "Alcance o terreno sagrado perto do ferro-velho",
-                "pt-BR": "Chegue ao solo sagrado perto do Ferro-Velho",
+                "pt-BR": "Vá até os terrenos sagrados próximo ao Ferro-Velho",
                 "ru": "Доберитесь до памятного места рядом со свалкой металлолома",
                 "sr": "Stigni do svetog tla kod Otpada",
                 "tr": "Hurda Sahası'nın yanındaki kutsal alana ulaş",
@@ -2086,7 +2086,7 @@
                 "no": "Søk etter et kompass nær de ødelagte kjøretøyene",
                 "pl": "Poszukaj kompasu w pobliżu zepsutych pojazdów",
                 "pt": "Procure por uma bússola perto dos veículos quebrados",
-                "pt-BR": "Procure por uma bússola perto dos veículos quebrados",
+                "pt-BR": "Procure uma bússola perto dos veículos danificados",
                 "ru": "Найдите компас среди сломанных автомобилей",
                 "sr": "Traži kompas blizu pokvarenih vozila",
                 "tr": "Bozuk araçların yakınında bir pusula ara",
@@ -2108,7 +2108,7 @@
                 "no": "Søk etter videokassetten nær de sylindriske containerne",
                 "pl": "Poszukaj taśmy wideo w pobliżu cylindrycznych kontenerów",
                 "pt": "Procure pela fita de vídeo perto dos contêineres cilíndricos",
-                "pt-BR": "Procure pela fita de vídeo perto dos contêineres cilíndricos",
+                "pt-BR": "Procure uma fita de vídeo perto dos contentores cilíndricos",
                 "ru": "Поищите видеокассету рядом с контейнерами цилиндрической формы",
                 "sr": "Traži video traku blizu cilindričnih kontejnera",
                 "tr": "Silindirik konteynerlerin yakınında video kaseti ara",
@@ -2130,7 +2130,7 @@
                 "no": "Søk etter de gamle feltrasjonene i Raider-leiren",
                 "pl": "Poszukaj starych racji polowych w obozie Najeźdźców",
                 "pt": "Procure pelas rações de campo antigas no acampamento Raider",
-                "pt-BR": "Procure pelas antigas rações de campo no acampamento Raider",
+                "pt-BR": "Procure as antigas rações de campo no Acampamento de Combatente",
                 "ru": "Обыскать старые полевые рационы в лагере рейдеров",
                 "sr": "Traži stare terenske obroke u Pljačkaškom kampu",
                 "tr": "Raider kampında eski saha rasyonlarını ara",
@@ -2196,7 +2196,7 @@
                 "no": "Lever den første bølge-rasjonene til Tian Wen",
                 "pl": "Dostarcz racje Pierwszej Fali do Tian Wen",
                 "pt": "Entregue as rações da Primeira Onda para Tian Wen",
-                "pt-BR": "Entregue as Rações da Primeira Onda para Tian Wen",
+                "pt-BR": "Entregue as Provisões da Primeira Onda para Tian Wen",
                 "ru": "Доставить пайки Первой волны Тянь Вэню",
                 "sr": "Dostavi Obroke Prvog Talasa Tian Wenu",
                 "tr": "İlk Dalga Rasyonlarını Tian Wen'e teslim et",
@@ -2227,7 +2227,7 @@
             "ss10i",
             "ss10j"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10x18",
@@ -2430,7 +2430,7 @@
             "no": "Celestes dagbøker",
             "pl": "Dzienniki Celeste",
             "pt": "Os diários de Celeste",
-            "pt-BR": "Diários de Celeste",
+            "pt-BR": "Diários da Celeste",
             "ru": "Дневники Селесты",
             "sr": "Celestini Dnevnici",
             "tr": "Celeste'in Günlükleri",
@@ -2462,7 +2462,7 @@
             "no": "Greit, så dette er pinlig... Jeg mistet to av dagbøkene mine under noen utpostinspeksjoner sist jeg var på overflaten. Kan du dra dit og prøve å finne dem tilbake før noen andre snubler over dem?",
             "pl": "Dobra, to niezręczne... Zgubiłam dwa dzienniki podczas inspekcji placówek, kiedy ostatnio byłam na powierzchni. Mógłbyś tam pójść i spróbować je odnaleźć, zanim ktoś inny na nie trafi?",
             "pt": "Ok, isto é embaraçoso... Perdi dois dos meus diários durante algumas inspeções de postos avançados da última vez que fui à superfície. Podes ir lá e tentar encontrá-los antes que alguém tropeçe neles?",
-            "pt-BR": "Ok, isso é meio constrangedor... Eu perdi dois dos meus diários durante algumas inspeções em postos avançados na última vez que fui à superfície. Você poderia ir lá e tentar recuperá-los antes que outra pessoa os encontre?",
+            "pt-BR": "Entäo... estou meio sem graça. Perdi dois diários meus enquanto inspecionava uns postos avançados na última vez que subi a superficie. Voce pode ir lá e tentar encontrá-los antes que alguém os pegue?",
             "ru": "Ладно, это неловко... Я потеряла два своих дневника во время инспекции аванпостов, когда в последний раз была наверху. Не мог бы ты сходить туда и попытаться найти их, прежде чем на них кто-то наткнётся?",
             "sr": "Dobro, ovo je nezgodno... Izgubila sam dva svoja dnevnika tokom inspekcije isturenih položaja prošli put kad sam bila na površini. Možeš li otići tamo i pokušati da ih pronađeš pre nego što neko drugi naiđe na njih?",
             "tr": "Tamam, bu biraz garip... Geçen sefer yüzeye çıktığımda karakol denetimlerinde iki günlüğümü kaybettim. Oraya gidip başkası onlara rastlamadan önce bulabilir misin?",
@@ -2485,7 +2485,7 @@
                 "no": "Hent Celestes dagbøker fra Sør-Sump-utposten",
                 "pl": "Odzyskaj dzienniki Celeste z placówki w Południowym Bagnie",
                 "pt": "Recupera os diários de Celeste do posto avançado do pântano sul",
-                "pt-BR": "Recupere os Diários de Celeste do Posto Avançado do Pântano Sul",
+                "pt-BR": "Recupere os Diários da Celeste do Posto Avançado do Sul do Pântano",
                 "ru": "Забрать дневники Селесты с южного болотного аванпоста",
                 "sr": "Preuzmi Celestine Dnevnike sa Južnog Močvarnog Isturenog Položaja",
                 "tr": "Güney Bataklık Karakolundan Celeste'in Günlüklerini Al",
@@ -2507,7 +2507,7 @@
                 "no": "Hent Celestes dagbøker fra den nordlige utposten med utsikt over de røde sjøene",
                 "pl": "Odzyskaj dzienniki Celeste z północnej placówki z widokiem na Czerwone Jeziora",
                 "pt": "Recupera os diários de Celeste do posto avançado norte com vista para os Lagos Vermelhos",
-                "pt-BR": "Recupere os Diários de Celeste do posto avançado ao norte com vista para os Lagos Vermelhos",
+                "pt-BR": "Recupere os Diários da Celeste do posto avançado ao norte, com vista para os Lagos Vermelhos",
                 "ru": "Забрать дневники Селесты с северного аванпоста с видом на Красные Озёра",
                 "sr": "Preuzmi Celestine Dnevnike sa severnog isturenog položaja koji gleda na Crvena Jezera",
                 "tr": "Kızıl Göllere bakan kuzey karakolundan Celeste'in Günlüklerini Al",
@@ -2559,7 +2559,7 @@
         "nextQuestIds": [
             "ss10w"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss2",
@@ -2606,7 +2606,7 @@
             "no": "En sverm desorienterte veps krasjet nær ett av taklysene våre. Du må tynne ARC-rekkene før flere ulykker skjer. Og kan du samle noen spesielt solide materialer for å reparere skaden?",
             "pl": "Rój zdezorientowanych os rozbił się w pobliżu jednego z naszych świetlików. Musisz przerzeżić szeregi ARC, zanim wydarzy się więcej wypadków. I czy możesz zebrać kilka szczególnie wytrzymałych materiałów, żeby naprawić szkody?",
             "pt": "Um enxame de vespas desorientadas caiu perto de uma das nossas claraboias. Você precisa reduzir as fileiras da ARC antes que mais acidentes aconteçam. E você pode coletar alguns materiais particularmente resistentes para reparar o dano?",
-            "pt-BR": "Um enxame de vespas desorientadas caiu perto de uma de nossas claraboias. Você precisa reduzir as fileiras da ARC antes que mais acidentes aconteçam. E pode coletar alguns materiais particularmente resistentes para reparar o dano?",
+            "pt-BR": "Um enxame de Vespas desorientadas caiu perto de uma claraboia. Preciso que você ajude a reduzir quantidade de ARC antes que acontençam mais acidentes, e junte materiais resistentes para consertar o estrago.",
             "ru": "Рой дезориентированных ос врезался рядом с одним из наших световых люков. Тебе нужно проредить ряды ARC, пока не случилось больше несчастных случаев. И можешь ли ты собрать несколько особо прочных материалов, чтобы устранить повреждения?",
             "sr": "Roj dezorijentisanih osa se srušio blizu jednog od naših krovnih prozora. Moraš prorediti redove ARC-a pre nego što se dogodi još nesreća. I možeš li sakupiti neke posebno izdržljive materijale da popraviš štetu?",
             "tr": "Yönünü şaşırmış bir eşek arısı sürüsü çatı pencerelerimizden birinin yakınına düştü. Daha fazla kaza olmadan ARC saflarını seyreltmen gerekiyor. Ve hasarı onarmak için özellikle sağlam malzemeler toplayabilir misin?",
@@ -2629,7 +2629,7 @@
                 "no": "Ødelegg 3 ARC-fiender",
                 "pl": "Zniszcz 3 wrogów ARC",
                 "pt": "Destrua 3 inimigos ARC",
-                "pt-BR": "Destrua 3 inimigos da ARC",
+                "pt-BR": "Destrua 3 inimigos ARC",
                 "ru": "Уничтожьте 3 врагов ARC",
                 "sr": "Uništite 3 ARC neprijatelja",
                 "tr": "3 ARC düşmanını yok et",
@@ -2681,7 +2681,7 @@
         "nextQuestIds": [
             "ss4"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "12_cold_storage",
@@ -2699,7 +2699,7 @@
             "no": "Kjølelager",
             "pl": "Chłodnia",
             "pt": "Armazém Frigorífico",
-            "pt-BR": "Câmara Fria",
+            "pt-BR": "Armazenamento Frio",
             "ru": "Холодильное хранилище",
             "sr": "Hladnjača",
             "tr": "Soğuk Depo",
@@ -2726,7 +2726,7 @@
             "no": "Rapporter om Stella Montis fortsetter å komme inn, og det er ikke likt noe vi har sett før. Det kan finnes opptegnelser eller relikvier fra fortiden der inne, og hvis det gjør det, vil jeg ha dem.",
             "pl": "Doniesienia o Stella Montis wciąż napływają i to coś zupełnie innego niż wszystko, co dotąd widzieliśmy. W środku mogą być zapisy lub relikty z przeszłości, i jeśli tak, chcę je mieć.",
             "pt": "Os relatórios sobre Stella Montis não param de chegar, e não se parece com nada que já vimos. Pode haver registros ou relíquias do passado lá dentro e, se houver, eu as quero.",
-            "pt-BR": "Relatórios sobre Stella Montis continuam chegando, e é diferente de tudo que já vimos antes. Pode haver registros ou relíquias do passado lá, e se houver, eu os quero.",
+            "pt-BR": "Os relatos sobre Stella Montis não param de chegar, e é diferente de tudo que já vimos. Pode haver registros ou relíquias do passado por lá. Se houver, eu quero.",
             "ru": "Сообщения о Стелла Монтис продолжают поступать, и это не похоже ни на что, что мы видели раньше. Там могут быть записи или реликвии прошлого, и если так, я хочу, чтобы ты их нашёл.",
             "sr": "Izveštaji o Stela Montisu ne prestaju da stižu, i to nije nalik ničemu što smo ranije videli. Unutra možda ima zapisa ili relikvija iz prošlosti, i ako ih ima, hoću da ih doneseš.",
             "tr": "Stella Montis hakkında raporlar gelmeye devam ediyor ve gördüğümüz hiçbir şeye benzemiyor. İçeride geçmişten kalma kayıtlar ya da kalıntılar olabilir; eğer varsa, onları istiyorum.",
@@ -2749,7 +2749,7 @@
                 "no": "I én runde, søk gjennom en valgfri J Kozma Ventures-container",
                 "pl": "W jednej rundzie przeszukaj dowolny kontener J Kozma Ventures",
                 "pt": "Em uma rodada, revide qualquer contêiner da J Kozma Ventures",
-                "pt-BR": "Em uma partida, vasculhe qualquer contêiner da J Kozma Ventures",
+                "pt-BR": "Em uma rodada, procure qualquer contentor da J Kozma Ventures",
                 "ru": "За один рейд обыщи любой контейнер J Kozma Ventures",
                 "sr": "U jednoj rundi, pretraži bilo koji J Kozma Ventures kontejner",
                 "tr": "Tek bir turda, herhangi bir J Kozma Ventures konteynerini ara",
@@ -2771,7 +2771,7 @@
                 "no": "I én runde, lever de sjeldne bøkene til Shani",
                 "pl": "W jednej rundzie dostarcz rzadkie księgi do Shani",
                 "pt": "Em uma rodada, entregue os Livros Raros para Shani",
-                "pt-BR": "Em uma partida, entregue os Livros Raros para Shani",
+                "pt-BR": "Em uma rodada, entregue os Livros do Velho Mundo para Shani",
                 "ru": "За один рейд доставь редкие книги Шани",
                 "sr": "U jednoj rundi, isporuči Retke Knjige Shani",
                 "tr": "Tek bir turda, Nadir Kitapları Shani'ye teslim et",
@@ -2798,7 +2798,7 @@
             "12_snap_and_salvage"
         ],
         "videoUrl": "https://youtu.be/tc7nK7AmixQ",
-        "updatedAt": "11/23/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss11b2",
@@ -3263,7 +3263,7 @@
             "no": "Doktorens ordre",
             "pl": "Rozkazy doktora",
             "pt": "Ordens do doutor",
-            "pt-BR": "Ordens do Médico",
+            "pt-BR": "Recomendaçöes do Médico",
             "ru": "Указания врача",
             "sr": "Doktorova Naredba",
             "tr": "Doktorun Emirleri",
@@ -3304,7 +3304,7 @@
             "no": "Hør her, nybegynner: hvis du vil at jeg skal behandle deg, må du bevise at de dyrebare lemmene dine er verdt å bandasjere.",
             "pl": "Słuchaj, nowicjuszu: jeśli chcesz, żebym cię leczył, lepiej udowodnij, że te twoje cenne kończyny są warte bandażowania.",
             "pt": "Olha, novato: se você quer que eu te trate, é melhor provar que esses membros preciosos seus valem a pena serem enfaixados.",
-            "pt-BR": "Escuta, novato: se quiser que eu te trate, é melhor provar que esses seus membros preciosos valem a pena enfaixar.",
+            "pt-BR": "Olha, recruta: se quiser que eu te trate, vai ter que provar que vale a pena enfaixar esses membros de que você tanto gosta.",
             "ru": "Слушай, новичок: если хочешь, чтобы я тебя лечил, лучше докажи, что эти твои драгоценные конечности стоят того, чтобы их бинтовать.",
             "sr": "Slušaj, pridošlice: ako želiš da te lečim, bolje dokaži da tvoji dragoceni udovi zaslužuju zavoj.",
             "tr": "Bak çaylak: seni tedavi etmemi istiyorsan, o değerli uzuvlarının sargıya değer olduğunu kanıtlasan iyi olur.",
@@ -3393,7 +3393,7 @@
                 "no": "Skaff 1 kongslys",
                 "pl": "Zdobądź 1 dziewannę",
                 "pt": "Obtenha 1 verbasco",
-                "pt-BR": "Obtenha 1 Verbasco",
+                "pt-BR": "Obtenha 1 Grande Verbasco",
                 "ru": "Получить 1 Коровяк",
                 "sr": "Pribavi 1 Veliki Divizam",
                 "tr": "1 Sığırkuyruğu edin",
@@ -3423,7 +3423,7 @@
         "nextQuestIds": [
             "ss10f"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10b",
@@ -3469,7 +3469,7 @@
             "no": "Under den første bølgen gjorde baronene mer skade enn alle de andre maskinene til sammen. Nå er de bare tomme skall; festet på stedet der de en gang falt... Likevel kan deres innvendige dele inneholde svaret på å holde ARC i sjakk. Så åpne en opp, og ta med meg hva som er inni.",
             "pl": "Podczas Pierwszej Fali Baronowie wyrządzili więcej szkód niż wszystkie inne maszyny razem wzięte. Teraz są tylko pustymi skorupami; unieruchomionymi w miejscu, gdzie kiedyś upadły... Mimo to ich wnętrze może kryć odpowiedź na to, jak powstrzymać ARC. Więc otwórz jednego i przynieś mi, co jest w środku.",
             "pt": "Durante a Primeira Onda, os Barões causaram mais danos do que todas as outras máquinas juntas. Agora são meras cascas; fixos no lugar onde caíram... Ainda assim, seus componentes internos podem conter a resposta para manter a ARC afastada. Então abra um e me traga o que estiver dentro.",
-            "pt-BR": "Durante a Primeira Onda, os Barões causaram mais danos do que todas as outras máquinas combinadas. Agora são meras carcaças; fixas no lugar onde caíram... Ainda assim, seus componentes internos podem conter a resposta para manter a ARC afastada. Então abra um e traga-me o que estiver dentro.",
+            "pt-BR": "Durante a Primeira Onda, os Barões causaram mais estrago do que todas as outras máquinas juntas. Agora não passam de carcaças, paradas onde caíram... Mesmo assim, seus componentes internos podem ajudar a deter a ARC, então abra um deles e traga o que estiver dentro.",
             "ru": "Во время Первой волны бароны нанесли больше урона, чем все остальные машины вместе взятые. Теперь они всего лишь пустые оболочки, застывшие там, где когда-то пали... Тем не менее, их внутренности могут содержать ответ на то, как держать ARC в страхе. Так что вскрой одного из них и принеси мне всё, что внутри.",
             "sr": "Tokom Prvog Talasa, Baroni su naneli više štete nego sve druge mašine zajedno. Sada su samo ljušture; fiksirane na mestu gde su nekada pale... Ipak, njihova unutrašnjost bi mogla sadržati odgovor za držanje ARC-a podalje. Zato otvori jednog i donesi mi šta god je unutra.",
             "tr": "İlk Dalga sırasında Baronlar, diğer tüm makinelerin toplamından daha fazla hasar verdi. Şimdi sadece boş kabuklar; bir zamanlar düştükleri yerde sabitlenmiş haldeler... Yine de içlerindeki parçalar ARC'ı uzak tutmanın cevabını barındırıyor olabilir. Bu yüzden birini aç ve içinde ne varsa bana getir.",
@@ -3520,7 +3520,7 @@
             "ss10d",
             "ss10e"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss6",
@@ -3538,7 +3538,7 @@
             "no": "Ned på jorden",
             "pl": "Z powrotem na ziemię",
             "pt": "De volta à terra",
-            "pt-BR": "Pés no Chão",
+            "pt-BR": "Pé no chäo",
             "ru": "Приземленные загадки",
             "sr": "Spuštanje na Zemlju",
             "tr": "Yere İniş",
@@ -3576,7 +3576,7 @@
                 "no": "Besøk et feltdepot",
                 "pl": "Odwiedź depot polowy",
                 "pt": "Visite um depósito de campo",
-                "pt-BR": "Visite um Depósito de Campo",
+                "pt-BR": "Vá até um Depósito de Campo",
                 "ru": "Посетите полевую станцию",
                 "sr": "Posetite Terenski Depo",
                 "tr": "Bir Saha Deposunu ziyaret et",
@@ -3598,7 +3598,7 @@
                 "no": "Lever en feltkasse til forsyningsstasjonen",
                 "pl": "Dostarcz skrzynię polową do stacji zaopatrzenia",
                 "pt": "Entregue uma caixa de campo à estação de suprimentos",
-                "pt-BR": "Entregue um Caixote de Campo na Estação de Suprimentos",
+                "pt-BR": "Entregue uma Caixa de Campo em um Depósito de Campo",
                 "ru": "Доставьте ящик на полевую станцию",
                 "sr": "Dostavite Terensku Gajbu na Stanicu za Snabdevanje",
                 "tr": "Saha Sandığını İkmal İstasyonuna teslim et",
@@ -3620,7 +3620,7 @@
                 "no": "Hent belønningen",
                 "pl": "Odbierz nagrodę",
                 "pt": "Colete a recompensa",
-                "pt-BR": "Colete a recompensa",
+                "pt-BR": "Pegue a recompensa",
                 "ru": "Получить награду",
                 "sr": "Prikupite nagradu",
                 "tr": "Ödülü topla",
@@ -3646,7 +3646,7 @@
         "nextQuestIds": [
             "ss9"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10p",
@@ -3664,7 +3664,7 @@
             "no": "Ekko fra Victory Ridge",
             "pl": "Echa Victory Ridge",
             "pt": "Ecos de Victory Ridge",
-            "pt-BR": "Ecos de Victory Ridge",
+            "pt-BR": "Ecos da Crista da Vitória",
             "ru": "Отголоски Победного Хребта",
             "sr": "Odjeci Pobedničkog grebena",
             "tr": "Zafer Sırtı'nın Yankıları",
@@ -3690,7 +3690,7 @@
             "no": "Følte du noen rystelser i natt? Jeg heller ikke. Men tilsynelatende skiftet bakken på et tidspunkt, og i prosessen avdekket den en gammel First Wave-utpost som hadde vært blokkert av rusk. Jeg vil at du skal komme deg inn dit raskt, før noen andre gjør det.",
             "pl": "Czułeś jakieś wstrząsy zeszłej nocy? Ja też nie. Ale najwyraźniej grunt się przesunął w pewnym momencie i w procesie odkrył stary posterunek First Wave, który był zablokowany przez gruz. Chciałbym, żebyś szybko się tam dostał, zanim zrobi to ktoś inny.",
             "pt": "Sentiste algum tremor ontem à noite? Eu também não. Mas aparentemente o solo mudou em algum momento, e no processo desenterrou um velho posto avançado da First Wave que estava bloqueado por destroços. Gostaria que entrasses lá rapidamente, antes que mais alguém o faça.",
-            "pt-BR": "Sentiu algum tremor ontem à noite? Nem eu. Mas aparentemente o solo se deslocou em algum momento e, no processo, desenterrou um antigo posto avançado da Primeira Onda que estava bloqueado por escombros. Gostaria que você entrasse lá rápido, antes de qualquer outra pessoa.",
+            "pt-BR": "Sentiu algum tremor ontem à noite? Eu também não, mas parece que o chão se mexeu e, com isso, desenterrou um posto avançado antigo da Primeira Onda que estava bloqueado por destroços. Quero que você entre lá rápido, antes de qualquer um.",
             "ru": "Ты чувствовал какие-нибудь толчки прошлой ночью? Я тоже нет. Но, видимо, земля сдвинулась в какой-то момент, и в процессе это обнажило старый аванпост Первой Волны, который был заблокирован обломками. Я хочу, чтобы ты быстро туда попал, прежде чем это сделает кто-то другой.",
             "sr": "Da li si osetio neke potrese sinoć? Ni ja. Ali izgleda da se tlo pomerilo u nekom trenutku, i u tom procesu je otkrilo staru Prvu talas ispostavu koja je bila blokirana krhotinama. Želeo bih da uđeš tamo brzo, pre nego što to uradi neko drugi.",
             "tr": "Dün gece herhangi bir sarsıntı hissettin mi? Ben de hissetmedim. Ama görünüşe göre bir noktada yer kaymış ve bu süreçte enkaz tarafından kapatılmış eski bir İlk Dalga karakolu ortaya çıkmış. Başka biri gitmeden önce oraya hızlıca gitmenizi istiyorum.",
@@ -3713,7 +3713,7 @@
                 "no": "Nå Victory Ridge",
                 "pl": "Dotrzyj do Victory Ridge",
                 "pt": "Alcance Victory Ridge",
-                "pt-BR": "Chegue a Victory Ridge",
+                "pt-BR": "Vá para a Crista da Vitória",
                 "ru": "Добраться до Победного Хребта",
                 "sr": "Stigni do Pobedničkog grebena",
                 "tr": "Zafer Sırtı'na ulaş",
@@ -3757,7 +3757,7 @@
                 "no": "Lever Major Alvas merke til Celeste",
                 "pl": "Dostarcz naszywkę Majora Alvy do Celeste",
                 "pt": "Entrega o distintivo do Major Alva a Celeste",
-                "pt-BR": "Entregue o Emblema da Major Alva para Celeste",
+                "pt-BR": "Entregue o Emblema da Major Aiva para Celeste",
                 "ru": "Доставьте нашивку майора Альвы Селесте",
                 "sr": "Dostavi zakrpu Majora Alve Celeste",
                 "tr": "Binbaşı Alva'nın Yamasını Celeste'e teslim et",
@@ -3787,7 +3787,7 @@
         "nextQuestIds": [
             "ss10q"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10x13",
@@ -3954,7 +3954,7 @@
             "no": "Krever en zipline for å komme på toppen av tårnet. De LiDAR-skannerne du fant fungerer best når de plasseres på høye steder. Jeg har identifisert noen gode steder rundt rustbeltet; håper du er sikker på beina.",
             "pl": "Wymaga linki tyrolskiej, aby dostać się na szczyt wieży. Te skanery LiDAR, które znalazłeś, działają najlepiej, gdy są umieszczone w wysokich miejscach. Zidentyfikowałem kilka dobrych miejsc w Pasie Rdzy; mam nadzieję, że masz pewny krok.",
             "pt": "Requer uma tirolesa para chegar ao topo da torre. Esses scanners LiDAR que você encontrou funcionam melhor quando colocados em locais altos. Identifiquei alguns bons lugares ao redor do cinturão de ferrugem; espero que você tenha passo firme.",
-            "pt-BR": "Requer uma tirolesa para chegar ao topo da torre. Aqueles scanners LiDAR que você encontrou funcionam melhor quando colocados em locais altos. Identifiquei alguns bons pontos ao redor de Rust Belt; espero que você tenha o pé firme.",
+            "pt-BR": "Os Scanners DLeA que você achou funcionam melhor quando ficam em lugares altos. Identifiquei uns pontos bons pelo Cinturão da Ferrugem. Espero que você tenha pés firmes.",
             "ru": "Требуется тросовая дорога, чтобы забраться на вершину башни. Те LiDAR сканеры, что ты нашёл, работают лучше всего на высоте. Я определил несколько хороших мест в Ржавом поясе; надеюсь, ты не боишься высоты.",
             "sr": "Potrebna je užad za spuštanje da se popnete na vrh tornja. Ti LiDAR skeneri koje ste pronašli najbolje funkcionišu kada se postave na visokim lokacijama. Identifikovao sam nekoliko dobrih mesta oko Pojasa hrđe; nadam se da ste sigurni na nogama.",
             "tr": "Kulenin tepesine çıkmak için zipline gerekiyor. Bulduğun LiDAR tarayıcıları yüksek yerlere konulduğunda en iyi çalışıyor. Rust Belt çevresinde birkaç iyi nokta belirledim; umarım ayakların sağlamdır.",
@@ -3977,7 +3977,7 @@
                 "no": "På demmens slagmark, installer en LiDAR-skanner på toppen av kontrolltårnet",
                 "pl": "Na polu bitwy przy tamie zainstaluj skaner LiDAR na szczycie wieży kontrolnej",
                 "pt": "No campo de batalha da barragem, instale um scanner LiDAR no topo da torre de controle",
-                "pt-BR": "Em Dam Battlegrounds, instale um Scanner LiDAR no topo da Torre de Controle",
+                "pt-BR": "Nos Campos de Batalha da Represa, instale um scanner DLeA no topo da Torre de Controle",
                 "ru": "На Поле боя у дамбы установите LiDAR сканер на вершине диспетчерской вышки",
                 "sr": "Na bojnom polju brane, instalirajte LiDAR skener na vrhu kontrolnog tornja",
                 "tr": "Baraj Savaş Alanı'nda Kontrol Kulesi'nin tepesine bir LiDAR Tarayıcı kur",
@@ -3999,7 +3999,7 @@
                 "no": "På romhavnen, installer en LiDAR-skanner ved kommunikasjonstårnet",
                 "pl": "Na kosmodromie zainstaluj skaner LiDAR na wieży komunikacyjnej",
                 "pt": "No espaçoporto, instale um scanner LiDAR na torre de comunicações",
-                "pt-BR": "Em Spaceport, instale um Scanner LiDAR na Torre de Comunicações",
+                "pt-BR": "No Espaçoporto, instale um scanner DLeA na Torre de Comunicação",
                 "ru": "На Космопорте установите LiDAR сканер на коммуникационной вышке",
                 "sr": "Na svemirskoj luci, instalirajte LiDAR skener na komunikacionom tornju",
                 "tr": "Uzay Limanı'nda İletişim Kulesi'ne bir LiDAR Tarayıcı kur",
@@ -4021,7 +4021,7 @@
                 "no": "I den begravde byen, installer en LiDAR-skanner på toppen av Galleria-skiltet",
                 "pl": "W Pogrzebanym Mieście zainstaluj skaner LiDAR na szczycie znaku Galleria",
                 "pt": "Na cidade enterrada, instale um scanner LiDAR no topo da placa da galeria",
-                "pt-BR": "Na Cidade Soterrada, instale um Scanner LiDAR no topo do letreiro da Galleria",
+                "pt-BR": "Na Cidade Soterrada, instale um scanner DLeA no topo do letreiro da Galeria",
                 "ru": "В Погребённом городе установите LiDAR сканер на вывеске Галереи",
                 "sr": "U Zakopanom gradu, instalirajte LiDAR skener na vrhu natpisa Galleria",
                 "tr": "Gömülü Şehir'de Galleria tabelasının üstüne bir LiDAR Tarayıcı kur",
@@ -4053,7 +4053,7 @@
             "ss10x",
             "ss10y"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10m",
@@ -4071,7 +4071,7 @@
             "no": "Øynene på premien",
             "pl": "Oko na nagrodę",
             "pt": "De olho no prêmio",
-            "pt-BR": "De Olho no Prêmio",
+            "pt-BR": "Dê olho no que interessa",
             "ru": "Взгляд на приз",
             "sr": "Oči na Nagradi",
             "tr": "Gözler Ödülde",
@@ -4103,7 +4103,7 @@
             "no": "Alt har vært rolig rundt leveringsstedene mine siden du hjalp til, men det betyr ikke at det vil forbli slik lenge. Jeg har satt opp overvåking på et av mine mest brukte steder i Buried City, for å forhindre fremtidig tukling. Det eneste problemet er at det trenger strøm for å bli aktivert.",
             "pl": "Wszystko jest spokojne wokół moich punktów zrzutu, odkąd pomogłeś, ale to nie znaczy, że tak zostanie na długo. Ustawiłem monitoring w jednym z moich najczęściej używanych miejsc w Buried City, żeby zapobiec przyszłym manipulacjom. Jedyny problem to to, że potrzebuje zasilania, żeby zacząć działać.",
             "pt": "Tudo tem estado calmo nos meus pontos de entrega desde que você ajudou, mas isso não significa que vai continuar assim por muito tempo. Configurei vigilância num dos meus locais mais usados em Buried City, para prevenir futuras adulterações. O único problema é que precisa de energia para funcionar.",
-            "pt-BR": "Tudo tem estado calmo nos meus pontos de entrega desde que você ajudou, mas isso não significa que vai continuar assim por muito tempo. Instalei vigilância em um dos meus locais mais usados na Cidade Soterrada, para evitar interferências futuras. O único problema é que precisa de energia para funcionar.",
+            "pt-BR": "Tá tudo calmo nos meus pontos de entrega desde que você ajudou, mas isso não quer dizer que vai ficar assim por muito tempo. Isntalei sistema de vigilância em um dos lugares que eu mais uso na Cidade Soterrada, para evitar futuras adulterações. O único problema é que precisa de energia para entrar no ar.",
             "ru": "Всё было спокойно вокруг моих точек сброса с тех пор, как ты помог, но это не значит, что так будет долго. Я установил наблюдение в одном из самых используемых мест в Погребённом Городе, чтобы предотвратить будущие вмешательства. Единственная проблема - ему нужно питание, чтобы заработать.",
             "sr": "Sve je mirno oko mojih mesta za dostavu otkako si pomogao, ali to ne znači da će tako ostati dugo. Postavio sam nadzor na jednom od mojih najkorišćenijih mesta u Zakopanom Gradu, da sprečim buduće petljanje. Jedini problem je što mu treba struja da proradi.",
             "tr": "Yardım ettiğinden beri teslimat noktalarımın çevresinde her şey sakindi, ama bu uzun süre böyle kalacağı anlamına gelmiyor. Gelecekteki kurcalamaları önlemek için Gömülü Şehir'de en çok kullandığım yerlerden birine gözetleme kurdum. Tek sorun, çalışması için güce ihtiyacı var.",
@@ -4126,7 +4126,7 @@
                 "no": "Finn den avsondrede takterrassen sørvest for Southern Station, se etter blå presenninger",
                 "pl": "Znajdź odosobniony taras na dachu na południowy zachód od Southern Station, szukaj niebieskich plandek",
                 "pt": "Encontre o terraço isolado a sudoeste da Southern Station, procure por lonas azuis",
-                "pt-BR": "Encontre o terraço isolado a sudoeste da Estação Sul, procure por lonas azuis",
+                "pt-BR": "Encontre o terraço isolado a sudoeste da Estação Sul e procure por lonas azuis",
                 "ru": "Найти уединённую террасу на крыше к юго-западу от Южной станции, ищите синие брезенты",
                 "sr": "Pronađi povučenu krovnu terasu jugozapadne od Južne Stanice, traži plave cerade",
                 "tr": "Güney İstasyonu'nun güneybatısındaki tenha çatı terasını bul, mavi brandaları ara",
@@ -4148,7 +4148,7 @@
                 "no": "Koble om solpanelet ved hjelp av 3 ledninger",
                 "pl": "Przewoduj panel słoneczny używając 3 kabli",
                 "pt": "Refaça a fiação do painel solar usando 3 fios",
-                "pt-BR": "Refaça a fiação do painel solar usando 3 Fios",
+                "pt-BR": "Refaça a fiação do painel solar usando 3 fios",
                 "ru": "Перемонтировать солнечную панель, используя 3 провода",
                 "sr": "Ponovo poveži solarni panel koristeći 3 Žice",
                 "tr": "3 Kablo kullanarak güneş panelini yeniden kablola",
@@ -4174,7 +4174,7 @@
         "nextQuestIds": [
             "ss10n"
         ],
-        "updatedAt": "11/23/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10x11",
@@ -4361,7 +4361,7 @@
             "no": "Smøre håndflaten hennes",
             "pl": "Posmarowanie jej łapek",
             "pt": "Untando as mãos dela",
-            "pt-BR": "Molhando a Mão Dela",
+            "pt-BR": "Molhando as mãos dela",
             "ru": "Взяточные запчасти",
             "sr": "Podmazivanje Njenih Dlanova",
             "tr": "Avucunu Yağlamak",
@@ -4395,7 +4395,7 @@
             "no": "Nylig har jeg prøvd og mislyktes i å få Tian Wen til å bli med på våre fellesskapsprosjekter. Jeg må kanskje søte avtalen. Hun har klaget over kvaliteten på bergingen som finnes på markedet; tror du vi kunne gjøre henne en tjeneste?",
             "pl": "Ostatnio próbowałem bez skutku namówić Tian Wen, żeby dołączyła do naszych projektów społecznych. Może będę musiał osłodzić interes. Narzekała na jakość złomu znajdowanego na rynku; myślisz, że moglibyśmy wyświadczyć jej przysługę?",
             "pt": "Recentemente, tenho tentado e falhado em fazer a Tian Wen se juntar aos nossos projetos comunitários. Talvez eu tenha que adoçar o negócio. Ela tem reclamado sobre a qualidade da sucata encontrada no mercado; acha que poderíamos fazer um favor a ela?",
-            "pt-BR": "Recentemente, tenho tentado, sem sucesso, trazer a Tian Wen para nossos projetos comunitários. Talvez eu tenha que melhorar a oferta. Ela tem reclamado da qualidade da sucata encontrada no mercado; acha que podemos fazer um favor para ela?",
+            "pt-BR": "Tenho tentado, sem sucesso, convencer a Tian Wen a participar dos projetos da comunidade. Talvez eu tenha que oferecer um incentivo extra. Ela anda reclamando da qualidade dos materiais reutilizáveis do mercado; Acha que dá pra ajudar ela?",
             "ru": "В последнее время я пытаюсь уговорить Тянь Вэнь присоединиться к нашим общественным проектам, но безуспешно. Возможно, мне придётся подсластить сделку. Она жалуется на качество утиля, который продаётся на рынке. Как думаешь, мы могли бы оказать ей услугу?",
             "sr": "Nedavno sam pokušavao i nisam uspevao da nateram Tian Wen da se pridruži našim zajedničkim projektima. Možda moram da zaslađim ponudu. Žalila se na kvalitet otpada koji se nalazi na tržištu; misliš da bismo mogli da joj učinimo uslugu?",
             "tr": "Son zamanlarda Tian Wen'i topluluk projelerimize katılmaya ikna etmeye çalışıyorum ama başarısız oluyorum. Anlaşmayı tatlandırmam gerekebilir. Pazarda bulunan hurda kalitesinden şikayet ediyor; ona bir iyilik yapabilir miyiz sence?",
@@ -4418,7 +4418,7 @@
                 "no": "På Dam Battlegrounds, besøk det låste rommet i vannbehandlingskontrollbygningen",
                 "pl": "Na Dam Battlegrounds odwiedź zamknięty pokój w budynku kontroli oczyszczania wody",
                 "pt": "Em Dam Battlegrounds, visite a sala trancada no prédio de controle de tratamento de água",
-                "pt-BR": "Nos Campos de Batalha da Represa, visite a Sala Trancada no prédio de Controle de Tratamento de Água",
+                "pt-BR": "Nos Campos de Batalha da Represa, visite a sala trancada no prédio de Controle de Tratamento de Água",
                 "ru": "Проберитесь в закрытую комнату в здании диспетчерской водоочистителя на поле битвы у дамбы",
                 "sr": "Na Bojnom Polju Brane, poseti Zaključanu Sobu u zgradi Kontrole Prečišćavanja Vode",
                 "tr": "Baraj Savaş Alanında, Su Arıtma Kontrol binasındaki Kilitli Odayı ziyaret et",
@@ -4440,7 +4440,7 @@
                 "no": "På Spaceport, undersøk rakettdysene utenfor rakettmonteringen",
                 "pl": "Na Spaceport sprawdź silniki rakietowe na zewnątrz montażu rakiet",
                 "pt": "Em Spaceport, examine os propulsores de foguete fora da montagem de foguetes",
-                "pt-BR": "No Espaçoporto, examine os propulsores do foguete fora da Montagem de Foguetes",
+                "pt-BR": "Em Espaçoporto, inspecione os propulsores de foguete do lado de fora da Montagem de Foguetes",
                 "ru": "Найдите ракетные двигатели снаружи цеха сбора ракет в космопорте",
                 "sr": "Na Svemirskoj Luci, izviđaj raketne potisnice ispred Montaže Raketa",
                 "tr": "Uzay Limanında, Roket Montaj binasının dışındaki roket iticilerini keşfet",
@@ -4462,7 +4462,7 @@
                 "no": "På Buried City, besøk det barrikaderte området på etasje 6 i romreisebygningen",
                 "pl": "Na Buried City odwiedź zabarykadowany obszar na 6. piętrze budynku podróży kosmicznych",
                 "pt": "Em Buried City, visite a área barricada no andar 6 do prédio de viagens espaciais",
-                "pt-BR": "Na Cidade Soterrada, visite a área barricada no 6º andar do Prédio de Viagens Espaciais",
+                "pt-BR": "Em Cidade Soterrada, visite a zona bloqueada no sexto andar do Prédio de Viagens Espaciais",
                 "ru": "В Погребённом городе посетите баррикадированную зону на 6 этаже здания космических путешествий",
                 "sr": "U Zakopanom Gradu, poseti barikadiranu oblast na spratu 6 zgrade Svemirskih Putovanja",
                 "tr": "Gömülü Şehir'de, Uzay Yolculuğu Binasının 6. katındaki barikatlanmış alanı ziyaret et",
@@ -4493,7 +4493,7 @@
             "ss10b",
             "ss10c"
         ],
-        "updatedAt": "11/25/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "groundbreaking",
@@ -4680,7 +4680,7 @@
             "no": "Lukereparasjoner",
             "pl": "Naprawy włazów",
             "pt": "Reparos de escotilhas",
-            "pt-BR": "Reparos na Escotilha",
+            "pt-BR": "Reparos de Escotilha",
             "ru": "Ремонт люков",
             "sr": "Popravka Otvora",
             "tr": "Kapak Onarımları",
@@ -4703,7 +4703,7 @@
             "no": "Speiderene våre har rapportert flere Raider-luker med lekkende hydrauliske rør. De fungerer fortsatt, men ikke lenge. Kan du fikse en neste gang du er der ute?",
             "pl": "Nasi zwiadowcy zgłosili kilka włazów Najeźdźców z nieszczelnymi rurami hydraulicznymi. Wciąż działają, ale niedługo. Mógłbyś naprawić jeden, następnym razem gdy tam będziesz?",
             "pt": "Nossos batedores relataram várias escotilhas de Saqueadores com tubos hidráulicos vazando. Elas ainda funcionam, mas não por muito tempo. Você se importaria de consertar uma na próxima vez que estiver lá fora?",
-            "pt-BR": "Nossos batedores relataram várias Escotilhas de Raider com tubos hidráulicos vazando. Elas ainda funcionam, mas não por muito tempo. Se importa de consertar uma, na próxima vez que estiver lá fora?",
+            "pt-BR": "Nossos batedores relataram várias Escotilhas de Combatentes com vazamentos na tubulação hidráulica. Elas ainda funcionam, mas vão quebrar. Se importaria de consertar uma na próxima vez que estiver lá fora?",
             "ru": "Наши разведчики сообщили о нескольких люках рейдеров с протекающими гидравлическими трубами. Они еще работают, но недолго. Не мог бы ты починить один, когда в следующий раз будешь там?",
             "sr": "Naši izviđači su prijavili nekoliko Raider Otvora sa cevima hidraulike koje cure. Još uvek rade, ali ne još dugo. Možete li da zakrpite jedan, sledeći put kada budete tamo?",
             "tr": "Keşifçilerimiz hidrolik boruları sızdıran birkaç Yağmacı Kapağı bildirdi. Hala çalışıyorlar ama uzun süre değil. Bir dahaki sefere dışarıdayken birini tamir etmeye ne dersin?",
@@ -4726,7 +4726,7 @@
                 "no": "Reparer de lekkende hydrauliske rørene nær en Raider-luke",
                 "pl": "Napraw nieszczelne rury hydrauliczne w pobliżu włazu Najeźdźców",
                 "pt": "Conserte os tubos hidráulicos vazando perto de uma escotilha de Saqueadores",
-                "pt-BR": "Conserte os tubos hidráulicos vazando perto de uma Escotilha de Raider",
+                "pt-BR": "Conserte o vazamento dos tubos hidráulicos perto de uma escotilha de Combatente",
                 "ru": "Устраните утечку гидропровода у рейдерского люка",
                 "sr": "Popravite cevi hidraulike koje cure blizu Raider Otvora",
                 "tr": "Bir Yağmacı Kapağının yakınındaki sızdıran hidrolik boruları onar",
@@ -4752,7 +4752,7 @@
         "nextQuestIds": [
             "ss6"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10n",
@@ -4802,7 +4802,7 @@
             "no": "Nå som mine egne gjemmesteder er sikret, tror jeg det er på tide å holde et nærmere øye med konkurrentene slik at dette ikke skjer igjen.",
             "pl": "Teraz, gdy moje własne skrytki są zabezpieczone, myślę, że czas baczniej obserwować konkurencję, żeby to się nie powtórzyło.",
             "pt": "Com os meus próprios esconderijos protegidos, acho que é hora de vigiar mais de perto a concorrência para que isso não aconteça novamente.",
-            "pt-BR": "Com meus próprios estoques protegidos, acho que pode ser hora de ficar de olho na concorrência para que isso não aconteça de novo.",
+            "pt-BR": "Agora que meus estoques estão seguros, acho que está na hora de vigiar a concorrência para que isso não se repetir.",
             "ru": "Теперь, когда мои тайники в безопасности, думаю, пришло время присмотреть за конкурентами поближе, чтобы это не повторилось.",
             "sr": "Pošto su moje zalihe obezbeđene, mislim da je vreme da bolje pratim konkurenciju kako se ovo ne bi ponovilo.",
             "tr": "Kendi zulalarım güvende olduğuna göre, bunun bir daha olmaması için rakipleri daha yakından takip etme zamanı geldi sanırım.",
@@ -4825,7 +4825,7 @@
                 "no": "Finn Tian Wens våpenlager nær bensinstasjonen i Outskirts",
                 "pl": "Znajdź skrytkę z bronią Tian Wena w pobliżu stacji benzynowej w Outskirts",
                 "pt": "Encontre o esconderijo de armas de Tian Wen perto do posto de gasolina nos Outskirts",
-                "pt-BR": "Encontre o esconderijo de armas de Tian Wen perto do Posto de Gasolina nos Arredores",
+                "pt-BR": "Encontre o depósito de armas de Tian Wen perto do posto de gasolina na Periferia",
                 "ru": "Найдите тайник с оружием Тянь Веня возле заправки на Окраинах",
                 "sr": "Pronađi Tian Wenovu ostavu oružja blizu benzinske pumpe u Predgrađu",
                 "tr": "Varoşlardaki Benzin İstasyonu yakınında Tian Wen'in silah zulasını bulun",
@@ -4847,7 +4847,7 @@
                 "no": "Lever Burletta til det rivaliserende våpenlageret",
                 "pl": "Dostarcz Burlettę do rywalizującej skrytki z bronią",
                 "pt": "Entregue a Burletta ao esconderijo de armas rival",
-                "pt-BR": "Entregue a Burletta no esconderijo de armas rival",
+                "pt-BR": "Entregue a Burletta ao depósito de armas rival",
                 "ru": "Доставьте Burletta в тайник с оружием конкурента",
                 "sr": "Dostavi Burlettu do rivalske ostave oružja",
                 "tr": "Burletta'yı rakip silah zulasına teslim edin",
@@ -4869,7 +4869,7 @@
                 "no": "Planter en avlytter på våpenlageret",
                 "pl": "Podłóż pluskwę w skrytce z bronią",
                 "pt": "Plante um grampo no esconderijo de armas",
-                "pt-BR": "Coloque uma escuta no esconderijo de armas",
+                "pt-BR": "Instale um grampo no depósito de armas",
                 "ru": "Установите жучок на тайник с оружием",
                 "sr": "Postavi prisluškivač na ostavu oružja",
                 "tr": "Silah zulasına dinleme cihazı yerleştirin",
@@ -4899,7 +4899,7 @@
         "nextQuestIds": [
             "ss10q"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10x5",
@@ -5076,7 +5076,7 @@
             "no": "Jeg behandlet nettopp en av de første Raiderne som besøkte Stella Montis, og hun sa at hun så... andre. Android-er, veldig like meg.",
             "pl": "Właśnie leczyłam jedną z pierwszych Rajderek, które odwiedziły Stella Montis, i powiedziała, że widziała... innych. Androidy, bardzo podobne do mnie.",
             "pt": "Acabei de tratar uma das primeiras Saqueadoras que visitou Stella Montis, e ela disse que viu... outros. Androides, muito parecidos comigo.",
-            "pt-BR": "Acabei de tratar uma das primeiras Raiders que visitou Stella Montis, e ela disse que viu... outros. Androides, muito parecidos comigo.",
+            "pt-BR": "Acabei de atender uma das primeiras Combatentes que visitou Stella Montis, e ela disse que viu... outros. Androides, muito parecidos comigo.",
             "ru": "Я только что лечила одну из первых Рейдерш, посетивших Стелла Монтис, и она сказала, что видела... других. Андроидов, очень похожих на меня.",
             "sr": "Upravo sam lečila jednu od prvih Rejderki koje su posetile Stelu Montis, i rekla mi je da je videla... druge. Androide, veoma slične meni.",
             "tr": "Az önce Stella Montis'i ziyaret eden ilk Akıncılardan birini tedavi ettim ve bana şunu söyledi: ...başkalarını görmüş. Bana fazlasıyla benzeyen Androidler.",
@@ -5147,7 +5147,7 @@
         "nextQuestIds": [
             "12_cold_storage"
         ],
-        "updatedAt": "11/23/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10o",
@@ -5165,7 +5165,7 @@
             "no": "Bevare minnet",
             "pl": "Zachowanie pamięci",
             "pt": "Guardando a memória",
-            "pt-BR": "Mantendo a Memória",
+            "pt-BR": "Preservando a memória",
             "ru": "В память о былом",
             "sr": "Čuvanje Uspomene",
             "tr": "Anıyı Korumak",
@@ -5191,7 +5191,7 @@
             "no": "Jeg mistet besinnelsen litt da jeg sendte deg etter den fellen. Jeg mister vanligvis ikke fatningen, men First Wave... Vi gikk gjennom mye den gangen. Mistet mange mennesker. Det er fortsatt et sårt punkt for meg, men jeg vil at du skal forstå.",
             "pl": "Trochę straciłem zimną krew, kiedy wysłałem cię po tę pułapkę. Zwykle nie tracę panowania nad sobą, ale First Wave... Przeszliśmy przez wiele wtedy. Straciliśmy wielu ludzi. To wciąż świeża rana dla mnie, ale chcę, żebyś zrozumiał.",
             "pt": "Perdi um pouco a calma quando te enviei atrás daquela armadilha. Normalmente não perco a paciência, mas a First Wave... Passámos por muito naquela altura. Perdemos muita gente. Ainda é uma ferida aberta para mim, mas quero que compreendas.",
-            "pt-BR": "Perdi um pouco a cabeça quando enviei você atrás daquela armadilha. Geralmente não perco a calma, mas a Primeira Onda... Passamos por muita coisa naquela época. Perdemos muita gente. Ainda é uma ferida aberta para mim, mas quero que você entenda.",
+            "pt-BR": "Perdi um pouco a cabeça quando te mandei atrás daquela armadilha. Não costumo perder a calma, mas a Primeira Onda... Nós passamos por muita coisa naquela época. Perdemos muita gente. Ainda é uma ferida aberta para mim, mas quero que você entenda.",
             "ru": "Я немного потерял самообладание, когда отправлял тебя за той ловушкой. Обычно я не выхожу из себя, но Первая волна... Мы через многое прошли тогда. Потеряли много людей. Это всё ещё открытая рана для меня, но я хочу, чтобы ты понял.",
             "sr": "Malo sam se iznervirao kada sam te poslao po tu zamku. Obično ne gubim živce, ali Prvi Talas... Prošli smo kroz mnogo toga tada. Izgubili smo mnogo ljudi. Još uvek je svež bol za mene, ali želim da razumeš.",
             "tr": "Seni o tuzağın peşine gönderdiğimde biraz soğukkanlılığımı kaybettim. Genelde öfkemi kaybetmem ama İlk Dalga... O zamanlar çok şey yaşadık. Birçok insanı kaybettik. Benim için hala taze bir yara ama anlamanı istiyorum.",
@@ -5214,7 +5214,7 @@
                 "no": "Nå vraket i Formicai Hills",
                 "pl": "Dotrzyj do wraku w Formicai Hills",
                 "pt": "Alcance os destroços nas Formicai Hills",
-                "pt-BR": "Chegue aos destroços nas Colinas Formicai",
+                "pt-BR": "Alcançar a carcaça nas Colinas Formicai",
                 "ru": "Добраться до обломков на Холмах Формикаи",
                 "sr": "Stigni do olupine u Formicai Hillsu",
                 "tr": "Formicai Tepeleri'ndeki enkaza ulaşın",
@@ -5236,7 +5236,7 @@
                 "no": "Søk etter den savnede hjelmen",
                 "pl": "Poszukaj zaginionego hełmu",
                 "pt": "Procure o capacete desaparecido",
-                "pt-BR": "Procure pelo capacete desaparecido",
+                "pt-BR": "Procure o capacete desaparecido",
                 "ru": "Найдите пропавший шлем",
                 "sr": "Potraži nestalu kacigu",
                 "tr": "Kayıp kaskı arayın",
@@ -5288,7 +5288,7 @@
         "nextQuestIds": [
             "ss10p"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10x14",
@@ -5657,7 +5657,7 @@
             "no": "Noen har stjålet forsyninger fra mitt avleveringssted i Buried City. Jeg har satt opp en felle, men jeg trenger noen til å sjekke den for meg.",
             "pl": "Ktoś kradnie zapasy z mojego punktu zrzutu w Buried City. Zastawiłem pułapkę, ale potrzebuję kogoś, kto ją dla mnie sprawdzi.",
             "pt": "Alguém está roubando suprimentos do meu ponto de entrega em Cidade Enterrada. Preparei uma armadilha, mas preciso que alguém a verifique para mim.",
-            "pt-BR": "Alguém tem roubado suprimentos do meu ponto de entrega na Cidade Enterrada. Preparei uma armadilha, mas preciso que alguém a verifique para mim.",
+            "pt-BR": "Alguém anda surrupiando suprimentos do meu ponto de entrega em Cidade Soterrada. Botei uma armadilha, mas preciso de alguém para conferir para mim.",
             "ru": "Кто-товорует припасы из моей точки сброса в Погребённом Городе. Я установил ловушку, но мне нужен кто-то, чтобы проверить её.",
             "sr": "Neko je krao zalihe sa mog mesta za dostavu u Zakopanom Gradu. Postavio sam zamku, ali mi treba neko da je proveri.",
             "tr": "Biri Gömülü Şehir'deki teslimat noktamdan malzeme çalıyor. Bir tuzak kurdum ama benim için kontrol edecek birine ihtiyacım var.",
@@ -5680,7 +5680,7 @@
                 "no": "Nå Su Durante-lagrene i utkanten av Buried City",
                 "pl": "Dotrzyj do magazynów Su Durante na obrzeżach Buried City",
                 "pt": "Alcance os armazéns Su Durante nos arredores de Cidade Enterrada",
-                "pt-BR": "Chegue aos Armazéns Su Durante nos Arredores da Cidade Enterrada",
+                "pt-BR": "Vá até os Armazéns Su Durante nos arredores de Cidade Soterrada",
                 "ru": "Добраться до складов Су Дуранте на окраине Погребённого Города",
                 "sr": "Stigni do Su Durante Skladišta u Predgrađu u Zakopanom Gradu",
                 "tr": "Gömülü Şehir'in Varoşlarındaki Su Durante Depolarına ulaş",
@@ -5702,7 +5702,7 @@
                 "no": "Søk etter Tian Wens gjemmested nær lagrene",
                 "pl": "Poszukaj skrytki Tian Wen w pobliżu magazynów",
                 "pt": "Procure pelo esconderijo de Tian Wen perto dos armazéns",
-                "pt-BR": "Procure pelo esconderijo de Tian Wen perto dos Armazéns",
+                "pt-BR": "Procurar o esconderijo de Tian Wen perto dos armazéns",
                 "ru": "Найти тайник Тянь Веня рядом со складами",
                 "sr": "Traži Tian Wen-ovu ostavu blizu Skladišta",
                 "tr": "Depoların yakınında Tian Wen'in zulasını ara",
@@ -5750,7 +5750,7 @@
         "nextQuestIds": [
             "ss10l"
         ],
-        "updatedAt": "11/23/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10l",
@@ -5794,7 +5794,7 @@
             "no": "Det tyveriet før? Ser ikke ut som en tilfeldighet lenger. Noe av konkurransen fra Toledo etablerer seg der de ikke hører hjemme. Jeg vil at deres gjemmested skal saboteres, helst før de blir for komfortable.",
             "pl": "Ta kradzież wcześniej? Nie wygląda już na przypadek. Część konkurencji z Toledo zakłada interes tam, gdzie nie powinna. Chcę, żeby ich skrytka została sabotowana, najlepiej zanim się za bardzo rozgoszczą.",
             "pt": "Aquele roubo de antes? Não parece mais uma coincidência. Parte da concorrência de Toledo está se estabelecendo onde não deveria. Quero que o esconderijo deles seja sabotado, de preferência antes que fiquem muito confortáveis.",
-            "pt-BR": "Aquele roubo de antes? Não parece mais coincidência. Parte da concorrência de Toledo está se instalando onde não deve. Quero o esconderijo deles sabotado, de preferência antes que fiquem muito confortáveis.",
+            "pt-BR": "Aquele roubo não foi coincidência, não. Tem gente de Toledo se instalando onde não deveria. Quero que o estoque deles seja sabotado, de preferência antes de se acomodarem.",
             "ru": "Та кража раньше? Больше не похоже на совпадение. Конкуренты из Толедо обосновываются там, где им не место. Я хочу, чтобы их тайник саботировали, желательно до того, как они освоятся.",
             "sr": "Ona krađa od pre? Više ne izgleda kao slučajnost. Neka konkurencija iz Toleda otvara radnju gde ne treba. Želim da im se ostava sabotira, po mogućstvu pre nego što se previše udobno smeste.",
             "tr": "Önceki hırsızlık mı? Artık tesadüf gibi görünmüyor. Toledo'dan bazı rakipler olmadıkları yerde iş kuruyor. Zulalarının sabotajlanmasını istiyorum, tercihen çok rahat etmeden önce.",
@@ -5817,7 +5817,7 @@
                 "no": "Finn gjemmestedet nær Marano-stasjonen",
                 "pl": "Zlokalizuj skrytkę w pobliżu stacji Marano",
                 "pt": "Localize o esconderijo perto da estação Marano",
-                "pt-BR": "Localize o esconderijo perto da Estação Marano",
+                "pt-BR": "Encontre o estoque perto da Estação Marano",
                 "ru": "Найти тайник рядом со станцией Марано",
                 "sr": "Lociraj ostavu blizu Marano Stanice",
                 "tr": "Marano İstasyonu yakınındaki zulayı bul",
@@ -5839,7 +5839,7 @@
                 "no": "Saboter hurtiglageret",
                 "pl": "Sabotuj skrytkę",
                 "pt": "Sabote o cache",
-                "pt-BR": "Sabote o esconderijo",
+                "pt-BR": "Sabote o estoque",
                 "ru": "Саботировать тайник",
                 "sr": "Sabotiraj ostavu",
                 "tr": "Zulayı sabote et",
@@ -5869,7 +5869,7 @@
         "nextQuestIds": [
             "ss10m"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10f",
@@ -5887,7 +5887,7 @@
             "no": "Medisinsk utstyr",
             "pl": "Towary medyczne",
             "pt": "Mercadorias médicas",
-            "pt-BR": "Mercadoria Médica",
+            "pt-BR": "Mercadorias médicas",
             "ru": "Медицинские товары",
             "sr": "Medicinska Roba",
             "tr": "Tıbbi Malzemeler",
@@ -5915,7 +5915,7 @@
             "no": "Jeg har blitt ganske flink til å veve bandasjer fra stoff, men til min skam har jeg ikke helt mestret å veve en røntgenmaskin eller et pulsoksymeter.",
             "pl": "Stałem się całkiem zręczny w tkaniu bandaży z materiału, ale ku mojemu zawstydzeniu, nie opanowałem jeszcze tkania aparatu rentgenowskiego czy pulsoksymetru.",
             "pt": "Tornei-me bastante habilidoso em tecer bandagens a partir de tecido, mas para minha vergonha, ainda não dominei a arte de tecer uma máquina de raios-X ou um oxímetro de pulso.",
-            "pt-BR": "Fiquei muito habilidoso em tecer ataduras de Tecido, mas para minha vergonha, ainda não dominei a arte de tecer uma máquina de raio-x ou um oxímetro de pulso.",
+            "pt-BR": "Fiquei bem habilidoso em costurar ataduras com tecido, mas para minha vergonha, ainda não dominei a arte de tecer uma máquina de raios-X ou um oxímetro de pulso.",
             "ru": "Я стал довольно искусным в плетении бинтов из ткани, но, к моему стыду, я еще не освоил плетение рентгеновского аппарата или пульсоксиметра.",
             "sr": "Postao sam prilično veš u tkanju zavoja od Tkanine, ali na moju sramotu, nisam baš savladao tkanje rendgen aparata ili pulsnog oksimetra.",
             "tr": "Kumaştan sargı dokumada oldukça ustalaştım ama utanarak söylüyorum ki, röntgen cihazı veya nabız oksimetresi dokumayı henüz tam olarak beceremedim.",
@@ -5938,7 +5938,7 @@
                 "no": "På romhavnen, søk gjennom 2 containere i undersøkelsesrommene i avgangsbygningen",
                 "pl": "Na kosmodromie przeszukaj 2 kontenery w pokojach egzaminacyjnych budynku odlotów",
                 "pt": "No espaçoporto, procure em 2 contêineres nas salas de exame do edifício de partidas",
-                "pt-BR": "No Espaçoporto, vasculhe 2 contêineres nas salas de exame do Prédio de Embarque",
+                "pt-BR": "No Espaçoporto, procure em 2 contentores nas salas de inspeção do Prédio de Embarque",
                 "ru": "Обыщите контейнеры (2) в комнатах досмотра зоны отправления космопорта",
                 "sr": "Na Svemirskoj Luci, pretraži 2 kontejnera u preglednim sobama zgrade za Odlaske",
                 "tr": "Uzay Limanı'nda, Kalkış Binası'nın muayene odalarındaki 2 konteyneri ara",
@@ -5960,7 +5960,7 @@
                 "no": "Søk gjennom 3 containere på sykehuset i den begravde byen",
                 "pl": "Przeszukaj 3 kontenery w szpitalu w Pogrzebanym Mieście",
                 "pt": "Procure em 3 contêineres no hospital da cidade enterrada",
-                "pt-BR": "Vasculhe 3 contêineres no Hospital na Cidade Enterrada",
+                "pt-BR": "Procure em 3 contentores no Hospital da Cidade Soterrada",
                 "ru": "Обыскать 3 контейнера в Больнице в Погребенном городе",
                 "sr": "Pretraži 3 kontejnera u Bolnici u Zakopanom Gradu",
                 "tr": "Gömülü Şehir'deki Hastane'de 3 konteyner ara",
@@ -5982,7 +5982,7 @@
                 "no": "På demmens slagmark, søk gjennom 2 containere i det medisinske rommet i forsknings- og administrasjonsbygningen",
                 "pl": "Na polu bitwy przy tamie przeszukaj 2 kontenery w gabinecie medycznym budynku badawczo-administracyjnego",
                 "pt": "No campo de batalha da barragem, procure em 2 contêineres na sala médica do edifício de pesquisa e administração",
-                "pt-BR": "No Campo de Batalha da Represa, vasculhe 2 contêineres na sala médica do prédio de Pesquisa e Administração",
+                "pt-BR": "Nos Campos de Batalha da Represa, procure em 2 contentores na enfermaria do edifício de Pesquisa e Administração",
                 "ru": "Обыщите контейнеры (2) в медкабинете исследовательско-административного центра на поле битвы у дамбы",
                 "sr": "Na Bojnom Polju Brane, pretraži 2 kontejnera u medicinskoj sobi zgrade za Istraživanje i Administraciju",
                 "tr": "Baraj Savaş Alanı'nda, Araştırma ve İdare binasının tıbbi odasındaki 2 konteyneri ara",
@@ -6012,7 +6012,7 @@
         "nextQuestIds": [
             "ss10g"
         ],
-        "updatedAt": "11/25/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10d",
@@ -6030,7 +6030,7 @@
             "no": "Blandede signaler",
             "pl": "Mieszane sygnały",
             "pt": "Sinais misturados",
-            "pt-BR": "Sinais Mistos",
+            "pt-BR": "Sinais Confusos",
             "ru": "Смешанный сигнал",
             "sr": "Mešoviti Signali",
             "tr": "Karışık Sinyaller",
@@ -6075,7 +6075,7 @@
             "no": "Har du sett noen Landmålere; de store runde? De ser ut til å overføre data tilbake til bane, og jeg kan ikke la være å tenke at det er knyttet til det signalet vi fanget opp. Vil du åpne en, slik at vi kan prøve å tyde dataene?",
             "pl": "Widziałeś jakieś Geodety; te duże, okrągłe? Wydają się przesyłać dane z powrotem na orbitę, i nie mogę przestać myśleć, że to związane z tym sygnałem, który przechwyciliśmy. Czy mógłbyś otworzyć jeden, żebyśmy mogli spróbować odszyfrować dane?",
             "pt": "Você viu algum Topógrafo; aqueles grandes e redondos? Eles parecem estar transmitindo dados de volta para a órbita, e não consigo deixar de pensar que está ligado àquele sinal que captamos. Você poderia abrir um, para que possamos tentar decifrar os dados?",
-            "pt-BR": "Você avistou algum Surveyor; aqueles grandes e redondos? Eles parecem estar transmitindo dados de volta para a órbita, e não consigo deixar de pensar que isso está ligado àquele sinal que captamos. Você pode abrir um deles, para que possamos tentar decifrar os dados?",
+            "pt-BR": "Já viu algum Inspetor, daqueles grandalhões e redondos? Parecem que estão transmitindo dados de volta para a órbita, e suspeito que isso tem a ver com aquele sinal que captamos. Pode abrir um deles pra gente tentar decifrar os dados?",
             "ru": "Ты видел Геодезистов; таких больших круглых? Похоже, они передают данные на орбиту, и я не могу отделаться от мысли, что это связано с тем сигналом, который мы перехватили. Вскроешь одного, чтобы мы могли попытаться расшифровать данные?",
             "sr": "Da li si primetio neke Istraživače; one velike okrugle? Izgleda da prenose podatke nazad u orbitu, i ne mogu a da ne pomislim da je to povezano sa onim signalom koji smo uhvatili. Hoćeš li razbiti jednog, da možemo pokušati da dešifrujemo podatke?",
             "tr": "Hiç Surveyor gördün mü; şu büyük yuvarlak olanlardan? Yörüngeye veri iletiyorlar gibi görünüyor ve yakaladığımız sinyalle bağlantılı olduğunu düşünmeden edemiyorum. Birini parçalayıp veriyi çözmeyi deneyebilir miyiz?",
@@ -6098,7 +6098,7 @@
                 "no": "Ødelegg en ARC-landmåler",
                 "pl": "Zniszcz Geodetę ARC",
                 "pt": "Destrua um Topógrafo ARC",
-                "pt-BR": "Destrua um Surveyor ARC",
+                "pt-BR": "Destrua um Inspetor ARC",
                 "ru": "Уничтожить ARC Геодезиста",
                 "sr": "Uništi ARC Istraživača",
                 "tr": "Bir ARC Surveyor'ı yok et",
@@ -6120,7 +6120,7 @@
                 "no": "Skaff 1 landmålerhvelv",
                 "pl": "Zdobądź 1 skarbiec Geodety",
                 "pt": "Obtenha 1 cofre de Topógrafo",
-                "pt-BR": "Obtenha 1 Cofre de Surveyor",
+                "pt-BR": "Obtenha 1 cofre de Inspetor",
                 "ru": "Добудьте 1 сейф «Наблюдателя»",
                 "sr": "Pribavi 1 Trezor Istraživača",
                 "tr": "1 Surveyor Kasası edin",
@@ -6144,7 +6144,7 @@
             "ss10b"
         ],
         "nextQuestIds": [],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss4",
@@ -6200,7 +6200,7 @@
                 "no": "Besøk et feltdepot",
                 "pl": "Odwiedź depot polowy",
                 "pt": "Visite um depósito de campo",
-                "pt-BR": "Visite um Depósito de Campo",
+                "pt-BR": "Vá até um Depósito de Campo",
                 "ru": "Посетите полевую станцию",
                 "sr": "Posetite Terensko Skladište",
                 "tr": "Bir Saha Deposunu ziyaret et",
@@ -6222,7 +6222,7 @@
                 "no": "Reparer antennen på taket av feltdepotet",
                 "pl": "Napraw antenę na dachu depotu polowego",
                 "pt": "Repare a antena no telhado do depósito de campo",
-                "pt-BR": "Repare a antena no telhado do Depósito de Campo",
+                "pt-BR": "Conserte a antena no telhado do Depósito de Campo",
                 "ru": "Почините антенну на крыше полевой станции",
                 "sr": "Popravite antenu na krovu Terenskog Skladišta",
                 "tr": "Saha Deposunun çatısındaki anteni onar",
@@ -6245,7 +6245,7 @@
         "nextQuestIds": [
             "ss5"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10z",
@@ -6450,7 +6450,7 @@
             "no": "Så du flaggene? Tiden for å krype er over. Du har vært mer enn kampprøvd, fra det jeg hører; tror du kan ta på deg en Rocketeer?",
             "pl": "Widziałeś flagi? Czas krycia się się skończył. Byłeś więcej niż sprawdzony w boju, z tego co słyszę; myślisz, że dasz radę z Rocketeerem?",
             "pt": "Você viu as bandeiras? O tempo de se esconder acabou. Você foi mais do que testado em batalha, pelo que ouço; acha que pode enfrentar um Rocketeer?",
-            "pt-BR": "Viu as bandeiras? A hora de se acovardar acabou. Você foi mais do que testado em batalha, pelo que ouvi; acha que consegue enfrentar um Rocketeer?",
+            "pt-BR": "Viu as bandeiras?Chega de ficar se acovardando. Você já tá mais do que experiente nas batalhas, pelo que fiquei sabendo. Acha que consegue dar conta de um Fogueteiro?",
             "ru": "Ты видел флаги? Время прятаться закончилось. Ты более чем проверен в боях, насколько я слышал; думаешь, справишься с Ракетчиком?",
             "sr": "Jesi li video zastave? Vreme kukavičluka je prošlo. Čujem da si više nego iskušan u borbi; misliš li da možeš da se suočiš sa Rocketeerom?",
             "tr": "Bayrakları gördün mü? Sinme zamanı bitti. Duyduğuma göre savaşta fazlasıyla test edilmişsin; bir Roketçi ile başa çıkabileceğini düşünüyor musun?",
@@ -6473,7 +6473,7 @@
                 "no": "Ødelegg en Rocketeer",
                 "pl": "Zniszcz Rocketeera",
                 "pt": "Destrua um Rocketeer",
-                "pt-BR": "Destrua um Rocketeer",
+                "pt-BR": "Destrua um Fogueteiro",
                 "ru": "Уничтожить Ракетчика",
                 "sr": "Uništi Rocketeera",
                 "tr": "Bir Roketçi yok et",
@@ -6495,7 +6495,7 @@
                 "no": "Skaff en Rocketeer-driver",
                 "pl": "Zdobądź sterownik Rocketeera",
                 "pt": "Obtenha um driver de Rocketeer",
-                "pt-BR": "Obtenha um Driver de Rocketeer",
+                "pt-BR": "Obtenha um Driver de Fogueteiro",
                 "ru": "Получить Драйвер Ракетчика",
                 "sr": "Pribavi Rocketeer Driver",
                 "tr": "Bir Roketçi Sürücüsü edin",
@@ -6519,7 +6519,7 @@
             "ss10r"
         ],
         "nextQuestIds": [],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "paving_the_way",
@@ -6702,7 +6702,7 @@
             "no": "Plukke opp bitene",
             "pl": "Zbieranie kawałków",
             "pt": "Juntando os pedaços",
-            "pt-BR": "Juntando os Cacos",
+            "pt-BR": "Juntando as peças",
             "ru": "Сбор по крупицам",
             "sr": "Sakupljanje Delova",
             "tr": "Parçaları Toplama",
@@ -6725,7 +6725,7 @@
             "no": "Stormen har stort sett lagt seg, men mye av infrastrukturen vår har fått gjennomgå. Hvis du håper å bli hos oss, må du dra lasset ditt i reparasjonsarbeidet.",
             "pl": "Burza w większości się uspokoiła, ale nasza infrastruktura mocno ucierpiała. Jeśli masz nadzieję zostać z nami, będę potrzebował, żebyś wziął udział w pracach naprawczych.",
             "pt": "A tempestade já passou em grande parte, mas boa parte da nossa infraestrutura levou uma surra considerável. Se você espera ficar conosco, vou precisar que faça sua parte nos esforços de reparo.",
-            "pt-BR": "A tempestade praticamente passou, mas grande parte da nossa infraestrutura sofreu um belo estrago. Se espera ficar conosco, precisarei que faça sua parte nos esforços de reparo.",
+            "pt-BR": "A tempestade já se acalmou, mas boa parte da nossa infraestrutura ficou bem danificada. Se você quiser ficar com a gente, vou precisar que colabore com os reparos.",
             "ru": "Буря в основном утихла, но наша инфраструктура серьёзно пострадала. Если ты надеешься остаться с нами, мне нужно, чтобы ты внёс свой вклад в ремонтные работы.",
             "sr": "Oluja se uglavnom smirila, ali naša infrastruktura je prilično stradala. Ako nameravate da ostanete sa nama, moraću da tražim od vas da doprinesete u naporu popravke.",
             "tr": "Fırtına büyük ölçüde dindi, ancak altyapımız ciddi hasar aldı. Bizimle kalmayı umuyorsan, onarım çalışmalarında üzerine düşeni yapmanı isteyeceğim.",
@@ -6748,7 +6748,7 @@
                 "no": "Besøk et hvilket som helst område på kartet ditt med et bytteikon",
                 "pl": "Odwiedź dowolny obszar na mapie z ikoną kategorii łupów",
                 "pt": "Visite qualquer área no seu mapa com um ícone de categoria de saque",
-                "pt-BR": "Visite qualquer área no seu mapa com um ícone de categoria de saque",
+                "pt-BR": "Vá para qualquer área do mapa com ícone de categoria de saque",
                 "ru": "Зайдите в любую зону со значком добычи на карте",
                 "sr": "Posetite bilo koje područje na vašoj mapi sa ikonom kategorije plijena",
                 "tr": "Haritanızda ganimet kategorisi simgesi olan herhangi bir bölgeyi ziyaret edin",
@@ -6770,7 +6770,7 @@
                 "no": "Plyndre 3 containere",
                 "pl": "Zrabuj 3 kontenery",
                 "pt": "Saqueia 3 contêineres",
-                "pt-BR": "Saqueie 3 contêineres",
+                "pt-BR": "Saqueie 3 contentores",
                 "ru": "Возьмите добычу из контейнеров (3)",
                 "sr": "Opljačkajte 3 kontejnera",
                 "tr": "3 konteyner yağmala",
@@ -6795,7 +6795,7 @@
             "ss2",
             "ss3"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10x10",
@@ -7117,7 +7117,7 @@
             "no": "Redusert til grus",
             "pl": "Obrócone w gruzy",
             "pt": "Reduzido a escombros",
-            "pt-BR": "Reduzido a Escombros",
+            "pt-BR": "Em escombros",
             "ru": "Одни только щепки",
             "sr": "Svedeno na Ruševine",
             "tr": "Moloz Yığınına Dönmüş",
@@ -7149,7 +7149,7 @@
             "no": "Den kollapsede motorveien bekymrer meg; den ser ut til å være nylig. Mye av Topside kan være i ruiner, men det meste er fra lenge siden.",
             "pl": "Ta zawalone autostrada mnie niepokoi; wygląda na niedawną. Większość Topside może być w ruinach, ale większość z nich pochodzi sprzed wieków.",
             "pt": "Aquela rodovia colapsada me preocupa; parece ser recente. Muito de Topside pode estar em ruínas, mas a maior parte é de muito tempo atrás.",
-            "pt-BR": "Aquela rodovia desmoronada me preocupa; parece ser recente. Grande parte da Superfície pode estar em ruínas, mas a maioria é de muito tempo atrás.",
+            "pt-BR": "Aquela rodovia que desabou me preocupa; parece ser recente. A maior parte da superficie tá em ruínas, mas quase tudo é de séculos atrás.",
             "ru": "Этот обрушившийся хайвей меня беспокоит; похоже, что это произошло недавно. Большая часть Верхнего уровня может быть в руинах, но большинство из них — с давних времён.",
             "sr": "Taj srušeni autoput me brine; izgleda da je skorašnji. Veći deo Gornje Strane je možda u ruševinama, ali većina toga je od pre mnogo vremena.",
             "tr": "O çökmüş otoyol beni endişelendiriyor; yakın zamanda olmuş gibi görünüyor. Üst Taraf'ın çoğu harabe olabilir ama çoğu çok eskiden kalma.",
@@ -7172,7 +7172,7 @@
                 "no": "Ta et bilde av den kollapsede motorveien",
                 "pl": "Zrób zdjęcie zawalonej autostrady",
                 "pt": "Tire uma foto da rodovia colapsada",
-                "pt-BR": "Tire uma foto da Rodovia Desmoronada",
+                "pt-BR": "Tire uma foto da Rodovia Desabada",
                 "ru": "Сфотографируйте разрушенное шоссе",
                 "sr": "Uslikaj Srušeni Autoput",
                 "tr": "Çökmüş Otoyolun fotoğrafını çek",
@@ -7194,7 +7194,7 @@
                 "no": "Gå til den Knuste Jorden",
                 "pl": "Udaj się do Złamanej Ziemi",
                 "pt": "Vá para a Terra quebrada",
-                "pt-BR": "Vá para Broken Earth",
+                "pt-BR": "Vá para a Terra Partida",
                 "ru": "Идите к разломам",
                 "sr": "Idi do Slomljene Zemlje",
                 "tr": "Kırık Toprak'a git",
@@ -7216,7 +7216,7 @@
                 "no": "Følg ødeleggelsessporet gjennom den Knuste Jorden",
                 "pl": "Podążaj śladem zniszczenia przez Złamaną Ziemię",
                 "pt": "Siga o rastro de destruição através da Terra quebrada",
-                "pt-BR": "Siga o rastro de destruição através de Broken Earth",
+                "pt-BR": "Siga o rastro de destruição pela Terra Partida",
                 "ru": "Идите по следам разрушения через разломы",
                 "sr": "Prati trag razaranja kroz Slomljenu Zemlju",
                 "tr": "Kırık Toprak boyunca yıkım izini takip et",
@@ -7268,7 +7268,7 @@
         "nextQuestIds": [
             "ss11bx"
         ],
-        "updatedAt": "11/20/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss8",
@@ -7286,7 +7286,7 @@
             "no": "Trygg passasje",
             "pl": "Bezpieczne przejście",
             "pt": "Passagem segura",
-            "pt-BR": "Passagem Segura",
+            "pt-BR": "Travessia segura",
             "ru": "Безопасный проход",
             "sr": "Siguran Prolaz",
             "tr": "Güvenli Geçiş",
@@ -7353,7 +7353,7 @@
         "nextQuestIds": [
             "ss8a"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "12_snap_and_salvage",
@@ -7371,7 +7371,7 @@
             "no": "Knips og salv",
             "pl": "Fotka i złom",
             "pt": "Clique e Sucata",
-            "pt-BR": "Fotografar e Coletar",
+            "pt-BR": "Registro e Resgate",
             "ru": "Фотогеничные детали",
             "sr": "Slikaj i Spasi",
             "tr": "Çek ve Kurtar",
@@ -7408,7 +7408,7 @@
             "no": "Hele Speranza summer om Stella Montis akkurat nå, og jeg må innrømme at det har vekket interessen min. La de andre finne ut av hva og hvordan; jeg er interessert i teknologien der inne.",
             "pl": "Cała Speranza huczy teraz o Stella Montis i przyznam, że wzbudziło to moją ciekawość. Niech inni martwią się o to, co i jak; mnie interesuje technologia w środku.",
             "pt": "Toda Speranza só fala de Stella Montis neste momento, e admito que chamou minha atenção. Deixe que os outros descubram o quê e o como; eu estou de olho é na tecnologia lá dentro.",
-            "pt-BR": "Speranza inteira está falando sobre Stella Montis agora, e admito que chamou minha atenção. Deixe os outros resolverem os porquês e comos; estou interessado na tecnologia lá dentro.",
+            "pt-BR": "Só se fala de Stella Montis em Speranza. Admito que fiquei curiosa também. Enquanto os outros se preocupam com o resto dos detalhes, eu quero é saber da tecnologia que tem lá dentro.",
             "ru": "Вся Сперанца сейчас гудит из-за Стелла Монтис, и признаюсь, это привлекло моё внимание. Пусть другие разбираются, что там и почему; меня интересуют технологии внутри.",
             "sr": "Cela Speranza bruji o Stela Montisu ovih dana, i moram da priznam da je privukao i moju pažnju. Neka se drugi bave time šta je i kako je; mene zanima tehnologija unutra.",
             "tr": "Şu anda tüm Speranza, Stella Montis hakkında konuşuyor ve kabul etmeliyim ki benim de ilgimi çekti. Neyin ne olduğunu başkaları çözsün; beni ilgilendiren içerideki teknoloji.",
@@ -7431,7 +7431,7 @@
                 "no": "Ta et bilde av en av roverne i Sandbox-området",
                 "pl": "Zrób zdjęcie jednemu z łazików na poligonie",
                 "pt": "Tire uma foto de qualquer um dos Rovers no Sandbox",
-                "pt-BR": "Tire uma foto de qualquer um dos Rovers em Sandbox",
+                "pt-BR": "Tire uma foto de qualquer um dos robôs exploradores na Área de Testes",
                 "ru": "Сфотографируйте самоходного робота в песочнице",
                 "sr": "Fotografiši bilo koji od rovera u Sandboxu",
                 "tr": "Kum Havuzu'ndaki gezicilerden herhangi birinin fotoğrafını çek",
@@ -7453,7 +7453,7 @@
                 "no": "Søk gjennom papirene i sikkerhetskontrollrommet ved lobbyen",
                 "pl": "Przeszukaj papiery w pokoju punktu kontrolnego bezpieczeństwa przy holu",
                 "pt": "Revide os papéis na sala do Posto de Segurança ao lado do Lobby",
-                "pt-BR": "Vasculhe os papéis na sala do Ponto de Controle de Segurança perto do Lobby",
+                "pt-BR": "Procure os papéis na sala do Posto de Segurança perto do Saguão",
                 "ru": "Найдите бумаги в помещении контрольного пункта охраны у лобби",
                 "sr": "Pretraži papire u sobi Sigurnosne Kontrolne Tačke pored lobija",
                 "tr": "Lobinin yanındaki Güvenlik Kontrol odasındaki evrakları ara",
@@ -7529,7 +7529,7 @@
             "12_cold_storage"
         ],
         "nextQuestIds": [],
-        "updatedAt": "11/23/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10x6",
@@ -7547,7 +7547,7 @@
             "no": "Kilden til forurensningen",
             "pl": "Źródło skażenia",
             "pt": "Fonte da Contaminação",
-            "pt-BR": "Fonte da Contaminação",
+            "pt-BR": "Origem da Contaminação",
             "ru": "Источник заражения",
             "sr": "Izvor Kontaminacije",
             "tr": "Kirlenmenin Kaynağı",
@@ -7573,7 +7573,7 @@
             "no": "Jeg sier ikke at vannet vårt har blitt tuklet med, men basert på prøvene dine kan jeg heller ikke utelukke muligheten. Kan du returnere til demningen og se hva som er galt?",
             "pl": "Nie mówię, że nasza woda została zmanipulowana, ale na podstawie twoich próbek nie mogę też wykluczyć takiej możliwości. Czy mógłbyś wrócić do Tamy i sprawdzić, co jest nie tak?",
             "pt": "Não estou a dizer que a nossa água foi adulterada, mas com base nas suas amostras, também não posso descartar essa possibilidade. Poderia voltar à Barragem e ver o que está errado?",
-            "pt-BR": "Não estou dizendo que mexeram na nossa água, mas com base nas suas amostras, também não posso descartar essa possibilidade. Você poderia voltar à Represa e ver o que há de errado?",
+            "pt-BR": "Não estou dizendo que adulteraram nossa água, mas com base nas amostras, também não posso descartar essa possibilidade. Poderia voltar à Represa e verificar o que há de errado?",
             "ru": "Я не говорю, что нашу воду отравили, но судя по вашим образцам, я не могу исключить и такую возможность. Не могли бы вы вернуться к дамбе и посмотреть, что не так?",
             "sr": "Ne kažem da je neko petljao po našoj vodi, ali na osnovu tvojih uzoraka, ne mogu ni isključiti tu mogućnost. Možeš li se vratiti do Brane i videti šta nije u redu?",
             "tr": "Suyumuzun kurcalandığını söylemiyorum ama numunelerinize dayanarak bu ihtimali de göz ardı edemem. Baraj'a geri dönüp neyin yanlış olduğuna bakabilir misiniz?",
@@ -7596,7 +7596,7 @@
                 "no": "Nå vannbehandlingsbygningen i demningen",
                 "pl": "Dotrzyj do budynku uzdatniania wody w Tamie",
                 "pt": "Alcance o Edifício de Tratamento de Água na Barragem",
-                "pt-BR": "Chegue ao Prédio de Tratamento de Água na Represa",
+                "pt-BR": "Vá até o Prédio de Controle de Tratamento de Água na Represa",
                 "ru": "Добраться до здания водоочистки на дамбе",
                 "sr": "Stigni do Zgrade za Prečišćavanje Vode u Brani",
                 "tr": "Baraj'daki Su Arıtma Binasına ulaş",
@@ -7618,7 +7618,7 @@
                 "no": "Søk etter flomutslippsinntak nær sumpen",
                 "pl": "Poszukaj ujęcia wody powodziowej w pobliżu Bagna",
                 "pt": "Procure a Entrada de Transbordamento perto do Pântano",
-                "pt-BR": "Procure pela Entrada do Vertedouro perto do Pântano",
+                "pt-BR": "Procure a Entrada de Vertedouro perto do Pântano",
                 "ru": "Найти водозабор аварийного сброса возле болота",
                 "sr": "Traži Ulaz za Poplavni Preliv blizu Močvare",
                 "tr": "Bataklık yakınındaki Taşkın Dökülme Girişini ara",
@@ -7640,7 +7640,7 @@
                 "no": "Undersøk mistenkelige objekter",
                 "pl": "Zbadaj wszelkie podejrzane obiekty",
                 "pt": "Investigue quaisquer objetos suspeitos",
-                "pt-BR": "Investigue quaisquer objetos suspeitos",
+                "pt-BR": "Investigue objetos suspeitos",
                 "ru": "Исследовать любые подозрительные объекты",
                 "sr": "Istraži sve sumnjive objekte",
                 "tr": "Şüpheli nesneleri araştır",
@@ -7670,7 +7670,7 @@
         "nextQuestIds": [
             "ss10x7"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss8b",
@@ -7688,7 +7688,7 @@
             "no": "Gnister flyr",
             "pl": "Iskry lecą",
             "pt": "Faíscas",
-            "pt-BR": "Faíscas no Ar",
+            "pt-BR": "Faíscas para todos os Lados",
             "ru": "Искры летят",
             "sr": "Varnice lete",
             "tr": "Kıvılcımlar Saçılıyor",
@@ -7721,7 +7721,7 @@
             "no": "De Hornet-stikkene kan virkelig ødelegge deg, hvis du er uheldig. Og selv om du ødelegger en, sløser du fortsatt bort en masse ammunisjon. Jeg har jobbet med en mer elegant måte å ta dem ned på. Lyst til å få noen gnister til å fly?",
             "pl": "Te ukąszenia Hornetów mogą naprawdę cię poharatać, jeśli masz pecha. A nawet jeśli zniszczysz jednego, nadal marnujesz mnóstwo amunicji. Pracowałem nad bardziej eleganckim sposobem ich zestrzelenia. Chcesz sprawić, żeby posypały się iskry?",
             "pt": "Essas picadas de Hornet podem te estragar muito, se você tiver azar. E mesmo se você destruir um, ainda está desperdiçando um monte de munição. Tenho trabalhado numa forma mais elegante de derrubá-los. Quer fazer algumas faíscas voarem?",
-            "pt-BR": "Aquelas ferroadas de Vespa podem acabar com você, se der azar. E mesmo que destrua uma, ainda gasta muita munição. Estive trabalhando em uma maneira mais elegante de derrubá-las. Quer fazer voar algumas faíscas?",
+            "pt-BR": "Aquelas picadas de Marimbondos podem fazer um estrago, se der azar. E mesmo se destruir um, ainda vai gastar munição a beça. Tô trabalhado numa forma mais elegante de derrubá-los. A fim de soltar umas faíscas?",
             "ru": "Эти укусы Hornet могут серьёзно тебя покалечить, если не повезёт. И даже если ты уничтожишь один, ты всё равно потратишь кучу боеприпасов. Я работаю над более элегантным способом их сбивать. Хочешь устроить фейерверк?",
             "sr": "Ubodi tih Horneta mogu stvarno da te unište, ako si nesrećan. A čak i ako uništiš jedan, i dalje trošiš gomilu municije. Radio sam na elegantnijim načinom da ih oborim. Hoćeš li da napraviš malo varnica?",
             "tr": "Şansın yoksa o Hornet iğneleri seni gerçekten mahvedebilir. Ve birini yok etsen bile, bir sürü mühimmat harcıyorsun. Onları düşürmenin daha zarif bir yolu üzerinde çalışıyorum. Biraz kıvılcım saçmaya ne dersin?",
@@ -7744,7 +7744,7 @@
                 "no": "Ødelegg en Hornet med en Trigger 'Nade eller Snap Blast",
                 "pl": "Zniszcz Horneta za pomocą Trigger 'Nade lub Snap Blast",
                 "pt": "Destrua um Hornet com uma Trigger 'Nade ou Snap Blast",
-                "pt-BR": "Destrua uma Vespa com uma Granada de Acionamento ou Snap Blast",
+                "pt-BR": "Destrua um Marimbondo com uma Granada de Gatilho ou Explode Rápido",
                 "ru": "Уничтожьте «Шершня» с помощью триггер-гранаты или разрывной гранаты",
                 "sr": "Uništi Hornet sa Trigger 'Nade ili Snap Blast",
                 "tr": "Trigger 'Nade veya Snap Blast ile bir Hornet'i yok et",
@@ -7772,7 +7772,7 @@
             "ss8a"
         ],
         "nextQuestIds": [],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10j",
@@ -7790,7 +7790,7 @@
             "no": "Ren protokoll",
             "pl": "Czyste konto",
             "pt": "Registro limpo",
-            "pt-BR": "Acertando as Contas",
+            "pt-BR": "Registro direto",
             "ru": "Поправки",
             "sr": "Čist Račun",
             "tr": "Temiz Kayıt",
@@ -7826,7 +7826,7 @@
             "no": "Tilbake under First Wave bygde laget mitt og jeg en felle ved demningen. Overbelastet en generator og gjorde den om til en provisorisk ARC-felle. Nå hører jeg at Raiders bruker den til å kutte kommunikasjon og sette opp bakhold mot hverandre. Jeg trenger at du avslutter det.",
             "pl": "Podczas First Wave mój oddział i ja zbudowaliśmy pułapkę przy tamie. Przeciążyliśmy generator i zamieniliśmy go w prowizoryczną pułapkę ARC. Teraz słyszę, że Raiders używają jej do przerywania łączności i urządzania zasadzek na siebie nawzajem. Musisz temu położyć kres.",
             "pt": "Durante a First Wave, a minha equipa e eu construímos uma armadilha perto da barragem. Sobrecarregámos um gerador e transformámo-lo numa armadilha ARC improvisada. Agora ouço dizer que os Raiders a estão a usar para cortar comunicações e preparar emboscadas uns aos outros. Preciso que acabes com isso.",
-            "pt-BR": "Lá na Primeira Onda, meu esquadrão e eu construímos uma armadilha perto da Represa. Sobrecarregamos um gerador, transformando-o em uma armadilha improvisada para a ARC. Agora ouvi dizer que os Raiders estão usando isso para cortar as comunicações e armar emboscadas uns para os outros. Preciso que você acabe com isso.",
+            "pt-BR": "Na época da Primeira Onda, meu time e eu criamo uma armadilha na Represa. Sobrecarregamos um gerador e transformamos numa armadilha improvisada contra ARC. Agora ouvi dizer que os Combatentes estão usando isso para cortar comunicações e armar emboscadas uns pros outros. Preciso que você acabe com isso.",
             "ru": "Ещё во время Первой волны мы с моим отрядом построили ловушку у Дамбы. Перегрузили генератор, превратили его в самодельную ARC-ловушку. Теперь я слышу, что Рейдеры используют её, чтобы глушить связь и устраивать засады друг на друга. Мне нужно, чтобы ты покончил с этим.",
             "sr": "Tokom Prvog Talasa, moj odred i ja smo napravili zamku kod Brane. Preopteretili smo generator i pretvorili ga u improvizovanu ARC zamku. Sada čujem da je Pljačkaši koriste da preseku komunikacije i postavljaju zasede jedni drugima. Moraš da okončaš to.",
             "tr": "İlk Dalga sırasında, ekibimle birlikte Baraj yakınında bir tuzak kurduk. Bir jeneratörü aşırı yükleyip geçici bir ARC tuzağına dönüştürdük. Şimdi Akıncıların bunu iletişimi kesmek ve birbirlerine pusu kurmak için kullandığını duyuyorum. Buna son vermeni istiyorum.",
@@ -7849,7 +7849,7 @@
                 "no": "Nå Victory Ridge",
                 "pl": "Dotrzyj do Victory Ridge",
                 "pt": "Alcance Victory Ridge",
-                "pt-BR": "Chegue a Victory Ridge",
+                "pt-BR": "Vá para a Crista da Vitória",
                 "ru": "Доберитесь до Хребта победы",
                 "sr": "Stigni do Victory Ridgea",
                 "tr": "Victory Ridge'e ulaşın",
@@ -7893,7 +7893,7 @@
                 "no": "Deaktiver den første strømbryteren",
                 "pl": "Wyłącz pierwszy przełącznik zasilania",
                 "pt": "Desative o primeiro interruptor de energia",
-                "pt-BR": "Desative o primeiro interruptor de energia",
+                "pt-BR": "Desative o primeiro interruptor de alimentação",
                 "ru": "Обесточьте первый переключатель",
                 "sr": "Onesposobi prvi prekidač napajanja",
                 "tr": "İlk güç anahtarını devre dışı bırakın",
@@ -7915,7 +7915,7 @@
                 "no": "Deaktiver den andre strømbryteren",
                 "pl": "Wyłącz drugi przełącznik zasilania",
                 "pt": "Desative o segundo interruptor de energia",
-                "pt-BR": "Desative o segundo interruptor de energia",
+                "pt-BR": "Desative o segundo interruptor de alimentação",
                 "ru": "Обесточьте второй переключатель",
                 "sr": "Onesposobi drugi prekidač napajanja",
                 "tr": "İkinci güç anahtarını devre dışı bırakın",
@@ -7937,7 +7937,7 @@
                 "no": "Deaktiver den tredje strømbryteren",
                 "pl": "Wyłącz trzeci przełącznik zasilania",
                 "pt": "Desative o terceiro interruptor de energia",
-                "pt-BR": "Desative o terceiro interruptor de energia",
+                "pt-BR": "Desative o terceiro interruptor de alimentação",
                 "ru": "Обесточьте третий переключатель",
                 "sr": "Onesposobi treći prekidač napajanja",
                 "tr": "Üçüncü güç anahtarını devre dışı bırakın",
@@ -7959,7 +7959,7 @@
                 "no": "Slå av EMP-fellen",
                 "pl": "Wyłącz pułapkę EMP",
                 "pt": "Desligue a armadilha EMP",
-                "pt-BR": "Desligue a armadilha de PEM",
+                "pt-BR": "Desative a armadilha de PEM",
                 "ru": "Отключите электромагнитную ловушку",
                 "sr": "Isključi EMP zamku",
                 "tr": "EMP tuzağını kapatın",
@@ -7985,7 +7985,7 @@
         "nextQuestIds": [
             "ss10o"
         ],
-        "updatedAt": "11/23/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10x7",
@@ -8003,7 +8003,7 @@
             "no": "Bytte forsyningen",
             "pl": "Zmiana zaopatrzenia",
             "pt": "Mudar o Abastecimento",
-            "pt-BR": "Desviando o Abastecimento",
+            "pt-BR": "Troca de Suprimentos",
             "ru": "Переключение снабжения",
             "sr": "Promena Snabdevanja",
             "tr": "Tedariki Değiştirme",
@@ -8029,7 +8029,7 @@
             "no": "Det er et reservoar under romhavnen; hvis vi klarer å lede vannet hit, bør det gi oss tid til å håndtere forurensningen.",
             "pl": "Pod Portem Kosmicznym znajduje się zbiornik; jeśli uda nam się przekierować tę wodę tutaj, to powinno dać nam czas na zajęcie się skażeniem.",
             "pt": "Há um reservatório sob o Espaçoporto; se conseguirmos desviar essa água para cá, isso deve dar-nos tempo para lidar com a contaminação.",
-            "pt-BR": "Há um reservatório sob o Espaçoporto; se conseguirmos desviar essa água para cá, isso deve nos dar tempo para lidar com a contaminação.",
+            "pt-BR": "Há um reservatório embaixo do Espaçoporto. Se conseguirmos desviar a água para cá, vamos ganhar tempo para lidar com a contaminação.",
             "ru": "Под космопортом есть резервуар; если нам удастся перенаправить ту воду сюда, это даст нам время разобраться с заражением.",
             "sr": "Postoji rezervoar ispod Svemirske Luke; ako uspemo da preusmerimo tu vodu ovde, to bi trebalo da nam kupi vreme da se pozabavimo kontaminacijom.",
             "tr": "Uzay Limanı'nın altında bir rezervuar var; eğer o suyu buraya yönlendirmeyi başarırsak, kirlenmeyle başa çıkmak için bize zaman kazandırır.",
@@ -8104,7 +8104,7 @@
         "nextQuestIds": [
             "ss10x8"
         ],
-        "updatedAt": "11/23/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "the_clean_dream",
@@ -8155,7 +8155,7 @@
             "no": "Vet du hva jeg har drømt om i det siste? En snakkende vanndestillator! Galskap, ikke sant? Men seriøst, med renere forbindelser kunne jeg lage sprengstoff med mer smell! Det ville vært noe, ikke sant?",
             "pl": "Wiesz, o czym ostatnio śnię? O mówiącym destylatorze wody! Szalone, co? Ale poważnie, z czystszymi związkami mógłbym robić materiały wybuchowe z większym hukiem! Byłoby coś, nie?",
             "pt": "Sabes com o que tenho sonhado ultimamente? Um destilador de água falante! Loucura, não? Mas a sério, com compostos mais puros poderia fazer explosivos com mais força! Seria algo, não?",
-            "pt-BR": "Sabe com o que tenho sonhado ultimamente? Um destilador de água falante! Loucura, né? Mas falando sério, com compostos mais puros eu poderia fazer explosivos com mais potência! Seria incrível, né?",
+            "pt-BR": "Apollo quer novos filtros de água",
             "ru": "Знаешь, о чём я мечтаю в последнее время? О говорящем дистилляторе воды! Безумие, да? Но серьёзно, с более чистыми соединениями я мог бы делать взрывчатку помощнее! Было бы круто, правда?",
             "sr": "Znaš o čemu sanjam u poslednje vreme? O destileru vode koji priča! Ludo, zar ne? Ali ozbiljno, sa čistijim jedinjenjima mogao bih da pravim eksploziv sa više snage! To bi bilo nešto, zar ne?",
             "tr": "Son zamanlarda neyin hayalini kurduğumu biliyor musun? Konuşan bir su damıtıcısı! Çılgınca, değil mi? Ama cidden, daha saf bileşiklerle daha güçlü patlayıcılar yapabilirim! Harika olmaz mı?",
@@ -8178,7 +8178,7 @@
                 "no": "På Romhavnen, søk gjennom 4 containere i de underjordiske tunnelene",
                 "pl": "Na Kosmodromie przeszukaj 4 kontenery w podziemnych tunelach",
                 "pt": "No Espaçoporto, procura em 4 contentores nos túneis subterrâneos",
-                "pt-BR": "No Porto Espacial, vasculhe 4 contêineres nos túneis subterrâneos",
+                "pt-BR": "No Espaçoporto, procura 4 contentores nos túneis subterrâneos",
                 "ru": "На Космопорте обыщите 4 контейнера в подземных туннелях",
                 "sr": "Na Svemirskoj luci, pretraži 4 kontejnera u podzemnim tunelima",
                 "tr": "Uzay Limanı'nda yeraltı tünellerinde 4 konteyneri ara",
@@ -8222,7 +8222,7 @@
                 "no": "På Blue Gate, besøk vedlikeholdsbunkeren",
                 "pl": "Na Blue Gate odwiedź bunkier konserwacyjny",
                 "pt": "Em Blue Gate, visite o Bunker de Manutenção",
-                "pt-BR": "No Portão Azul, visite o Bunker de Manutenção",
+                "pt-BR": "No Portão Azul, acesse a Casamata de Manutenção",
                 "ru": "На Blue Gate посетите ремонтный бункер",
                 "sr": "Na Blue Gate, poseti Bunker za održavanje",
                 "tr": "Blue Gate'de, Bakım Sığınağını ziyaret et",
@@ -8244,7 +8244,7 @@
                 "no": "Overvåk rensesystemet i bunkeren",
                 "pl": "Monitoruj system oczyszczania w bunkrze",
                 "pt": "Monitore o sistema de purificação no bunker",
-                "pt-BR": "Monitore o Sistema de Purificação no bunker",
+                "pt-BR": "Monitore o Sistema de Purificação na casamata",
                 "ru": "Отслеживайте систему очистки в бункере",
                 "sr": "Nadgledaj sistem za prečišćavanje u bunkeru",
                 "tr": "Sığınakta Arıtma Sistemini izle",
@@ -8266,7 +8266,7 @@
                 "no": "Finn og fotografer tegningene i bunkeren",
                 "pl": "Znajdź i sfotografuj plany w bunkrze",
                 "pt": "Encontre e fotografe as plantas no bunker",
-                "pt-BR": "Encontre e fotografe os projetos no bunker",
+                "pt-BR": "Encontre e fotografe os esquemas na casamata",
                 "ru": "Найдите и сфотографируйте чертежи в бункере",
                 "sr": "Pronađi i fotografiši nacrte u bunkeru",
                 "tr": "Sığınakta planları bul ve fotoğrafla",
@@ -8294,7 +8294,7 @@
             "ss11bx"
         ],
         "nextQuestIds": [],
-        "updatedAt": "12/16/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10u",
@@ -8344,7 +8344,7 @@
             "no": "Jeg har en annen jobb. Det handler... om moren min. De First Wave-stedene jeg sendte deg til før? Jeg håpet faktisk du ville finne noe som tilhørte moren min. Hun kjempet i Raider-motstanden. Det var et langt skudd; men nå har jeg et faktisk spor.",
             "pl": "Mam kolejne zadanie. To... o mojej mamie. Te miejsca Pierwszej Fali, do których cię wcześniej wysłałem? Właściwie miałem nadzieję, że znajdziesz coś po mojej matce. Walczyła w ruchu oporu Raiderów. To był strzał w ciemno; ale teraz mam prawdziwy trop.",
             "pt": "Tenho outro trabalho. É... sobre minha mãe. Aqueles locais da Primeira Onda para os quais te enviei antes? Na verdade, eu esperava que você encontrasse algo da minha mãe. Ela lutou na resistência dos Raiders. Era uma chance remota; mas agora tenho uma pista real.",
-            "pt-BR": "Tenho outro trabalho. É... sobre minha mãe. Aqueles locais da Primeira Onda para onde te enviei antes? Na verdade, eu esperava que você encontrasse algo da minha mãe. Ela lutou na resistência Raider. Era um tiro no escuro, mas agora tenho uma pista real.",
+            "pt-BR": "Tenho outro serviço. É... sobre minha mãe. Sabe aqueles locais da Primeira Onda para onde eu te mandei? Tinha esperança que você encontrasse algo da minha mãe. Ela lutou na resistência dos Combatentes. A chance era mínima; mas agora consegui uma pista concreta.",
             "ru": "У меня есть ещё одно задание. Это... о моей маме. Помнишь те места Первой волны, куда я тебя посылал? На самом деле я надеялся, что ты найдёшь что-то, принадлежавшее моей матери. Она сражалась в сопротивлении Рейдеров. Шансы были малы; но теперь у меня есть настоящая зацепка.",
             "sr": "Imam još jedan posao. Radi se.. o mojoj majci. Ona mesta Prvog talasa na koja sam te slao ranije? Zapravo sam se nadao da ćeš naći nešto što je pripadalo mojoj majci. Borila se u otporu Pljačkaša. Bila je mala šansa; ali sada imam pravi trag.",
             "tr": "Başka bir işim var. Bu.. annemle ilgili. Seni daha önce gönderdiğim İlk Dalga bölgeleri hatırlıyor musun? Aslında annemin bir şeyini bulmanı umuyordum. O, Yağmacı direnişinde savaştı. Uzak bir ihtimaldi; ama şimdi gerçek bir ipucum var.",
@@ -8367,7 +8367,7 @@
                 "no": "Søk etter major Aivas minner i leilighetene nordvest for demningen",
                 "pl": "Poszukaj pamiątek majora Aivy w apartamentach na północny zachód od tamy",
                 "pt": "Procure as lembranças da Major Aiva nos apartamentos a noroeste da represa",
-                "pt-BR": "Procure pelas lembranças da Major Aiva nos apartamentos a noroeste da Represa",
+                "pt-BR": "Procure as lembranças da Major Aiva nos condominios a noroeste da Represa",
                 "ru": "Искать памятные вещи майора Айвы в квартирах к северо-западу от Дамбы",
                 "sr": "Traži uspomene Major Aive u stanovima severozapadnog od Brane",
                 "tr": "Baraj'ın kuzeybatısındaki dairelerde Binbaşı Aiva'nın hatıralarını ara",
@@ -8409,7 +8409,7 @@
             "ss10r"
         ],
         "nextQuestIds": [],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss7",
@@ -8460,7 +8460,7 @@
             "no": "Du er en av de nyankomne, ikke sant? Jeg trenger en frivillig til å teste denne oppgraderte Ferroen  den burde skjære gjennom ARC-panser som smør. Fyll noen maskiner med hull og rapporter tilbake.",
             "pl": "Jesteś jednym z nowoprzybyłych, prawda? Potrzebuję ochotnika, który przetestuje to ulepszone Ferro  powinno ciąć pancerz ARC jak masło. Zrób kilka dziur w maszynach, a potem zamelduj się u mnie.",
             "pt": "Você é um dos recém-chegados, certo? Preciso de um voluntário para testar este Ferro aprimorado  ele deve cortar armaduras ARC como manteiga. Encha algumas máquinas de balas e depois volte para me contar.",
-            "pt-BR": "Você é um dos novatos, certo? Preciso de um voluntário para testar este Ferro aprimorado, deve cortar a blindagem ARC como manteiga. Faça alguns buracos em algumas máquinas e depois volte para se apresentar.",
+            "pt-BR": "Você faz parte dos recém-chegados, né? Preciso de alguém para testar esse Ferro aprimorado. Ele deve atravessar a blindagem ARC que nem manteiga. Enche umas máquinas de buracos e depois me fala.",
             "ru": "Ты из новеньких, верно? Мне нужен доброволец, чтобы испытать этот улучшенный Ferro  он должен резать броню ARC как масло. Продырявь пару машин и потом доложи мне.",
             "sr": "Ti si jedan od novajlija, zar ne? Treba mi dobrovoljac da isproba ovaj unapređeni Ferro  trebalo bi da seče ARC oklop kao puter. Izbuši par mašina i onda mi podnesi izveštaj.",
             "tr": "Yeni gelenlerden birisin, değil mi? Bu geliştirilmiş Ferro'yu deneyecek bir gönüllüye ihtiyacım var  ARC zırhını tereyağı gibi kesmeli. Birkaç makineyi delik deşik et ve sonra bana rapor ver.",
@@ -8505,7 +8505,7 @@
                 "no": "Ødelegg en Hornet",
                 "pl": "Zniszcz Hornet",
                 "pt": "Destrua um Hornet",
-                "pt-BR": "Destrua uma Vespa",
+                "pt-BR": "Destrua um Marimbondo",
                 "ru": "Уничтожьте «Шершня»",
                 "sr": "Uništite Stršljena",
                 "tr": "Bir Hornet'i yok et",
@@ -8557,7 +8557,7 @@
         "nextQuestIds": [
             "ss10"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10x3",
@@ -8575,7 +8575,7 @@
             "no": "Roten til problemet",
             "pl": "Sedno sprawy",
             "pt": "A raiz da questão",
-            "pt-BR": "A Raiz da Questão",
+            "pt-BR": "Raíz do Problema",
             "ru": "Корень проблемы",
             "sr": "Корен проблема",
             "tr": "Meselenin Özü",
@@ -8601,7 +8601,7 @@
             "no": "Vi har flaks. Notatene du fant sist gang ble skrevet av hovedforskeren. Da prosjektet gikk under, ser det ut til at hun tok noen av frøprøvene og forseglet dem på et sikkert sted.",
             "pl": "Mamy szczęście. Notatki, które znalazłeś ostatnim razem, zostały napisane przez główną badaczkę. Kiedy projekt upadł, wygląda na to, że zabrała część próbek nasion i zapieczętowała je w bezpiecznym miejscu.",
             "pt": "Temos sorte. As notas que encontraste da última vez foram escritas pela investigadora principal. Quando o projeto foi abaixo, parece que ela levou algumas das amostras de sementes e selou-as num local seguro.",
-            "pt-BR": "Estamos com sorte. As anotações que você encontrou da última vez foram escritas pela pesquisadora-chefe. Quando o projeto fracassou, parece que ela pegou algumas amostras de sementes e as selou em um local seguro.",
+            "pt-BR": "Demos sorte. As notas que você enmcontrou na última vez foram escritas pela pesquisadora-chefe. Quando o projeto foi abandonado, parece que ela levou algumas das amostras de sementes e as trancou num local seguro.",
             "ru": "Нам повезло. Записи, которые вы нашли в прошлый раз, были написаны главным исследователем. Когда проект закрыли, похоже, она взяла несколько образцов семян и запечатала их в безопасном месте.",
             "sr": "Имамо среће. Белешке које сте пронашли прошли put написала је главна истраживачица. Када је пројекат пропао, изгледа да је узела неке узорке семена и запечатила их на сигурном месту.",
             "tr": "Şanslıyız. Geçen sefer bulduğunuz notlar baş araştırmacı tarafından yazılmış. Proje iptal edildiğinde, tohum örneklerinden bazılarını alıp güvenli bir yere mühürlemiş gibi görünüyor.",
@@ -8624,7 +8624,7 @@
                 "no": "Gå til Forskningsbygningen",
                 "pl": "Udaj się do Budynku Badawczego",
                 "pt": "Vai ao Edifício de Investigação",
-                "pt-BR": "Vá para o Prédio de Pesquisa",
+                "pt-BR": "Vá para o Edifício de Pesquisa",
                 "ru": "Отправляйтесь в Исследовательское здание",
                 "sr": "Идите до Истраживачке зграде",
                 "tr": "Araştırma Binasına git",
@@ -8646,7 +8646,7 @@
                 "no": "Søk etter frøhvelvet i \"rommet med flott utsikt\"",
                 "pl": "Poszukaj skarbca nasion w \"pokoju ze wspaniałym widokiem\"",
                 "pt": "Procura o cofre de sementes na \"sala com uma ótima vista\"",
-                "pt-BR": "Procure pelo cofre de sementes na \"sala com uma ótima vista\"",
+                "pt-BR": "Procura o cofre de sementes na \"sala com uma vista maravilhosa\"",
                 "ru": "Ищите хранилище семян в \"комнате с прекрасным видом\"",
                 "sr": "Потражите трезор са семеном у \"соби са прелепим погледом\"",
                 "tr": "\"Harika manzaralı odada\" tohum kasasını ara",
@@ -8694,7 +8694,7 @@
         "nextQuestIds": [
             "ss10x4"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "the_stench_of_corruption",
@@ -8930,7 +8930,7 @@
             "no": "Trifecta",
             "pl": "Trifecta",
             "pt": "A Trifecta",
-            "pt-BR": "A Tríade",
+            "pt-BR": "Trio parada dura",
             "ru": "Триада",
             "sr": "Trifekta",
             "tr": "Üçlü Zafer",
@@ -8979,7 +8979,7 @@
             "no": "Etterretning er bra og vel det, men det tar oss bare så langt. Hvis ARC virkelig nærmer seg, trenger jeg at hver Raider beviser at de kan håndtere dronene deres i kamp.",
             "pl": "Wywiad to wszystko fajnie, ale zaprowadzi nas tylko do pewnego momentu. Jeśli ARC naprawdę się zbliża, potrzebuję, żeby każdy Raider udowodnił, że potrafi poradzić sobie z ich dronami w walce.",
             "pt": "Inteligência é bom e tudo mais, mas só nos leva até certo ponto. Se a ARC está realmente se aproximando, preciso que cada Raider prove que pode lidar com seus drones numa luta.",
-            "pt-BR": "Inteligência é muito bom e tudo mais, mas tem limite. Se a ARC está realmente fechando o cerco, preciso que todo Raider prove que consegue dar conta dos drones deles numa luta.",
+            "pt-BR": "Informação é ótimo, mas só leva a gente até certo ponto. Se a ARC está mesmo se aproximando, preciso que cada Combatente prove que consegue lidar com os drones numa batalha.",
             "ru": "Разведка — это хорошо, но она помогает лишь до определённой степени. Если ARC действительно приближается, мне нужно, чтобы каждый Рейдер доказал, что может справиться с их дронами в бою.",
             "sr": "Informacije su dobre i korisne, ali nas samo donekle dovode. Ako se ARC zaista približava, potrebno mi je da svaki Raider dokaže da može da se nosi sa njihovim dronovima u borbi.",
             "tr": "İstihbarat iyi güzel ama bizi ancak buraya kadar getirir. Eğer ARC gerçekten yaklaşıyorsa, her Raider'ın bir çatışmada drone'larıyla başa çıkabileceğini kanıtlaması gerekiyor.",
@@ -9002,7 +9002,7 @@
                 "no": "Ødelegg 2 Wasps",
                 "pl": "Zniszcz 2 Waspy",
                 "pt": "Destrua 2 Wasps",
-                "pt-BR": "Destrua 2 Wasps",
+                "pt-BR": "Destrua 2 Vespas",
                 "ru": "Уничтожьте «Осу»",
                 "sr": "Uništi 2 Waspa",
                 "tr": "2 Wasp yok et",
@@ -9024,7 +9024,7 @@
                 "no": "Skaff 2 Wasp Driver til Shani",
                 "pl": "Zdobądź 2 Wasp Drivery dla Shani",
                 "pt": "Consiga 2 Wasp Driver para Shani",
-                "pt-BR": "Obtenha 2 Controladores de Wasp para Shani",
+                "pt-BR": "Consiga 2 Driver de Vespa para Shani",
                 "ru": "Добудьте для Шани драйвер «Осы»",
                 "sr": "Nabavi 2 Wasp Drivera za Shani",
                 "tr": "Shani için 2 Wasp Driver al",
@@ -9046,7 +9046,7 @@
                 "no": "Ødelegg 2 Hornets",
                 "pl": "Zniszcz 2 Hornety",
                 "pt": "Destrua 2 Hornets",
-                "pt-BR": "Destrua 2 Hornets",
+                "pt-BR": "Destrua 2 Marimbondos",
                 "ru": "Уничтожьте «Шершня»",
                 "sr": "Uništi 2 Horneta",
                 "tr": "2 Hornet yok et",
@@ -9068,7 +9068,7 @@
                 "no": "Skaff 2 Hornet Driver til Shani",
                 "pl": "Zdobądź 2 Hornet Drivery dla Shani",
                 "pt": "Consiga 2 Hornet Driver para Shani",
-                "pt-BR": "Obtenha 2 Controladores de Hornet para Shani",
+                "pt-BR": "Consiga 2 Driver de Marimbondo para Shani",
                 "ru": "Добудьте для Шани драйвер «Шершня»",
                 "sr": "Nabavi 2 Hornet Drivera za Shani",
                 "tr": "Shani için 2 Hornet Driver al",
@@ -9090,7 +9090,7 @@
                 "no": "Ødelegg 2 Snitches",
                 "pl": "Zniszcz 2 Snitche",
                 "pt": "Destrua 2 Snitches",
-                "pt-BR": "Destrua 2 Snitches",
+                "pt-BR": "Destrua 2 Dedo-duro",
                 "ru": "Уничтожьте «Стукача»",
                 "sr": "Uništi 2 Snitcha",
                 "tr": "2 Snitch yok et",
@@ -9112,7 +9112,7 @@
                 "no": "Skaff 2 Snitch Scanner til Shani",
                 "pl": "Zdobądź 2 Snitch Scannery dla Shani",
                 "pt": "Consiga 2 Snitch Scanner para Shani",
-                "pt-BR": "Obtenha 2 Scanners de Snitch para Shani",
+                "pt-BR": "Consiga 2 Detector de Dedo-duro para Shani",
                 "ru": "Добудьте сканер «Стукача» для Шани",
                 "sr": "Nabavi 2 Snitch Scannera za Shani",
                 "tr": "Shani için 2 Snitch Scanner al",
@@ -9140,7 +9140,7 @@
             "ss6"
         ],
         "nextQuestIds": [],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss3",
@@ -9158,7 +9158,7 @@
             "no": "Søppel til skatt",
             "pl": "Ze śmieci w skarb",
             "pt": "Lixo em tesouro",
-            "pt-BR": "Lixo em Tesouro",
+            "pt-BR": "Do lixo ao tesouro",
             "ru": "Из мусора в сокровище",
             "sr": "Od Otpada do Blaga",
             "tr": "Çöpten Hazineye",
@@ -9197,7 +9197,7 @@
             "no": "For en Raider finnes det ikke skrap – alt er verdifulle ressurser som venter på å bli resirkulert. Hvis du vil oppnå noe her, kan du ikke bare sitte og vente på at alt skal bli servert på sølvfat.",
             "pl": "Dla Raidera nie ma czegoś takiego jak złom – to wszystko cenne surowce, które tylko czekają na recykling. Jeśli chcesz tu coś osiągnąć, nie możesz czekać, aż wszystko zostanie ci podane na złotej tacy.",
             "pt": "Para um Raider não existe sucata – tudo são materiais valiosos prontos para serem reciclados. Se você quer conseguir algo por aqui, não pode ficar esperando que tudo venha de bandeja.",
-            "pt-BR": "Para um Raider, não existe sucata – é tudo material valioso esperando para ser reciclado. Se você quer chegar a algum lugar aqui fora, não pode apenas esperar que tudo lhe seja entregue de bandeja.",
+            "pt-BR": "Pros Combatentes, não existe essa coisa de lixo. Só materiais valiosos esperando serem reciclados. Se quiser ser alguém por aqui, não dá pra ficar esperando as coisas de mão beijada.",
             "ru": "Для рейдера не существует просто хлама – это всё ценные материалы, которые ждут, когда их переработают. Если хочешь чего-то добиться здесь, не можешь просто ждать, пока всё поднесут тебе на серебряном подносе.",
             "sr": "Za Raidera ne postoji pravi otpad – sve su to vredne sirovine koje čekaju da budu reciklirane. Ako ovde želiš nešto da postigneš, ne možeš samo da čekaš da ti sve bude posluženo na srebrnoj tacni.",
             "tr": "Bir Baskıncı için hurda diye bir şey yoktur – hepsi geri dönüştürülmeyi bekleyen değerli malzemedir. Burada bir şeyler başarmak istiyorsan, her şeyin sana gümüş tepside sunulmasını bekleyemezsin.",
@@ -9268,7 +9268,7 @@
         "nextQuestIds": [
             "ss4"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10x15",
@@ -9541,7 +9541,7 @@
             "no": "Jeg setter opp et drivhus for å øke matproduksjonen vår. Jeg gjør Celeste en tjeneste, greit? Det er alt. Men nok om det. Jeg har alle detaljene klare, men jeg trenger forsyninger, og jeg skal ikke frakte dem alene.",
             "pl": "Buduję szklarnię, żeby zwiększyć naszą produkcję żywności. Wyświadczam Celeste przysługę, jasne? To wszystko. Ale dość o tym. Mam wszystkie szczegóły dopracowane, ale będę potrzebował zapasów i nie zamierzam ich sam dźwigać.",
             "pt": "Estou a montar uma estufa para ajudar a aumentar a nossa produção de alimentos. Estou a fazer um favor à Celeste, está bem? É só isso. Mas chega disso. Tenho todos os detalhes resolvidos, mas vou precisar de suprimentos, e não os vou transportar sozinho.",
-            "pt-BR": "Estou montando uma estufa para ajudar a aumentar nossa produção de alimentos. Estou fazendo um favor para a Celeste, beleza? Só isso. Mas chega de papo. Tenho todos os detalhes planejados, mas vou precisar de suprimentos e não vou carregá-los sozinho.",
+            "pt-BR": "Estou montando uma estufa para ajudar a aumentar a nossa produção de comida. É um favor pra Celeste, só isso. Mas vamos ao que interessa: já defini todos os detalhes, mas vou precisar de suprimentos e não vou carregar tudo sozinha.",
             "ru": "Я устанавливаю теплицу, чтобы помочь увеличить производство продовольствия. Я делаю Селесте одолжение, понятно? Вот и всё. Но хватит об этом. Я всё детально продумал, но мне нужны припасы, и я не буду тащить их один.",
             "sr": "Postavljam staklenicu, da pomognem u povećanju naše proizvodnje hrane. Činim Celeste uslugu, u redu? To je sve. Ali dosta o tome. Razradio sam sve detalje, ali će mi trebati zalihe, i neću ih nositi sam.",
             "tr": "Gıda üretimimizi artırmaya yardımcı olmak için bir sera kuruyorum. Celeste'e iyilik yapıyorum, tamam mı? Hepsi bu. Ama bu kadar yeter. Tüm detayları hallettim ama malzemelere ihtiyacım var ve onları tek başıma taşımayacağım.",
@@ -9564,7 +9564,7 @@
                 "no": "Nå Grandioso-leilighetene i Buried City",
                 "pl": "Dotrzyj do apartamentów Grandioso w Buried City",
                 "pt": "Chega aos Apartamentos Grandioso em Buried City",
-                "pt-BR": "Chegue aos Apartamentos Grandioso na Cidade Enterrada",
+                "pt-BR": "Vá até o Condomínio Grandioso na Cidade Soterrada",
                 "ru": "Добраться до Апартаментов Грандиозо в Погребённом Городе",
                 "sr": "Stigni do Grandioso apartmana u Zakopanom gradu",
                 "tr": "Gömülü Şehir'deki Grandioso Apartmanları'na ulaş",
@@ -9586,7 +9586,7 @@
                 "no": "Søk etter gjødsel på taket av Grandioso-leilighetene",
                 "pl": "Poszukaj nawozu na dachu apartamentów Grandioso",
                 "pt": "Procura fertilizante no telhado dos Apartamentos Grandioso",
-                "pt-BR": "Procure por Fertilizante no terraço dos Apartamentos Grandioso",
+                "pt-BR": "Procure um Medidor de Umidade no telhado do Condomínio Grandioso",
                 "ru": "Найти Удобрение на крыше Апартаментов Грандиозо",
                 "sr": "Traži đubrivo na krovu Grandioso apartmana",
                 "tr": "Grandioso Apartmanları'nın çatısında Gübre ara",
@@ -9608,7 +9608,7 @@
                 "no": "Nå Piazza Roma i Buried City",
                 "pl": "Dotrzyj do Piazza Roma w Buried City",
                 "pt": "Chega à Piazza Roma em Buried City",
-                "pt-BR": "Chegue à Piazza Roma na Cidade Enterrada",
+                "pt-BR": "Vá até Piazza Roma na Cidade Soterrada",
                 "ru": "Добраться до Пьяцца Рома в Погребённом Городе",
                 "sr": "Stigni do Piazza Roma u Zakopanom gradu",
                 "tr": "Gömülü Şehir'deki Piazza Roma'ya ulaş",
@@ -9630,7 +9630,7 @@
                 "no": "Søk etter en vannpumpe i de ødelagte takhagene på Piazza Roma",
                 "pl": "Poszukaj pompy wodnej w zniszczonych ogrodach dachowych na Piazza Roma",
                 "pt": "Procura uma bomba de água nos jardins de telhado destruídos na Piazza Roma",
-                "pt-BR": "Procure por uma Bomba d'Água nos jardins destruídos do terraço na Piazza Roma",
+                "pt-BR": "Procure um Medidor de Nutrientes nos telhados danificados dos jardins na Piazza Roma",
                 "ru": "Найти Водяной Насос в разрушенных садах на крыше Пьяцца Рома",
                 "sr": "Traži vodenu pumpu u uništenim baštama na krovu u Piazza Roma",
                 "tr": "Piazza Roma'daki kırık çatı bahçelerinde Su Pompası ara",
@@ -9652,7 +9652,7 @@
                 "no": "Lever en vannpumpe til Tian Wen",
                 "pl": "Dostarcz pompę wodną do Tian Wen",
                 "pt": "Entrega uma bomba de água a Tian Wen",
-                "pt-BR": "Entregue uma Bomba d'Água para Tian Wen",
+                "pt-BR": "Entregue um Medidor de Nutrientes a Tian Wen",
                 "ru": "Доставить Водяной Насос Тянь Вэню",
                 "sr": "Dostavi vodenu pumpu Tian Wenu",
                 "tr": "Tian Wen'e Su Pompası teslim et",
@@ -9674,7 +9674,7 @@
                 "no": "Lever gjødsel til Tian Wen",
                 "pl": "Dostarcz nawóz do Tian Wen",
                 "pt": "Entrega fertilizante a Tian Wen",
-                "pt-BR": "Entregue Fertilizante para Tian Wen",
+                "pt-BR": "Entregue um Medidor de Umidade a Tian Wen",
                 "ru": "Доставить Удобрение Тянь Вэню",
                 "sr": "Dostavi đubrivo Tian Wenu",
                 "tr": "Tian Wen'e Gübre teslim et",
@@ -9705,7 +9705,7 @@
         "nextQuestIds": [
             "ss10r"
         ],
-        "updatedAt": "11/23/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10x2",
@@ -9723,7 +9723,7 @@
             "no": "Forsømt hage",
             "pl": "Zaniedbany ogród",
             "pt": "Jardim abandonado",
-            "pt-BR": "Jardim Abandonado",
+            "pt-BR": "Jardim sem Cuidados",
             "ru": "Заброшенный сад",
             "sr": "Neobrađena bašta",
             "tr": "Bakımsız Bahçe",
@@ -9749,7 +9749,7 @@
             "no": "I følge filene du fant i laboratoriet, var det faktisk dyrkningsforskerne som satte opp de hydroponiske kuplene ute i sumpen. Høres ut som det mest åpenbare stedet å søke videre, synes du ikke?",
             "pl": "Zgodnie z plikami, które znalazłeś w laboratorium, to badacze upraw faktycznie założyli hydroponiczne kopuły na bagnach. Brzmi jak najbardziej oczywiste miejsce do przeszukania, nie sądzisz?",
             "pt": "De acordo com os ficheiros que encontraste no laboratório, os investigadores de cultivo foram na verdade os que montaram as cúpulas hidropónicas no pântano. Parece o lugar mais óbvio para procurar a seguir, não achas?",
-            "pt-BR": "De acordo com os arquivos que você encontrou no laboratório, os pesquisadores de cultivo foram, na verdade, quem montaram as cúpulas hidropônicas no pântano. Parece o lugar mais óbvio para procurar a seguir, não acha?",
+            "pt-BR": "De acordo com os arquivos que encontrou no laboratório, os pesquisadores de cultivo que montaram os domos hidropônicos lá no pântano. Parece o lugar mais óbvio para procurar agora, não acha?",
             "ru": "Согласно файлам, которые вы нашли в лаборатории, исследователи по культивации на самом деле были теми, кто установил гидропонные купола на болоте. Звучит как самое очевидное место для следующего поиска, не так ли?",
             "sr": "Prema dokumentima koje si pronašao u laboratoriji, istraživači uzgoja su zapravo bili oni koji su postavili hidroponske kupole tamo u močvari. Zvuči kao najočiglednije mesto za sledeću pretragu, zar ne misliš?",
             "tr": "Laboratuvarda bulduğun dosyalara göre, bataklıktaki hidroponik kubbelerini kuranlar aslında yetiştirme araştırmacılarıymış. Bir sonraki aramak için en bariz yer gibi görünüyor, sence de öyle değil mi?",
@@ -9772,7 +9772,7 @@
                 "no": "Gå til det Hydroponiske Kuppelkomplekset",
                 "pl": "Udaj się do Kompleksu Hydroponicznych Kopuł",
                 "pt": "Vai ao Complexo de Cúpulas Hidropónicas",
-                "pt-BR": "Vá para o Complexo de Cúpulas Hidropônicas",
+                "pt-BR": "Vá para o Complexo do Domo Hidropônico",
                 "ru": "Отправляйтесь в комплекс гидропонных куполов",
                 "sr": "Idi do Kompleksa hidroponskih kupola",
                 "tr": "Hidroponik Kubbe Kompleksine git",
@@ -9794,7 +9794,7 @@
                 "no": "Få tilgang til dataarkivet i en av kuplene",
                 "pl": "Uzyskaj dostęp do archiwum danych w jednej z kopuł",
                 "pt": "Acede ao arquivo de dados numa das cúpulas",
-                "pt-BR": "Acesse o arquivo de dados em uma das cúpulas",
+                "pt-BR": "Acesse o arquivo de dados em um dos Domos",
                 "ru": "Получите доступ к архиву данных в одном из куполов",
                 "sr": "Pristupi arhivi podataka u jednoj od kupola",
                 "tr": "Kubbelerden birindeki veri arşivine eriş",
@@ -9816,7 +9816,7 @@
                 "no": "Last opp dataene til dataterminalen i et hvilket som helst feltdepot",
                 "pl": "Prześlij dane do terminala komputerowego w dowolnym magazynie polowym",
                 "pt": "Carregue os dados para o terminal de computador em qualquer Depósito de Campo",
-                "pt-BR": "Envie os dados para o terminal de computador em qualquer Depósito de Campo",
+                "pt-BR": "Carregue os dados no terminal de computador em qualquer Depósito de Campo",
                 "ru": "Загрузите данные на компьютерный терминал в любом полевом депо",
                 "sr": "Otpremi podatke na kompjuterski terminal u bilo kom Terenskom Depou",
                 "tr": "Verileri herhangi bir Saha Deposundaki bilgisayar terminaline yükle",
@@ -9846,7 +9846,7 @@
         "nextQuestIds": [
             "ss10x3"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10x4",
@@ -9864,7 +9864,7 @@
             "no": "Vannproblemer",
             "pl": "Kłopoty z wodą",
             "pt": "Problemas de água",
-            "pt-BR": "Problemas com a Água",
+            "pt-BR": "Problemas Hídricos",
             "ru": "Проблемы с водой",
             "sr": "Проблеми са водом",
             "tr": "Su Sorunları",
@@ -9890,7 +9890,7 @@
             "no": "Hvis du er her for å klage på vannet, bli med i klubben. Jeg har mottatt klager hele dagen. Det er definitivt noe galt med det, og jeg trenger hjelp til å ordne det.",
             "pl": "Jeśli jesteś tu, żeby narzekać na wodę, dołącz do klubu. Cały dzień przyjmuję skargi. Coś z nią zdecydowanie jest nie tak i potrzebuję pomocy, żeby to wyjaśnić.",
             "pt": "Se estás aqui para te queixar da água, junta-te ao clube. Tenho recebido queixas o dia todo. Definitivamente há algo errado com ela, e preciso de ajuda para resolver isto.",
-            "pt-BR": "Se você veio reclamar da água, entre para o clube. Estou recebendo reclamações o dia todo. Definitivamente tem algo errado com ela, e preciso de ajuda para resolver.",
+            "pt-BR": "Se tá aqui pra reclamar da água, entre na fila. Tenho recebido reclamações o dia todo. Com certeza tem alguma coisa errada, e preciso de alguém pra me ajudar a descobrir o que é.",
             "ru": "Если вы здесь, чтобы пожаловаться на воду, добро пожаловать в клуб. Я весь день принимаю жалобы. С ней определённо что-то не так, и мне нужна помощь, чтобы разобраться.",
             "sr": "Ако си овде да се жалиш на воду, добродошао у клуб. Цео дан примам притужбе. Нешто дефинитивно није у реду са њом, и требам помоћ да то решим.",
             "tr": "Su hakkında şikayet etmek için geldiyseniz, kulübe hoş geldiniz. Bütün gün şikayetlerle uğraşıyorum. Kesinlikle bir sorun var ve bunu çözmek için yardıma ihtiyacım var.",
@@ -9913,7 +9913,7 @@
                 "no": "Finn Flomtilgangstunnelen under Rødsjøbalkongen",
                 "pl": "Zlokalizuj Tunel Dostępu Powodziowego pod Balkonem Czerwonego Jeziora",
                 "pt": "Localiza o Túnel de Acesso a Inundações sob a Varanda do Lago Vermelho",
-                "pt-BR": "Localize o Túnel de Acesso de Inundação sob a Varanda do Lago Vermelho",
+                "pt-BR": "Localize o Túnel de Acesso de Inundação sob a Varanda dos Lagos Vermelhos",
                 "ru": "Найдите туннель доступа к затоплению под балконом Красного озера",
                 "sr": "Пронађи приступни тунел за поплаве испод Балкона Црвеног језера",
                 "tr": "Kızıl Göl Balkonu altındaki Sel Erişim Tünelini bul",
@@ -9935,7 +9935,7 @@
                 "no": "Finn inntaket til Distriktets Vannforsyning",
                 "pl": "Znajdź ujęcie do Zaopatrzenia w Wodę Dzielnicy",
                 "pt": "Encontra a entrada do Abastecimento de Água do Distrito",
-                "pt-BR": "Encontre a captação do Abastecimento de Água do Distrito",
+                "pt-BR": "Encontre a entrada do Abastecimento de Água do Distrito",
                 "ru": "Найдите водозабор системы водоснабжения Района",
                 "sr": "Пронађи довод за водоснабдевање Дистрикта",
                 "tr": "Bölgenin Su Kaynağına giden girişi bul",
@@ -9957,7 +9957,7 @@
                 "no": "Ta en vannprøve",
                 "pl": "Pobierz próbkę wody",
                 "pt": "Recolhe uma amostra da água",
-                "pt-BR": "Colete uma amostra da água",
+                "pt-BR": "Extraia a água",
                 "ru": "Возьмите образец воды",
                 "sr": "Узми узорак воде",
                 "tr": "Sudan numune al",
@@ -9989,7 +9989,7 @@
             "ss10x5",
             "ss10x6"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss8a",
@@ -10007,7 +10007,7 @@
             "no": "Det som går rundt",
             "pl": "Co się odwlecze",
             "pt": "O que vai, volta",
-            "pt-BR": "O Que Vai, Volta",
+            "pt-BR": "Aqui se Faz",
             "ru": "Что посеешь...",
             "sr": "Što ide okolo",
             "tr": "Dönen Dolaplar",
@@ -10036,7 +10036,7 @@
             "no": "Vi kan ikke bygge ARC-teknologi fra bunnen av, men det er mye jeg kan fikle med fra delene du berger. Jeg prøver for tiden å gjenbruke forskjellige ARC-deler. Kan du kjøre noen eksperimenter for meg?",
             "pl": "Nie możemy zbudować technologii ARC od podstaw, ale jest wiele rzeczy, które mogę majstrować z części, które odzyskujesz. Obecnie próbuję przekształcić różne części ARC. Mógłbyś przeprowadzić dla mnie kilka eksperymentów?",
             "pt": "Não podemos construir tecnologia ARC do zero, mas há muito que posso mexer com as peças que você recupera. Atualmente estou tentando reaproveitar diferentes partes ARC. Você se importaria de fazer alguns experimentos para mim?",
-            "pt-BR": "Não podemos construir tecnologia ARC do zero, mas há muito que posso aproveitar das peças que você recupera. Estou tentando readaptar diferentes peças ARC no momento. Se importa em fazer alguns experimentos para mim?",
+            "pt-BR": "Não dá para construir tecnologia ARC do zero, mas dá para fazer uma gambiarra com as peças que você desmonta. Estou tentando reutilizar peças ARC diferentes. Se importaria de fazer uns experimentos para mim?",
             "ru": "Мы не можем создать технологии ARC с нуля, но я могу многое сделать из деталей, которые ты добудешь. Сейчас я пытаюсь переделать различные части ARC. Не мог бы ты провести для меня несколько экспериментов?",
             "sr": "Ne možemo graditi ARC tehnologiju od nule, ali ima dosta toga što mogu da majstorim od delova koje spašavaš. Trenutno pokušavam da prenamenim različite ARC delove. Bi li mogao da izvedeš neke eksperimente za mene?",
             "tr": "ARC teknolojisini sıfırdan inşa edemeyiz ama senin kurtardığın parçalardan kurcalayabileceğim çok şey var. Şu anda farklı ARC parçalarını yeniden kullanmaya çalışıyorum. Benim için birkaç deney yapmana sakıncası var mı?",
@@ -10059,7 +10059,7 @@
                 "no": "Ødelegg en hvilken som helst ARC-fiende ved å bruke en Fireball-brenner",
                 "pl": "Zniszcz dowolnego wroga ARC używając miotacza ognia Fireball",
                 "pt": "Destrua qualquer inimigo ARC usando um lança-chamas Fireball",
-                "pt-BR": "Destrua qualquer inimigo ARC usando um Queimador de Bolas de Fogo",
+                "pt-BR": "Destrua qualquer inimigo ARC usando Maçarico do Bola de Fogo",
                 "ru": "Уничтожить любого врага ARC с помощью Fireball Burner",
                 "sr": "Uništi bilo kog ARC neprijatelja koristeći Fireball Burner",
                 "tr": "Fireball Burner kullanarak herhangi bir ARC düşmanını yok et",
@@ -10089,7 +10089,7 @@
         "nextQuestIds": [
             "ss8b"
         ],
-        "updatedAt": "11/20/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss10e",
@@ -10135,7 +10135,7 @@
             "no": "Celeste fortalte meg at du er den som hjalp henne med å plage meg om å bidra mer. Jeg sier dette én gang: Jeg setter ikke pris på innblandingen, og jeg har mine egne grunner for å nekte. Jeg setter imidlertid pris på skrapmetallet. Siden du tydeligvis er flink til å spore det opp, kan jeg ha en oppgave til deg.",
             "pl": "Celeste powiedziała mi, że to ty pomogłeś jej mnie nękać, żebym więcej się angażował. Powiem to raz: nie doceniam wtrącania się, i mam swoje własne powody odmowy. Doceniam jednak złom. Skoro najwyraźniej jesteś dobry w jego tropienie, mogę mieć dla ciebie zadanie.",
             "pt": "Celeste me disse que você é quem a ajudou a me pressionar para contribuir mais. Vou dizer isso uma vez: não aprecio a intromissão, e tenho minhas próprias razões para recusar. No entanto, aprecio a sucata. Já que você aparentemente é bom em rastreá-la, posso ter uma tarefa para você.",
-            "pt-BR": "A Celeste me disse que foi você quem ajudou ela a me cobrar de colaborar mais. Vou dizer isto apenas uma vez: não gosto de intromissões e tenho meus próprios motivos para recusar. No entanto, agradeço pela sucata. Já que você parece ser bom em encontrá-la, talvez eu tenha uma tarefa para você.",
+            "pt-BR": "A Celeste me disse que foi você quem a ajudou a pegar no meu pé pra eu colaborar mais. Vou falar só uma vez: não gosto de intromissões, e tenho meus motivos para recusar. Mas eu gosto de sucata. Já que você é fera em encontrar isso, talvez eu tenha uma tarefa para você.",
             "ru": "Селеста сказала мне, что это ты помог ей донимать меня насчет большего участия. Скажу один раз: я не ценю вмешательство, и у меня есть свои причины для отказа. Однако я ценю металлолом. Поскольку ты, очевидно, хорош в его поиске, у меня может быть для тебя задание.",
             "sr": "Celeste mi je rekla da si ti taj koji joj je pomogao da me gnjavi da se više uključim. Reći ću ovo jednom: ne cenim mešanje, i imam svoje razloge za odbijanje. Međutim, cenim otpatke. Pošto si očigledno dobar u pronalaženju istih, možda imam zadatak za tebe.",
             "tr": "Celeste bana daha fazla katkıda bulunmam için onu kışkırtmana yardım edenin sen olduğunu söyledi. Bunu bir kez söyleyeceğim: Karışmayı takdir etmiyorum ve reddetmek için kendi nedenlerim var. Ancak hurdayı takdir ediyorum. Görünüşe göre onu bulmakta iyisin, senin için bir görevim olabilir.",
@@ -10158,7 +10158,7 @@
                 "no": "På Buried City, søk gjennom 2 containere i Raider-leiren under parkeringshuset",
                 "pl": "W Buried City przeszukaj 2 kontenery w obozie Najeźdźców pod parkingiem",
                 "pt": "Em Cidade Enterrada, procure em 2 contêineres no acampamento Raider sob a garagem",
-                "pt-BR": "Na Cidade Enterrada, vasculhe 2 contêineres no Acampamento de Saqueadores sob o Estacionamento",
+                "pt-BR": "Em Cidade Soterrada, procure em 2 contentores no Acampamento de Combatentes sob o Estacionamento",
                 "ru": "В Погребенном городе обыскать 2 контейнера в лагере Рейдеров под парковкой",
                 "sr": "U Zakopanom Gradu, pretraži 2 kontejnera u Pljačkaškom Kampu ispod Parking Garaže",
                 "tr": "Gömülü Şehir'de, Otopark'ın altındaki Raider Kampı'nda 2 konteyner ara",
@@ -10180,7 +10180,7 @@
                 "no": "På Dam Battlegrounds, søk etter noe betydningsfullt i den sørlige sumpeutposten",
                 "pl": "Na Dam Battlegrounds poszukaj czegoś istotnego w południowej placówce na bagnach",
                 "pt": "Em Campo de Batalha da Represa, procure por algo significativo no posto avançado do pântano sul",
-                "pt-BR": "No Campo de Batalha da Represa, procure por algo importante no Posto Avançado do Pântano Sul",
+                "pt-BR": "Nos Campos de Batalha da Represa, procure qualquer coisa importante no Posto Avançado do Sul do Pântano",
                 "ru": "Поищите что-нибудь полезное в аванпосте на южном болоте на поле битвы у дамбы",
                 "sr": "Na Bojnom Polju Brane, traži bilo šta značajno u Južnoj Močvarnoj Ispostavi",
                 "tr": "Baraj Savaş Alanı'nda, Güney Bataklık Karakolu'nda önemli bir şey ara",
@@ -10202,7 +10202,7 @@
                 "no": "På Spaceport, søk etter noe betydningsfullt i Bilguuns skjulested, ved siden av containerlager",
                 "pl": "Na Spaceport poszukaj czegoś istotnego w kryjówce Bilguuna, obok magazynu kontenerów",
                 "pt": "Em Porto Espacial, procure por algo significativo no esconderijo de Bilguun, ao lado do armazenamento de contêineres",
-                "pt-BR": "No Espaçoporto, procure por algo importante no Esconderijo do Bilguun, próximo ao Depósito de Contêineres",
+                "pt-BR": "No Espaçoporto, procure qualquer coisa importante no Esconderijo de Bilguun, próximo ao Depósito de Contêineres",
                 "ru": "Поищите что-нибудь полезное в убежище Бильгуна рядом с хранилищем контейнеров в космопорте",
                 "sr": "Na Svemirskoj Luci, traži bilo šta značajno u Bilguunovom Skrovištu, pored Skladišta Kontejnera",
                 "tr": "Uzay Limanı'nda, Konteyner Deposu'nun yanındaki Bilguun'un Sığınağı'nda önemli bir şey ara",
@@ -10232,7 +10232,7 @@
         "nextQuestIds": [
             "ss10h"
         ],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     },
     {
         "id": "ss11bx",
@@ -10250,7 +10250,7 @@
             "no": "Med et spor",
             "pl": "Ze śladem",
             "pt": "Com um rastro",
-            "pt-BR": "Com Rastros",
+            "pt-BR": "Sem rastro",
             "ru": "По горячим следам",
             "sr": "Sa tragom",
             "tr": "Bir İzle",
@@ -10276,7 +10276,7 @@
             "no": "Den nedskutte maskinen... Det var ikke vi som gjorde det. Vi vet at det er spredte overlevende der ute, men dette? Dette går langt utover en enkelt person.",
             "pl": "Ta zestrzelona maszyna... To nie my to zrobiliśmy. Wiemy, że są tam samotni ocaleni, ale to? To wykracza daleko poza jedną osobę.",
             "pt": "Aquela máquina abatida... Não fomos nós que fizemos isso. Sabemos que há sobreviventes dispersos por aí, mas isso? Isso vai muito além de uma única pessoa.",
-            "pt-BR": "Aquela máquina abatida... Não fomos nós que fizemos aquilo. Sabemos que há sobreviventes perdidos por aí, mas isto? Isto vai muito além de uma única pessoa.",
+            "pt-BR": "Aquela máquina caída... Não foi a gente que fez aquilo. Sabemos que tem sobreviventes nômades lá fora, mas isso? Isso vai muito além de uma única pessoa.",
             "ru": "Эта сбитая машина... Это сделали не мы. Мы знаем, что где-то есть выжившие, но это? Это далеко за пределами возможностей одного человека.",
             "sr": "Ta oborena mašina... Mi nismo to učinili. Znamo da tamo ima preživelih lutalica, ali ovo? Ovo daleko prevazilazi jednu osobu.",
             "tr": "Şu düşürülmüş makine... Bunu yapan biz değildik. Dışarıda başıboş hayatta kalanlar olduğunu biliyoruz ama bu mu? Bu tek bir kişinin çok ötesine geçiyor.",
@@ -10299,7 +10299,7 @@
                 "no": "Nå den golde lysningen",
                 "pl": "Dotrzyj do jałowej polany",
                 "pt": "Alcance a clareira árida",
-                "pt-BR": "Chegue à Clareira Árida",
+                "pt-BR": "Vá até o Descampado Árido",
                 "ru": "Доберитесь до пустыря",
                 "sr": "Stigni do Puste čistine",
                 "tr": "Çorak Açıklığa Ulaş",
@@ -10321,7 +10321,7 @@
                 "no": "Finn tegn på hvem som skjøt ned ARC-maskinene",
                 "pl": "Znajdź ślady tego, kto zestrzelił maszyny ARC",
                 "pt": "Encontre sinais de quem derrubou as máquinas ARC",
-                "pt-BR": "Encontre sinais de quem derrubou as máquinas ARC",
+                "pt-BR": "Encontre indícios de quem derrubou as máquinas ARC",
                 "ru": "Найти следы тех, кто сбил машины ARC",
                 "sr": "Pronađi znakove ko je oborio ARC mašine",
                 "tr": "ARC makinelerini düşürenlerin izlerini bul",
@@ -10343,7 +10343,7 @@
                 "no": "Inspiser det pyntede vraket",
                 "pl": "Zbadaj ozdobione wraki",
                 "pt": "Inspecione os destroços adornados",
-                "pt-BR": "Inspecione os Destroços Adornados",
+                "pt-BR": "Inspecione os Destroços Ornamentados",
                 "ru": "Осмотрите приукрашенные развалины",
                 "sr": "Preglédaj ukrašene olupine",
                 "tr": "Süslenmiş Enkazı İncele",
@@ -10365,7 +10365,7 @@
                 "no": "Inspiser kommunikasjonsenheten",
                 "pl": "Zbadaj urządzenie komunikacyjne",
                 "pt": "Inspecione o dispositivo de comunicações",
-                "pt-BR": "Inspecione o dispositivo de comunicação",
+                "pt-BR": "Investigue o dispositivo de comunicação",
                 "ru": "Осмотрите устройство связи",
                 "sr": "Preglédaj komunikacijski uređaj",
                 "tr": "İletişim cihazını incele",
@@ -10389,6 +10389,6 @@
             "ss11a"
         ],
         "nextQuestIds": [],
-        "updatedAt": "11/06/2025"
+        "updatedAt": "01/13/2026"
     }
 ]
