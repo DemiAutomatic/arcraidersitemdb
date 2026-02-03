@@ -20,7 +20,7 @@
       "sr": "Akustična gitara",
       "tr": "Akustik Gitar",
       "uk": "Акустична гітара",
-      "zh-CN": "木吉他",
+      "zh-CN": "原声吉他",
       "zh-TW": "木吉他"
     },
     "description": {
@@ -42,7 +42,7 @@
       "sr": "Akustična gitara na kojoj se može svirati, koristi se za privlačenje ARC-ove pažnje i impresioniranje drugih Rajdera.",
       "tr": "ARC'nin dikkatini çekmek ve diğer Raider'ları etkilemek için kullanılan, çalınabilir bir akustik gitar.",
       "uk": "Гральна акустична гітара, щоб привернути увагу ARC і вразити інших рейдерів.",
-      "zh-CN": "一把可弹奏的木吉他，用来吸引ARC的注意并让其他掠夺者刮目相看。",
+      "zh-CN": "一把能演奏的原声吉他，即可用于引起ARC的注意，也能让其他奇袭者刮目相看。",
       "zh-TW": "一把可彈奏的木吉他，用來吸引ARC的注意並讓其他掠奪者刮目相看。"
     },
     "type": "Quick Use",
@@ -86,7 +86,7 @@
       "sr": "Injekcija adrenalina",
       "tr": "Adrenalin İğnesi",
       "uk": "Ін'єкція адреналіну",
-      "zh-CN": "肾上腺素注射剂",
+      "zh-CN": "肾上腺素针剂",
       "zh-TW": "腎上腺素注射劑"
     },
     "description": {
@@ -108,7 +108,7 @@
       "sr": "Serum koji potpuno obnavlja izdržljivost i privremeno povećava regeneraciju izdržljivosti.",
       "tr": "Dayanıklılığı tamamen geri yükleyen ve geçici olarak dayanıklılık yenilenmesini artıran bir serum.",
       "uk": "Сироватка, яка повністю відновлює витривалість і тимчасово збільшує її регенерацію.",
-      "zh-CN": "完全恢复耐力并暂时提升耐力恢复速度的血清。",
+      "zh-CN": "一种血清，可以完全恢复耐力，并临时增加耐力恢复速度。",
       "zh-TW": "一種血清,能完全恢復體力並暫時提升體力自然恢復速度。"
     },
     "type": "Quick Use",
@@ -250,7 +250,7 @@
       "sr": "Veoma vredan resurs koji pada sa određenih ARC neprijatelja.",
       "tr": "Belirli ARC düşmanlarından düşen çok değerli kaynak.",
       "uk": "Дуже цінний ресурс, що випадає з певних ворогів ARC.",
-      "zh-CN": "从特定ARC敌人掉落的非常珍贵资源。",
+      "zh-CN": "极其珍贵的资源，特定ARC敌人身上有可能掉落。",
       "zh-TW": "從特定ARC敵人掉落的非常珍貴資源。"
     },
     "type": "Topside Material",
@@ -337,7 +337,7 @@
       "sr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u materijale za izradu. Koristi se za izradu: Tactical Mk. 3 (Defensive), Combat Mk. 3 (Flanking), Combat Mk. 3 (Aggressive), Looting Mk. 3 (Cautious), Tactical Mk. 3 (Healing)",
       "tr": "Geniş bir yelpazede eşya üretmek için kullanılır. Üretim malzemelerine geri dönüştürülebilir. Şunları üretmek için kullanılır: Taktik Mk. 3 (Savunma), Savaş Mk. 3 (Kuşatma), Savaş Mk. 3 (Saldırgan), Yağma Mk. 3 (İhtiyatlı), Taktik Mk. 3 (İyileştirme)",
       "uk": "Використовується для створення широкого спектру предметів. Можна переробити на матеріали для крафту. Використовується для створення: Тактичний Mk. 3 (Захисний), Бойовий Mk. 3 (Фланговий), Бойовий Mk. 3 (Агресивний), Мародерський Mk. 3 (Обережний), Тактичний Mk. 3 (Лікувальний)",
-      "zh-CN": "用于制作各种物品。可以回收成制作材料。用于制作：战术 Mk. 3（防御型）、战斗 Mk. 3（侧翼型）、战斗 Mk. 3（攻击型）、掠夺 Mk. 3（谨慎型）、战术 Mk. 3（治疗型）",
+      "zh-CN": "用于制作各种物品。可回收为制作材料。用于制作:奇袭者暗门钥匙，光电斗篷，耀眼明星，战术Mk.3(防御型)，战斗Mk.3(侧翼突击)",
       "zh-TW": "用來製作多種物品。可回收成製作材料。用來製作:戰術第3型(防禦),戰鬥第3型(側擊),戰鬥第3型(積極),搜刮第3型(謹慎),戰術第3型(治療)"
     },
     "type": "Refined Material",
@@ -367,6 +367,7 @@
       "combat_mk3_flanking": 1,
       "frequency_modulation_box": 1,
       "looting_mk3_cautious": 1,
+      "looting_mk3_safekeeper": 1,
       "looting_mk3_survivor": 1,
       "photoelectric_cloak": 1,
       "power_rod": 1,
@@ -374,6 +375,7 @@
       "spectrometer": 1,
       "tactical_mk3_defensive": 1,
       "tactical_mk3_healing": 1,
+      "tactical_mk3_revival": 1,
       "telemetry_transceiver": 1
     },
     "salvagedFrom": {
@@ -409,7 +411,7 @@
       "sr": "Napredne Mehaničke Komponente",
       "tr": "Gelişmiş Mekanik Bileşenler",
       "uk": "Просунуті механічні компоненти",
-      "zh-CN": "高级机械零件",
+      "zh-CN": "高级机械元件",
       "zh-TW": "進階機械元件"
     },
     "description": {
@@ -431,7 +433,7 @@
       "sr": "Koristi se za pravljenje naprednog oružja. Može se reciklirati u materijale za pravljenje. Koristi se za pravljenje: Torrente, Venator, Osprey, Renegade, Bettina",
       "tr": "Gelişmiş silahları üretmek için kullanılır. Üretim malzemelerine geri dönüştürülebilir. Üretim için kullanılır: Torrente, Venator, Osprey, Renegade, Bettina",
       "uk": "Використовується для створення просунутої зброї. Можна переробити на матеріали для крафту. Використовується для створення: Torrente, Venator, Osprey, Renegade, Bettina",
-      "zh-CN": "用于制作高级武器。可回收成制作材料。用于制作：Torrente、Venator、Osprey、Renegade、Bettina",
+      "zh-CN": "用于制作高级武器。可回收为制作材料。用于制作:磁力加速器，奔流，复仇者，鱼鹰，叛逆",
       "zh-TW": "用來製作進階武器。可回收成製作材料。用來製作:奔流,獵人,魚鷹,叛將,貝蒂娜"
     },
     "type": "Refined Material",
@@ -530,7 +532,7 @@
       "hr": "Agava",
       "it": "Agave",
       "ja": "リュウゼツラン",
-      "kr": "아가베",
+      "kr": "용설란",
       "no": "Agave",
       "pl": "Agawa",
       "pt": "Agave",
@@ -552,7 +554,7 @@
       "hr": "Komad lista agave. Može se koristiti za obnovu male količine zdravlja.",
       "it": "Un pezzo di foglia di agave. Può essere usato per recuperare una piccola quantità di salute.",
       "ja": "アガベの葉の一部。少量の体力を回復するために使用できます。",
-      "kr": "아가베 잎 조각. 소량의 체력을 회복하는 데 사용할 수 있습니다.",
+      "kr": "용설란 잎 조각. 소량의 체력을 회복하는 데 사용할 수 있습니다.",
       "no": "Et stykke av et agaveblad. Kan brukes til å gjenvinne en liten mengde helse.",
       "pl": "Kawałek liścia agawy. Można użyć, aby odzyskać niewielką ilość zdrowia.",
       "pt": "Um pedaço de folha de agave. Pode ser usado para recuperar uma pequena quantidade de saúde.",
@@ -648,7 +650,7 @@
       "assorted_seeds": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/agave.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "01/13/2026",
     "recycleValue": 300,
     "salvageValue": 200,
     "recycledFrom": {},
@@ -783,6 +785,66 @@
     "droppedBy": []
   },
   {
+    "id": "alien_duck",
+    "name": {
+      "da": "Rumvæsen And",
+      "de": "Außerirdische Ente",
+      "en": "Alien Duck",
+      "es": "Pato Alienígena",
+      "fr": "Canard Extraterrestre",
+      "he": "ברווז חייזר",
+      "hr": "Vanzemaljska Patka",
+      "it": "Papera Aliena",
+      "ja": "エイリアンアヒル",
+      "kr": "외계인 오리",
+      "no": "Romvesen And",
+      "pl": "Kosmiczna Kaczka",
+      "pt": "Pato Alienígena",
+      "pt-BR": "Pato Alienígena",
+      "ru": "Инопланетная уточка",
+      "sr": "Vanzemaljska Patka",
+      "tr": "Uzaylı Ördek",
+      "uk": "Інопланетна качечка",
+      "zh-CN": "外星鸭",
+      "zh-TW": "外星鴨"
+    },
+    "description": {
+      "da": "Langt, langt væk fra hjemmet. Kan kastes for at skabe støj.",
+      "de": "Weit, weit weg von zu Hause. Kann geworfen werden, um Lärm zu erzeugen.",
+      "en": "A long, long way from home. Can be thrown to create noise.",
+      "es": "Muy, muy lejos de casa. Se puede lanzar para crear ruido.",
+      "fr": "Très, très loin de chez lui. Peut être lancé pour créer du bruit.",
+      "he": "רחוק מאוד מהבית. ניתן לזרוק כדי ליצור רעש.",
+      "hr": "Daleko, daleko od kuće. Može se baciti da stvori buku.",
+      "it": "Molto, molto lontano da casa. Può essere lanciata per creare rumore.",
+      "ja": "故郷からはるか遠く離れている。投げて音を立てることができる。",
+      "kr": "집에서 아주 멀리 떨어져 있습니다. 던져서 소음을 만들 수 있습니다.",
+      "no": "Langt, langt hjemmefra. Kan kastes for å lage støy.",
+      "pl": "Daleko, daleko od domu. Można rzucić, aby wytworzyć hałas.",
+      "pt": "Muito, muito longe de casa. Pode ser arremessado para criar ruído.",
+      "pt-BR": "Muito, muito longe de casa. Pode ser arremessado para fazer barulho.",
+      "ru": "Очень далеко от дома. Можно бросить, чтобы создать шум.",
+      "sr": "Daleko, daleko od kuće. Može se baciti da stvori buku.",
+      "tr": "Evden çok, çok uzakta. Gürültü yaratmak için fırlatılabilir.",
+      "uk": "Дуже далеко від дому. Можна кинути, щоб створити шум.",
+      "zh-CN": "离家很远很远。可以投掷来制造噪音。",
+      "zh-TW": "離家很遠很遠。可以投擲來製造噪音。"
+    },
+    "type": "Trinket",
+    "rarity": "Uncommon",
+    "value": 1000,
+    "weightKg": 0.3,
+    "stackSize": 15,
+    "recyclesInto": {},
+    "imageFilename": "https://cdn.arctracker.io/items/alien_duck.png",
+    "updatedAt": "02/01/2026",
+    "recycleValue": 0,
+    "salvageValue": 0,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
     "id": "angled_grip_i",
     "name": {
       "da": "Vinklet greb I",
@@ -803,7 +865,7 @@
       "sr": "Kutna Ručka I",
       "tr": "Açılı Kabza I",
       "uk": "Кутова рукоятка I",
-      "zh-CN": "倾斜握把 I",
+      "zh-CN": "直角握把 I",
       "zh-TW": "斜角握把 I"
     },
     "description": {
@@ -825,7 +887,7 @@
       "sr": "Blago smanjuje horizontalni trzaj. Kompatibilno sa: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
       "tr": "Yatay geri tepmesini hafifçe azaltır. Uyumlu: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
       "uk": "Трохи зменшує горизонтальну віддачу. Сумісно з: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
-      "zh-CN": "略微降低水平后坐力。兼容武器：Tempest、Arpeggio、Kettle、Ferro、Hullcracker",
+      "zh-CN": "小幅度降低水平后坐力。适配:风暴，水壶，生铁，复仇者，公牛",
       "zh-TW": "稍微降低水平後座力。與以下物品相容:水壺,碎甲者,獵人,公牛,暴風雨"
     },
     "type": "Modification",
@@ -853,7 +915,7 @@
         "sr": "Smanjen Horizontalni Trzaj",
         "tr": "Azaltılmış Yatay Geri Tepme",
         "uk": "Зменшення горизонтальної віддачі",
-        "zh-CN": "降低水平后坐力",
+        "zh-CN": "水平后坐力降低",
         "zh-TW": "降低水平後座力"
       }
     },
@@ -897,7 +959,7 @@
       "sr": "Kutni rukohvat II",
       "tr": "Açılı Kabza II",
       "uk": "Кутова рукоятка II",
-      "zh-CN": "倾斜握把 II",
+      "zh-CN": "直角握把 II",
       "zh-TW": "斜角握把 II"
     },
     "description": {
@@ -919,7 +981,7 @@
       "sr": "Umjereno smanjuje horizontalni trzaj. Kompatibilno sa: Arpeggio, Ferro, Il Toro, Stitcher",
       "tr": "Yatay geri tepmesini orta düzeyde azaltır. Uyumlu: Arpeggio, Ferro, Il Toro, Stitcher",
       "uk": "Помірно зменшує горизонтальну віддачу. Сумісно з: Arpeggio, Ferro, Il Toro, Stitcher",
-      "zh-CN": "适度降低水平后坐力。兼容武器：Arpeggio、Ferro、Il Toro、Stitcher",
+      "zh-CN": "中幅度降低水平后坐力。适配:风暴，水壶，生铁，复仇者，公牛",
       "zh-TW": "中度降低水平後座力。與以下物品相容:水壺,碎甲者,獵人,公牛,暴風雨"
     },
     "type": "Modification",
@@ -955,7 +1017,7 @@
         "sr": "Smanjen horizontalni trzaj",
         "tr": "Azaltılmış Yatay Geri Tepme",
         "uk": "Зменшена горизонтальна віддача",
-        "zh-CN": "降低水平后坐力",
+        "zh-CN": "水平后坐力降低",
         "zh-TW": "降低水平後座力"
       }
     },
@@ -1001,7 +1063,7 @@
       "sr": "Kutni Rukohvat III",
       "tr": "Açılı Kabza III",
       "uk": "Кутова рукоятка III",
-      "zh-CN": "倾斜握把 III",
+      "zh-CN": "直角握把 III",
       "zh-TW": "斜角握把 III"
     },
     "description": {
@@ -1023,7 +1085,7 @@
       "sr": "Značajno smanjuje horizontalni trzaj. Kompatibilno sa: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
       "tr": "Yatay geri tepmeyi önemli ölçüde azaltır. Uyumlu: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
       "uk": "Значно зменшує горизонтальну віддачу. Сумісно з: Арпеджіо, Ферро, Венатор, Іль Торо, Зшивач",
-      "zh-CN": "大幅减少水平后坐力。兼容武器：琶音、铁卫、猎人、公牛、缝合者",
+      "zh-CN": "大幅度降低水平后坐力。适配:风暴，水壶，生铁，复仇者，公牛",
       "zh-TW": "大幅減少水平後座力。相容武器：琶音、鐵衛、獵人、公牛、縫合者"
     },
     "type": "Modification",
@@ -1121,7 +1183,7 @@
       "sr": "Kutni Rukohvat III Nacrt",
       "tr": "Acili Kabza III Plani",
       "uk": "Креслення Кутова рукоятка III",
-      "zh-CN": "倾斜握把 III 蓝图",
+      "zh-CN": "直角握把 III 蓝图",
       "zh-TW": "斜角握把 III 藍圖"
     },
     "description": {
@@ -1143,7 +1205,7 @@
       "sr": "Znacajno smanjuje horizontalni trzaj. Kompatibilno sa: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
       "tr": "Yatay geri tepmeyi onemli olcude azaltir. Uyumlu: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
       "uk": "Значно зменшує горизонтальну віддачу. Сумісно з: Арпеджіо, Ферро, Венатор, Іль Торо, Зшивач",
-      "zh-CN": "大幅减少水平后坐力。兼容武器：琶音、铁卫、猎人、公牛、缝合者",
+      "zh-CN": "大幅度降低水平后坐力。适配:风暴，水壶，生铁，复仇者，公牛",
       "zh-TW": "大幅減少水平後座力。相容武器：琶音、鐵衛、獵人、公牛、縫合者"
     },
     "type": "Blueprint",
@@ -1179,7 +1241,7 @@
       "sr": "Kutni rukohvat II Nacrt",
       "tr": "Acili Kabza II Plani",
       "uk": "Креслення Кутова рукоятка II",
-      "zh-CN": "倾斜握把 II 蓝图",
+      "zh-CN": "直角握把 II 蓝图",
       "zh-TW": "斜角握把 II 藍圖"
     },
     "description": {
@@ -1201,7 +1263,7 @@
       "sr": "Umjereno smanjuje horizontalni trzaj. Kompatibilno sa: Arpeggio, Ferro, Il Toro, Stitcher",
       "tr": "Yatay geri tepmesini orta duzeyde azaltir. Uyumlu: Arpeggio, Ferro, Il Toro, Stitcher",
       "uk": "Помірно зменшує горизонтальну віддачу. Сумісно з: Arpeggio, Ferro, Il Toro, Stitcher",
-      "zh-CN": "适度降低水平后坐力。兼容武器：Arpeggio、Ferro、Il Toro、Stitcher",
+      "zh-CN": "中幅度降低水平后坐力。适配:风暴，水壶，生铁，复仇者，公牛",
       "zh-TW": "中度降低水平後座力。與以下物品相容:水壺,碎甲者,獵人,公牛,暴風雨"
     },
     "type": "Blueprint",
@@ -1237,7 +1299,7 @@
       "sr": "Antiseptik",
       "tr": "Antiseptik",
       "uk": "Антисептик",
-      "zh-CN": "消毒剂",
+      "zh-CN": "防腐剂",
       "zh-TW": "防腐劑"
     },
     "description": {
@@ -1259,7 +1321,7 @@
       "sr": "Koristi se za izradu medicinskih potrepština. Može se reciklirati u hemikalije. Koristi se za izradu: Sterilizovani Zavoj, Vita Sprej, Vita Injekcija",
       "tr": "Tıbbi malzeme üretmek için kullanılır. Kimyasallara geri dönüştürülebilir. Üretim: Sterilize Bandaj, Vita Spreyi, Vita İğnesi",
       "uk": "Використовується для створення медичних приладь. Можна переробити на хімікати. Використовується для крафту: Стерильний бинт, Віта-спрей, Віта-укол",
-      "zh-CN": "用于制作医疗用品。可回收为化学品。用于制作：消毒绷带、活力喷雾、活力注射剂",
+      "zh-CN": "用于制作医疗用品。可回收为化学品。用于制作:消毒绷带，补水喷雾，生命针剂",
       "zh-TW": "用來製作醫療物資。可回收成化學物質。用來製作:滅菌繃帶,維生素噴霧,維生素注射"
     },
     "type": "Refined Material",
@@ -1303,7 +1365,7 @@
       "fr": "Schéma d'Enclume",
       "he": "שרטוט Anvil",
       "hr": "Anvil Nacrt",
-      "it": "Progetto Anvil",
+      "it": "Progetto Incudine",
       "ja": "アンヴィル設計図",
       "kr": "앤빌 설계도",
       "no": "Anvil-tegning",
@@ -1314,7 +1376,7 @@
       "sr": "Anvil Nacrt",
       "tr": "Anvil Planı",
       "uk": "Креслення Anvil",
-      "zh-CN": "Anvil蓝图",
+      "zh-CN": "铁砧蓝图",
       "zh-TW": "鐵砧藍圖"
     },
     "description": {
@@ -1336,7 +1398,7 @@
       "sr": "Ima visoku štetu i štetu od pogotka u glavu, ali sporo rukovanje.",
       "tr": "Yüksek hasar çıkışı ve kafadan vuruş hasarına sahiptir, ancak yavaş kullanıma sahiptir.",
       "uk": "Має високий урон та урон в голову, але повільну обробку.",
-      "zh-CN": "伤害和爆头伤害高，但操控缓慢。",
+      "zh-CN": "伤害高且爆头伤害尤其高，但操作速度较慢。",
       "zh-TW": "傷害和爆頭傷害高，但操控緩慢。"
     },
     "type": "Blueprint",
@@ -1394,7 +1456,7 @@
       "sr": "Ručni top jednostrukog okidanja sa visokom štetom i štetom pri pogotku u glavu, ali sporim rukovanjem.",
       "tr": "Tek etkili el topu; yüksek hasar ve kafa vuruşu hasarı sunar, ancak kullanım yavaştır.",
       "uk": "Ручна гармата одинарної дії з високою шкодою та підвищеним уроном у голову, але з повільним поводженням.",
-      "zh-CN": "单动式手炮，伤害与爆头伤害高，但操控缓慢。",
+      "zh-CN": "伤害高且爆头伤害尤其高，但操作速度较慢。",
       "zh-TW": "單動式手砲，具有高傷害與爆頭傷害，但操控較慢。"
     },
     "type": "Hand Cannon",
@@ -1446,7 +1508,7 @@
         "sr": "ARC probijanje oklopa",
         "tr": "ARC Zırh Delme",
         "uk": "Пробиття броні ARC",
-        "zh-CN": "ARC 装甲穿透",
+        "zh-CN": "ARC 护甲穿透",
         "zh-TW": "ARC 裝甲穿透"
       },
       "Durability": {
@@ -1469,7 +1531,7 @@
         "sr": "Izdržljivost",
         "tr": "Dayanıklılık",
         "uk": "Міцність",
-        "zh-CN": "耐久度",
+        "zh-CN": "耐用性",
         "zh-TW": "耐久度"
       },
       "Firing Mode": {
@@ -1582,7 +1644,7 @@
       "sr": "Ručni top jednostrukog okidanja sa visokom štetom i štetom pri pogotku u glavu, ali sporim rukovanjem.",
       "tr": "Tek etkili el topu; yüksek hasar ve kafa vuruşu hasarı sunar, ancak kullanım yavaştır.",
       "uk": "Ручна гармата одинарної дії з високою шкодою та підвищеним уроном у голову, але з повільним поводженням.",
-      "zh-CN": "单动式手炮，伤害与爆头伤害高，但操控缓慢。",
+      "zh-CN": "伤害高且爆头伤害尤其高，但操作速度较慢。",
       "zh-TW": "單動式手砲，具有高傷害與爆頭傷害，但操控較慢。"
     },
     "type": "Hand Cannon",
@@ -1634,7 +1696,7 @@
         "sr": "ARC probijanje oklopa",
         "tr": "ARC Zırh Delme",
         "uk": "Пробиття броні ARC",
-        "zh-CN": "ARC 装甲穿透",
+        "zh-CN": "ARC 护甲穿透",
         "zh-TW": "ARC 裝甲穿透"
       },
       "Durability": {
@@ -1657,7 +1719,7 @@
         "sr": "Izdržljivost",
         "tr": "Dayanıklılık",
         "uk": "Міцність",
-        "zh-CN": "耐久度",
+        "zh-CN": "耐用性",
         "zh-TW": "耐久度"
       },
       "Firing Mode": {
@@ -1703,7 +1765,7 @@
         "sr": "Povećana brzina paljbe",
         "tr": "Artırılmış atış hızı",
         "uk": "Підвищена швидкість стрільби",
-        "zh-CN": "提高射速",
+        "zh-CN": "射速增加",
         "zh-TW": "提高射速"
       },
       "Magazine Size": {
@@ -1749,7 +1811,7 @@
         "sr": "Smanjeno vreme oporavka raspršenja",
         "tr": "Azaltılmış saçılma toparlanma süresi",
         "uk": "Скорочений час відновлення розсіювання",
-        "zh-CN": "缩短散射恢复时间",
+        "zh-CN": "散布恢复时间缩短",
         "zh-TW": "降低散射恢復時間"
       }
     },
@@ -1867,7 +1929,7 @@
         "sr": "ARC probijanje oklopa",
         "tr": "ARC Zırh Delme",
         "uk": "Пробиття броні ARC",
-        "zh-CN": "ARC 装甲穿透",
+        "zh-CN": "ARC 护甲穿透",
         "zh-TW": "ARC 裝甲穿透"
       },
       "Durability": {
@@ -1890,7 +1952,7 @@
         "sr": "Izdržljivost",
         "tr": "Dayanıklılık",
         "uk": "Міцність",
-        "zh-CN": "耐久度",
+        "zh-CN": "耐用性",
         "zh-TW": "耐久度"
       },
       "Firing Mode": {
@@ -1936,7 +1998,7 @@
         "sr": "Povećana brzina paljbe",
         "tr": "Artırılmış atış hızı",
         "uk": "Підвищена швидкість стрільби",
-        "zh-CN": "提高射速",
+        "zh-CN": "射速增加",
         "zh-TW": "提高射速"
       },
       "Magazine Size": {
@@ -1982,7 +2044,7 @@
         "sr": "Smanjeno vreme oporavka raspršenja",
         "tr": "Azaltılmış saçılma toparlanma süresi",
         "uk": "Скорочений час відновлення розсіювання",
-        "zh-CN": "缩短散射恢复时间",
+        "zh-CN": "散布恢复时间缩短",
         "zh-TW": "降低散射恢復時間"
       }
     },
@@ -2100,7 +2162,7 @@
         "sr": "ARC probijanje oklopa",
         "tr": "ARC Zırh Delme",
         "uk": "Пробиття броні ARC",
-        "zh-CN": "ARC 装甲穿透",
+        "zh-CN": "ARC 护甲穿透",
         "zh-TW": "ARC 裝甲穿透"
       },
       "Durability": {
@@ -2123,7 +2185,7 @@
         "sr": "Izdržljivost",
         "tr": "Dayanıklılık",
         "uk": "Міцність",
-        "zh-CN": "耐久度",
+        "zh-CN": "耐用性",
         "zh-TW": "耐久度"
       },
       "Firing Mode": {
@@ -2169,7 +2231,7 @@
         "sr": "Povećana brzina paljbe",
         "tr": "Artırılmış atış hızı",
         "uk": "Підвищена швидкість стрільби",
-        "zh-CN": "提高射速",
+        "zh-CN": "射速增加",
         "zh-TW": "提高射速"
       },
       "Magazine Size": {
@@ -2215,7 +2277,7 @@
         "sr": "Smanjeno vreme oporavka raspršenja",
         "tr": "Azaltılmış saçılma toparlanma süresi",
         "uk": "Скорочений час відновлення розсіювання",
-        "zh-CN": "缩短散射恢复时间",
+        "zh-CN": "散布恢复时间缩短",
         "zh-TW": "降低散射恢復時間"
       }
     },
@@ -2248,7 +2310,7 @@
       "fr": "Séparateur Enclume",
       "he": "מפצל אנוויל",
       "hr": "Nakovanj Razdvajač",
-      "it": "Divisore Anvil",
+      "it": "Spaccaincudini",
       "ja": "アンヴィルスプリッター",
       "kr": "앤빌 스플리터",
       "no": "Anvil-splitter",
@@ -2270,7 +2332,7 @@
       "fr": "Modification technique pour l'Enclume qui remplace ses balles par des projectiles qui se divisent en 4 projectiles plus faibles.",
       "he": "מוד טכני עבור ה-אנוויל שמחליף את הקליעים שלו בכאלו המתפצלים ל-4 קליעים חלשים יותר.",
       "hr": "Tehnički mod za Nakovanj koji zamjenjuje njegove metke onima koji se dijele na 4 slabija projektila.",
-      "it": "Modifica tecnica per l'Anvil che sostituisce i suoi proiettili con altri che si dividono in 4 proiettili più deboli.",
+      "it": "Mod tecnica per l'Incudine che scambia i suoi proiettili con altri che si dividono in 4 proiettili più deboli.",
       "ja": "アンビルのテクニカルモッドで、弾丸を4つの弱い発射体に分裂するものに置き換えます。",
       "kr": "앤빌용 기술 모드로, 총알을 4개의 약한 발사체로 분열되는 것으로 교체합니다.",
       "no": "Teknisk modifikasjon for Anvil som erstatter kulene med noen som deler seg i 4 svakere prosjektiler.",
@@ -2281,7 +2343,7 @@
       "sr": "Tehnički mod za Nakovanj koji zamenjuje njegove metke onima koji se dele na 4 slabija projektila.",
       "tr": "Örs için mermilerini 4 zayıf mermiye bölünen mermilerle değiştiren teknoloji modu.",
       "uk": "Технологічна модифікація для Ковадла, яка замінює його кулі на ті, що розділяються на 4 слабших снаряди.",
-      "zh-CN": "铁砧的科技模组，将其子弹替换为分裂成4个较弱弹体的子弹。",
+      "zh-CN": "一种适用于铁砧的科技改装，将其子弹替换为4颗威力较弱的分裂弹。",
       "zh-TW": "鐵砧的科技模組，將其子彈替換為分裂成4個較弱彈體的子彈。"
     },
     "type": "Modification",
@@ -2309,7 +2371,7 @@
         "sr": "Projektila po Pucnju",
         "tr": "Atış Başına Mermi",
         "uk": "Снарядів за постріл",
-        "zh-CN": "每次射击弹体数",
+        "zh-CN": "单发投射物数量",
         "zh-TW": "每次射擊彈體數"
       },
       "Reduced Projectile Damage": {
@@ -2332,7 +2394,7 @@
         "sr": "Smanjena Šteta Projektila",
         "tr": "Azaltılmış Mermi Hasarı",
         "uk": "Зменшена шкода снаряда",
-        "zh-CN": "弹体伤害降低",
+        "zh-CN": "投射物伤害减少",
         "zh-TW": "彈體傷害降低"
       }
     },
@@ -2361,7 +2423,7 @@
       "fr": "Aphelion",
       "he": "אפליון",
       "hr": "Aphelion",
-      "it": "Afelio",
+      "it": "Aphelion",
       "ja": "アフェリオン",
       "kr": "아펠리온",
       "no": "Aphelion",
@@ -2383,7 +2445,7 @@
       "fr": "Une arme a faisceau ARC experimentale alimentee par un reacteur Matriarch.",
       "he": "נשק קרן ARC ניסיוני המופעל על ידי כור מטריארך.",
       "hr": "Eksperimentalno ARC zrakasto oruzje pokretano Matriarch reaktorom.",
-      "it": "Un'arma a fascio ARC sperimentale alimentata da un Reattore Matriarca.",
+      "it": "Spara proiettili energetici ad alta velocità.",
       "ja": "マトリアーク・リアクターを動力源とする実験的なARCビーム兵器。",
       "kr": "마트리아크 리액터로 작동하는 실험용 아크 빔 무기.",
       "no": "Et eksperimentelt ARC-stralevapen drevet av en Matriarch-reaktor.",
@@ -2394,7 +2456,7 @@
       "sr": "Eksperimentalno ARC zrakasto oruzje pokretano Matriarch reaktorom.",
       "tr": "Matriarch Reaktoru ile calisan deneysel bir ARC isin silahi.",
       "uk": "Експериментальна променева зброя ARC, що працює на реакторі Матріарха.",
-      "zh-CN": "由族长反应堆供电的实验性ARC光束武器。",
+      "zh-CN": "能发射高速能量弹。由族长反应堆供电的实验性ARC光束武器。",
       "zh-TW": "由族長反應爐供電的實驗性ARC光束武器。"
     },
     "type": "Special",
@@ -2447,7 +2509,7 @@
         "sr": "ARC probijanje oklopa",
         "tr": "ARC Zirh Delme",
         "uk": "Пробиття броні ARC",
-        "zh-CN": "ARC 装甲穿透",
+        "zh-CN": "ARC 护甲穿透",
         "zh-TW": "ARC 裝甲穿透"
       },
       "Durability": {
@@ -2470,7 +2532,7 @@
         "sr": "Izdrzljivost",
         "tr": "Dayaniklilik",
         "uk": "Міцність",
-        "zh-CN": "耐久度",
+        "zh-CN": "耐用性",
         "zh-TW": "耐久度"
       },
       "Firing Mode": {
@@ -2529,7 +2591,7 @@
       "fr": "Schema Aphelion",
       "he": "שרטוט Aphelion",
       "hr": "Aphelion Nacrt",
-      "it": "Progetto Afelio",
+      "it": "Progetto Aphelion",
       "ja": "アフェリオン設計図",
       "kr": "아펠리온 설계도",
       "no": "Aphelion-tegning",
@@ -2551,7 +2613,7 @@
       "fr": "Une arme a faisceau ARC experimentale alimentee par un reacteur Matriarch.",
       "he": "נשק קרן ARC נסיוני המופעל על ידי כור Matriarch.",
       "hr": "Eksperimentalno ARC zrakasto oruzje pokretano Matriarch reaktorom.",
-      "it": "Un'arma a fascio ARC sperimentale alimentata da un Reattore Matriarca.",
+      "it": "Spara proiettili energetici ad alta velocità.",
       "ja": "マトリアーク・リアクターを動力源とする実験的なARCビーム兵器。",
       "kr": "마트리아크 리액터로 작동하는 실험용 아크 빔 무기.",
       "no": "Et eksperimentelt ARC-stralevapen drevet av en Matriarch-reaktor.",
@@ -2562,7 +2624,7 @@
       "sr": "Eksperimentalno ARC zrakasto oruzje pokretano Matriarch reaktorom.",
       "tr": "Matriarch Reaktoru ile calisan deneysel bir ARC isin silahi.",
       "uk": "Експериментальна променева зброя ARC, що працює на реакторі Матріарха.",
-      "zh-CN": "由族长反应堆供电的实验性ARC光束武器。",
+      "zh-CN": "能发射高速能量弹。由族长反应堆供电的实验性ARC光束武器。",
       "zh-TW": "由族長反應爐供電的實驗性ARC光束武器。"
     },
     "type": "Blueprint",
@@ -2598,7 +2660,7 @@
       "sr": "Kajsija",
       "tr": "Kayısı",
       "uk": "Абрикос",
-      "zh-CN": "杏",
+      "zh-CN": "杏子",
       "zh-TW": "杏桃"
     },
     "description": {
@@ -2734,7 +2796,7 @@
       "sr": "Dobija se od ARC neprijatelja ili aktivnosti, ili recikliranjem određenih ARC delova. Koristi se za izradu komponenti. Koristi se za izradu: Lagani štit, ARC jezgro pokreta, ARC sklopovi",
       "tr": "ARC düşmanlarından veya aktivitelerden elde edilir ya da belirli ARC parçalarını geri dönüştürerek kazanılır. Bileşen üretmek için kullanılır. Üretilebilir: Hafif Kalkan, ARC Hareket Çekirdeği, ARC Devre",
       "uk": "Отримується з ворогів ARC або активностей, або шляхом переробки певних деталей ARC. Використовується для створення компонентів. Використовується для створення: Легкий щит, ARC рухове ядро, ARC схеми",
-      "zh-CN": "从ARC敌人或活动中获得，或通过回收特定ARC零件取得。用于制作组件。可制作：轻型护盾、ARC动力核心、ARC电路",
+      "zh-CN": "从ARC敌人身上或行动中，或通过回收某些ARC零件获得。用于制作组件。用于制作:轻型护盾，追踪手雷，ARC运动核心，ARC线圈",
       "zh-TW": "從ARC敵人或活動中獲得，或透過回收特定ARC零件取得。用於製作組件。可製作：輕型護盾、ARC動力核心、ARC電路"
     },
     "type": "Topside Material",
@@ -2759,7 +2821,7 @@
       "bastion_cell": 2,
       "bombardier_cell": 2,
       "burned_arc_circuitry": 2,
-      "damaged_arc_motion_core": 3,
+      "damaged_arc_motion_core": 2,
       "damaged_arc_powercell": 1,
       "damaged_fireball_burner": 1,
       "damaged_hornet_driver": 2,
@@ -2783,7 +2845,7 @@
       "arc_circuitry": 1,
       "arc_motion_core": 1,
       "burned_arc_circuitry": 1,
-      "damaged_arc_motion_core": 2,
+      "damaged_arc_motion_core": 1,
       "damaged_hornet_driver": 1,
       "damaged_rocketeer_driver": 2,
       "fireball_burner": 1,
@@ -2884,7 +2946,7 @@
       "sr": "ARC Sklopovi",
       "tr": "ARC Devre Sistemi",
       "uk": "Схеми ARC",
-      "zh-CN": "ARC电路",
+      "zh-CN": "ARC线圈",
       "zh-TW": "ARC電路"
     },
     "description": {
@@ -2906,7 +2968,7 @@
       "sr": "Dobija se od ARC neprijatelja ili aktivnosti. Koristi se za izradu komponenti. Može se reciklirati u ARC Leguru. Koristi se za izradu: Srednji Štit, Energetska Šipka",
       "tr": "ARC düşmanlarından veya aktivitelerden elde edilir. Bileşen üretiminde kullanılır. ARC Alaşımına geri dönüştürülebilir. Üretilebilir: Orta Kalkan, Güç Çubuğu",
       "uk": "Отримується зворогів ARC або активностей. Використовується для створення компонентів. Можна переробити в сплав ARC. Використовується для створення: Середній щит, Силовий стрижень",
-      "zh-CN": "从ARC敌人或活动中获得。用于制作组件。可回收为ARC合金。可制作：中型护盾、能量棒",
+      "zh-CN": "从ARC敌人身上或行动中获取。用于制作组件。可回收为ARC合金。用于制作:死线，中型护盾，电棍",
       "zh-TW": "從ARC敵人或活動中獲得。用於製作組件。可回收為ARC合金。可製作：中型護盾、能量棒"
     },
     "type": "Topside Material",
@@ -3141,7 +3203,7 @@
       "sr": "ARC Jezgro Pokreta",
       "tr": "ARC Hareket Çekirdeği",
       "uk": "Ядро руху ARC",
-      "zh-CN": "ARC动力核心",
+      "zh-CN": "ARC运动核心",
       "zh-TW": "ARC動力核心"
     },
     "description": {
@@ -3163,7 +3225,7 @@
       "sr": "Dobija se od ARC neprijatelja ili aktivnosti. Koristi se za izradu komponenti. Može se reciklirati u ARC Leguru. Koristi se za izradu: Magnetski Akcelerator",
       "tr": "ARC düşmanlarından veya aktivitelerden elde edilir. Bileşen üretiminde kullanılır. ARC Alaşımına geri dönüştürülebilir. Üretilebilir: Manyetik Hızlandırıcı",
       "uk": "Отримується зворогів ARC або активностей. Використовується для створення компонентів. Можна переробити в сплав ARC. Використовується для створення: Магнітний прискорювач",
-      "zh-CN": "从ARC敌人或活动中获得。用于制作组件。可回收为ARC合金。可制作：磁力加速器",
+      "zh-CN": "从ARC敌人身上或行动中获取。用于制作组件。可回收为ARC合金。用于制作:发射器弹药，狼群，磁力加速器",
       "zh-TW": "從ARC敵人或活動中獲得。用於製作組件。可回收為ARC合金。可製作：磁力加速器"
     },
     "type": "Topside Material",
@@ -3341,7 +3403,7 @@
       "sr": "Vredan resurs koji ispuštaju svi ARC neprijatelji. Koristi se za izradu: Punjač Štita Može se koristiti za popravku štitova.",
       "tr": "Tüm ARC düşmanlarından düşen değerli kaynak. Şunları üretmek için kullanılır: Kalkan Şarj Cihazı. Kalkanları onarmak için kullanılabilir.",
       "uk": "Цінний ресурс, що випадає з усіхворогів ARC. Використовується для створення: Перезарядник щита. Можна використовувати для ремонту щитів.",
-      "zh-CN": "从所有 ARC 敌人身上掉落的珍贵资源。用于制作：护盾充能器。可用于修复护盾。",
+      "zh-CN": "珍贵的资源，所有ARC敌人身上都有可能掉落。用于制作:护盾充能器。可用于修理护盾。",
       "zh-TW": "從所有 ARC 敵人身上掉落的珍貴資源。用於製作：護盾充能器。可用於修復護盾。"
     },
     "type": "Topside Material",
@@ -3460,6 +3522,10 @@
       {
         "id": "arc_sentinel",
         "name": "Sentinel"
+      },
+      {
+        "id": "arc_shredder",
+        "name": "Shredder"
       },
       {
         "id": "arc_snitch",
@@ -3663,7 +3729,7 @@
       "sr": "Arpeđo I",
       "tr": "Arpej I",
       "uk": "Арпеджіо I",
-      "zh-CN": "琶音 I",
+      "zh-CN": "三连奏 I",
       "zh-TW": "琶音 I"
     },
     "description": {
@@ -3685,7 +3751,7 @@
       "sr": "Ima pristojnu štetu i preciznost.",
       "tr": "Makul hasar çıkışı ve isabetliliğe sahiptir.",
       "uk": "Має пристойний урон та точність.",
-      "zh-CN": "拥有不错的伤害输出和精准度。",
+      "zh-CN": "具有不俗的伤害输出和精准度。",
       "zh-TW": "擁有不錯的傷害輸出和精準度。"
     },
     "type": "Assault Rifle",
@@ -3760,7 +3826,7 @@
         "sr": "Izdržljivost",
         "tr": "Dayanıklılık",
         "uk": "Міцність",
-        "zh-CN": "耐久度",
+        "zh-CN": "耐用性",
         "zh-TW": "耐久度"
       },
       "Firing Mode": {
@@ -3851,7 +3917,7 @@
       "sr": "Arpeđo II",
       "tr": "Arpej II",
       "uk": "Арпеджіо II",
-      "zh-CN": "琶音 II",
+      "zh-CN": "三连奏 II",
       "zh-TW": "琶音 II"
     },
     "description": {
@@ -3873,7 +3939,7 @@
       "sr": "Ima pristojnu štetu i preciznost.",
       "tr": "Makul hasar çıkışı ve isabetliliğe sahiptir.",
       "uk": "Має пристойний урон та точність.",
-      "zh-CN": "拥有不错的伤害输出和精准度。",
+      "zh-CN": "具有不俗的伤害输出和精准度。",
       "zh-TW": "擁有不錯的傷害輸出和精準度。"
     },
     "type": "Assault Rifle",
@@ -3948,7 +4014,7 @@
         "sr": "Izdržljivost",
         "tr": "Dayanıklılık",
         "uk": "Міцність",
-        "zh-CN": "耐久度",
+        "zh-CN": "耐用性",
         "zh-TW": "耐久度"
       },
       "Firing Mode": {
@@ -3994,7 +4060,7 @@
         "sr": "Povećana brzina paljbe",
         "tr": "Artırılmış atış hızı",
         "uk": "Підвищена швидкість стрільби",
-        "zh-CN": "提高射速",
+        "zh-CN": "射速增加",
         "zh-TW": "提高射速"
       },
       "Magazine Size": {
@@ -4040,7 +4106,7 @@
         "sr": "Smanjeno vrijeme punjenja",
         "tr": "Azaltılmış yeniden doldurma süresi",
         "uk": "Скорочений час перезаряджання",
-        "zh-CN": "缩短装填时间",
+        "zh-CN": "装弹时间缩短",
         "zh-TW": "降低換彈時間"
       }
     },
@@ -4085,7 +4151,7 @@
       "sr": "Arpeđo III",
       "tr": "Arpej III",
       "uk": "Арпеджіо III",
-      "zh-CN": "琶音 III",
+      "zh-CN": "三连奏 III",
       "zh-TW": "琶音 III"
     },
     "description": {
@@ -4107,7 +4173,7 @@
       "sr": "Ima pristojnu štetu i preciznost.",
       "tr": "Makul hasar çıkışı ve isabetliliğe sahiptir.",
       "uk": "Має пристойний урон та точність.",
-      "zh-CN": "拥有不错的伤害输出和精准度。",
+      "zh-CN": "具有不俗的伤害输出和精准度。",
       "zh-TW": "擁有不錯的傷害輸出和精準度。"
     },
     "type": "Assault Rifle",
@@ -4182,7 +4248,7 @@
         "sr": "Izdržljivost",
         "tr": "Dayanıklılık",
         "uk": "Міцність",
-        "zh-CN": "耐久度",
+        "zh-CN": "耐用性",
         "zh-TW": "耐久度"
       },
       "Firing Mode": {
@@ -4228,7 +4294,7 @@
         "sr": "Povećana brzina paljbe",
         "tr": "Artırılmış atış hızı",
         "uk": "Підвищена швидкість стрільби",
-        "zh-CN": "提高射速",
+        "zh-CN": "射速增加",
         "zh-TW": "提高射速"
       },
       "Magazine Size": {
@@ -4274,7 +4340,7 @@
         "sr": "Smanjeno vrijeme punjenja",
         "tr": "Azaltılmış yeniden doldurma süresi",
         "uk": "Скорочений час перезаряджання",
-        "zh-CN": "缩短装填时间",
+        "zh-CN": "装弹时间缩短",
         "zh-TW": "降低換彈時間"
       }
     },
@@ -4319,7 +4385,7 @@
       "sr": "Arpeđo IV",
       "tr": "Arpej IV",
       "uk": "Арпеджіо IV",
-      "zh-CN": "琶音 IV",
+      "zh-CN": "三连奏 IV",
       "zh-TW": "琶音 IV"
     },
     "description": {
@@ -4341,7 +4407,7 @@
       "sr": "Ima pristojnu štetu i preciznost.",
       "tr": "Makul hasar çıkışı ve isabetliliğe sahiptir.",
       "uk": "Має пристойний урон та точність.",
-      "zh-CN": "拥有不错的伤害输出和精准度。",
+      "zh-CN": "具有不俗的伤害输出和精准度。",
       "zh-TW": "擁有不錯的傷害輸出和精準度。"
     },
     "type": "Assault Rifle",
@@ -4416,7 +4482,7 @@
         "sr": "Izdržljivost",
         "tr": "Dayanıklılık",
         "uk": "Міцність",
-        "zh-CN": "耐久度",
+        "zh-CN": "耐用性",
         "zh-TW": "耐久度"
       },
       "Firing Mode": {
@@ -4462,7 +4528,7 @@
         "sr": "Povećana brzina paljbe",
         "tr": "Artırılmış atış hızı",
         "uk": "Підвищена швидкість стрільби",
-        "zh-CN": "提高射速",
+        "zh-CN": "射速增加",
         "zh-TW": "提高射速"
       },
       "Magazine Size": {
@@ -4508,7 +4574,7 @@
         "sr": "Smanjeno vrijeme punjenja",
         "tr": "Azaltılmış yeniden doldurma süresi",
         "uk": "Скорочений час перезаряджання",
-        "zh-CN": "缩短装填时间",
+        "zh-CN": "装弹时间缩短",
         "zh-TW": "降低換彈時間"
       }
     },
@@ -4553,7 +4619,7 @@
       "sr": "Raznovrsno Seme",
       "tr": "Çeşitli Tohumlar",
       "uk": "Різні насіння",
-      "zh-CN": "各式种子",
+      "zh-CN": "混合种子",
       "zh-TW": "各式種子"
     },
     "description": {
@@ -4575,7 +4641,7 @@
       "sr": "Pregršt semenja. Celeste bi mogla tražiti ovo.",
       "tr": "Bir avuç tohum. Celeste bunları arıyor olabilir.",
       "uk": "Жменя насіння. Можливо, Селеста їх шукає.",
-      "zh-CN": "一把种子。Celeste可能在找这些。",
+      "zh-CN": "一把种子。也许正是塞莱斯特要找的。",
       "zh-TW": "一把種子。Celeste可能在找這些。"
     },
     "type": "Nature",
@@ -5471,7 +5537,7 @@
       "sr": "Bettina II",
       "tr": "Bettina II",
       "uk": "Bettina II",
-      "zh-CN": "Bettina II",
+      "zh-CN": "贝蒂娜 II",
       "zh-TW": "Bettina II"
     },
     "description": {
@@ -5705,7 +5771,7 @@
       "sr": "Bettina III",
       "tr": "Bettina III",
       "uk": "Bettina III",
-      "zh-CN": "Bettina III",
+      "zh-CN": "贝蒂娜 III",
       "zh-TW": "Bettina III"
     },
     "description": {
@@ -5939,7 +6005,7 @@
       "sr": "Bettina IV",
       "tr": "Bettina IV",
       "uk": "Bettina IV",
-      "zh-CN": "Bettina IV",
+      "zh-CN": "贝蒂娜 IV",
       "zh-TW": "Bettina IV"
     },
     "description": {
@@ -6916,7 +6982,7 @@
     "id": "blue_gate_village_key",
     "name": {
       "da": "Blå port landsby-nøgle",
-      "de": "Blauer Tor Dorfschlüssel",
+      "de": "Dorfschlüssel (Blaues Tor)",
       "en": "Blue Gate Village Key",
       "es": "Llave del pueblo de la puerta azul",
       "fr": "Clé du village de la porte bleue",
@@ -7214,7 +7280,7 @@
       "fr": "Schéma de Bobcat",
       "he": "שרטוט בובקאט (Bobcat)",
       "hr": "Nacrt Bobcat",
-      "it": "Progetto Bobcat",
+      "it": "Progetto Lince",
       "ja": "ボブキャット設計図",
       "kr": "밥캣 설계도",
       "no": "Bobcat-tegning",
@@ -7236,7 +7302,7 @@
       "fr": "SMG entièrement automatique avec une cadence de tir élevée mais une faible précision.",
       "he": "תת-מקלע אוטומטי מלא בעל קצב אש גבוה אך דיוק נמוך.",
       "hr": "Potpuno automatski SMG s visokom brzinom paljbe ali niskom preciznošću.",
-      "it": "SMG completamente automatico con alta cadenza di fuoco ma bassa precisione.",
+      "it": "Ha un'alta cadenza di fuoco ma bassa precisione.",
       "ja": "高い発射速度だが精度の低い全自動SMG。",
       "kr": "높은 연사력을 가지지만 정확도가 낮은 완전 자동 SMG.",
       "no": "Helautomatisk SMG med høy skuddfrekvens men lav nøyaktighet.",
@@ -7272,7 +7338,7 @@
       "fr": "Bobcat I",
       "he": "בובקאט I",
       "hr": "Bobcat I",
-      "it": "Bobcat I",
+      "it": "Lince I",
       "ja": "ボブキャット I",
       "kr": "밥캣 I",
       "no": "Bobcat I",
@@ -7294,7 +7360,7 @@
       "fr": "SMG entièrement automatique avec une cadence de tir élevée mais une faible précision.",
       "he": "תת-מקלע אוטומטי מלא עם קצב אש גבוה אך דיוק נמוך.",
       "hr": "Potpuno automatski SMG s visokom brzinom paljbe ali niskom preciznošću.",
-      "it": "SMG completamente automatico con alta cadenza di fuoco ma bassa precisione.",
+      "it": "Ha un'alta cadenza di fuoco ma bassa precisione.",
       "ja": "高い発射速度だが精度の低い全自動SMG。",
       "kr": "높은 연사력을 가지지만 정확도가 낮은 완전 자동 SMG.",
       "no": "Helautomatisk SMG med høy skuddfrekvens men lav nøyaktighet.",
@@ -7602,7 +7668,7 @@
       "fr": "Bobcat II",
       "he": "בובקאט II",
       "hr": "Bobcat II",
-      "it": "Bobcat II",
+      "it": "Lince II",
       "ja": "ボブキャット II",
       "kr": "밥캣 II",
       "no": "Bobcat II",
@@ -7624,7 +7690,7 @@
       "fr": "SMG entièrement automatique avec une cadence de tir élevée mais une faible précision.",
       "he": "תת-מקלע אוטומטי מלא עם קצב אש גבוה אך דיוק נמוך.",
       "hr": "Potpuno automatski SMG s visokom brzinom paljbe ali niskom preciznošću.",
-      "it": "SMG completamente automatico con alta cadenza di fuoco ma bassa precisione.",
+      "it": "Ha un'alta cadenza di fuoco ma bassa precisione.",
       "ja": "高い発射速度だが精度の低い全自動SMG。",
       "kr": "높은 연사력을 가지지만 정확도가 낮은 완전 자동 SMG.",
       "no": "Helautomatisk SMG med høy skuddfrekvens men lav nøyaktighet.",
@@ -7996,7 +8062,7 @@
       "fr": "Bobcat III",
       "he": "בובקאט III",
       "hr": "Bobcat III",
-      "it": "Bobcat III",
+      "it": "Lince III",
       "ja": "ボブキャット III",
       "kr": "밥캣 III",
       "no": "Bobcat III",
@@ -8018,7 +8084,7 @@
       "fr": "SMG entièrement automatique avec une cadence de tir élevée mais une faible précision.",
       "he": "תת-מקלע אוטומטי מלא בעל קצב אש גבוה אך דיוק נמוך.",
       "hr": "Potpuno automatski SMG s visokom brzinom paljbe ali niskom preciznošću.",
-      "it": "SMG completamente automatico con alta cadenza di fuoco ma bassa precisione.",
+      "it": "Ha un'alta cadenza di fuoco ma bassa precisione.",
       "ja": "高い発射速度だが精度の低い全自動SMG。",
       "kr": "높은 연사력을 가지지만 정확도가 낮은 완전 자동 SMG.",
       "no": "Helautomatisk SMG med høy skuddfrekvens men lav nøyaktighet.",
@@ -8390,7 +8456,7 @@
       "fr": "Bobcat IV",
       "he": "בובקאט IV",
       "hr": "Bobcat IV",
-      "it": "Bobcat IV",
+      "it": "Lince IV",
       "ja": "ボブキャット IV",
       "kr": "밥캣 IV",
       "no": "Bobcat IV",
@@ -8412,7 +8478,7 @@
       "fr": "SMG entièrement automatique avec une cadence de tir élevée mais une faible précision.",
       "he": "תת-מקלע אוטומטי מלא עם קצב אש גבוה אך דיוק נמוך.",
       "hr": "Potpuno automatski SMG s visokom brzinom paljbe ali niskom preciznošću.",
-      "it": "SMG completamente automatico con alta cadenza di fuoco ma bassa precisione.",
+      "it": "Ha un'alta cadenza di fuoco ma bassa precisione.",
       "ja": "高い発射速度だが精度の低い全自動SMG。",
       "kr": "높은 연사력을 가지지만 정확도가 낮은 완전 자동 SMG.",
       "no": "Helautomatisk SMG med høy skuddfrekvens men lav nøyaktighet.",
@@ -8974,7 +9040,7 @@
     "id": "broken_guidance_system",
     "name": {
       "da": "Ødelagt styringssystem",
-      "de": "Defektes Leitsystem",
+      "de": "Kaputtes Leitsystem",
       "en": "Broken Guidance System",
       "es": "Sistema de guía roto",
       "fr": "Système de Guidage Cassé",
@@ -9484,7 +9550,7 @@
       "sr": "Burletta Nacrt",
       "tr": "Burletta Planı",
       "uk": "Креслення Бурлетти",
-      "zh-CN": "布雷塔蓝图",
+      "zh-CN": "布尔莱塔蓝图",
       "zh-TW": "布雷塔藍圖"
     },
     "description": {
@@ -9540,7 +9606,7 @@
       "sr": "Burletta I",
       "tr": "Burletta I",
       "uk": "Бурлетта I",
-      "zh-CN": "布雷塔 I",
+      "zh-CN": "布尔莱塔 I",
       "zh-TW": "布雷塔 I"
     },
     "description": {
@@ -9729,7 +9795,7 @@
       "sr": "Burletta II",
       "tr": "Burletta II",
       "uk": "Бурлетта II",
-      "zh-CN": "布雷塔 II",
+      "zh-CN": "布尔莱塔 II",
       "zh-TW": "布雷塔 II"
     },
     "description": {
@@ -9799,7 +9865,7 @@
       "sr": "Burletta III",
       "tr": "Burletta III",
       "uk": "Бурлетта III",
-      "zh-CN": "布雷塔 III",
+      "zh-CN": "布尔莱塔 III",
       "zh-TW": "布雷塔 III"
     },
     "description": {
@@ -9869,7 +9935,7 @@
       "sr": "Burletta IV",
       "tr": "Burletta IV",
       "uk": "Бурлетта IV",
-      "zh-CN": "布雷塔 IV",
+      "zh-CN": "布尔莱塔 IV",
       "zh-TW": "布雷塔 IV"
     },
     "description": {
@@ -10251,7 +10317,7 @@
       "hr": "Kanister",
       "it": "Tanica",
       "ja": "キャニスター",
-      "kr": "캔",
+      "kr": "캐니스터",
       "no": "Beholder",
       "pl": "Kanister",
       "pt": "Vasilhame",
@@ -10769,6 +10835,7 @@
     "rarity": "Uncommon",
     "value": 640,
     "weightKg": 2,
+    "stackSize": 1,
     "effects": {
       "Durability": {
         "value": "100/100",
@@ -10853,7 +10920,7 @@
       "plastic_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/combat_i.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "01/20/2026",
     "recycleValue": 330,
     "salvageValue": 180,
     "recycledFrom": {},
@@ -10910,6 +10977,7 @@
     "rarity": "Rare",
     "value": 2000,
     "weightKg": 3,
+    "stackSize": 1,
     "effects": {
       "Durability": {
         "value": "100/100",
@@ -11017,7 +11085,7 @@
       "electrical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/combat_i.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "01/20/2026",
     "recycleValue": 940,
     "salvageValue": 640,
     "recycledFrom": {},
@@ -11074,6 +11142,7 @@
     "rarity": "Epic",
     "value": 5000,
     "weightKg": 5,
+    "stackSize": 1,
     "blueprintLocked": true,
     "effects": {
       "Backpack Slots": {
@@ -11275,7 +11344,7 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/combat_mk3_aggressive.png",
-    "updatedAt": "01/13/2026",
+    "updatedAt": "01/20/2026",
     "repairCost": {
       "advanced_electrical_components": 1,
       "processor": 2
@@ -11395,6 +11464,7 @@
     "rarity": "Epic",
     "value": 5000,
     "weightKg": 5,
+    "stackSize": 1,
     "blueprintLocked": true,
     "effects": {
       "Backpack Slots": {
@@ -11596,7 +11666,7 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/combat_mk3_flanking.png",
-    "updatedAt": "01/13/2026",
+    "updatedAt": "01/20/2026",
     "repairCost": {
       "advanced_electrical_components": 1,
       "processor": 2
@@ -12861,15 +12931,15 @@
     "weightKg": 0.25,
     "stackSize": 5,
     "recyclesInto": {
-      "arc_alloy": 3
-    },
-    "salvagesInto": {
       "arc_alloy": 2
     },
+    "salvagesInto": {
+      "arc_alloy": 1
+    },
     "imageFilename": "https://cdn.arctracker.io/items/damaged_arc_motion_core.png",
-    "updatedAt": "01/13/2026",
-    "recycleValue": 600,
-    "salvageValue": 400,
+    "updatedAt": "01/20/2026",
+    "recycleValue": 400,
+    "salvageValue": 200,
     "recycledFrom": {},
     "salvagedFrom": {},
     "droppedBy": []
@@ -13759,7 +13829,7 @@
       "fr": "Mine à Retardement",
       "he": "דדליין",
       "hr": "Rok",
-      "it": "Scadenza",
+      "it": "Deadline",
       "ja": "デッドライン",
       "kr": "데드라인",
       "no": "Tidsfrist",
@@ -13781,7 +13851,7 @@
       "fr": "Une mine qui inflige des dégâts à tout ce qui se trouve dans son rayon une fois le compte à rebours terminé.",
       "he": "מוקש הגורם נזק לכל דבר ברדיוס שלו ברגע שהטיימר נגמר.",
       "hr": "Mina koja nanosi štetu svemu u svom radijusu kada istekne mjerač vremena.",
-      "it": "Una mina che infligge danni a tutto ciò che si trova nel suo raggio quando il timer scade.",
+      "it": "Una mina che infligge danni a tutto ciò che si trova nel suo raggio d'azione una volta scaduto il timer.",
       "ja": "タイマーが切れると範囲内のすべてにダメージを与える地雷。",
       "kr": "타이머가 끝나면 반경 내의 모든 것에 피해를 입히는 지뢰입니다.",
       "no": "En mine som gjør skade på alt innenfor dens radius når tidtakeren løper ut.",
@@ -13923,7 +13993,7 @@
       "fr": "Déverrouille la fabrication des mines Deadline à l'établi d'explosifs.",
       "he": "פותח את האפשרות לייצר מוקשי דדליין בעמדת החבלה.",
       "hr": "Otključava mogućnost izrade mina Deadline na klupi za eksplozive.",
-      "it": "Sblocca la possibilità di creare mine Deadline al banco esplosivi.",
+      "it": "Una mina che infligge danni a tutto ciò che si trova nel suo raggio d'azione una volta scaduto il timer.",
       "ja": "爆発物作業台でデッドライン地雷を作成できるようになります。",
       "kr": "폭발물 작업대에서 데드라인 지뢰를 제작할 수 있게 해줍니다.",
       "no": "Låser opp muligheten til å lage Deadline-miner ved sprengstoffbenken.",
@@ -14395,6 +14465,66 @@
     "droppedBy": []
   },
   {
+    "id": "doodly_duck",
+    "name": {
+      "da": "Krims-Krams And",
+      "de": "Kritzel-Ente",
+      "en": "Doodly Duck",
+      "es": "Pato Garabateado",
+      "fr": "Canard Gribouillé",
+      "he": "ברווז מצויר",
+      "hr": "Šarena Patka",
+      "it": "Papera Scarabocchiata",
+      "ja": "らくがきアヒル",
+      "kr": "낙서 오리",
+      "no": "Skribleand",
+      "pl": "Bazgrołowa Kaczka",
+      "pt": "Pato Rabiscado",
+      "pt-BR": "Pato Rabiscado",
+      "ru": "Разрисованная уточка",
+      "sr": "Šarena Patka",
+      "tr": "Karalama Ördek",
+      "uk": "Розмальована качечка",
+      "zh-CN": "涂鸦鸭",
+      "zh-TW": "塗鴉鴨"
+    },
+    "description": {
+      "da": "Alt er et lærred for et kreativt barn. Kan kastes for at skabe støj.",
+      "de": "Alles ist eine Leinwand für ein kreatives Kind. Kann geworfen werden, um Lärm zu erzeugen.",
+      "en": "Everything is a canvas to a creative child. Can be thrown to create noise.",
+      "es": "Todo es un lienzo para un niño creativo. Se puede lanzar para crear ruido.",
+      "fr": "Tout est une toile pour un enfant créatif. Peut être lancé pour créer du bruit.",
+      "he": "הכל הוא בד ציור לילד יצירתי. ניתן לזרוק כדי ליצור רעש.",
+      "hr": "Sve je platno za kreativno dijete. Može se baciti da stvori buku.",
+      "it": "Tutto è una tela per un bambino creativo. Può essere lanciata per creare rumore.",
+      "ja": "創造力豊かな子供にとって、すべてはキャンバス。投げて音を立てることができる。",
+      "kr": "창의적인 아이에게 모든 것은 캔버스입니다. 던져서 소음을 만들 수 있습니다.",
+      "no": "Alt er et lerret for et kreativt barn. Kan kastes for å lage støy.",
+      "pl": "Wszystko jest płótnem dla kreatywnego dziecka. Można rzucić, aby wytworzyć hałas.",
+      "pt": "Tudo é uma tela para uma criança criativa. Pode ser arremessado para criar ruído.",
+      "pt-BR": "Tudo é uma tela para uma criança criativa. Pode ser arremessado para fazer barulho.",
+      "ru": "Всё — холст для творческого ребёнка. Можно бросить, чтобы создать шум.",
+      "sr": "Sve je platno za kreativno dete. Može se baciti da stvori buku.",
+      "tr": "Yaratıcı bir çocuk için her şey bir tuvaldir. Gürültü yaratmak için fırlatılabilir.",
+      "uk": "Все є полотном для творчої дитини. Можна кинути, щоб створити шум.",
+      "zh-CN": "对于有创意的孩子来说，一切都是画布。可以投掷来制造噪音。",
+      "zh-TW": "對於有創意的孩子來說，一切都是畫布。可以投擲來製造噪音。"
+    },
+    "type": "Trinket",
+    "rarity": "Rare",
+    "value": 3000,
+    "weightKg": 0.3,
+    "stackSize": 15,
+    "recyclesInto": {},
+    "imageFilename": "https://cdn.arctracker.io/items/doodly_duck.png",
+    "updatedAt": "02/01/2026",
+    "recycleValue": 0,
+    "salvageValue": 0,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
     "id": "door_blocker",
     "name": {
       "da": "Dørblokering",
@@ -14716,7 +14846,7 @@
       "hr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u materijale za izradu. Koristi se za izradu: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Surge Shield Recharger, Lure Granata",
       "it": "Si usa per creare una vasta gamma di oggetti. Si può riciclare in materiali da creazione. Si usa per creare: Tattico Mk. 2, Combattimento Mk. 2, Saccheggio Mk. 2, Componenti elettrici avanzati, Caricascudi rapido",
       "ja": "幅広いアイテムの製作に使用。製作素材にリサイクル可能。製作用途：Tactical Mk. 2、Combat Mk. 2、Looting Mk. 2、サージシールドリチャージャー、ルアーグレネード",
-      "kr": "다양한 아이템 제작에 사용. 제작 재료로 재활용 가능. 제작 용도: 전술 마크 2, 전투 마크 2, 노획 마크 2, 급속 실드 충전기, 미끼 수류탄",
+      "kr": "다양한 아이템 제작에 사용. 제작 재료로 재활용 가능. 제작 용도: 전술 마크 2, 전투 마크 2, 노획 마크 2, 급속 실드 충전기, 유인 수류탄",
       "no": "Brukes til å lage et bredt spekter av gjenstander. Kan resirkuleres til håndverksmateriell. Brukes til å lage: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Surge skjoldlader, Lokkegranate",
       "pl": "Używany do wytwarzania szerokiej gamy przedmiotów. Może być przetworzony na materiały rzemieślnicze. Używany do wytworzenia: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Ładowarka tarczy Surge, Granat wabik",
       "pt": "Usado para fabricar uma ampla gama de itens. Pode ser reciclado em materiais de fabricação. Usado para fabricar: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Recarregador de escudo Surge, Granada isca",
@@ -14747,7 +14877,7 @@
       "plastic_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/electrical_components.png",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/13/2026",
     "recycleValue": 330,
     "salvageValue": 180,
     "recycledFrom": {
@@ -14775,6 +14905,7 @@
       "hornet_driver": 2,
       "looting_mk2": 1,
       "looting_mk3_cautious": 2,
+      "looting_mk3_safekeeper": 2,
       "looting_mk3_survivor": 2,
       "snitch_scanner": 2,
       "spectrometer": 2,
@@ -16800,7 +16931,7 @@
     "name": {
       "da": "Udvidet haglmagasin I",
       "de": "Erweitertes Schrotflintenmagazin I",
-      "en": " Extended Shotgun Mag I",
+      "en": "Extended Shotgun Mag I",
       "es": "Cargador de escopeta extendido I",
       "fr": "Chargeur de Fusil à Pompe Étendu I",
       "he": "מחסנית רובה ציד מוגדלת I",
@@ -17372,7 +17503,7 @@
       "hr": "Izblijedjela fotografija",
       "it": "Fotografia sbiadita",
       "ja": "色あせた写真",
-      "kr": "바랜 사진",
+      "kr": "빛바랜 사진",
       "no": "Falmet fotografi",
       "pl": "Wyblakła fotografia",
       "pt": "Fotografia desbotada",
@@ -17414,7 +17545,67 @@
     "stackSize": 15,
     "recyclesInto": {},
     "imageFilename": "https://cdn.arctracker.io/items/faded_photograph.png",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/13/2026",
+    "recycleValue": 0,
+    "salvageValue": 0,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
+    "id": "familiar_duck",
+    "name": {
+      "da": "Velkendt And",
+      "de": "Vertraute Ente",
+      "en": "Familiar Duck",
+      "es": "Pato Familiar",
+      "fr": "Canard Familier",
+      "he": "ברווז מוכר",
+      "hr": "Poznata Patka",
+      "it": "Papera Familiare",
+      "ja": "なじみのアヒル",
+      "kr": "익숙한 오리",
+      "no": "Kjent And",
+      "pl": "Znajoma Kaczka",
+      "pt": "Pato Familiar",
+      "pt-BR": "Pato Familiar",
+      "ru": "Знакомая уточка",
+      "sr": "Poznata Patka",
+      "tr": "Tanıdık Ördek",
+      "uk": "Знайома качечка",
+      "zh-CN": "熟悉的鸭",
+      "zh-TW": "熟悉的鴨"
+    },
+    "description": {
+      "da": "I modsætning til den rigtige passer denne i din rygsæk. Kan kastes for at skabe støj.",
+      "de": "Anders als die echte passt diese in deinen Rucksack. Kann geworfen werden, um Lärm zu erzeugen.",
+      "en": "Unlike the real one, this one fits in your pack. Can be thrown to create noise.",
+      "es": "A diferencia del real, este cabe en tu mochila. Se puede lanzar para crear ruido.",
+      "fr": "Contrairement au vrai, celui-ci tient dans ton sac. Peut être lancé pour créer du bruit.",
+      "he": "בניגוד לאמיתי, זה נכנס לתיק שלך. ניתן לזרוק כדי ליצור רעש.",
+      "hr": "Za razliku od prave, ova stane u tvoj ruksak. Može se baciti da stvori buku.",
+      "it": "A differenza di quella vera, questa entra nello zaino. Può essere lanciata per creare rumore.",
+      "ja": "本物と違って、これはリュックに入る。投げて音を立てることができる。",
+      "kr": "진짜와 달리 이것은 배낭에 들어갑니다. 던져서 소음을 만들 수 있습니다.",
+      "no": "I motsetning til den ekte, passer denne i sekken din. Kan kastes for å lage støy.",
+      "pl": "W przeciwieństwie do prawdziwej, ta mieści się w plecaku. Można rzucić, aby wytworzyć hałas.",
+      "pt": "Ao contrário do real, este cabe na sua mochila. Pode ser arremessado para criar ruído.",
+      "pt-BR": "Ao contrário do real, este cabe na sua mochila. Pode ser arremessado para fazer barulho.",
+      "ru": "В отличие от настоящей, эта помещается в рюкзак. Можно бросить, чтобы создать шум.",
+      "sr": "Za razliku od prave, ova stane u tvoj ranac. Može se baciti da stvori buku.",
+      "tr": "Gerçeğinin aksine, bu çantana sığar. Gürültü yaratmak için fırlatılabilir.",
+      "uk": "На відміну від справжньої, ця поміщається в рюкзак. Можна кинути, щоб створити шум.",
+      "zh-CN": "与真正的不同，这个可以放进你的背包。可以投掷来制造噪音。",
+      "zh-TW": "與真正的不同，這個可以放進你的背包。可以投擲來製造噪音。"
+    },
+    "type": "Trinket",
+    "rarity": "Epic",
+    "value": 7000,
+    "weightKg": 0.3,
+    "stackSize": 15,
+    "recyclesInto": {},
+    "imageFilename": "https://cdn.arctracker.io/items/familiar_duck.png",
+    "updatedAt": "02/01/2026",
     "recycleValue": 0,
     "salvageValue": 0,
     "recycledFrom": {},
@@ -17442,7 +17633,7 @@
       "sr": "Ferro I",
       "tr": "Ferro I",
       "uk": "Ferro I",
-      "zh-CN": "Ferro I",
+      "zh-CN": "生铁 I",
       "zh-TW": "Ferro I"
     },
     "description": {
@@ -17637,7 +17828,7 @@
       "sr": "Ferro II",
       "tr": "Ferro II",
       "uk": "Ferro II",
-      "zh-CN": "Ferro II",
+      "zh-CN": "生铁 II",
       "zh-TW": "Ferro II"
     },
     "description": {
@@ -17823,7 +18014,7 @@
       "sr": "Ferro III",
       "tr": "Ferro III",
       "uk": "Ferro III",
-      "zh-CN": "Ferro III",
+      "zh-CN": "生铁 III",
       "zh-TW": "Ferro III"
     },
     "description": {
@@ -18033,7 +18224,7 @@
       "sr": "Ferro IV",
       "tr": "Ferro IV",
       "uk": "Ferro IV",
-      "zh-CN": "Ferro IV",
+      "zh-CN": "生铁 IV",
       "zh-TW": "Ferro IV"
     },
     "description": {
@@ -18669,7 +18860,7 @@
       "hr": "Kutija vatrometa",
       "it": "Scatola di fuochi d'artificio",
       "ja": "花火の箱",
-      "kr": "불꽃놀이 상자",
+      "kr": "폭죽 상자",
       "no": "Fyrverkeriboks",
       "pl": "Pudełko fajerwerków",
       "pt": "Caixa de fogos de artifício",
@@ -18691,7 +18882,7 @@
       "hr": "Daljinski aktiviran raspored blještavog vatrometa, sigurno će napraviti predstavu.",
       "it": "Un assortimento di fuochi d'artificio abbaglianti attivato a distanza, pronto a mettere in scena uno spettacolo.",
       "ja": "遠隔で起動する、まばゆい花火のセット。きっとショーになる。",
-      "kr": "원격으로 작동하는 눈부신 불꽃놀이 세트. 확실히 쇼를 보여줍니다.",
+      "kr": "원격으로 작동하는 눈부신 폭죽 세트. 확실히 쇼를 보여줍니다.",
       "no": "Et fjernutløst oppsett med blendende fyrverkeri – garantert show.",
       "pl": "Zdalnie odpalany zestaw olśniewających fajerwerków — na pewno zrobi wrażenie.",
       "pt": "Um conjunto de fogos de artifício deslumbrantes acionado remotamente, feito para dar um show.",
@@ -18722,7 +18913,7 @@
       "explosive_compound": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/fireworks_box.png",
-    "updatedAt": "12/16/2025",
+    "updatedAt": "01/13/2026",
     "recycleValue": 1000,
     "salvageValue": 1000,
     "recycledFrom": {},
@@ -18741,7 +18932,7 @@
       "hr": "Nacrt Kutije Vatrometa",
       "it": "Progetto scatola di fuochi d'artificio",
       "ja": "花火の箱の設計図",
-      "kr": "불꽃놀이 상자 설계도",
+      "kr": "폭죽 상자 설계도",
       "no": "Fyrverkeribokstegning",
       "pl": "Projekt pudełka fajerwerków",
       "pt": "Projeto de caixa de fogos de artifício",
@@ -18763,7 +18954,7 @@
       "hr": "Otključava nacrt izrade za Kutiju vatrometa.",
       "it": "Sblocca il progetto di creazione per la Scatola di fuochi d'artificio.",
       "ja": "花火箱のクラフト設計図をアンロックする。",
-      "kr": "불꽃놀이 상자 제작 설계도를 해금합니다.",
+      "kr": "폭죽 상자 제작 설계도를 해금합니다.",
       "no": "Låser opp oppskriften for Fyrverkeriboksen.",
       "pl": "Odblokowuje projekt wytwarzania Pudełka fajerwerków.",
       "pt": "Desbloqueia o projeto de fabricação da caixa de fogos de artifício.",
@@ -18780,7 +18971,7 @@
     "value": 5000,
     "weightKg": 0,
     "imageFilename": "https://cdn.arctracker.io/items/fireworks_box.png",
-    "updatedAt": "12/16/2025",
+    "updatedAt": "01/13/2026",
     "recycleValue": 0,
     "salvageValue": 0,
     "recycledFrom": {},
@@ -19080,6 +19271,66 @@
     "droppedBy": []
   },
   {
+    "id": "flashy_duck",
+    "name": {
+      "da": "Prangende And",
+      "de": "Prunkvolle Ente",
+      "en": "Flashy Duck",
+      "es": "Pato Llamativo",
+      "fr": "Canard Flamboyant",
+      "he": "ברווז נוצץ",
+      "hr": "Blistava Patka",
+      "it": "Papera Appariscente",
+      "ja": "派手なアヒル",
+      "kr": "화려한 오리",
+      "no": "Prangende And",
+      "pl": "Efektowna Kaczka",
+      "pt": "Pato Chamativo",
+      "pt-BR": "Pato Chamativo",
+      "ru": "Яркая уточка",
+      "sr": "Blistava Patka",
+      "tr": "Gösterişli Ördek",
+      "uk": "Яскрава качечка",
+      "zh-CN": "华丽鸭",
+      "zh-TW": "華麗鴨"
+    },
+    "description": {
+      "da": "Kærligt håndmalet af en person med stort talent—tydeligvis. Gæt hvem? Kan kastes for at skabe støj.",
+      "de": "Liebevoll von jemandem mit großem Talent handbemalt—offensichtlich. Errätst du, wer? Kann geworfen werden, um Lärm zu erzeugen.",
+      "en": "Lovingly hand-painted by someone of great talent—clearly. Any guesses who? Can be thrown to create noise.",
+      "es": "Pintada a mano con cariño por alguien de gran talento—claramente. ¿Adivinas quién? Se puede lanzar para crear ruido.",
+      "fr": "Peint à la main avec amour par quelqu'un de très talentueux—clairement. Des idées de qui? Peut être lancé pour créer du bruit.",
+      "he": "צויר ביד באהבה על ידי מישהו עם כישרון רב—ברור. מנחשים מי? ניתן לזרוק כדי ליצור רעש.",
+      "hr": "S ljubavlju ručno oslikana od strane nekoga s velikim talentom—očito. Pogađate tko? Može se baciti da stvori buku.",
+      "it": "Dipinta a mano con amore da qualcuno di grande talento—chiaramente. Indovini chi? Può essere lanciata per creare rumore.",
+      "ja": "明らかに才能ある誰かが愛情を込めて手描きした。誰かわかる？投げて音を立てることができる。",
+      "kr": "분명히 재능 있는 누군가가 정성스럽게 손으로 그렸습니다. 누군지 맞춰보세요. 던져서 소음을 만들 수 있습니다.",
+      "no": "Kjærlig håndmalt av noen med stort talent—tydeligvis. Gjetter du hvem? Kan kastes for å lage støy.",
+      "pl": "Z miłością ręcznie namalowana przez kogoś bardzo utalentowanego—oczywiście. Zgadniesz kto? Można rzucić, aby wytworzyć hałas.",
+      "pt": "Pintado à mão com carinho por alguém de grande talento—claramente. Adivinha quem? Pode ser arremessado para criar ruído.",
+      "pt-BR": "Pintado à mão com carinho por alguém de grande talento—claramente. Adivinha quem? Pode ser arremessado para fazer barulho.",
+      "ru": "С любовью расписана кем-то очень талантливым—очевидно. Угадаете, кем? Можно бросить, чтобы создать шум.",
+      "sr": "S ljubavlju ručno oslikana od strane nekoga s velikim talentom—očigledno. Pogađate ko? Može se baciti da stvori buku.",
+      "tr": "Büyük yetenekli biri tarafından sevgiyle elle boyanmış—belli ki. Kim olduğunu tahmin edebilir misin? Gürültü yaratmak için fırlatılabilir.",
+      "uk": "З любов'ю розписана кимось дуже талановитим—очевидно. Вгадаєте, ким? Можна кинути, щоб створити шум.",
+      "zh-CN": "由某位才华横溢的人精心手绘——显然。猜猜是谁？可以投掷来制造噪音。",
+      "zh-TW": "由某位才華橫溢的人精心手繪——顯然。猜猜是誰？可以投擲來製造噪音。"
+    },
+    "type": "Trinket",
+    "rarity": "Rare",
+    "value": 3000,
+    "weightKg": 0.3,
+    "stackSize": 15,
+    "recyclesInto": {},
+    "imageFilename": "https://cdn.arctracker.io/items/flashy_duck.png",
+    "updatedAt": "02/01/2026",
+    "recycleValue": 0,
+    "salvageValue": 0,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
     "id": "flow_controller",
     "name": {
       "da": "Strømningskontroller",
@@ -19158,7 +19409,7 @@
       "hr": "Ključ Flushing Terminala",
       "it": "Chiave del Terminale Flushing",
       "ja": "フラッシング端末の鍵",
-      "kr": "플러싱 터미널 열쇠",
+      "kr": "수세 터미널 열쇠",
       "no": "Nøkkel til Flushing-terminalen",
       "pl": "Klucz do Terminala Flushing",
       "pt": "Chave do Terminal de Flushing",
@@ -19180,7 +19431,7 @@
       "hr": "Ovaj se ključ koristi u zadatku \"The Stench of Corruption\" za aktiviranje Flushing Terminala",
       "it": "Questa chiave viene usata nella missione \"The Stench of Corruption\" per attivare il Terminale Flushing",
       "ja": "この鍵はクエスト\"The Stench of Corruption\"でフラッシング端末を起動するために使用される",
-      "kr": "이 열쇠는 퀘스트 \"The Stench of Corruption\"에서 플러싱 터미널을 활성화하는 데 사용됩니다",
+      "kr": "이 열쇠는 퀘스트 \"부패의 악취\"에서 수세 터미널을 활성화하는 데 사용됩니다",
       "no": "Denne nøkkelen brukes i oppdraget \"The Stench of Corruption\" for å aktivere Flushing-terminalen",
       "pl": "Ten klucz jest używany w zadaniu \"The Stench of Corruption\", aby aktywować Terminal Flushing",
       "pt": "Esta chave é usada na missão \"The Stench of Corruption\" para ativar o Terminal de Flushing",
@@ -19368,7 +19619,7 @@
       "hr": "Kutija za modulaciju frekvencije",
       "it": "Scatola di modulazione di frequenza",
       "ja": "周波数変調ボックス",
-      "kr": "주파수 변조 박스",
+      "kr": "주파수 변조함",
       "no": "Frekvensmodulasjonsboks",
       "pl": "Skrzynka modulacji częstotliwości",
       "pt": "Caixa de modulação de frequência",
@@ -19416,7 +19667,7 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/frequency_modulation_box.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "01/13/2026",
     "recycleValue": 2250,
     "salvageValue": 1280,
     "recycledFrom": {},
@@ -20307,6 +20558,66 @@
     "droppedBy": []
   },
   {
+    "id": "gentle_duck",
+    "name": {
+      "da": "Blid And",
+      "de": "Sanfte Ente",
+      "en": "Gentle Duck",
+      "es": "Pato Gentil",
+      "fr": "Canard Doux",
+      "he": "ברווז עדין",
+      "hr": "Nježna Patka",
+      "it": "Papera Gentile",
+      "ja": "やさしいアヒル",
+      "kr": "온순한 오리",
+      "no": "Snill And",
+      "pl": "Łagodna Kaczka",
+      "pt": "Pato Gentil",
+      "pt-BR": "Pato Gentil",
+      "ru": "Нежная уточка",
+      "sr": "Nežna Patka",
+      "tr": "Nazik Ördek",
+      "uk": "Ніжна качечка",
+      "zh-CN": "温柔鸭",
+      "zh-TW": "溫柔鴨"
+    },
+    "description": {
+      "da": "Ualmindeligt sød. Kan kastes for at skabe støj.",
+      "de": "Unwiderstehlich niedlich. Kann geworfen werden, um Lärm zu erzeugen.",
+      "en": "Udderly adorable. Can be thrown to create noise.",
+      "es": "Increíblemente adorable. Se puede lanzar para crear ruido.",
+      "fr": "Absolument adorable. Peut être lancé pour créer du bruit.",
+      "he": "מקסים לחלוטין. ניתן לזרוק כדי ליצור רעש.",
+      "hr": "Nevjerojatno slatka. Može se baciti da stvori buku.",
+      "it": "Incredibilmente adorabile. Può essere lanciata per creare rumore.",
+      "ja": "とても愛らしい。投げて音を立てることができる。",
+      "kr": "믿을 수 없이 사랑스럽습니다. 던져서 소음을 만들 수 있습니다.",
+      "no": "Ufattelig søt. Kan kastes for å lage støy.",
+      "pl": "Niesamowicie urocza. Można rzucić, aby wytworzyć hałas.",
+      "pt": "Incrivelmente adorável. Pode ser arremessado para criar ruído.",
+      "pt-BR": "Incrivelmente adorável. Pode ser arremessado para fazer barulho.",
+      "ru": "Невероятно очаровательна. Можно бросить, чтобы создать шум.",
+      "sr": "Neverovatno slatka. Može se baciti da stvori buku.",
+      "tr": "İnanılmaz sevimli. Gürültü yaratmak için fırlatılabilir.",
+      "uk": "Неймовірно чарівна. Можна кинути, щоб створити шум.",
+      "zh-CN": "非常可爱。可以投掷来制造噪音。",
+      "zh-TW": "非常可愛。可以投擲來製造噪音。"
+    },
+    "type": "Trinket",
+    "rarity": "Uncommon",
+    "value": 1000,
+    "weightKg": 0.3,
+    "stackSize": 15,
+    "recyclesInto": {},
+    "imageFilename": "https://cdn.arctracker.io/items/gentle_duck.png",
+    "updatedAt": "02/01/2026",
+    "recycleValue": 0,
+    "salvageValue": 0,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
     "id": "great_mullein",
     "name": {
       "da": "Kongelys",
@@ -20558,7 +20869,7 @@
       "fr": "Épingle I",
       "he": "היירפין I",
       "hr": "Ukosnica I",
-      "it": "Forcina I",
+      "it": "Tornante I",
       "ja": "ヘアピン I",
       "kr": "헤어핀 I",
       "no": "Hårnål I",
@@ -20580,7 +20891,7 @@
       "fr": "A un silencieux intégré. Idéal pour la furtivité, mais délicat en combat.",
       "he": "בעל משתיק קול מובנה. מצוין להתגנבות, אך מאתגר בקרב.",
       "hr": "Ima ugrađeni prigušivač. Odličan za prikradanje, ali nezgodan u borbi.",
-      "it": "Ha un silenziatore integrato. Ottimo per la furtività, ma complicato in combattimento.",
+      "it": "Ha un silenziatore incorporato. Ottima per la furtività, ma difficile da usare in combattimento.",
       "ja": "サイレンサー内蔵。ステルスには最適だが、戦闘では扱いにくい。",
       "kr": "내장 소음기가 있다. 은신에는 좋지만 전투에서는 까다롭다.",
       "no": "Har en innebygd demper. Flott for sniking, men vanskelig i kamp.",
@@ -20772,7 +21083,7 @@
       "fr": "Épingle II",
       "he": "היירפין II",
       "hr": "Ukosnica II",
-      "it": "Forcina II",
+      "it": "Tornante II",
       "ja": "ヘアピン II",
       "kr": "헤어핀 II",
       "no": "Hårnål II",
@@ -20794,7 +21105,7 @@
       "fr": "A un silencieux intégré. Idéal pour la furtivité, mais délicat en combat.",
       "he": "בעל משתיק קול מובנה. מצוין להתגנבות, אך מאתגר בקרב.",
       "hr": "Ima ugrađeni prigušivač. Odličan za prikradanje, ali nezgodan u borbi.",
-      "it": "Ha un silenziatore integrato. Ottimo per la furtività, ma complicato in combattimento.",
+      "it": "Ha un silenziatore incorporato. Ottima per la furtività, ma difficile da usare in combattimento.",
       "ja": "サイレンサー内蔵。ステルスには最適だが、戦闘では扱いにくい。",
       "kr": "내장 소음기가 있다. 은신에는 좋지만 전투에서는 까다롭다.",
       "no": "Har en innebygd demper. Flott for sniking, men vanskelig i kamp.",
@@ -21028,7 +21339,7 @@
       "fr": "Épingle III",
       "he": "סיכת ראש III",
       "hr": "Ukosnica III",
-      "it": "Forcina III",
+      "it": "Tornante III",
       "ja": "ヘアピン III",
       "kr": "헤어핀 III",
       "no": "Hårnål III",
@@ -21050,7 +21361,7 @@
       "fr": "A un silencieux intégré. Idéal pour la furtivité, mais délicat en combat.",
       "he": "כולל משתיק קול מובנה. מצוין להתגנבות, אך מאתגר בקרב.",
       "hr": "Ima ugrađeni prigušivač. Odličan za prikradanje, ali nezgodan u borbi.",
-      "it": "Ha un silenziatore integrato. Ottimo per la furtività, ma complicato in combattimento.",
+      "it": "Ha un silenziatore incorporato. Ottima per la furtività, ma difficile da usare in combattimento.",
       "ja": "サイレンサー内蔵。ステルスには最適だが、戦闘では扱いにくい。",
       "kr": "내장 소음기가 있다. 은신에는 좋지만 전투에서는 까다롭다.",
       "no": "Har en innebygd demper. Flott for sniking, men vanskelig i kamp.",
@@ -21285,7 +21596,7 @@
       "fr": "ÉpingleIV",
       "he": "סיכת ראש IV",
       "hr": "Ukosnica IV",
-      "it": "Forcina IV",
+      "it": "Tornante IV",
       "ja": "ヘアピン IV",
       "kr": "헤어핀 IV",
       "no": "Hårnål IV",
@@ -21307,7 +21618,7 @@
       "fr": "A un silencieux intégré. Idéal pour la furtivité, mais délicat en combat.",
       "he": "כולל משתיק קול מובנה. מצוין להתגנבות, אך מאתגר בקרב.",
       "hr": "Ima ugrađeni prigušivač. Odličan za prikradanje, ali nezgodan u borbi.",
-      "it": "Ha un silenziatore integrato. Ottimo per la furtività, ma complicato in combattimento.",
+      "it": "Ha un silenziatore incorporato. Ottima per la furtività, ma difficile da usare in combattimento.",
       "ja": "サイレンサー内蔵。ステルスには最適だが、戦闘では扱いにくい。",
       "kr": "내장 소음기가 있다. 은신에는 좋지만 전투에서는 까다롭다.",
       "no": "Har en innebygd demper. Flott for sniking, men vanskelig i kamp.",
@@ -22697,7 +23008,7 @@
       "fr": "Schéma de Brise-fuselage",
       "he": "שרטוט Hullcracker",
       "hr": "Nacrt Hullcrackera",
-      "it": "Progetto Hullcracker",
+      "it": "Progetto Spaccascudi",
       "ja": "ハルクラッカー設計図",
       "kr": "헐크래커 설계도",
       "no": "Hullcracker-Blåkopi",
@@ -22708,7 +23019,7 @@
       "sr": "Нацрт Хулкракера",
       "tr": "Hullcracker Planı",
       "uk": "Креслення Hullcracker",
-      "zh-CN": "碎舰者蓝图",
+      "zh-CN": "裂甲者蓝图",
       "zh-TW": "碎艦者藍圖"
     },
     "description": {
@@ -22766,7 +23077,7 @@
       "sr": "Hullcracker I",
       "tr": "Hullcracker I",
       "uk": "Hullcracker I",
-      "zh-CN": "Hullcracker I",
+      "zh-CN": "裂甲者 I",
       "zh-TW": "Hullcracker I"
     },
     "description": {
@@ -22957,7 +23268,7 @@
       "sr": "Lomač Trupa II",
       "tr": "Gövde Kırıcı II",
       "uk": "Корпусолом II",
-      "zh-CN": "破壳者 II",
+      "zh-CN": "裂甲者 II",
       "zh-TW": "破殼者 II"
     },
     "description": {
@@ -23175,7 +23486,7 @@
       "sr": "Lomač Trupa III",
       "tr": "Gövde Kırıcı III",
       "uk": "Корпусолом III",
-      "zh-CN": "破壳者 III",
+      "zh-CN": "裂甲者 III",
       "zh-TW": "破殼者 III"
     },
     "description": {
@@ -23393,7 +23704,7 @@
       "sr": "Lomač Trupa IV",
       "tr": "Gövde Kırıcı IV",
       "uk": "Корпусолом IV",
-      "zh-CN": "破壳者 IV",
+      "zh-CN": "裂甲者 IV",
       "zh-TW": "破殼者 IV"
     },
     "description": {
@@ -23744,7 +24055,7 @@
       "sr": "Nacrt za Il Toro",
       "tr": "Il Toro Planı",
       "uk": "Креслення Il Toro",
-      "zh-CN": "Il Toro蓝图",
+      "zh-CN": "公牛蓝图",
       "zh-TW": "Il Toro藍圖"
     },
     "description": {
@@ -23803,7 +24114,7 @@
       "sr": "Il Toro I",
       "tr": "Il Toro I",
       "uk": "Il Toro I",
-      "zh-CN": "Il Toro I",
+      "zh-CN": "公牛 I",
       "zh-TW": "Il Toro I"
     },
     "description": {
@@ -23992,7 +24303,7 @@
       "sr": "Il Toro II",
       "tr": "Il Toro II",
       "uk": "Il Toro II",
-      "zh-CN": "Il Toro II",
+      "zh-CN": "公牛 II",
       "zh-TW": "Il Toro II"
     },
     "description": {
@@ -24204,7 +24515,7 @@
       "sr": "Il Toro III",
       "tr": "Il Toro III",
       "uk": "Il Toro III",
-      "zh-CN": "Il Toro III",
+      "zh-CN": "公牛 III",
       "zh-TW": "Il Toro III"
     },
     "description": {
@@ -24422,7 +24733,7 @@
       "sr": "Il Toro IV",
       "tr": "Il Toro IV",
       "uk": "Il Toro IV",
-      "zh-CN": "Il Toro IV",
+      "zh-CN": "公牛 IV",
       "zh-TW": "Il Toro IV"
     },
     "description": {
@@ -25219,7 +25530,7 @@
       "fr": "Jupiter",
       "he": "יופיטר",
       "hr": "Jupiter",
-      "it": "Jupiter",
+      "it": "Giove",
       "ja": "ジュピター",
       "kr": "주피터",
       "no": "Jupiter",
@@ -25241,7 +25552,7 @@
       "fr": "Un fusil de sniper à verrou avec des dégâts et une précision exceptionnels, mais un maniement lent.",
       "he": "רובה צלפים בריחי עם נזק ודיוק יוצאי דופן, אך תפעול איטי.",
       "hr": "Repetirna snajperska puška s iznimnom snagom i preciznošću, ali sporim rukovanjem.",
-      "it": "Un fucile da cecchino a otturatore girevole-scorrevole con danni e precisione eccezionali, ma maneggevolezza lenta.",
+      "it": "Lancia proiettili a incredibile velocità, in grado di danneggiare diversi bersagli con un colpo solo.",
       "ja": "優れたダメージ出力と精度を持つボルトアクション式スナイパーライフルですが、取り回しが遅いです。",
       "kr": "뛰어난 피해량과 정확도를 가진 볼트액션 저격소총이지만, 조작이 느립니다.",
       "no": "En repeterrifle med eksepsjonell skadeeffekt og nøyaktighet, men treg håndtering.",
@@ -25420,7 +25731,7 @@
       "fr": "Schéma de Jupiter",
       "he": "שרטוט יופיטר",
       "hr": "Jupiter nacrt",
-      "it": "Progetto Jupiter",
+      "it": "Progetto Giove",
       "ja": "ジュピター設計図",
       "kr": "주피터 설계도",
       "no": "Jupiter-tegning",
@@ -25442,7 +25753,7 @@
       "fr": "Un fusil de sniper à verrou avec des dégâts et une précision exceptionnels, mais un maniement lent.",
       "he": "רובה צלפים בריחי עם נזק ודיוק יוצאי דופן, אך תפעול איטי.",
       "hr": "Repetirna snajperska puška s iznimnom snagom i preciznošću, ali sporim rukovanjem.",
-      "it": "Un fucile da cecchino a otturatore girevole-scorrevole con danni e precisione eccezionali, ma maneggevolezza lenta.",
+      "it": "Lancia proiettili a incredibile velocità, in grado di danneggiare diversi bersagli con un colpo solo.",
       "ja": "優れたダメージ出力と精度を持つボルトアクション式スナイパーライフルですが、取り回しが遅いです。",
       "kr": "뛰어난 피해량과 정확도를 가진 볼트액션 저격소총이지만, 조작이 느립니다.",
       "no": "En repeterrifle med eksepsjonell skadeeffekt og nøyaktighet, men treg håndtering.",
@@ -25478,7 +25789,7 @@
       "fr": "Fondoir I",
       "he": "קאטל I",
       "hr": "Kettle I",
-      "it": "Kettle I",
+      "it": "Stormo I",
       "ja": "ケトル I",
       "kr": "케틀 I",
       "no": "Kettle I",
@@ -25500,7 +25811,7 @@
       "fr": "Rapide et précis, mais la vitesse des balles est faible et son rechargement est long.",
       "he": "מהיר ומדויק, אך בעל מהירות קליע נמוכה וזמן טעינה ארוך.",
       "hr": "Brz i precizan, ali ima nisku brzinu metka i dugo traje punjenje.",
-      "it": "Veloce e preciso, ma ha bassa velocità dei proiettili e richiede molto tempo per ricaricare.",
+      "it": "È rapido e preciso, ma ha una velocità dei proiettili ridotta e richiede molto tempo per essere ricaricato.",
       "ja": "素早く正確だが、弾速が遅く、リロードに時間がかかる。",
       "kr": "빠르고 정확하지만 탄속이 느리고 재장전 시간이 깁니다.",
       "no": "Rask og nøyaktig, men har lav kulehastighet og tar lang tid å lade.",
@@ -25669,7 +25980,7 @@
       "fr": "Fondoir II",
       "he": "קטל II",
       "hr": "Kettle II",
-      "it": "Kettle II",
+      "it": "Stormo II",
       "ja": "ケトル II",
       "kr": "케틀 II",
       "no": "Kettle II",
@@ -25691,7 +26002,7 @@
       "fr": "Fusil d'assaut semi-automatique. Rapide et précis, mais a une faible vélocité des balles et prend beaucoup de temps à recharger.",
       "he": "רובה סער חצי-אוטומטי. מהיר ומדויק, אך בעל מהירות קליע נמוכה וזמן טעינה ארוך.",
       "hr": "Poluautomatska jurišna puška. Brza i precizna, ali ima nisku brzinu metka i dugo traje punjenje.",
-      "it": "Fucile d'assalto semiautomatico. Veloce e preciso, ma ha bassa velocità dei proiettili e richiede molto tempo per ricaricare.",
+      "it": "È rapido e preciso, ma ha una velocità dei proiettili ridotta e richiede molto tempo per essere ricaricato.",
       "ja": "セミオートマチックアサルトライフル。素早く正確だが、弾速が遅く、リロードに時間がかかる。",
       "kr": "반자동 돌격소총. 빠르고 정확하지만 탄속이 느리고 재장전 시간이 깁니다.",
       "no": "Halvautomatisk angrepsrifle. Rask og nøyaktig, men har lav kulehastighet og tar lang tid å lade.",
@@ -25707,7 +26018,7 @@
     },
     "type": "Assault Rifle",
     "rarity": "Common",
-    "value": 840,
+    "value": 2000,
     "weightKg": 7,
     "isWeapon": true,
     "recyclesInto": {
@@ -25718,7 +26029,7 @@
       "metal_parts": 6
     },
     "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "01/26/2026",
     "recycleValue": 750,
     "salvageValue": 450,
     "recycledFrom": {},
@@ -25735,7 +26046,7 @@
       "fr": "Fondoir III",
       "he": "קטל III",
       "hr": "Kettle III",
-      "it": "Kettle III",
+      "it": "Stormo III",
       "ja": "ケトル III",
       "kr": "케틀 III",
       "no": "Kettle III",
@@ -25746,7 +26057,7 @@
       "sr": "Kettle III",
       "tr": "Kettle III",
       "uk": "Kettle III",
-      "zh-CN": "Kettle III",
+      "zh-CN": "水壶 III",
       "zh-TW": "Kettle III"
     },
     "description": {
@@ -25757,7 +26068,7 @@
       "fr": "Rapide et précis, mais a une faible vélocité des balles et prend beaucoup de temps à recharger.",
       "he": "מהיר ומדויק, אך בעל מהירות קליע נמוכה וזמן טעינה ארוך.",
       "hr": "Brzo i precizno, ali ima nisku brzinu metka i dugo traje punjenje.",
-      "it": "Veloce e preciso, ma ha bassa velocità dei proiettili e richiede molto tempo per ricaricare.",
+      "it": "È rapido e preciso, ma ha una velocità dei proiettili ridotta e richiede molto tempo per essere ricaricato.",
       "ja": "素早く正確ですが、弾速が遅く、リロードに時間がかかります。",
       "kr": "빠르고 정확하지만, 탄속이 느리고 재장전 시간이 깁니다.",
       "no": "Rask og nøyaktig, men har lav kulehastighet og tar lang tid å lade.",
@@ -25944,7 +26255,7 @@
       "fr": "Fondoir IV",
       "he": "קטל IV",
       "hr": "Kettle IV",
-      "it": "Kettle IV",
+      "it": "Stormo IV",
       "ja": "ケトル IV",
       "kr": "케틀 IV",
       "no": "Kettle IV",
@@ -25955,7 +26266,7 @@
       "sr": "Kettle IV",
       "tr": "Kettle IV",
       "uk": "Kettle IV",
-      "zh-CN": "Kettle IV",
+      "zh-CN": "水壶 IV",
       "zh-TW": "Kettle IV"
     },
     "description": {
@@ -25966,7 +26277,7 @@
       "fr": "Rapide et précis, mais a une faible vélocité des balles et prend beaucoup de temps à recharger.",
       "he": "מהיר ומדויק, אך בעל מהירות קליע נמוכה וזמן טעינה ארוך.",
       "hr": "Brzo i precizno, ali ima nisku brzinu metka i dugo traje punjenje.",
-      "it": "Veloce e preciso, ma ha bassa velocità dei proiettili e richiede molto tempo per ricaricare.",
+      "it": "È rapido e preciso, ma ha una velocità dei proiettili ridotta e richiede molto tempo per essere ricaricato.",
       "ja": "素早く正確ですが、弾速が遅く、リロードに時間がかかります。",
       "kr": "빠르고 정확하지만, 탄속이 느리고 재장전 시간이 깁니다.",
       "no": "Rask og nøyaktig, men har lav kulehastighet og tar lang tid å lade.",
@@ -26254,6 +26565,64 @@
     "droppedBy": []
   },
   {
+    "id": "kinetic_converter_blueprint",
+    "name": {
+      "da": "Kinetisk konverter Tegning",
+      "de": "Bauplan: Kinetischer Konverter",
+      "en": "Kinetic Converter Blueprint",
+      "es": "Plano de Convertidor cinético",
+      "fr": "Schéma Convertisseur Cinétique",
+      "he": "שרטוט ממיר קינטי",
+      "hr": "Nacrt za Kinetički pretvarač",
+      "it": "Progetto Convertitore cinetico",
+      "ja": "キネティック・コンバーター 設計図",
+      "kr": "키네틱 컨버터 설계도",
+      "no": "Kinetisk konverter Tegning",
+      "pl": "Projekt Konwerter kinetyczny",
+      "pt": "Projeto de Conversor cinético",
+      "pt-BR": "Esquema de Conversor Cinético",
+      "ru": "Чертёж кинетического преобразователя",
+      "sr": "Nacrt za Kinetički pretvarač",
+      "tr": "Kinetik Dönüştürücü Planı",
+      "uk": "Креслення кінетичного перетворювача",
+      "zh-CN": "动能转换器蓝图",
+      "zh-TW": "動能轉換器藍圖"
+    },
+    "description": {
+      "da": "En tegning til at lave Kinetisk konverter.",
+      "de": "Ein Bauplan zur Herstellung des Kinetischen Konverters.",
+      "en": "A blueprint to craft the Kinetic Converter.",
+      "es": "Un plano para fabricar el Convertidor cinético.",
+      "fr": "Un schéma pour fabriquer le Convertisseur Cinétique.",
+      "he": "שרטוט ליצירת ממיר קינטי.",
+      "hr": "Nacrt za izradu Kinetičkog pretvarača.",
+      "it": "Un progetto per creare il Convertitore cinetico.",
+      "ja": "キネティック・コンバーター を製作するための設計図。",
+      "kr": "키네틱 컨버터을 제작하기 위한 설계도.",
+      "no": "En tegning for å lage Kinetisk konverter.",
+      "pl": "Projekt do wytworzenia Konwertera kinetycznego.",
+      "pt": "Um projeto para fabricar o Conversor cinético.",
+      "pt-BR": "Um esquema para fabricar o Conversor Cinético.",
+      "ru": "Чертёж для создания кинетического преобразователя.",
+      "sr": "Nacrt za izradu Kinetičkog pretvarača.",
+      "tr": "Kinetik Dönüştürücü üretmek için bir plan.",
+      "uk": "Креслення для створення кінетичного перетворювача.",
+      "zh-CN": "用于制作动能转换器的蓝图。",
+      "zh-TW": "用於製作動能轉換器的藍圖。"
+    },
+    "type": "Blueprint",
+    "rarity": "Legendary",
+    "value": 5000,
+    "weightKg": 0,
+    "imageFilename": "https://cdn.arctracker.io/items/kinetic_converter.png",
+    "updatedAt": "01/19/2026",
+    "recycleValue": 0,
+    "salvageValue": 0,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
     "id": "laboratory_reagents",
     "name": {
       "da": "Laboratoriereagenser",
@@ -26265,7 +26634,7 @@
       "hr": "Laboratorijski Reagensi",
       "it": "Reagenti da laboratorio",
       "ja": "研究用試薬",
-      "kr": "실험실 시약",
+      "kr": "연구실 시약",
       "no": "Laboratoriereagenser",
       "pl": "Odczynniki laboratoryjne",
       "pt": "Reagentes de laboratório",
@@ -26287,7 +26656,7 @@
       "hr": "Set kemijskih reagenasa korištenih u laboratorijskim eksperimentima.",
       "it": "Un set di reagenti chimici utilizzati negli esperimenti di laboratorio.",
       "ja": "実験室での実験に使用される化学試薬のセット。",
-      "kr": "실험실 실험에 사용되는 화학 시약 세트.",
+      "kr": "연구실 실험에 사용되는 화학 시약 세트.",
       "no": "Et sett med kjemiske reagenser brukt i laboratorieforsøk.",
       "pl": "Zestaw odczynników chemicznych używanych w eksperymentach laboratoryjnych.",
       "pt": "Um conjunto de reagentes químicos usados em experimentos de laboratório.",
@@ -26312,7 +26681,7 @@
       "crude_explosives": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/laboratory_reagents.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "01/13/2026",
     "recycleValue": 1610,
     "salvageValue": 810,
     "recycledFrom": {},
@@ -27549,7 +27918,7 @@
       "hr": "Mala dimna granata",
       "it": "Piccola granata fumogena",
       "ja": "リトルスモーク・グレネード",
-      "kr": "소형 연막탄",
+      "kr": "꼬마 연막 수류탄",
       "no": "Liten røykgranat",
       "pl": "Mały granat dymny",
       "pt": "Pequena granada de fumaça",
@@ -27649,7 +28018,7 @@
       "chemicals": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/lil_smoke_grenade.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "01/13/2026",
     "recycleValue": 110,
     "salvageValue": 100,
     "recycledFrom": {},
@@ -27706,6 +28075,7 @@
     "rarity": "Uncommon",
     "value": 640,
     "weightKg": 1,
+    "stackSize": 1,
     "effects": {
       "Durability": {
         "value": "100/100",
@@ -27793,7 +28163,7 @@
       "plastic_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk1.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "01/20/2026",
     "recycleValue": 330,
     "salvageValue": 180,
     "recycledFrom": {},
@@ -27850,6 +28220,7 @@
     "rarity": "Rare",
     "value": 2000,
     "weightKg": 2,
+    "stackSize": 1,
     "effects": {
       "Durability": {
         "value": "100/100",
@@ -27934,7 +28305,7 @@
       "electrical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk2.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "01/20/2026",
     "recycleValue": 940,
     "salvageValue": 640,
     "recycledFrom": {},
@@ -27991,6 +28362,7 @@
     "rarity": "Epic",
     "value": 5000,
     "weightKg": 3,
+    "stackSize": 1,
     "effects": {
       "Durability": {
         "value": "100/100",
@@ -28075,9 +28447,210 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_cautious.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "01/20/2026",
     "recycleValue": 2250,
     "salvageValue": 1280,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
+    "id": "looting_mk3_safekeeper",
+    "name": {
+      "da": "Plyndring Mk. 3 (Vogter)",
+      "de": "Beute-Marke 3 (Hüter)",
+      "en": "Looting Mk. 3 (Safekeeper)",
+      "es": "Saqueo Ver. 3 (Guardián)",
+      "fr": "Butin 3 (Gardien)",
+      "he": "ביזה Mk. 3 (שומר)",
+      "hr": "Pljačkanje Mk. 3 (Čuvar)",
+      "it": "Saccheggio Mk. 3 (Custode)",
+      "ja": "略奪MK3 (守護者)",
+      "kr": "노획 마크 3 (수호자)",
+      "no": "Plyndring Mk. 3 (Vokter)",
+      "pl": "Grabież Mk. 3 (Strażnik)",
+      "pt": "Saque Mk. 3 (Guardião)",
+      "pt-BR": "Saque Mk. 3 (Guardião)",
+      "ru": "Мародёрство Mk. 3 (Хранитель)",
+      "sr": "Pljačkanje Mk. 3 (Čuvar)",
+      "tr": "Yağmalama Mk. 3 (Koruyucu)",
+      "uk": "Мародерство Mk. 3 (Охоронець)",
+      "zh-CN": "掠夺 Mk. 3 (守护者)",
+      "zh-TW": "掠奪 Mk. 3 (守護者)"
+    },
+    "description": {
+      "da": "En augmentering til plyndring, der ofrer vægt og nytteværdi til fordel for øget plyndringspotentiale. En Sikret lomme, der tillader opbevaring af alle genstande.",
+      "de": "Ein Plünderungs-Augment, das Gewicht und Nutzen gegen erhöhtes Plünderungspotenzial eintauscht. Eine sichere Tasche, in der beliebige Gegenstände aufbewahrt werden können.",
+      "en": "A looting augment that trades weight and utility for increased looting potential. A Safe Pocket that allows any items to be stored.",
+      "es": "Un aumento de saqueo que sacrifica peso y utilidad a cambio de un mayor potencial de saqueo. Un Bolsillo Seguro que permite almacenar cualquier objeto.",
+      "fr": "Un module de pillage qui sacrifie poids et utilité pour un potentiel de pillage accru. Une Poche sécurisée permettant de stocker n'importe quel objet.",
+      "he": "תוסף ביזה המקריב משקל ושימושיות תמורת פוטנציאל שלל מוגבר. כיס מוגן המאפשר לאחסן כל פריט.",
+      "hr": "Dodatak za prikupljanje koji žrtvuje težinu i korisnost za povećani potencijal prikupljanja. Sigurni džep koji omogućuje pohranu bilo kojeg predmeta.",
+      "it": "Un potenziamento per il saccheggio che sacrifica peso e utilità per un maggiore potenziale di raccolta. Una Tasca Sicura che permette di custodire qualsiasi oggetto.",
+      "ja": "重量とユーティリティを犠牲にして、物資回収能力を向上させるオーグメント。あらゆるアイテムを収納可能なセーフポケットを備えている。",
+      "kr": "무게와 유틸리티를 희생하여 루팅 잠재력을 높인 루팅용 증강체입니다. 모든 아이템을 보관할 수 있는 보안 포켓을 제공합니다.",
+      "no": "En plyndringsmodul som ofrer vekt og nytteverdi for økt plyndringspotensial. En sikker lomme som lar deg oppbevare alle typer gjenstander.",
+      "pl": "Ulepszenie łupieżcze, które poświęca wagę i użyteczność na rzecz zwiększonego potencjału zbierania łupów. Bezpieczna kieszeń umożliwia przechowywanie dowolnych przedmiotów.",
+      "pt": "Um aprimoramento de saque que sacrifica peso e utilidade por um maior potencial de coleta. Um Bolso Seguro que permite armazenar quaisquer itens.",
+      "pt-BR": "Um aprimoramento de saque que troca peso e utilidade por maior potencial de saque. Um Bolso Seguro que permite armazenar quaisquer itens.",
+      "ru": "Модуль для сбора добычи, жертвующий весом и полезностью ради увеличения эффективности мародерства. Предоставляет защищенный карман, в котором можно хранить любые предметы.",
+      "sr": "Augmentacija za sakupljanje koja menja težinu i korisnost za povećan potencijal sakupljanja. Sigurni džep koji omogućava čuvanje bilo kojih predmeta.",
+      "tr": "Ağırlık ve işlevsellikten ödün vererek yağma potansiyelini artıran bir yağma eklentisi. Herhangi bir eşyanın saklanmasını sağlayan bir Güvenli Cep.",
+      "uk": "Аугментація для збирання здобичі, що жертвує вагою та функціональністю заради збільшення ефективності збирання. Має захищену кишеню, що дозволяє зберегти будь-які предмети.",
+      "zh-CN": "一种牺牲负重和实用性以换取更高搜刮潜力的搜刮强化组件。拥有一个允许存储任何物品的保险袋。",
+      "zh-TW": "一種犧牲負重與實用性，以換取更高搜刮潛力的搜刮強化裝置。具備一個可存放任何物品的保險袋。"
+    },
+    "type": "Augment",
+    "rarity": "Epic",
+    "value": 5000,
+    "weightKg": 5,
+    "stackSize": 1,
+    "blueprintLocked": true,
+    "effects": {
+      "Durability": {
+        "value": "100/100",
+        "da": "Holdbarhed",
+        "de": "Haltbarkeit",
+        "en": "Durability",
+        "es": "Durabilidad",
+        "fr": "Durabilité",
+        "he": "עמידות",
+        "hr": "Izdržljivost",
+        "it": "Tenuta",
+        "ja": "耐久性",
+        "kr": "내구성",
+        "no": "Holdbarhet",
+        "pl": "Wytrzymałość",
+        "pt": "Durabilidade",
+        "pt-BR": "Durabilidade",
+        "ru": "Прочность",
+        "sr": "Izdržljivost",
+        "tr": "Dayanıklılık",
+        "uk": "Міцність",
+        "zh-CN": "耐久度",
+        "zh-TW": "耐久度"
+      },
+      "Max Loadout Weight": {
+        "value": 65,
+        "da": "Maks udstyrsvægt",
+        "de": "Max. Ausrüstungsgewicht",
+        "en": "Max Loadout Weight",
+        "es": "Peso máx. del equipamiento",
+        "fr": "Poids max. de l'équipement",
+        "he": "משקל ציוד מירבי",
+        "hr": "Maks. Težina Opreme",
+        "it": "Peso max equipaggiamento",
+        "ja": "最大装備重量",
+        "kr": "최대 장비 무게",
+        "no": "Maks utstyrsvekt",
+        "pl": "Maks. waga ekwipunku",
+        "pt": "Peso máx. do equipamento",
+        "pt-BR": "Peso Máximo de Carga",
+        "ru": "Макс. вес снаряжения",
+        "sr": "Maks. Težina Opreme",
+        "tr": "Maks. Donanım Ağırlığı",
+        "uk": "Макс. вага спорядження",
+        "zh-CN": "最大装备重量",
+        "zh-TW": "最大裝備重量"
+      },
+      "Shield Compatibility": {
+        "value": "Light, Medium, Heavy",
+        "da": "Skjoldskompatibilitet",
+        "de": "Schildkompatibilität",
+        "en": "Shield Compatibility",
+        "es": "Compatibilidad de escudo",
+        "fr": "Compatibilité bouclier",
+        "he": "תאימות מגן",
+        "hr": "Kompatibilnost Štita",
+        "it": "Compatibilità scudo",
+        "ja": "シールド互換性",
+        "kr": "실드 호환성",
+        "no": "Skjoldkompatibilitet",
+        "pl": "Kompatybilność tarczy",
+        "pt": "Compatibilidade de escudo",
+        "pt-BR": "Compatibilidade de Escudo",
+        "ru": "Совместимость со щитом",
+        "sr": "Kompatibilnost Štita",
+        "tr": "Kalkan Uyumluluğu",
+        "uk": "Сумісність зі щитом",
+        "zh-CN": "护盾兼容性",
+        "zh-TW": "護盾相容性"
+      }
+    },
+    "craftBench": "equipment_bench",
+    "recipe": {
+      "advanced_electrical_components": 2,
+      "processor": 3
+    },
+    "recyclesInto": {
+      "advanced_electrical_components": 1,
+      "processor": 1
+    },
+    "salvagesInto": {
+      "electrical_components": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_safekeeper.png",
+    "updatedAt": "02/02/2026",
+    "recycleValue": 2250,
+    "salvageValue": 1280,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
+    "id": "looting_mk3_safekeeper_blueprint",
+    "name": {
+      "da": "Plyndring Mk. 3 (Safekeeper)-tegning",
+      "de": "Bauplan: Beute-Marke 3 (Hüter)",
+      "en": "Looting Mk. 3 (Safekeeper) Blueprint",
+      "es": "Plano de Saqueo Mk. 3 (Custodio)",
+      "fr": "Schéma de Pillage Mk. 3 (Gardien)",
+      "he": "שרטוט ביזה Mk. 3 (שומר מבטחים)",
+      "hr": "Nacrt za Prikupljanje Mk. 3 (Čuvar)",
+      "it": "Progetto Saccheggio Mk. 3 (Custode)",
+      "ja": "ルーティング Mk. 3 (セーフキーパー) の設計図",
+      "kr": "루팅 Mk. 3 (세이프키퍼) 설계도",
+      "no": "Plyndring Mk. 3 (Safekeeper)-arbeidstegning",
+      "pl": "Schemat: Łupienie Mk. 3 (Kustosz)",
+      "pt": "Diagrama de Saque Mk. 3 (Guardião)",
+      "pt-BR": "Projeto de Saque Mk. 3 (Guardião)",
+      "ru": "Чертеж: Мародерство Мк. 3 (Хранитель)",
+      "sr": "Nacrt za sakupljanje Mk. 3 (Čuvar)",
+      "tr": "Yağma Mk. 3 (Muhafız) Şeması",
+      "uk": "Креслення: Збирання Мк. 3 (Зберігач)",
+      "zh-CN": "搜刮 Mk. 3 (保管者) 蓝图",
+      "zh-TW": "搜刮 Mk. 3 (保管者) 藍圖"
+    },
+    "description": {
+      "da": "En augmentering til plyndring, der ofrer vægt og nytteværdi til fordel for øget plyndringspotentiale. En Sikret lomme, der tillader opbevaring af alle genstande.",
+      "de": "Ein Plünderungs-Augment, das Gewicht und Nutzen gegen erhöhtes Plünderungspotenzial eintauscht. Eine sichere Tasche, in der beliebige Gegenstände aufbewahrt werden können.",
+      "en": "A looting augment that trades weight and utility for increased looting potential. A Safe Pocket that allows any items to be stored.",
+      "es": "Un aumento de saqueo que sacrifica peso y utilidad a cambio de un mayor potencial de saqueo. Un Bolsillo Seguro que permite almacenar cualquier objeto.",
+      "fr": "Un module de pillage qui sacrifie poids et utilité pour un potentiel de pillage accru. Une Poche sécurisée permettant de stocker n'importe quel objet.",
+      "he": "תוסף ביזה המקריב משקל ושימושיות תמורת פוטנציאל שלל מוגבר. כיס מוגן המאפשר לאחסן כל פריט.",
+      "hr": "Dodatak za prikupljanje koji žrtvuje težinu i korisnost za povećani potencijal prikupljanja. Sigurni džep koji omogućuje pohranu bilo kojeg predmeta.",
+      "it": "Un potenziamento per il saccheggio che sacrifica peso e utilità per un maggiore potenziale di raccolta. Una Tasca Sicura che permette di custodire qualsiasi oggetto.",
+      "ja": "重量とユーティリティを犠牲にして、物資回収能力を向上させるオーグメント。あらゆるアイテムを収納可能なセーフポケットを備えている。",
+      "kr": "무게와 유틸리티를 희생하여 루팅 잠재력을 높인 루팅용 증강체입니다. 모든 아이템을 보관할 수 있는 보안 포켓을 제공합니다.",
+      "no": "En plyndringsmodul som ofrer vekt og nytteverdi for økt plyndringspotensial. En sikker lomme som lar deg oppbevare alle typer gjenstander.",
+      "pl": "Ulepszenie łupieżcze, które poświęca wagę i użyteczność na rzecz zwiększonego potencjału zbierania łupów. Bezpieczna kieszeń umożliwia przechowywanie dowolnych przedmiotów.",
+      "pt": "Um aprimoramento de saque que sacrifica peso e utilidade por um maior potencial de coleta. Um Bolso Seguro que permite armazenar quaisquer itens.",
+      "pt-BR": "Um aprimoramento de saque que troca peso e utilidade por maior potencial de saque. Um Bolso Seguro que permite armazenar quaisquer itens.",
+      "ru": "Модуль для сбора добычи, жертвующий весом и полезностью ради увеличения эффективности мародерства. Предоставляет защищенный карман, в котором можно хранить любые предметы.",
+      "sr": "Augmentacija za sakupljanje koja menja težinu i korisnost za povećan potencijal sakupljanja. Sigurni džep koji omogućava čuvanje bilo kojih predmeta.",
+      "tr": "Ağırlık ve işlevsellikten ödün vererek yağma potansiyelini artıran bir yağma eklentisi. Herhangi bir eşyanın saklanmasını sağlayan bir Güvenli Cep.",
+      "uk": "Аугментація для збирання здобичі, що жертвує вагою та функціональністю заради збільшення ефективності збирання. Має захищену кишеню, що дозволяє зберегти будь-які предмети.",
+      "zh-CN": "一种牺牲负重和实用性以换取更高搜刮潜力的搜刮强化组件。拥有一个允许存储任何物品的保险袋。",
+      "zh-TW": "一種犧牲負重與實用性，以換取更高搜刮潛力的搜刮強化裝置。具備一個可存放任何物品的保險袋。"
+    },
+    "type": "Blueprint",
+    "rarity": "Legendary",
+    "value": 5000,
+    "weightKg": 0,
+    "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_safekeeper.png",
+    "updatedAt": "02/02/2026",
+    "recycleValue": 0,
+    "salvageValue": 0,
     "recycledFrom": {},
     "salvagedFrom": {},
     "droppedBy": []
@@ -28133,6 +28706,7 @@
     "value": 5000,
     "weightKg": 4,
     "stackSize": 1,
+    "blueprintLocked": true,
     "effects": {
       "Durability": {
         "value": "100/100",
@@ -28206,8 +28780,8 @@
     },
     "craftBench": "equipment_bench",
     "recipe": {
-      "advanced_mechanical_components": 2,
-      "processor": 2
+      "advanced_electrical_components": 2,
+      "processor": 3
     },
     "recyclesInto": {
       "advanced_electrical_components": 1,
@@ -28217,7 +28791,7 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_survivor.png",
-    "updatedAt": "01/13/2026",
+    "updatedAt": "01/20/2026",
     "recycleValue": 2250,
     "salvageValue": 1280,
     "recycledFrom": {},
@@ -28363,7 +28937,7 @@
       "hr": "Nacrt Mamac Granate",
       "it": "Progetto granata esca",
       "ja": "ルアー・グレネード設計図",
-      "kr": "미끼 수류탄 설계도",
+      "kr": "유인 수류탄 설계도",
       "no": "Lokkegranattegning",
       "pl": "Projekt granatu wabika",
       "pt": "Projeto de granada isca",
@@ -28402,7 +28976,7 @@
     "value": 5000,
     "weightKg": 0,
     "imageFilename": "https://cdn.arctracker.io/items/lure_grenade.png",
-    "updatedAt": "11/12/2025",
+    "updatedAt": "01/13/2026",
     "recycleValue": 0,
     "salvageValue": 0,
     "recycledFrom": {},
@@ -28421,7 +28995,7 @@
       "hr": "Zamka s mamac granatom",
       "it": "Trappola granata esca",
       "ja": "レーザートラップ：ルアー",
-      "kr": "미끼 수류탄 함정",
+      "kr": "유인 수류탄 함정",
       "no": "Lokkegranатfelle",
       "pl": "Pułapka z granatem wabik",
       "pt": "Armadilha de granada isca",
@@ -28443,7 +29017,7 @@
       "hr": "Laserska žica zamka koja detonira mamac granatu.",
       "it": "Un filo laser che fa detonare una granata esca.",
       "ja": "ルアーグレネードを起爆するレーザートリップワイヤー。",
-      "kr": "미끼 수류탄을 폭발시키는 레이저 트립 와이어입니다.",
+      "kr": "유인 수류탄을 폭발시키는 레이저 트립 와이어입니다.",
       "no": "En lasertråd som detonerer en lokkegranat.",
       "pl": "Laserowy drut potykowy, który detonuje granat wabik.",
       "pt": "Um fio de disparo a laser que detona uma granada isca.",
@@ -28515,7 +29089,7 @@
       "wires": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/lure_grenade_trap.png",
-    "updatedAt": "12/19/2025",
+    "updatedAt": "01/13/2026",
     "recycleValue": 0,
     "salvageValue": 0,
     "recycledFrom": {},
@@ -28703,7 +29277,7 @@
       "hr": "Magnetron",
       "it": "Magnetron",
       "ja": "マグネトロン",
-      "kr": "마그네트론",
+      "kr": "전자관",
       "no": "Magnetron",
       "pl": "Magnetron",
       "pt": "Magnetron",
@@ -28751,7 +29325,7 @@
       "advanced_mechanical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/magnetron.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "01/13/2026",
     "recycleValue": 5800,
     "salvageValue": 1750,
     "recycledFrom": {},
@@ -28852,7 +29426,7 @@
       "hr": "Matrijarhalni Reaktor",
       "it": "Reattore della Matriarca",
       "ja": "マトリアークリアクター",
-      "kr": "여왕 반응로",
+      "kr": "퀸 리액터",
       "no": "Matriarkreactor",
       "pl": "Reaktor Matriarchy",
       "pt": "Reator da Matriarca",
@@ -28899,7 +29473,7 @@
       "power_rod": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/matriarch_reactor.png",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/13/2026",
     "recycleValue": 10500,
     "salvageValue": 5000,
     "recycledFrom": {},
@@ -31303,7 +31877,7 @@
       "fr": "Schéma de Balbuzard",
       "he": "שרטוט אוספריי",
       "hr": "Osprey Nacrt",
-      "it": "Progetto Osprey",
+      "it": "Progetto Falco Pescatore",
       "ja": "オスプレー設計図",
       "kr": "오스프레이 설계도",
       "no": "Osprey-tegning",
@@ -31314,7 +31888,7 @@
       "sr": "Osprey Nacrt",
       "tr": "Osprey Planı",
       "uk": "Креслення Osprey",
-      "zh-CN": "Osprey蓝图",
+      "zh-CN": "鱼鹰蓝图",
       "zh-TW": "Osprey藍圖"
     },
     "description": {
@@ -33699,11 +34273,13 @@
       "combat_mk3_flanking": 1,
       "exodus_modules": 2,
       "looting_mk3_cautious": 1,
+      "looting_mk3_safekeeper": 1,
       "looting_mk3_survivor": 1,
       "projector": 1,
       "rotary_encoder": 2,
       "tactical_mk3_defensive": 1,
       "tactical_mk3_healing": 1,
+      "tactical_mk3_revival": 1,
       "telemetry_transceiver": 1,
       "trigger_nade": 1
     },
@@ -35067,7 +35643,7 @@
       "hr": "Blok flauta",
       "it": "Flauto dolce",
       "ja": "演奏できるフルート",
-      "kr": "플루트",
+      "kr": "리코더",
       "no": "Blokkfløyte",
       "pl": "Flet prosty",
       "pt": "Flauta doce",
@@ -35089,7 +35665,7 @@
       "hr": "Blok flauta koja se može svirati za privlačenje pažnje ARC-a i impresioniranje drugih Rejdera.",
       "it": "Un flauto dolce suonabile usato per attirare l'attenzione di ARC e impressionare altri Predoni.",
       "ja": "ARCの注意を引き、他のレイダーに感銘を与えるために使用できるリコーダー。",
-      "kr": "아크의 주의를 끌고 다른 레이더들에게 깊은 인상을 주기 위해 사용되는 연주 가능한 플루트.",
+      "kr": "아크의 주의를 끌고 다른 레이더들에게 깊은 인상을 주기 위해 사용되는 연주 가능한 리코더.",
       "no": "En spillbar blokkfløyte brukt til å tiltrekke ARCs oppmerksomhet og imponere andre Raiders.",
       "pl": "Grywalny flet prosty używany do przyciągania uwagi ARC i imponowania innym Rajderom.",
       "pt": "Uma flauta doce tocável usada para atrair a atenção da ARC e impressionar outros Invasores.",
@@ -35600,7 +36176,7 @@
       "sr": "Renegade I",
       "tr": "Renegade I",
       "uk": "Ренегат I",
-      "zh-CN": "叛徒 I",
+      "zh-CN": "叛逆 I",
       "zh-TW": "叛徒 I"
     },
     "description": {
@@ -35790,7 +36366,7 @@
       "sr": "Renegade II",
       "tr": "Renegade II",
       "uk": "Renegade II",
-      "zh-CN": "叛徒 II",
+      "zh-CN": "叛逆 II",
       "zh-TW": "叛徒 II"
     },
     "description": {
@@ -36031,7 +36607,7 @@
       "sr": "Ренегат III",
       "tr": "Renegade III",
       "uk": "Ренегат III",
-      "zh-CN": "叛逆者 III",
+      "zh-CN": "叛逆 III",
       "zh-TW": "叛逆者 III"
     },
     "description": {
@@ -36272,7 +36848,7 @@
       "sr": "Ренегат IV",
       "tr": "Renegade IV",
       "uk": "Ренегат IV",
-      "zh-CN": "叛逆者 IV",
+      "zh-CN": "叛逆 IV",
       "zh-TW": "叛逆者 IV"
     },
     "description": {
@@ -37313,7 +37889,7 @@
       "thermostat": 7,
       "voltage_converter": 1,
       "water_filter": 2,
-      "wires": 3
+      "wires": 2
     },
     "salvagedFrom": {
       "arc_flex_rubber": 9,
@@ -39755,7 +40331,7 @@
     "id": "shredder_gyro",
     "name": {
       "da": "Shredder-gyroskop",
-      "de": "Shredder-Gyroskop",
+      "de": "Schredder-Gyroskop",
       "en": "Shredder Gyro",
       "es": "Giroscopio de Triturador",
       "fr": "Gyroscope Shredder",
@@ -40200,6 +40776,64 @@
     "updatedAt": "01/13/2026",
     "recycleValue": 2350,
     "salvageValue": 3500,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
+    "id": "silencer_iii_blueprint",
+    "name": {
+      "da": "Lyddæmper III Tegning",
+      "de": "Bauplan: Schalldämpfer III",
+      "en": "Silencer III Blueprint",
+      "es": "Plano de Silenciador III",
+      "fr": "Schéma Silencieux III",
+      "he": "שרטוט משתיק III",
+      "hr": "Nacrt za Prigušivač III",
+      "it": "Progetto Silenziatore III",
+      "ja": "サイレンサー III 設計図",
+      "kr": "소음기 III 설계도",
+      "no": "Lyddemper III Tegning",
+      "pl": "Projekt Tłumika III",
+      "pt": "Projeto de Silenciador III",
+      "pt-BR": "Esquema de Silenciador III",
+      "ru": "Чертёж глушителя III",
+      "sr": "Nacrt za Prigušivač III",
+      "tr": "Susturucu III Planı",
+      "uk": "Креслення глушника III",
+      "zh-CN": "消音器 III 蓝图",
+      "zh-TW": "消音器 III 藍圖"
+    },
+    "description": {
+      "da": "En tegning til at lave Lyddæmper III.",
+      "de": "Ein Bauplan zur Herstellung des Schalldämpfers III.",
+      "en": "A blueprint to craft the Silencer III.",
+      "es": "Un plano para fabricar el Silenciador III.",
+      "fr": "Un schéma pour fabriquer le Silencieux III.",
+      "he": "שרטוט ליצירת משתיק III.",
+      "hr": "Nacrt za izradu Prigušivača III.",
+      "it": "Un progetto per creare il Silenziatore III.",
+      "ja": "サイレンサー III を製作するための設計図。",
+      "kr": "소음기 III을 제작하기 위한 설계도.",
+      "no": "En tegning for å lage Lyddemper III.",
+      "pl": "Projekt do wytworzenia Tłumika III.",
+      "pt": "Um projeto para fabricar o Silenciador III.",
+      "pt-BR": "Um esquema para fabricar o Silenciador III.",
+      "ru": "Чертёж для создания глушителя III.",
+      "sr": "Nacrt za izradu Prigušivača III.",
+      "tr": "Susturucu III üretmek için bir plan.",
+      "uk": "Креслення для створення глушника III.",
+      "zh-CN": "用于制作消音器 III 的蓝图。",
+      "zh-TW": "用於製作消音器 III 的藍圖。"
+    },
+    "type": "Blueprint",
+    "rarity": "Legendary",
+    "value": 5000,
+    "weightKg": 0,
+    "imageFilename": "https://cdn.arctracker.io/items/silencer_iii.png",
+    "updatedAt": "01/19/2026",
+    "recycleValue": 0,
+    "salvageValue": 0,
     "recycledFrom": {},
     "salvagedFrom": {},
     "droppedBy": []
@@ -40939,7 +41573,7 @@
       "fr": "Mousqueton",
       "he": "קרס תפיסה",
       "hr": "Brza Kuka",
-      "it": "Moschettone",
+      "it": "Gancio a scatto",
       "ja": "スナップ・フック",
       "kr": "스냅 훅",
       "no": "Karabinkrok",
@@ -40961,7 +41595,7 @@
       "fr": "Un gadget qui permet à l'utilisateur d'escalader des structures et de couvrir de grandes distances.",
       "he": "גאדג'ט המאפשר למשתמש לטפס על מבנים ולעבור מרחקים גדולים.",
       "hr": "Naprava koja korisniku omogućuje penjanje po strukturama i prelaženje velikih udaljenosti.",
-      "it": "Un dispositivo che permette all'utente di scalare strutture e coprire grandi distanze.",
+      "it": "Un gadget che permette a chi lo usa di scalare strutture e coprire grandi distanze.",
       "ja": "構造物を登ったり、長距離を移動したりできるガジェット。",
       "kr": "사용자가 구조물을 오르고 먼 거리를 이동할 수 있게 해주는 장치.",
       "no": "En gjenstand som lar brukeren klatre på strukturer og dekke store avstander.",
@@ -41058,7 +41692,7 @@
       "fr": "Schéma de Mousqueton",
       "he": "שרטוט וו קפיצי",
       "hr": "Nacrt Snap Hook",
-      "it": "Progetto Snap Hook",
+      "it": "Progetto Gancio a scatto",
       "ja": "スナップ・フック設計図",
       "kr": "스냅 훅 설계도",
       "no": "Snap Hook-tegning",
@@ -41080,7 +41714,7 @@
       "fr": "Un gadget qui permet à l'utilisateur d'escalader des structures et de couvrir de grandes distances.",
       "he": "גאדג'ט המאפשר למשתמש לטפס על מבנים ולעבור מרחקים גדולים.",
       "hr": "Naprava koja korisniku omogućuje penjanje po strukturama i prelaženje velikih udaljenosti.",
-      "it": "Un dispositivo che permette all'utente di scalare strutture e coprire grandi distanze.",
+      "it": "Un gadget che permette a chi lo usa di scalare strutture e coprire grandi distanze.",
       "ja": "構造物を登ったり、長距離を移動したりできるガジェット。",
       "kr": "사용자가 구조물을 오르고 먼 거리를 이동할 수 있게 해주는 장치.",
       "no": "En gjenstand som lar brukeren klatre på strukturer og dekke store avstander.",
@@ -42959,7 +43593,7 @@
       "fr": "Sutureur I",
       "he": "סטיצ'ר I",
       "hr": "Stitcher I",
-      "it": "Stormo I",
+      "it": "Suturante I",
       "ja": "スティッチャー I",
       "kr": "스티처 I",
       "no": "Stitcher I",
@@ -42970,7 +43604,7 @@
       "sr": "Stitcher I",
       "tr": "Stitcher I",
       "uk": "Зшивач I",
-      "zh-CN": "缝合者 I",
+      "zh-CN": "钉机 I",
       "zh-TW": "縫合者 I"
     },
     "description": {
@@ -42981,7 +43615,7 @@
       "fr": "Inflige de bons dégâts, mais a une cadence de tir assez faible et peut être difficile à contrôler.",
       "he": "גורם נזק טוב, אך בעל קצב אש נמוך ועשוי להיות קשה לשליטה.",
       "hr": "Zadaje dobru štetu, ali ima prilično nisku brzinu paljbe i može biti teško kontrolirati.",
-      "it": "È rapido e preciso, ma ha una velocità dei proiettili ridotta e richiede molto tempo per essere ricaricato.",
+      "it": "Infligge danni elevati, ma ha una cadenza di fuoco piuttosto ridotta e può essere difficile da controllare.",
       "ja": "優れたダメージを与えるが、発射速度がかなり低く、制御が難しい。",
       "kr": "좋은 피해를 입히지만 연사력이 상당히 낮고 제어하기 어렵습니다.",
       "no": "Gjør god skade, men har ganske lav skuddfrekvens og kan være vanskelig å kontrollere.",
@@ -43150,7 +43784,7 @@
       "fr": "Sutureur II",
       "he": "סטיצ'ר II",
       "hr": "Stitcher II",
-      "it": "Stormo II",
+      "it": "Suturante II",
       "ja": "スティッチャー II",
       "kr": "스티처 II",
       "no": "Stitcher II",
@@ -43161,7 +43795,7 @@
       "sr": "Stitcher II",
       "tr": "Stitcher II",
       "uk": "Зшивач II",
-      "zh-CN": "缝合者 II",
+      "zh-CN": "钉机 II",
       "zh-TW": "縫合者 II"
     },
     "description": {
@@ -43172,7 +43806,7 @@
       "fr": "Inflige de bons dégâts, mais a une cadence de tir assez faible et peut être difficile à contrôler.",
       "he": "גורם נזק טוב, אך בעל קצב אש נמוך ועשוי להיות קשה לשליטה.",
       "hr": "Zadaje dobru štetu, ali ima prilično nisku brzinu paljbe i može biti teško kontrolirati.",
-      "it": "Infligge buoni danni, ma ha una cadenza di fuoco piuttosto bassa e può essere difficile da controllare.",
+      "it": "Infligge danni elevati, ma ha una cadenza di fuoco piuttosto ridotta e può essere difficile da controllare.",
       "ja": "優れたダメージを与えるが、発射速度がかなり低く、制御が難しい。",
       "kr": "좋은 피해를 입히지만 연사력이 상당히 낮고 제어하기 어렵습니다.",
       "no": "Gjør god skade, men har ganske lav skuddfrekvens og kan være vanskelig å kontrollere.",
@@ -43383,7 +44017,7 @@
       "fr": "Sutureur III",
       "he": "סטיצ'ר III",
       "hr": "Stitcher III",
-      "it": "Stormo III",
+      "it": "Suturante III",
       "ja": "スティッチャー III",
       "kr": "스티처 III",
       "no": "Stitcher III",
@@ -43394,7 +44028,7 @@
       "sr": "Stitcher III",
       "tr": "Stitcher III",
       "uk": "Зшивач III",
-      "zh-CN": "缝合者 III",
+      "zh-CN": "钉机 III",
       "zh-TW": "縫合者 III"
     },
     "description": {
@@ -43405,7 +44039,7 @@
       "fr": "SMG entièrement automatique. Inflige de bons dégâts, mais a une cadence de tir assez faible et peut être difficile à contrôler.",
       "he": "תת-מקלע אוטומטי. גורם נזק טוב, אך בעל קצב אש נמוך יחסית ועלול להיות קשה לשליטה.",
       "hr": "Potpuno automatski SMG. Zadaje dobru štetu, ali ima prilično nisku brzinu paljbe i može biti teško kontrolirati.",
-      "it": "SMG completamente automatico. Infligge buoni danni, ma ha una cadenza di fuoco piuttosto bassa e può essere difficile da controllare.",
+      "it": "Infligge danni elevati, ma ha una cadenza di fuoco piuttosto ridotta e può essere difficile da controllare.",
       "ja": "フルオートサブマシンガン。優れたダメージを与えるが、発射速度がかなり低く、制御が難しい。",
       "kr": "완전 자동 기관단총. 좋은 피해를 입히지만 연사력이 상당히 낮고 제어하기 어렵습니다.",
       "no": "Helautomatisk SMG. Gjør god skade, men har ganske lav skuddfrekvens og kan være vanskelig å kontrollere.",
@@ -43420,7 +44054,7 @@
       "zh-TW": "全自動衝鋒槍。造成不錯的傷害，但射速相當低且難以控制。"
     },
     "type": "SMG",
-    "rarity": "Uncommon",
+    "rarity": "Common",
     "value": 3000,
     "weightKg": 5,
     "isWeapon": true,
@@ -43616,7 +44250,7 @@
       "fr": "Sutureur IV",
       "he": "סטיצ'ר IV",
       "hr": "Stitcher IV",
-      "it": "Stormo IV",
+      "it": "Suturante IV",
       "ja": "スティッチャー IV",
       "kr": "스티처 IV",
       "no": "Stitcher IV",
@@ -43627,7 +44261,7 @@
       "sr": "Stitcher IV",
       "tr": "Stitcher IV",
       "uk": "Зшивач IV",
-      "zh-CN": "缝合者 IV",
+      "zh-CN": "钉机 IV",
       "zh-TW": "縫合者 IV"
     },
     "description": {
@@ -43638,7 +44272,7 @@
       "fr": "SMG entièrement automatique. Inflige de bons dégâts, mais a une cadence de tir assez faible et peut être difficile à contrôler.",
       "he": "תת-מקלע אוטומטי. גורם נזק טוב, אך בעל קצב אש נמוך יחסית ועלול להיות קשה לשליטה.",
       "hr": "Potpuno automatski SMG. Zadaje dobru štetu, ali ima prilično nisku brzinu paljbe i može biti teško kontrolirati.",
-      "it": "SMG completamente automatico. Infligge buoni danni, ma ha una cadenza di fuoco piuttosto bassa e può essere difficile da controllare.",
+      "it": "Infligge danni elevati, ma ha una cadenza di fuoco piuttosto ridotta e può essere difficile da controllare.",
       "ja": "フルオートサブマシンガン。優れたダメージを与えるが、発射速度がかなり低く、制御が難しい。",
       "kr": "완전 자동 기관단총. 좋은 피해를 입히지만 연사력이 상당히 낮고 제어하기 어렵습니다.",
       "no": "Helautomatisk SMG. Gjør god skade, men har ganske lav skuddfrekvens og kan være vanskelig å kontrollere.",
@@ -43653,7 +44287,7 @@
       "zh-TW": "全自動衝鋒槍。造成不錯的傷害，但射速相當低且難以控制。"
     },
     "type": "SMG",
-    "rarity": "Uncommon",
+    "rarity": "Common",
     "value": 5000,
     "weightKg": 5,
     "isWeapon": true,
@@ -43843,7 +44477,7 @@
     "id": "surge_shield_recharger",
     "name": {
       "da": "Surge-skjoldoplader",
-      "de": "Sturm-Schildauflader",
+      "de": "Sofort-Schildauflader",
       "en": "Surge Shield Recharger",
       "es": "Cargador de escudos de sobrecarga",
       "fr": "Chargeur de Bouclier d'Impulsion",
@@ -44224,6 +44858,7 @@
     "rarity": "Uncommon",
     "value": 640,
     "weightKg": 2,
+    "stackSize": 1,
     "effects": {
       "Durability": {
         "value": "100/100",
@@ -44308,7 +44943,7 @@
       "plastic_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/tactical_i.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "01/20/2026",
     "recycleValue": 330,
     "salvageValue": 180,
     "recycledFrom": {},
@@ -44365,6 +45000,7 @@
     "rarity": "Rare",
     "value": 2000,
     "weightKg": 2,
+    "stackSize": 1,
     "effects": {
       "Durability": {
         "value": "100/100",
@@ -44449,7 +45085,7 @@
       "electrical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/tactical_i.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "01/20/2026",
     "recycleValue": 940,
     "salvageValue": 640,
     "recycledFrom": {},
@@ -44460,7 +45096,7 @@
     "id": "tactical_mk3_defensive",
     "name": {
       "da": "Taktisk Mk. 3 (Defensiv)",
-      "de": "Taktisch-Marke 3 (Verteidigung)",
+      "de": "Taktisch-Marke 3 (Defensiv)",
       "en": "Tactical Mk. 3 (Defensive)",
       "es": "Táctico Ver. 3 (Defensivo)",
       "fr": "Tactique 3 (défense)",
@@ -44506,6 +45142,7 @@
     "rarity": "Epic",
     "value": 5000,
     "weightKg": 5,
+    "stackSize": 1,
     "blueprintLocked": true,
     "effects": {
       "Durability": {
@@ -44592,7 +45229,7 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_defensive.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "01/20/2026",
     "recycleValue": 2250,
     "salvageValue": 1280,
     "recycledFrom": {},
@@ -44707,6 +45344,8 @@
     "rarity": "Epic",
     "value": 5000,
     "weightKg": 4,
+    "stackSize": 1,
+    "blueprintLocked": true,
     "effects": {
       "Durability": {
         "value": "100/100",
@@ -44792,7 +45431,7 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_healing.png",
-    "updatedAt": "01/13/2026",
+    "updatedAt": "01/20/2026",
     "recycleValue": 2250,
     "salvageValue": 1280,
     "recycledFrom": {},
@@ -44851,6 +45490,204 @@
     "weightKg": 0,
     "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_healing_blueprint.png",
     "updatedAt": "11/11/2025",
+    "recycleValue": 0,
+    "salvageValue": 0,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
+    "id": "tactical_mk3_revival",
+    "name": {
+      "da": "Taktisk Mk. 3 (Genoplivning)",
+      "de": "Taktisch-Marke 3 (Wiederbelebung)",
+      "en": "Tactical Mk. 3 (Revival)",
+      "es": "Táctico Ver. 3 (Reanimación)",
+      "fr": "Tactique 3 (Réanimation)",
+      "he": "טקטי Mk. 3 (החייאה)",
+      "hr": "Taktički Mk. 3 (Oživljavanje)",
+      "it": "Tattico Mk. 3 (Rianimazione)",
+      "ja": "戦術MK3 (蘇生)",
+      "kr": "전술 마크 3 (소생)",
+      "no": "Taktisk Mk. 3 (Gjenopplivning)",
+      "pl": "Taktyczny Mk. 3 (Wskrzeszenie)",
+      "pt": "Tático Mk. 3 (Reanimação)",
+      "pt-BR": "Tático Mk. 3 (Reanimação)",
+      "ru": "Стратегия 3 (Возрождение)",
+      "sr": "Taktički Mk. 3 (Oživljavanje)",
+      "tr": "Taktik Mk. 3 (Canlandırma)",
+      "uk": "Тактичний Mk. 3 (Відродження)",
+      "zh-CN": "战术型 Mk. 3 (复活)",
+      "zh-TW": "戰術型 Mk. 3 (復活)"
+    },
+    "description": {
+      "da": "En augmentering med fokus på genoplivning, designet til holdstøtte. Gendanner 1 helbred hvert 5. sekund. Når man tager skade, pauses effekten i 30 sekunder. Inkluderer en integreret Defibrillator med uendelig brug og 240 sekunders nedkøling.",
+      "de": "Ein auf Wiederbelebung fokussiertes Augment für Teamunterstützung. Stellt alle 5 Sekunden 1 Gesundheit wieder her. Bei Schadensnahme wird der Effekt für 30 Sekunden pausiert. Enthält einen integrierten Defibrillator mit unbegrenzter Nutzung und 240 Sekunden Abklingzeit.",
+      "en": "A revival-focused augment designed for team support. Restores 1 health every 5 seconds. When damage is taken, the effect is paused for 30 seconds. Includes an integrated Defibrillator with infinite uses and a 240-second cooldown.",
+      "es": "Un aumento centrado en la reanimación diseñado para el apoyo al equipo. Restaura 1 de salud cada 5 segundos. Al recibir daño, el efecto se pausa durante 30 segundos. Incluye un Desfibrilador integrado con usos infinitos y un tiempo de reutilización de 240 segundos.",
+      "fr": "Un module axé sur la réanimation conçu pour le soutien d'équipe. Restaure 1 PV toutes les 5 secondes. En cas de dégâts subis, l'effet est mis en pause pendant 30 secondes. Inclut un Défibrillateur intégré à usage illimité avec un temps de recharge de 240 secondes.",
+      "he": "תוסף הממוקד בהחייאה ומיועד לתמיכה בצוות. משחזר נקודת בריאות אחת כל 5 שניות. בעת ספיגת נזק, האפקט מושהה למשך 30 שניות. כולל דפיברילטור מובנה עם שימושים ללא הגבלה וזמן רענון של 240 שניות.",
+      "hr": "Dodatak usmjeren na oživljavanje dizajniran za timsku podršku. Obnavlja 1 zdravlje svakih 5 sekundi. Prilikom primanja štete, učinak se pauzira na 30 sekundi. Uključuje ugrađeni Defibrilator s neograničenim brojem korištenja i hlađenjem od 240 sekundi.",
+      "it": "Un potenziamento incentrato sulla rianimazione progettato per il supporto di squadra. Ripristina 1 punto salute ogni 5 secondi. Quando si subiscono danni, l'effetto viene sospeso per 30 secondi. Include un Defibrillatore integrato con usi infiniti e un tempo di ricarica di 240 secondi.",
+      "ja": "チームサポート用に設計された蘇生特化型オーグメント。5秒ごとにHPを1回復する。ダメージを受けると、効果は30秒間中断される。使用回数無制限、クールダウン240秒のデフィブリレーターが内蔵されている。",
+      "kr": "팀 지원을 위해 설계된 소생 특화 증강체입니다. 5초마다 체력을 1 회복합니다. 피해를 입으면 효과가 30초 동안 중단됩니다. 사용 횟수 무제한, 재사용 대기시간 240초인 제세동기가 내장되어 있습니다.",
+      "no": "En gjenopplivningsfokusert modul designet for lagstøtte. Gjenoppretter 1 helse hvert 5. sekund. Når man tar skade, settes effekten på pause i 30 sekunder. Inkluderer en integrert hjertestarter med ubegrenset bruk og 240 sekunders nedkjøling.",
+      "pl": "Ulepszenie skupione na reanimacji, zaprojektowane do wsparcia drużyny. Przywraca 1 pkt zdrowia co 5 sekund. Po otrzymaniu obrażeń efekt zostaje wstrzymany na 30 sekund. Zawiera zintegrowany defibrylator z nieskończoną liczbą użyć i 240-sekundowym czasem odnowienia.",
+      "pt": "Um aprimoramento focado em reanimação, projetado para suporte à equipe. Restaura 1 de vida a cada 5 segundos. Ao receber dano, o efeito é pausado por 30 segundos. Inclui um Desfibrilador integrado com usos infinitos e tempo de recarga de 240 segundos.",
+      "pt-BR": "Um aprimoramento focado em reanimação, projetado para suporte à equipe. Restaura 1 de saúde a cada 5 segundos. Ao receber dano, o efeito é pausado por 30 segundos. Inclui um Desfibrilador integrado com usos infinitos e um tempo de recarga de 240 segundos.",
+      "ru": "Модуль реанимации, разработанный для поддержки отряда. Восстанавливает 1 ед. здоровья каждые 5 секунд. При получении урона эффект приостанавливается на 30 секунд. Включает встроенный дефибриллятор с бесконечным использованием и перезарядкой 240 секунд.",
+      "sr": "Augmentacija fokusirana na oživljavanje, dizajnirana za podršku timu. Obnavlja 1 zdravlje svakih 5 sekundi. Kada se primi šteta, efekat se pauzira na 30 sekundi. Uključuje integrisani defibrilator sa neograničenom upotrebom i hlađenjem od 240 sekundi.",
+      "tr": "Takım desteği için tasarlanmış, canlandırma odaklı bir eklenti. Her 5 saniyede 1 Sağlık yeniler. Hasar alındığında etki 30 saniye duraklatılır. Sınırsız kullanıma ve 240 saniye bekleme süresine sahip entegre bir Defibrilatör içerir.",
+      "uk": "Аугментація для реанімації, призначена для підтримки команди. Відновлює 1 од. здоров'я кожні 5 секунд. У разі отримання шкоди ефект призупиняється на 30 секунд. Містить вбудований дефібрилятор з необмеженою кількістю використань і часом відновлення 240 секунд.",
+      "zh-CN": "专为团队支援设计的救援强化组件。每 5 秒恢复 1 点生命值。受到伤害时，效果暂停 30 秒。包含一个内置除颤器，可无限次使用，冷却时间 240 秒。",
+      "zh-TW": "一種專為團隊支援設計的復甦強化裝置。每 5 秒恢復 1 點生命值。受到傷害時，此效果將暫停 30 秒。包含內建除顫器，擁有無限使用次數和 240 秒冷卻時間。"
+    },
+    "type": "Augment",
+    "rarity": "Epic",
+    "value": 5000,
+    "weightKg": 3,
+    "stackSize": 1,
+    "blueprintLocked": true,
+    "effects": {
+      "Durability": {
+        "value": "100/100",
+        "da": "Holdbarhed",
+        "de": "Haltbarkeit",
+        "en": "Durability",
+        "es": "Durabilidad",
+        "fr": "Durabilité",
+        "he": "עמידות",
+        "hr": "Izdržljivost",
+        "it": "Tenuta",
+        "ja": "耐久性",
+        "kr": "내구도",
+        "no": "Holdbarhet",
+        "pl": "Wytrzymałość",
+        "pt": "Durabilidade",
+        "pt-BR": "Durabilidade",
+        "ru": "Прочность",
+        "sr": "Izdržljivost",
+        "tr": "Dayanıklılık",
+        "uk": "Міцність",
+        "zh-CN": "耐久度",
+        "zh-TW": "耐久度"
+      },
+      "Max Loadout Weight": {
+        "value": 65,
+        "da": "Maks. udstyrsvægt",
+        "de": "Max. Loadout-Gewicht",
+        "en": "Max Loadout Weight",
+        "es": "Peso máximo del equipamiento",
+        "fr": "Poids max. de l'équipement",
+        "he": "משקל ציוד מקסימלי",
+        "hr": "Maks. Težina Opreme",
+        "it": "Peso massimo equipaggiamento",
+        "ja": "最大装備重量",
+        "kr": "최대 장비 무게",
+        "no": "Maks utstyrsvekt",
+        "pl": "Maks. waga ekwipunku",
+        "pt": "Peso máximo do equipamento",
+        "pt-BR": "Peso Máximo do Equipamento",
+        "ru": "Макс. вес снаряжения",
+        "sr": "Maks. Težina Opreme",
+        "tr": "Maks. Donanım Ağırlığı",
+        "uk": "Макс. вага спорядження",
+        "zh-CN": "最大装备重量",
+        "zh-TW": "最大裝備重量"
+      },
+      "Shield Compatibility": {
+        "value": "Light",
+        "da": "Skjoldkompatibilitet",
+        "de": "Schildkompatibilität",
+        "en": "Shield Compatibility",
+        "es": "Compatibilidad con escudo",
+        "fr": "Compatibilité bouclier",
+        "he": "תאימות מגן",
+        "hr": "Kompatibilnost Štita",
+        "it": "Compatibilità scudo",
+        "ja": "シールド互換性",
+        "kr": "실드 호환성",
+        "no": "Skjoldkompatibilitet",
+        "pl": "Kompatybilność z tarczą",
+        "pt": "Compatibilidade com escudo",
+        "pt-BR": "Compatibilidade de Escudo",
+        "ru": "Совместимость со щитом",
+        "sr": "Kompatibilnost Štita",
+        "tr": "Kalkan Uyumluluğu",
+        "uk": "Сумісність зі щитом",
+        "zh-CN": "护盾兼容性",
+        "zh-TW": "護盾相容性"
+      }
+    },
+    "craftBench": "equipment_bench",
+    "recipe": {
+      "advanced_electrical_components": 2,
+      "processor": 3
+    },
+    "recyclesInto": {
+      "advanced_electrical_components": 1,
+      "processor": 1
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_revival.png",
+    "updatedAt": "02/02/2026",
+    "recycleValue": 2250,
+    "salvageValue": 2250,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
+    "id": "tactical_mk3_revival_blueprint",
+    "name": {
+      "da": "Taktisk Mk. 3 (Genoplivning)-tegning",
+      "de": "Bauplan: Taktisch-Marke 3 (Wiederbelebung)",
+      "en": "Tactical Mk. 3 (Revival) Blueprint",
+      "es": "Plano Táctico Mk. 3 (Reanimación)",
+      "fr": "Schéma Tactique Mk. 3 (Réanimation)",
+      "he": "שרטוט טקטי Mk. 3 (החייאה)",
+      "hr": "Nacrt za Taktički Mk. 3 (Oživljavanje)",
+      "it": "Progetto Tattico Mk. 3 (Rianimazione)",
+      "ja": "タクティカル Mk. 3 (リバイバル) の設計図",
+      "kr": "전술 Mk. 3 (소생) 설계도",
+      "no": "Taktisk Mk. 3 (Gjenopplivning)-arbeidstegning",
+      "pl": "Schemat: Taktyczne Mk. 3 (Reanimacja)",
+      "pt": "Diagrama Tático Mk. 3 (Reanimação)",
+      "pt-BR": "Projeto Tático Mk. 3 (Reanimação)",
+      "ru": "Чертеж: Тактика Мк. 3 (Реанимация)",
+      "sr": "Taktički nacrt Mk. 3 (Oživljavanje)",
+      "tr": "Taktiksel Mk. 3 (Canlandırma) Şeması",
+      "uk": "Креслення: Тактика Мк. 3 (Реанімація)",
+      "zh-CN": "战术 Mk. 3 (救援) 蓝图",
+      "zh-TW": "戰術 Mk. 3 (復甦) 藍圖"
+    },
+    "description": {
+      "da": "En augmentering med fokus på genoplivning, designet til holdstøtte. Gendanner 1 helbred hvert 5. sekund. Når man tager skade, pauses effekten i 30 sekunder. Inkluderer en integreret Defibrillator med uendelig brug og 240 sekunders nedkøling.",
+      "de": "Ein auf Wiederbelebung fokussiertes Augment für Teamunterstützung. Stellt alle 5 Sekunden 1 Gesundheit wieder her. Bei Schadensnahme wird der Effekt für 30 Sekunden pausiert. Enthält einen integrierten Defibrillator mit unbegrenzter Nutzung und 240 Sekunden Abklingzeit.",
+      "en": "A revival-focused augment designed for team support. Restores 1 health every 5 seconds. When damage is taken, the effect is paused for 30 seconds. Includes an integrated Defibrillator with infinite uses and a 240-second cooldown.",
+      "es": "Un aumento centrado en la reanimación diseñado para el apoyo al equipo. Restaura 1 de salud cada 5 segundos. Al recibir daño, el efecto se pausa durante 30 segundos. Incluye un Desfibrilador integrado con usos infinitos y un tiempo de reutilización de 240 segundos.",
+      "fr": "Un module axé sur la réanimation conçu pour le soutien d'équipe. Restaure 1 PV toutes les 5 secondes. En cas de dégâts subis, l'effet est mis en pause pendant 30 secondes. Inclut un Défibrillateur intégré à usage illimité avec un temps de recharge de 240 secondes.",
+      "he": "תוסף הממוקד בהחייאה ומיועד לתמיכה בצוות. משחזר נקודת בריאות אחת כל 5 שניות. בעת ספיגת נזק, האפקט מושהה למשך 30 שניות. כולל דפיברילטור מובנה עם שימושים ללא הגבלה וזמן רענון של 240 שניות.",
+      "hr": "Dodatak usmjeren na oživljavanje dizajniran za timsku podršku. Obnavlja 1 zdravlje svakih 5 sekundi. Prilikom primanja štete, učinak se pauzira na 30 sekundi. Uključuje ugrađeni Defibrilator s neograničenim brojem korištenja i hlađenjem od 240 sekundi.",
+      "it": "Un potenziamento incentrato sulla rianimazione progettato per il supporto di squadra. Ripristina 1 punto salute ogni 5 secondi. Quando si subiscono danni, l'effetto viene sospeso per 30 secondi. Include un Defibrillatore integrato con usi infiniti e un tempo di ricarica di 240 secondi.",
+      "ja": "チームサポート用に設計された蘇生特化型オーグメント。5秒ごとにHPを1回復する。ダメージを受けると、効果は30秒間中断される。使用回数無制限、クールダウン240秒のデフィブリレーターが内蔵されている。",
+      "kr": "팀 지원을 위해 설계된 소생 특화 증강체입니다. 5초마다 체력을 1 회복합니다. 피해를 입으면 효과가 30초 동안 중단됩니다. 사용 횟수 무제한, 재사용 대기시간 240초인 제세동기가 내장되어 있습니다.",
+      "no": "En gjenopplivningsfokusert modul designet for lagstøtte. Gjenoppretter 1 helse hvert 5. sekund. Når man tar skade, settes effekten på pause i 30 sekunder. Inkluderer en integrert hjertestarter med ubegrenset bruk og 240 sekunders nedkjøling.",
+      "pl": "Ulepszenie skupione na reanimacji, zaprojektowane do wsparcia drużyny. Przywraca 1 pkt zdrowia co 5 sekund. Po otrzymaniu obrażeń efekt zostaje wstrzymany na 30 sekund. Zawiera zintegrowany defibrylator z nieskończoną liczbą użyć i 240-sekundowym czasem odnowienia.",
+      "pt": "Um aprimoramento focado em reanimação, projetado para suporte à equipe. Restaura 1 de vida a cada 5 segundos. Ao receber dano, o efeito é pausado por 30 segundos. Inclui um Desfibrilador integrado com usos infinitos e tempo de recarga de 240 segundos.",
+      "pt-BR": "Um aprimoramento focado em reanimação, projetado para suporte à equipe. Restaura 1 de saúde a cada 5 segundos. Ao receber dano, o efeito é pausado por 30 segundos. Inclui um Desfibrilador integrado com usos infinitos e um tempo de recarga de 240 segundos.",
+      "ru": "Модуль реанимации, разработанный для поддержки отряда. Восстанавливает 1 ед. здоровья каждые 5 секунд. При получении урона эффект приостанавливается на 30 секунд. Включает встроенный дефибриллятор с бесконечным использованием и перезарядкой 240 секунд.",
+      "sr": "Augmentacija fokusirana na oživljavanje, dizajnirana za podršku timu. Obnavlja 1 zdravlje svakih 5 sekundi. Kada se primi šteta, efekat se pauzira na 30 sekundi. Uključuje integrisani defibrilator sa neograničenom upotrebom i hlađenjem od 240 sekundi.",
+      "tr": "Takım desteği için tasarlanmış, canlandırma odaklı bir eklenti. Her 5 saniyede 1 Sağlık yeniler. Hasar alındığında etki 30 saniye duraklatılır. Sınırsız kullanıma ve 240 saniye bekleme süresine sahip entegre bir Defibrilatör içerir.",
+      "uk": "Аугментація для реанімації, призначена для підтримки команди. Відновлює 1 од. здоров'я кожні 5 секунд. У разі отримання шкоди ефект призупиняється на 30 секунд. Містить вбудований дефібрилятор з необмеженою кількістю використань і часом відновлення 240 секунд.",
+      "zh-CN": "专为团队支援设计的救援强化组件。每 5 秒恢复 1 点生命值。受到伤害时，效果暂停 30 秒。包含一个内置除颤器，可无限次使用，冷却时间 240 秒。",
+      "zh-TW": "一種專為團隊支援設計的復甦強化裝置。每 5 秒恢復 1 點生命值。受到傷害時，此效果將暫停 30 秒。包含內建除顫器，擁有無限使用次數和 240 秒冷卻時間。"
+    },
+    "type": "Blueprint",
+    "rarity": "Legendary",
+    "value": 5000,
+    "weightKg": 0,
+    "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_revival.png",
+    "updatedAt": "02/02/2026",
     "recycleValue": 0,
     "salvageValue": 0,
     "recycledFrom": {},
@@ -45998,7 +46835,7 @@
     },
     "type": "Assault Rifle",
     "rarity": "Epic",
-    "value": 22000,
+    "value": 27000,
     "weightKg": 11,
     "isWeapon": true,
     "effects": {
@@ -46177,7 +47014,7 @@
       "medium_gun_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/tempest.png",
-    "updatedAt": "01/13/2026",
+    "updatedAt": "01/26/2026",
     "recycleValue": 11550,
     "salvageValue": 3500,
     "recycledFrom": {},
@@ -46538,8 +47375,8 @@
       "sr": "Torrente Nacrt",
       "tr": "Torrente Planı",
       "uk": "Креслення Torrente",
-      "zh-CN": "Torrente蓝图",
-      "zh-TW": "Torrente藍圖"
+      "zh-CN": "奔流蓝图",
+      "zh-TW": "奔流藍圖"
     },
     "description": {
       "da": "Har stor ammunitionskapacitet, men er kun præcis når man sidder på hug.",
@@ -46596,8 +47433,8 @@
       "sr": "Torrente I",
       "tr": "Torrente I",
       "uk": "Torrente I",
-      "zh-CN": "Torrente I",
-      "zh-TW": "奔流藍圖 I"
+      "zh-CN": "奔流 I",
+      "zh-TW": "奔流 I"
     },
     "description": {
       "da": "Har stor ammunitionskapacitet, men er kun præcis, når du sidder på hug.",
@@ -46785,8 +47622,8 @@
       "sr": "Torrente II",
       "tr": "Torrente II",
       "uk": "Torrente II",
-      "zh-CN": "Torrente II",
-      "zh-TW": "奔流藍圖 II"
+      "zh-CN": "奔流 II",
+      "zh-TW": "奔流 II"
     },
     "description": {
       "da": "Har en stor ammunitionskapacitet, men er kun præcis i hugsiddende stilling.",
@@ -46995,8 +47832,8 @@
       "sr": "Torrente III",
       "tr": "Torrente III",
       "uk": "Torrente III",
-      "zh-CN": "Torrente III",
-      "zh-TW": "奔流藍圖 III"
+      "zh-CN": "奔流 III",
+      "zh-TW": "奔流 III"
     },
     "description": {
       "da": "Har en stor ammunitionskapacitet, men er kun præcis i hugsiddende stilling.",
@@ -47205,8 +48042,8 @@
       "sr": "Torrente IV",
       "tr": "Torrente IV",
       "uk": "Torrente IV",
-      "zh-CN": "Torrente IV",
-      "zh-TW": "奔流藍圖 IV"
+      "zh-CN": "奔流 IV",
+      "zh-TW": "奔流 IV"
     },
     "description": {
       "da": "Har en stor ammunitionskapacitet, men er kun præcis i hugsiddende stilling.",
@@ -47750,6 +48587,66 @@
     "droppedBy": []
   },
   {
+    "id": "tropical_duck",
+    "name": {
+      "da": "Tropisk And",
+      "de": "Tropische Ente",
+      "en": "Tropical Duck",
+      "es": "Pato Tropical",
+      "fr": "Canard Tropical",
+      "he": "ברווז טרופי",
+      "hr": "Tropska Patka",
+      "it": "Papera Tropicale",
+      "ja": "トロピカルアヒル",
+      "kr": "열대 오리",
+      "no": "Tropisk And",
+      "pl": "Tropikalna Kaczka",
+      "pt": "Pato Tropical",
+      "pt-BR": "Pato Tropical",
+      "ru": "Тропическая уточка",
+      "sr": "Tropska Patka",
+      "tr": "Tropikal Ördek",
+      "uk": "Тропічна качечка",
+      "zh-CN": "热带鸭",
+      "zh-TW": "熱帶鴨"
+    },
+    "description": {
+      "da": "Den drømmer stille om at flyve til himmels med sine artsfæller. Kan kastes for at skabe støj.",
+      "de": "Sie träumt still davon, mit ihren Artgenossen in den Himmel aufzusteigen. Kann geworfen werden, um Lärm zu erzeugen.",
+      "en": "It quietly dreams of taking to the skies with its brethren. Can be thrown to create noise.",
+      "es": "Sueña en silencio con surcar los cielos junto a sus hermanos. Se puede lanzar para crear ruido.",
+      "fr": "Elle rêve tranquillement de s'envoler avec ses semblables. Peut être lancé pour créer du bruit.",
+      "he": "הוא חולם בשקט להמריא לשמיים עם אחיו. ניתן לזרוק כדי ליצור רעש.",
+      "hr": "Tiho sanja o polijetanju u nebo sa svojom braćom. Može se baciti da stvori buku.",
+      "it": "Sogna in silenzio di volare in cielo con i suoi simili. Può essere lanciata per creare rumore.",
+      "ja": "仲間と一緒に空を飛ぶことを静かに夢見ている。投げて音を立てることができる。",
+      "kr": "동료들과 함께 하늘을 날기를 조용히 꿈꿉니다. 던져서 소음을 만들 수 있습니다.",
+      "no": "Den drømmer stille om å fly til himmels med sine artsfrender. Kan kastes for å lage støy.",
+      "pl": "Cicho marzy o wzniesieniu się w niebo ze swoimi braćmi. Można rzucić, aby wytworzyć hałas.",
+      "pt": "Sonha silenciosamente em voar pelos céus com seus semelhantes. Pode ser arremessado para criar ruído.",
+      "pt-BR": "Sonha silenciosamente em voar pelos céus com seus semelhantes. Pode ser arremessado para fazer barulho.",
+      "ru": "Тихо мечтает взлететь в небо вместе с сородичами. Можно бросить, чтобы создать шум.",
+      "sr": "Tiho sanja o poletanju u nebo sa svojom braćom. Može se baciti da stvori buku.",
+      "tr": "Kardeşleriyle gökyüzüne yükselmek için sessizce hayal kurar. Gürültü yaratmak için fırlatılabilir.",
+      "uk": "Тихо мріє злетіти в небо разом з побратимами. Можна кинути, щоб створити шум.",
+      "zh-CN": "它默默梦想着与同伴一起翱翔天空。可以投掷来制造噪音。",
+      "zh-TW": "它默默夢想著與同伴一起翱翔天空。可以投擲來製造噪音。"
+    },
+    "type": "Trinket",
+    "rarity": "Uncommon",
+    "value": 1000,
+    "weightKg": 0.3,
+    "stackSize": 15,
+    "recyclesInto": {},
+    "imageFilename": "https://cdn.arctracker.io/items/tropical_duck.png",
+    "updatedAt": "02/01/2026",
+    "recycleValue": 0,
+    "salvageValue": 0,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
     "id": "turbo_pump",
     "name": {
       "da": "Turbopumpe",
@@ -47828,7 +48725,7 @@
       "hr": "Neupotrebljivo oružje",
       "it": "Arma inutilizzabile",
       "ja": "使い物にならない武器",
-      "kr": "사용 불가능한 무기",
+      "kr": "망가진 무기",
       "no": "Ubrukelig våpen",
       "pl": "Niezdatna broń",
       "pt": "Arma inutilizável",
@@ -47875,7 +48772,7 @@
       "simple_gun_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/unusable_weapon.png",
-    "updatedAt": "11/09/2025",
+    "updatedAt": "01/13/2026",
     "recycleValue": 1950,
     "salvageValue": 990,
     "recycledFrom": {},
@@ -47964,8 +48861,8 @@
       "sr": "Venator Nacrt",
       "tr": "Venator Planı",
       "uk": "Креслення Venator",
-      "zh-CN": "Venator蓝图",
-      "zh-TW": "Venator藍圖"
+      "zh-CN": "复仇者蓝图",
+      "zh-TW": "复仇者藍圖"
     },
     "description": {
       "da": "Affyrer to skud ad gangen.",
@@ -48021,8 +48918,8 @@
       "sr": "Venator I",
       "tr": "Venator I",
       "uk": "Venator I",
-      "zh-CN": "Venator I",
-      "zh-TW": "Venator I"
+      "zh-CN": "复仇者 I",
+      "zh-TW": "复仇者 I"
     },
     "description": {
       "da": "Halvautomatisk pistol. Affyrer to skud ad gangen.",
@@ -48234,8 +49131,8 @@
       "sr": "Venator II",
       "tr": "Venator II",
       "uk": "Venator II",
-      "zh-CN": "Venator II",
-      "zh-TW": "Venator II"
+      "zh-CN": "复仇者 II",
+      "zh-TW": "复仇者 II"
     },
     "description": {
       "da": "Halvautomatisk pistol. Affyrer to skud ad gangen.",
@@ -48491,8 +49388,8 @@
       "sr": "Venator III",
       "tr": "Venator III",
       "uk": "Venator III",
-      "zh-CN": "Venator III",
-      "zh-TW": "Venator III"
+      "zh-CN": "复仇者 III",
+      "zh-TW": "复仇者 III"
     },
     "description": {
       "da": "Halvautomatisk pistol. Affyrer to skud ad gangen.",
@@ -48748,8 +49645,8 @@
       "sr": "Venator IV",
       "tr": "Venator IV",
       "uk": "Venator IV",
-      "zh-CN": "Venator IV",
-      "zh-TW": "Venator IV"
+      "zh-CN": "复仇者 IV",
+      "zh-TW": "复仇者 IV"
     },
     "description": {
       "da": "Halvautomatisk pistol. Affyrer to skud ad gangen.",
@@ -50036,8 +50933,8 @@
       "sr": "Vulcano Nacrt",
       "tr": "Vulcano Plani",
       "uk": "Креслення Vulcano",
-      "zh-CN": "Vulcano 蓝图",
-      "zh-TW": "Vulcano 藍圖"
+      "zh-CN": "火山 蓝图",
+      "zh-TW": "火山 藍圖"
     },
     "description": {
       "da": "Halvautomatisk haglgevaer med god spredning men skarpt fald.",
@@ -50094,8 +50991,8 @@
       "sr": "Vulcano I",
       "tr": "Vulcano I",
       "uk": "Vulcano I",
-      "zh-CN": "Vulcano I",
-      "zh-TW": "Vulcano I"
+      "zh-CN": "火山 I",
+      "zh-TW": "火山 I"
     },
     "description": {
       "da": "Halvautomatisk haglgevær med god spredning men skarpt fald.",
@@ -50294,8 +51191,8 @@
       "sr": "Vulcano II",
       "tr": "Vulcano II",
       "uk": "Vulcano II",
-      "zh-CN": "Vulcano II",
-      "zh-TW": "Vulcano II"
+      "zh-CN": "火山 II",
+      "zh-TW": "火山 II"
     },
     "description": {
       "da": "Har god spredning men skarpt fald.",
@@ -50539,8 +51436,8 @@
       "sr": "Vulcano III",
       "tr": "Vulcano III",
       "uk": "Vulcano III",
-      "zh-CN": "Vulcano III",
-      "zh-TW": "Vulcano III"
+      "zh-CN": "火山 III",
+      "zh-TW": "火山 III"
     },
     "description": {
       "da": "Har god kuglespredning, men kraftigt fald.",
@@ -50820,8 +51717,8 @@
       "sr": "Vulcano IV",
       "tr": "Vulcano IV",
       "uk": "Vulcano IV",
-      "zh-CN": "Vulcano IV",
-      "zh-TW": "Vulcano IV"
+      "zh-CN": "火山 IV",
+      "zh-TW": "火山 IV"
     },
     "description": {
       "da": "Halvautomatisk haglgevær med god spredning men kraftigt skadefald",
@@ -51329,7 +52226,7 @@
       "hr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u materijale za izradu. Koristi se za izradu: Vatrena Zamka s Granatom, Dimna Zamka s Granatom, Zamka s Mamcem, Plinska Zamka s Granatom, Usporivač Cijevi I",
       "it": "Si usa per creare un'ampia gamma di oggetti. Si può riciclare in materiali da creazione. Si usa per creare: Trappola laser: Fuoco, Trappola laser: Fumogeno, Trappola laser: Esca, Trappola laser: Gas, Freno di bocca I",
       "ja": "幅広いアイテムの作成に使用。クラフト素材にリサイクル可能。作成可能: ブレイズグレネードトラップ、スモークグレネードトラップ、ルアーグレネードトラップ、ガスグレネードトラップ、マズルブレーキI",
-      "kr": "다양한 아이템 제작에 사용됩니다. 제작 재료로 재활용 가능. 제작 가능: 화염 수류탄 함정, 연막 수류탄 함정, 미끼 수류탄 함정, 가스 수류탄 함정, 총구 제동기 I",
+      "kr": "다양한 아이템 제작에 사용됩니다. 제작 재료로 재활용 가능. 제작 가능: 화염 수류탄 함정, 연막 수류탄 함정, 유인 수류탄 함정, 가스 수류탄 함정, 총구 제동기 I",
       "no": "Brukes til å lage et bredt spekter av gjenstander. Kan resirkuleres til håndverksmateriell. Brukes til å lage: Flammegranatfelle, Røykgranatfelle, Lokkemiddelgranatfelle, Gassgranatfelle, Munningsbrems I",
       "pl": "Używany do wytwarzania szerokiej gamy przedmiotów. Może być przetworzony na materiały rzemieślnicze. Używany do wytwarzania: Pułapka z granatem zapalającym, Pułapka z granatem dymnym, Pułapka z granatem wabik, Pułapka z granatem gazowym, Hamulec wylotowy I",
       "pt": "Usado para fabricar uma ampla gama de itens. Pode ser reciclado em materiais de fabricação. Usado para fabricar: Armadilha de granada incendiária, Armadilha de granada de fumaça, Armadilha de granada isca, Armadilha de granada de gás, Freio de boca I",
@@ -51348,15 +52245,15 @@
     "weightKg": 0.25,
     "stackSize": 15,
     "recyclesInto": {
-      "rubber_parts": 3
+      "rubber_parts": 2
     },
     "salvagesInto": {
       "rubber_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/wires.png",
-    "updatedAt": "01/09/2026",
+    "updatedAt": "01/20/2026",
     "tip": "Wires are an uncommon item used to craft weapon mods that can be recycled into crafting materials.",
-    "recycleValue": 150,
+    "recycleValue": 100,
     "salvageValue": 50,
     "recycledFrom": {
       "acoustic_guitar": 6,
@@ -51674,7 +52571,7 @@
         "zh-TW": "照明範圍"
       }
     },
-    "craftBench": "explosives_bench",
+    "craftBench": "utility_bench",
     "stationLevelRequired": 3,
     "recipe": {
       "chemicals": 3

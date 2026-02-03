@@ -95,7 +95,7 @@
             "sr": "Stanica za eksploziv",
             "tr": "Patlayıcı İstasyonu",
             "uk": "Станція вибухівки",
-            "zh-CN": "爆炸物工作站",
+            "zh-CN": "爆炸物工作台",
             "zh-TW": "爆裂物工作站"
         },
         "maxLevel": 3,
@@ -170,7 +170,7 @@
             "sr": "Medicinska Laboratorija",
             "tr": "Tıbbi Laboratuvar",
             "uk": "Медична лабораторія",
-            "zh-CN": "医疗站",
+            "zh-CN": "医疗实验室",
             "zh-TW": "醫療站"
         },
         "maxLevel": 3,
@@ -245,7 +245,7 @@
             "sr": "Rafinerija",
             "tr": "Rafine Ünitesi",
             "uk": "Очисник",
-            "zh-CN": "精炼站",
+            "zh-CN": "精加工机",
             "zh-TW": "精煉站"
         },
         "maxLevel": 3,
@@ -309,7 +309,7 @@
             "fr": "Coquillard",
             "he": "סקראפי",
             "hr": "Otpadnik",
-            "it": "Rottamaio",
+            "it": "Scartino",
             "ja": "スクラッピー",
             "kr": "수탉 꼬꼬",
             "no": "Scrappy",
@@ -320,7 +320,7 @@
             "sr": "Otpadnik",
             "tr": "Hurda Tezgahı",
             "uk": "Старганщик",
-            "zh-CN": "废品回收站",
+            "zh-CN": "废品仔",
             "zh-TW": "廢品回收站"
         },
         "maxLevel": 5,
@@ -408,7 +408,7 @@
             "sr": "Skladište",
             "tr": "Depo",
             "uk": "Схованка",
-            "zh-CN": "储藏箱",
+            "zh-CN": "储备箱",
             "zh-TW": "儲藏箱"
         },
         "maxLevel": 10,
@@ -513,7 +513,7 @@
             "sr": "Pomoćna stanica",
             "tr": "Ekipman İstasyonu",
             "uk": "Станція спорядження",
-            "zh-CN": "实用工具站",
+            "zh-CN": "工具工作台",
             "zh-TW": "實用工具站"
         },
         "maxLevel": 3,
@@ -588,7 +588,7 @@
             "sr": "Oružar",
             "tr": "Silah Tezgahı",
             "uk": "Зброярня",
-            "zh-CN": "枪械工坊",
+            "zh-CN": "武器工作台",
             "zh-TW": "槍械工坊"
         },
         "maxLevel": 3,
