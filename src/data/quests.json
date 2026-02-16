@@ -6,7 +6,7 @@
             "de": "Nach dem Regen",
             "en": "After Rain Comes",
             "es": "Tras la tormenta",
-            "fr": "Ensoleillement",
+            "fr": "Après la pluie",
             "he": "אחרי הגשם מגיע",
             "hr": "Nakon kiše dolazi",
             "it": "Dopo la pioggia viene",
@@ -4019,7 +4019,26 @@
             }
         ],
         "description": {
-            "de": "Raider berichten schon lange von seltsam aussehenden Kisten, die aus defekten ARC-Sonden fallen. Wenn wir die irgendwie öffnen könnten, verstehen wir vielleicht, wonach sie suchen."
+            "da": "Raidere har længe rapporteret om mærkeligt udseende kasser, der falder ud af defekte ARC-sonder. Hvis vi på en eller anden måde kunne åbne dem, forstår vi måske, hvad de leder efter.",
+            "de": "Raider berichten schon lange von seltsam aussehenden Kisten, die aus defekten ARC-Sonden fallen. Wenn wir die irgendwie öffnen könnten, verstehen wir vielleicht, wonach sie suchen.",
+            "en": "Raiders have long reported strange-looking crates falling from damaged ARC probes. If we could somehow open them, we might understand what they're looking for.",
+            "es": "Los raiders han reportado desde hace tiempo cajas de aspecto extraño que caen de sondas ARC dañadas. Si pudiéramos abrirlas de alguna manera, quizás entenderíamos qué están buscando.",
+            "fr": "Les raiders signalent depuis longtemps des caisses d'apparence étrange tombant de sondes ARC défectueuses. Si nous pouvions les ouvrir d'une manière ou d'une autre, nous comprendrions peut-être ce qu'ils cherchent.",
+            "he": "שודדים מדווחים כבר זמן רב על ארגזים מוזרים שנופלים מגששי ARC פגומים. אם נוכל איכשהו לפתוח אותם, אולי נבין מה הם מחפשים.",
+            "hr": "Raideri već dugo izvještavaju o čudnim sanducima koji padaju iz oštećenih ARC sondi. Kad bismo ih nekako mogli otvoriti, možda bismo razumjeli što traže.",
+            "it": "I raider segnalano da tempo strane casse che cadono da sonde ARC danneggiate. Se potessimo in qualche modo aprirle, forse capiremmo cosa stanno cercando.",
+            "ja": "レイダーたちは以前から、壊れたARCの探査機から奇妙な箱が落ちてくると報告していた。なんとか開けることができれば、奴らが何を探しているのかわかるかもしれない。",
+            "kr": "레이더들은 오래전부터 손상된 ARC 탐사선에서 이상하게 생긴 상자가 떨어지는 걸 보고해 왔어. 어떻게든 열 수 있다면, 놈들이 뭘 찾고 있는지 이해할 수 있을 거야.",
+            "no": "Raidere har lenge rapportert om merkelig utseende kasser som faller fra skadede ARC-sonder. Hvis vi på en eller annen måte kunne åpne dem, forstår vi kanskje hva de leter etter.",
+            "pl": "Raiderzy od dawna donoszą o dziwnie wyglądających skrzyniach spadających z uszkodzonych sond ARC. Gdybyśmy mogli je jakoś otworzyć, może zrozumielibyśmy, czego szukają.",
+            "pt": "Os raiders há muito que reportam caixas de aspeto estranho a cair de sondas ARC danificadas. Se as conseguíssemos abrir de alguma forma, talvez percebêssemos o que estão à procura.",
+            "pt-BR": "Os raiders já relatam há tempos caixas de aparência estranha caindo de sondas ARC danificadas. Se conseguíssemos abri-las de alguma forma, talvez entendêssemos o que eles estão procurando.",
+            "ru": "Рейдеры давно сообщают о странных ящиках, падающих из повреждённых зондов ARC. Если бы мы как-то смогли их открыть, возможно, поняли бы, что они ищут.",
+            "sr": "Rejderi već dugo izveštavaju o čudnim sanducima koji padaju iz oštećenih ARC sondi. Kad bismo ih nekako mogli otvoriti, možda bismo razumeli šta traže.",
+            "tr": "Akıncılar uzun süredir hasarlı ARC sondalarından düşen garip görünümlü kasalar bildiriyorlar. Bunları bir şekilde açabilirsek, belki ne aradıklarını anlayabiliriz.",
+            "uk": "Рейдери вже давно повідомляють про дивні ящики, що падають із пошкоджених зондів ARC. Якби ми якось змогли їх відкрити, можливо, зрозуміли б, що вони шукають.",
+            "zh-CN": "突袭者们早就报告说有奇怪的箱子从受损的ARC探测器上掉落。如果我们能想办法打开它们，也许就能明白它们在寻找什么。",
+            "zh-TW": "突襲者們早就報告說有奇怪的箱子從受損的ARC探測器上掉落。如果我們能想辦法打開它們，也許就能明白它們在尋找什麼。"
         },
         "objectivesOneRound": true,
         "objectives": [
@@ -6799,7 +6818,26 @@
             }
         ],
         "description": {
-            "de": "Der Schaden hier unten war ziemlich übel, aber die Infrastruktur oben hat es noch schlimmer erwischt. Ich hab noch einige Antennen, die seit dem Sturm nicht mehr funktionieren."
+            "da": "Skaderne hernede var ret slemme, men infrastrukturen ovenover blev ramt endnu hårdere. Jeg har stadig nogle antenner, der ikke har virket siden stormen.",
+            "de": "Der Schaden hier unten war ziemlich übel, aber die Infrastruktur oben hat es noch schlimmer erwischt. Ich hab noch einige Antennen, die seit dem Sturm nicht mehr funktionieren.",
+            "en": "The damage down here was pretty bad, but the infrastructure up top got hit even worse. I still have some antennas that haven't been working since the storm.",
+            "es": "El daño aquí abajo fue bastante grave, pero la infraestructura de arriba fue golpeada aún peor. Todavía tengo algunas antenas que no funcionan desde la tormenta.",
+            "fr": "Les dégâts ici en bas étaient assez graves, mais l'infrastructure là-haut a été encore plus touchée. J'ai encore quelques antennes qui ne fonctionnent plus depuis la tempête.",
+            "he": "הנזק כאן למטה היה די גרוע, אבל התשתית למעלה נפגעה עוד יותר. עדיין יש לי כמה אנטנות שלא עובדות מאז הסערה.",
+            "hr": "Šteta ovdje dolje bila je prilično loša, ali infrastruktura gore je bila pogođena još gore. Još uvijek imam neke antene koje ne rade od oluje.",
+            "it": "I danni quaggiù erano piuttosto gravi, ma l'infrastruttura lassù è stata colpita ancora peggio. Ho ancora alcune antenne che non funzionano dalla tempesta.",
+            "ja": "ここの被害もひどかったが、上のインフラはもっとやられた。嵐以来動いていないアンテナがまだいくつかある。",
+            "kr": "여기 아래 피해도 꽤 심했지만, 위의 인프라는 더 심하게 당했어. 폭풍 이후로 작동하지 않는 안테나가 아직 몇 개 있어.",
+            "no": "Skadene her nede var ganske ille, men infrastrukturen oppe ble truffet enda verre. Jeg har fortsatt noen antenner som ikke har fungert siden stormen.",
+            "pl": "Szkody tutaj na dole były dość poważne, ale infrastruktura na górze ucierpiała jeszcze bardziej. Wciąż mam kilka anten, które nie działają od czasu burzy.",
+            "pt": "Os danos cá em baixo foram bastante maus, mas a infraestrutura lá em cima foi atingida ainda pior. Ainda tenho algumas antenas que não funcionam desde a tempestade.",
+            "pt-BR": "Os danos aqui embaixo foram bem graves, mas a infraestrutura lá em cima foi atingida ainda pior. Ainda tenho algumas antenas que não funcionam desde a tempestade.",
+            "ru": "Повреждения внизу были серьёзные, но инфраструктура наверху пострадала ещё сильнее. У меня всё ещё есть антенны, которые не работают со времён шторма.",
+            "sr": "Šteta ovde dole bila je prilično loša, ali infrastruktura gore je bila pogođena još gore. Još uvek imam neke antene koje ne rade od oluje.",
+            "tr": "Buradaki hasar oldukça kötüydü ama yukarıdaki altyapı daha da kötü etkilendi. Fırtınadan beri çalışmayan birkaç antenım var hâlâ.",
+            "uk": "Пошкодження тут унизу були досить серйозні, але інфраструктура нагорі постраждала ще більше. У мене досі є кілька антен, які не працюють з часу бурі.",
+            "zh-CN": "这里下面的损坏已经够严重了，但上面的基础设施受到的打击更大。我还有一些天线自从暴风雨以来就没有工作过。",
+            "zh-TW": "這裡下面的損壞已經夠嚴重了，但上面的基礎設施受到的打擊更大。我還有一些天線自從暴風雨以來就沒有工作過。"
         },
         "objectivesOneRound": true,
         "objectives": [
@@ -8284,7 +8322,26 @@
             }
         ],
         "description": {
-            "de": "Ich hab Gerüchte über ein Signal gehört, das Shani aufgefangen hat. Die ARC passen sich ständig an, und ich bin mir sicher, dass das nicht ihr letztes Warnsignal sein wird. Na ja, wenn sie ein Wettrüsten wollen, dann kriegen sie eins."
+            "da": "Jeg har hørt rygter om et signal, som Shani har opfanget. ARC tilpasser sig konstant, og jeg er sikker på, at det ikke bliver deres sidste advarselssignal. Nå, hvis de vil have et våbenkapløb, så får de et.",
+            "de": "Ich hab Gerüchte über ein Signal gehört, das Shani aufgefangen hat. Die ARC passen sich ständig an, und ich bin mir sicher, dass das nicht ihr letztes Warnsignal sein wird. Na ja, wenn sie ein Wettrüsten wollen, dann kriegen sie eins.",
+            "en": "I've heard rumours about a signal that Shani picked up. The ARC are constantly adapting, and I'm sure this won't be their last warning signal. Well, if they want an arms race, they'll get one.",
+            "es": "He oído rumores sobre una señal que Shani captó. Los ARC se adaptan constantemente, y estoy seguro de que esta no será su última señal de advertencia. Bueno, si quieren una carrera armamentística, la tendrán.",
+            "fr": "J'ai entendu des rumeurs à propos d'un signal que Shani a intercepté. Les ARC s'adaptent constamment, et je suis sûr que ce ne sera pas leur dernier signal d'alerte. Eh bien, s'ils veulent une course aux armements, ils l'auront.",
+            "he": "שמעתי שמועות על אות ש-Shani קלטה. ה-ARC מסתגלים כל הזמן, ואני בטוח שזה לא יהיה אות האזהרה האחרון שלהם. ובכן, אם הם רוצים מירוץ חימוש, הם יקבלו אחד.",
+            "hr": "Čuo sam glasine o signalu koji je Shani uhvatila. ARC se stalno prilagođavaju, i siguran sam da to neće biti njihov posljednji signal upozorenja. Pa, ako žele utrku u naoružanju, dobit će je.",
+            "it": "Ho sentito voci su un segnale che Shani ha captato. Gli ARC si adattano costantemente, e sono sicuro che questo non sarà il loro ultimo segnale di avvertimento. Beh, se vogliono una corsa agli armamenti, l'avranno.",
+            "ja": "シャニが拾った信号について噂を聞いた。ARCは常に適応し続けている。これが最後の警告信号じゃないのは確かだ。まあ、軍拡競争がお望みなら、受けて立とう。",
+            "kr": "샤니가 포착한 신호에 대한 소문을 들었어. ARC는 끊임없이 적응하고 있고, 이것이 마지막 경고 신호가 아닐 거라고 확신해. 뭐, 군비 경쟁을 원한다면, 해주지.",
+            "no": "Jeg har hørt rykter om et signal som Shani fanget opp. ARC tilpasser seg hele tiden, og jeg er sikker på at dette ikke blir deres siste varselsignal. Vel, hvis de vil ha et våpenkappløp, så skal de få det.",
+            "pl": "Słyszałem pogłoski o sygnale, który Shani przechwyciła. ARC ciągle się adaptują i jestem pewien, że to nie będzie ich ostatni sygnał ostrzegawczy. Cóż, jeśli chcą wyścigu zbrojeń, to go dostaną.",
+            "pt": "Ouvi rumores sobre um sinal que a Shani captou. Os ARC estão constantemente a adaptar-se, e tenho a certeza de que este não será o último sinal de aviso deles. Bem, se querem uma corrida armamentista, vão tê-la.",
+            "pt-BR": "Ouvi boatos sobre um sinal que a Shani captou. Os ARC estão se adaptando constantemente, e tenho certeza de que esse não será o último sinal de alerta deles. Bom, se eles querem uma corrida armamentista, vão ter uma.",
+            "ru": "Я слышал слухи о сигнале, который перехватила Шани. ARC постоянно адаптируются, и я уверен, что это не последний их предупредительный сигнал. Что ж, если они хотят гонку вооружений — они её получат.",
+            "sr": "Čuo sam glasine o signalu koji je Shani uhvatila. ARC se stalno prilagođavaju, i siguran sam da to neće biti njihov poslednji signal upozorenja. Pa, ako žele trku u naoružanju, dobiće je.",
+            "tr": "Shani'nin yakaladığı bir sinyal hakkında söylentiler duydum. ARC sürekli uyum sağlıyor ve bunun son uyarı sinyalleri olmayacağından eminim. Eh, silahlanma yarışı istiyorlarsa, alacaklar.",
+            "uk": "Я чув чутки про сигнал, який перехопила Шані. ARC постійно адаптуються, і я впевнений, що це не буде їхнім останнім попереджувальним сигналом. Що ж, якщо вони хочуть перегони озброєнь — вони їх отримають.",
+            "zh-CN": "我听说了关于沙尼截获的一个信号的传闻。ARC在不断适应，我确信这不会是他们最后的警告信号。好吧，如果他们想要军备竞赛，那就给他们。",
+            "zh-TW": "我聽說了關於沙尼截獲的一個信號的傳聞。ARC在不斷適應，我確信這不會是他們最後的警告信號。好吧，如果他們想要軍備競賽，那就給他們。"
         },
         "objectives": [
             {
@@ -9327,7 +9384,7 @@
             "fr": "Les gamins du coin s'amusent à shooter dans des goupilles de grenades vides. Ce n'est qu'une question de temps avant qu'elles ne soient plus si vides.\n\nAlors voici le plan. Tu m'aides avec les préparatifs, et je monte une vraie équipe de foot pour les jeunes.",
             "he": "הילדים כאן בועטים תרמילי רימונים ריקים. זה רק עניין של זמן עד שהם לא יהיו כל כך ריקים.\n\nאז הנה התוכנית. אתה תעזור לי עם קצת עבודת הכנה, ואני אקים קבוצת כדורגל אמיתית לצעירים.",
             "hr": "Djeca ovdje udaraju prazne čahure granata. Samo je pitanje vremena kada one neće biti tako prazne.\n\nDakle, evo plana. Ti mi pomozi oko priprema, a ja ću osnovati pravi nogometni tim za mlade.",
-            "it": "I ragazzini qui intorno prendono a calci bossoli di granate vuoti. È solo questione di tempo prima che non siano così vuoti.\n\nQuindi ecco il piano. Tu mi aiuti con un po' di lavoro preparatorio e io metterò su una vera squadra di calcio per i giovani.",
+            "it": "I ragazzi da queste parti prendono a calci i bossoli vuoti delle granate. È solo questione di tempo prima che non siano più vuoti. Quindi, ecco il piano: tu mi aiuti con un po' di preparativi e io metto su una vera squadra di calcio per i più giovani.",
             "ja": "この辺りの子供たちは空の手榴弾の薬莢を蹴って遊んでいる。中身が入ったままのやつを蹴るのも時間の問題だ。\n\nそこで計画がある。あんたが準備を手伝ってくれれば、俺が子供たちのためにまともなサッカーチームを作ってやる。",
             "kr": "이 주변 아이들이 빈 수류탄 탄피를 차고 놀고 있어. 그게 비어있지 않은 걸 차게 되는 건 시간문제야.\n\n그래서 계획이 있어. 네가 준비 작업을 좀 도와주면, 내가 아이들을 위해 진짜 축구팀을 만들어 줄게.",
             "no": "Barna her omkring har sparket rundt på tomme granathylser. Det er bare et tidsspørsmål før de ikke er så tomme.\n\nSå her er planen. Du hjelper meg med litt forarbeid, så skal jeg sette opp et faktisk fotballag for de unge.",
@@ -9350,7 +9407,7 @@
                 "fr": "Livrer un ballon de foot dégonflé à Apollo",
                 "he": "מסור כדורגל le-nupach לאפולו",
                 "hr": "Dostavi ispuhanu nogometnu loptu Apollu",
-                "it": "Consegna un pallone da calcio sgonfio ad Apollo",
+                "it": "Consegna un pallone sgonfio ad Apollo",
                 "ja": "しぼんだサッカーボールをアポロに届ける",
                 "kr": "바람 빠진 축구공을 아폴로에게 전달",
                 "no": "Lever en flat fotball til Apollo",
@@ -9372,7 +9429,7 @@
                 "fr": "Livrer une pompe à vélo à Apollo",
                 "he": "מסור משאבת אופניים לאפולו",
                 "hr": "Dostavi pumpu za bicikl Apollu",
-                "it": "Consegna una pompa per bicicletta ad Apollo",
+                "it": "Consegna una pompa per bici ad Apollo",
                 "ja": "自転車の空気入れをアポロに届ける",
                 "kr": "자전거 펌프를 아폴로에게 전달",
                 "no": "Lever en sykkelpumpe til Apollo",
@@ -9394,7 +9451,7 @@
                 "fr": "Sur Dam Battlegrounds, photographier le but près des châteaux d'eau",
                 "he": "ב-Dam Battlegrounds, צלם את השער ליד מגדלי המים",
                 "hr": "Na Dam Battlegrounds, fotografiraj gol kod Vodotornjeva",
-                "it": "Su Dam Battlegrounds, fotografa la porta vicino alle Torri Idriche",
+                "it": "Sui campi di battaglia della Diga, fotografa la porta vicino alle Torri idriche",
                 "ja": "ダムの戦場で、給水塔のそばにあるゴールを撮影する",
                 "kr": "댐 전장, 급수탑 옆의 골대 사진 촬영",
                 "no": "På Dam Battlegrounds, fotografer målet ved vanntårnene",
@@ -9416,7 +9473,7 @@
                 "fr": "Dans Buried City, photographier les magazines de foot dans n'importe quel kiosque",
                 "he": "ב-Buried City, צלם את מגזיני הכדורגל בכל קיוסק",
                 "hr": "U Buried Cityju fotografiraj nogometne časopise u bilo kojem kiosku",
-                "it": "Nella Città Sepolta, fotografa le riviste di calcio in qualsiasi chiosco",
+                "it": "Nella Città sepolta, fotografa le riviste di calcio in qualsiasi chiosco",
                 "ja": "埋もれた都市で、任意のキオスクにあるサッカー雑誌を撮影する",
                 "kr": "매몰된 도시, 아무 키오스크에 있는 축구 잡지 사진 촬영",
                 "no": "I Buried City, fotografer fotballmagasinene i hvilken som helst kiosk",
@@ -10751,7 +10808,7 @@
                 "de": "Liefere ein Nährstoffmessgerät an Tian Wen",
                 "en": "Reach the Grandioso Apartments in Buried City",
                 "es": "Llega a los Apartamentos Grandioso en Buried City",
-                "fr": "Atteindre les appartements Grandioso dans Buried City",
+                "fr": "Atteindre les appartements Grandioso dans Ville Enfouie",
                 "he": "הגע אל דירות Grandioso ב-Buried City",
                 "hr": "Stigni do Grandioso apartmana u Zakopanom gradu",
                 "it": "Raggiungi gli Appartamenti Grandioso in Buried City",
@@ -10877,6 +10934,16 @@
                 "uk": "Доставити Вимірювач Вологості Тянь Веню",
                 "zh-CN": "将湿度计交给田文",
                 "zh-TW": "將濕度計交給田文"
+            }
+        ],
+        "requiredItemIds": [
+            {
+                "itemId": "nutrient_meter",
+                "quantity": 1
+            },
+            {
+                "itemId": "moisture_meter",
+                "quantity": 1
             }
         ],
         "rewardItemIds": [
