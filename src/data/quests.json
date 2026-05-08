@@ -2231,6 +2231,119 @@
         "updatedAt": "02/25/2026"
     },
     {
+        "id": "a_wrench_in_the_works",
+        "name": {
+            "da": "Grus i maskineriet",
+            "de": "Ein Strich durch die Rechnung",
+            "en": "A Wrench in the Works",
+            "es": "Un contratiempo",
+            "fr": "Grain de sable dans l'engrenage",
+            "he": "מקל בגלגלים",
+            "hr": "Klip u kotačima",
+            "it": "Un intoppo",
+            "ja": "計画の妨げ",
+            "ko-KR": "작업에 낀 렌치",
+            "no": "Kjepper i hjulene",
+            "pl": "Kij w szprychach",
+            "pt": "Uma Solução Ajustável",
+            "pt-BR": "Uma Solução Ajustável",
+            "ru": "Ключ в деле",
+            "sr": "Klip u točkove",
+            "tr": "Tekere Sokulan Çomak",
+            "uk": "Палки в колеса",
+            "zh-CN": "暗中破坏",
+            "zh-TW": "阻撓計畫"
+        },
+        "map": [
+            "the_spaceport"
+        ],
+        "trader": "Celeste",
+        "description": {
+            "da": "Det ser ud til, at vreden endte med at nå frem til selve jordpersonalet på The Spaceport. Et mytteri er under opsejling, lige i hjertet af Exodus.",
+            "de": "Es sieht so aus, als hätte sich der Unmut schließlich bis zum Bodenpersonal des Raumhafens selbst ausgebreitet. Eine Meuterei bahnte sich an, mitten im Herzen des Exodus.",
+            "en": "Looks like the resentment ended up reaching the ground staff of the Spaceport itself. A mutiny brewing, right in the heart of the Exodus.",
+            "es": "Parece ser que la crispación acabó llegando al personal de tierra del Puerto espacial. Se estaba gestando una rebelión en el mismísimo corazón del Éxodo.",
+            "fr": "Les dissensions semblent avoir même fini par gagner le personnel au sol du port spatial. Une mutinerie se tramait, en plein cœur de l'Exode.",
+            "he": "נראה שהטינה הגיעה בסופו של דבר לצוות הקרקע של The Spaceport עצמו. מרד מתבשל, ממש בלב ה-Exodus.",
+            "hr": "Čini se da je ogorčenost na kraju stigla i do zemaljskog osoblja The Spaceporta. Sprema se pobuna, i to u samom srcu Exodusa.",
+            "it": "Sembra che il risentimento sia arrivato a coinvolgere anche il personale di terra dello Spazioporto. Stava per scoppiare una rivolta, proprio nel cuore dell'Esodo.",
+            "ja": "その怒りは宇宙港の地上スタッフにまで届いたようだ。エクソダスの心臓部で反乱が勃発している。",
+            "ko-KR": "그 불만은 결국 우주 기지의 지상 직원들에게까지 번진 모양이에요. 엑소더스 한복판에서 반란의 불씨가 커지고 있었던 거죠.",
+            "no": "Ser ut til at misnøyen endte opp med å nå bakkemannskapet på selve The Spaceport. Et mytteri er i emning, rett i hjertet av Exodus.",
+            "pl": "Wygląda na to, że frustracja udzieliła się też naziemnej obsłudze portu kosmicznego. W samym sercu Exodusu zanosiło się na bunt.",
+            "pt": "Parece que o descontentamento chegou até a equipe operacional do Espaçoporto. Um motim tomou forma bem no meio do Êxodo.",
+            "pt-BR": "Parece que o descontentamento chegou até a equipe operacional do Espaçoporto. Um motim tomou forma bem no meio do Êxodo.",
+            "ru": "Похоже, недовольство добралось и до наземных сотрудников космопорта. В самом сердце Исхода назрел мятеж.",
+            "sr": "Izgleda da je ogorčenost na kraju stigla i do zemaljskog osoblja na lokaciji The Spaceport. Sprema se pobuna, i to u samom srcu Exodusa.",
+            "tr": "Anlaşılan kızgınlık Uzaylimanı'nın kendi yer personeline kadar ulaşmış. Exodus'un tam kalbinde bir isyan körüklenmiş.",
+            "uk": "Схоже, невдоволення дісталося й наземного персоналу самого The Spaceport. Назріває заколот, просто в серці Exodus.",
+            "zh-CN": "看来不满情绪蔓延到了太空港的地勤员工，“离巢”的核心地带正在酝酿叛乱。",
+            "zh-TW": "看來這股怨恨最終蔓延到了太空港本身的地勤人員。就在出逃期間，反叛正在醞釀。"
+        },
+        "objectives": [
+            {
+                "da": "Gennemsøg busserne nær den vestlige port",
+                "de": "Durchsuche die Busse in der Nähe des Westtors.",
+                "en": "Search the buses near the western gate",
+                "es": "Registra los autobuses junto a la puerta oeste.",
+                "fr": "Fouiller les bus près de la porte ouest",
+                "he": "חפש באוטובוסים ליד השער המערבי",
+                "hr": "Pretraži autobuse u blizini zapadnih vrata",
+                "it": "Ispeziona i bus vicino al cancello occidentale",
+                "ja": "西門近くのバスを調べる",
+                "ko-KR": "서쪽 게이트 근처 버스 수색하기",
+                "no": "Gjennomsøk bussene nær vestporten",
+                "pl": "Przeszukaj autobusy przy zachodniej bramie",
+                "pt": "Vasculhe os ônibus perto do portão oeste",
+                "pt-BR": "Vasculhe os ônibus perto do portão oeste",
+                "ru": "Обыщите автобусы у западных ворот.",
+                "sr": "Pretraži autobuse blizu zapadne kapije",
+                "tr": "Batı kapısı yakınındaki otobüsleri ara",
+                "uk": "Обшукайте автобуси біля західних воріт",
+                "zh-CN": "搜索西门附近的巴士",
+                "zh-TW": "搜索西大門附近的公車"
+            },
+            {
+                "da": "Find gemmestedet med sabotageforsyninger skjult ved vandtårnene",
+                "de": "Finde den Vorrat an Sabotagematerial, der bei den Wassertürmen versteckt ist.",
+                "en": "Locate the stash of sabotage supplies hidden at the Water Towers",
+                "es": "Encuentra el alijo de suministros saboteados oculto en las torres de agua.",
+                "fr": "Localiser la réserve de matériaux de sabotage cachée dans les Châteaux d'eau",
+                "he": "אתר את מאגר ציוד החבלה המוסתר במגדלי המים",
+                "hr": "Pronađi zalihu opreme za sabotažu skrivenu kod vodenih tornjeva",
+                "it": "Individua la scorta di materiale per il sabotaggio nascosta nelle Torri idriche",
+                "ja": "給水塔に隠されている破壊工作用物資の保管場所を見つける",
+                "ko-KR": "급수탑에 숨겨진 파괴 공작 보급품 은닉처 찾기",
+                "no": "Finn lageret med sabotasjeutstyr som er skjult ved vanntårnene",
+                "pl": "Znajdź skrytkę z zapasami sabotażystów ukrytą w wieżach ciśnień",
+                "pt": "Localize o estoque de suprimentos de sabotagem escondido nas Torres de Água",
+                "pt-BR": "Localize o estoque com suprimentos de sabotagem escondido nas Torres de Água",
+                "ru": "Найдите хранилище с припасами для саботажа, спрятанное в водонапорных башнях.",
+                "sr": "Pronađi skrivene zalihe za sabotažu kod vodenih tornjeva",
+                "tr": "Su Kulelerinde gizlenen sabotaj malzemesi zulasını bul",
+                "uk": "Знайдіть схованку з припасами для саботажу біля водонапірних веж",
+                "zh-CN": "找到藏在水塔的破坏物资储备箱",
+                "zh-TW": "找到藏在水塔內的破壞用品儲藏箱"
+            }
+        ],
+        "rewardItemIds": [
+            {
+                "itemId": "mechanical_components",
+                "quantity": 5
+            },
+            {
+                "itemId": "mod_components",
+                "quantity": 3
+            }
+        ],
+        "xp": 0,
+        "previousQuestIds": [
+            "safe_harbor"
+        ],
+        "nextQuestIds": [],
+        "updatedAt": "04/28/2026"
+    },
+    {
         "id": "back_on_top",
         "name": {
             "da": "På toppen igen",
@@ -2400,6 +2513,144 @@
             "our_presence_up_there"
         ],
         "updatedAt": "03/31/2026"
+    },
+    {
+        "id": "battening_down",
+        "name": {
+            "da": "Skalkning af lugerne",
+            "de": "Auf das Schlimmste vorbereiten",
+            "en": "Battening Down",
+            "es": "Echar el cerrojo",
+            "fr": "Mise en berne",
+            "he": "היערכות לסערה",
+            "hr": "Priprema za oluju",
+            "it": "Messa in sicurezza",
+            "ja": "万全の備え",
+            "ko-KR": "철저한 대비",
+            "no": "Skalker lukene",
+            "pl": "Przygotowując się na najgorsze",
+            "pt": "Reforçando Tudo",
+            "pt-BR": "Reforçando Tudo",
+            "ru": "Меры предосторожности",
+            "sr": "Priprema za oluju",
+            "tr": "Zora Hazırlık",
+            "uk": "Підготовка до шторму",
+            "zh-CN": "加固防御",
+            "zh-TW": "嚴陣以待"
+        },
+        "map": [
+            "riven_tide"
+        ],
+        "trader": "Apollo",
+        "otherRequirements": [
+            "20x Raids"
+        ],
+        "description": {
+            "da": "Vi havde håbet, at bølgebryderne ved Riven Tides kunne tilbyde os lidt beskyttelse mod elementerne, men det lader til, at orkanerne heller ikke var nådige mod dette sted.",
+            "de": "Wir hatten gehofft, dass uns die Ufermauern in Riven Tides etwas Schutz vor den Elementen bieten würden, aber anscheinend haben die Hurrikane auch diesen Ort nicht verschont.",
+            "en": "We’d hoped the seawalls at Riven Tides might offer us some protection from the elements, but it seems the hurricanes were not kind to this place, either.",
+            "es": "Esperábamos que los rompeolas de Mareas divididas nos protegieran del clima, pero los huracanes también se cebaron con este sitio.",
+            "fr": "Nous espérions que les digues de Riven Tides nous offriraient une certaine protection contre les éléments, mais les ouragans n'ont apparemment pas épargné cet endroit.",
+            "he": "קיווינו שחומות המגן ב-Riven Tides יעניקו לנו קצת הגנה מפני איתני הטבע, אבל נראה שסופות ההוריקן לא חסו גם על המקום הזה.",
+            "hr": "Nadali smo se da će nam lukobrani u Riven Tidesu pružiti nekakvu zaštitu od vremenskih neprilika, ali čini se da uragani ni prema ovom mjestu nisu bili blagi.",
+            "it": "Speravamo che le dighe di Spezzamarea ci offrissero un po' di protezione dalle intemperie, ma sembra che gli uragani non siano stati clementi nemmeno con questo luogo.",
+            "ja": "リブン・タイズの防波堤が風雨から守ってくれることを期待していたんだが、どうやらハリケーンはこの場所にも容赦なく襲い掛かってきたらしい。",
+            "ko-KR": "갈라진 물결의 방파제가 비바람을 막아주기를 바랐지만, 허리케인이 자비 없이 몰아친 모양입니다.",
+            "no": "Vi hadde håpet at sjømurene ved Riven Tides ville gi oss litt beskyttelse mot elementene, men det ser ut til at orkanene ikke var nådige med dette stedet heller.",
+            "pl": "Mieliśmy nadzieję, że falochrony na Rozdartym Wybrzeżu ochronią nas przed żywiołami, ale, jak widać, huragany nie oszczędziły też tego miejsca.",
+            "pt": "A gente tinha esperança de que os quebra-mares em Marés Partidas dessem alguma proteção contra intempéries, mas parece que os furacões castigaram o lugar.",
+            "pt-BR": "A gente tinha esperança de que os quebra-mares em Marés Partidas dessem alguma proteção contra intempéries, mas parece que os furacões castigaram o lugar.",
+            "ru": "Мы надеялись, что волнорезы в Бурных потоках защитят нас от стихий, но ураганы это место не пожалели.",
+            "sr": "Nadali smo se da će nam obalski bedemi u lokaciji Riven Tides pružiti neku zaštitu od vremenskih neprilika, ali izgleda da uragani ni prema ovom mestu nisu bili blagonakloni.",
+            "tr": "Riven Tides'daki deniz setleri bizi biraz korur diye ummuştuk ancak görünüşe göre kasırgalar burayı da vurmuş.",
+            "uk": "Ми сподівалися, що дамби в Riven Tides хоч якось захистять нас від стихії, але, схоже, урагани не пощадили і це місце.",
+            "zh-CN": "我们本指望裂潮镇的海堤能抵御天灾，可飓风也没放过这里。",
+            "zh-TW": "我們本來期望裂潮鎮的防波堤可以為我們抵擋惡劣的海浪，但看來颶風也對這個地方不友善。"
+        },
+        "objectives": [
+            {
+                "da": "Fotografer revnerne, der dannes i bølgebryderen",
+                "de": "Fotografiere die Risse, die sich in der Ufermauer bilden.",
+                "en": "Photograph the cracks forming in the seawall",
+                "es": "Saca una foto de las grietas del rompeolas.",
+                "fr": "Photographier les fissures qui se forment dans la digue",
+                "he": "צלם את הסדקים שנוצרים בחומת המגן",
+                "hr": "Fotografiraj pukotine koje nastaju u lukobranu",
+                "it": "Fai una foto alle crepe che si formano nella diga",
+                "ja": "防波堤の亀裂を撮影する",
+                "ko-KR": "방파제에 생기고 있는 균열 촬영하기",
+                "no": "Fotografer sprekkene som danner seg i sjømuren",
+                "pl": "Zrób zdjęcie pęknięciom powstającym na falochronie",
+                "pt": "Fotografe as rachaduras que estão se formando no quebra-mar",
+                "pt-BR": "Fotografe as rachaduras que estão se formando no quebra-mar",
+                "ru": "Сфотографируйте трещины на волнорезе.",
+                "sr": "Fotografiši pukotine koje se stvaraju na obalskom bedemu",
+                "tr": "Deniz seddinde oluşan çatlakların fotoğrafını çek",
+                "uk": "Сфотографуйте тріщини, що утворюються на дамбі",
+                "zh-CN": "拍摄海堤上的裂缝",
+                "zh-TW": "拍攝防波堤上形成的裂縫"
+            },
+            {
+                "da": "Tag prøver af kystlinjen nær hotellets strand",
+                "de": "Sammle Proben von der Küstenlinie in der Nähe des Hotelstrands.",
+                "en": "Sample the shoreline near the hotel beach",
+                "es": "Recoge muestras en la orilla junto al hotel.",
+                "fr": "Prélever un échantillon sur le littoral près de la plage de l'hôtel",
+                "he": "קח דגימה מקו החוף ליד חוף המלון",
+                "hr": "Uzmi uzorak s obale blizu hotelske plaže",
+                "it": "Esplora la costa della spiaggia vicina all'hotel",
+                "ja": "ホテルのビーチ近くの海岸線でサンプルを採る",
+                "ko-KR": "호텔 해변 근처 해안선 샘플 채취하기",
+                "no": "Ta prøver av strandlinjen nær hotellstranden",
+                "pl": "Pobierz próbki na linii brzegowej w pobliżu hotelowej plaży",
+                "pt": "Colete uma amostra na faixa costeira perto da praia do hotel",
+                "pt-BR": "Colete uma amostra na faixa costeira perto da praia do hotel",
+                "ru": "Возьмите образцы на побережье отельного пляжа.",
+                "sr": "Uzmi uzorak sa obale blizu hotelske plaže",
+                "tr": "Otel sahilininin yakınındaki sahil şeridinden numune al",
+                "uk": "Візьміть зразки на узбережжі біля пляжу готелю",
+                "zh-CN": "在酒店海滩附近的海岸线采集样本",
+                "zh-TW": "在飯店海灘附近的海岸線採集樣本"
+            },
+            {
+                "da": "Reparer det lækkende olierør i nordøst",
+                "de": "Repariere die undichte Ölleitung im Nordosten.",
+                "en": "Fix the leaking oil pipe in the northeast",
+                "es": "Repara la tubería de crudo en el noreste.",
+                "fr": "Réparer l'oléoduc qui fuit au nord-est",
+                "he": "תקן את צינור הנפט הדולף בצפון-מזרח",
+                "hr": "Popravi naftovod koji curi na sjeveroistoku",
+                "it": "Ripara il tubo dell'olio che perde vicino a nord-est.",
+                "ja": "北東にある漏れている石油パイプを修理する",
+                "ko-KR": "북동쪽에 있는 새는 송유관 수리하기",
+                "no": "Reparer det lekkende oljerøret i nordøst",
+                "pl": "Napraw przeciekającą rurę naftową na północnym wschodzie.",
+                "pt": "Conserte o cano de óleo com vazamento no nordeste.",
+                "pt-BR": "Conserte o cano de óleo com vazamento no nordeste.",
+                "ru": "Устраните утечку нефтепровода на северо-востоке.",
+                "sr": "Popravi naftovod koji curi na severoistoku",
+                "tr": "Kuzeydoğudaki sızdıran yağ borusunu tamir et",
+                "uk": "Полагодьте нафтопровід, що протікає на північному сході",
+                "zh-CN": "修复东北方向漏油的油管",
+                "zh-TW": "修理東北方的漏油管線"
+            }
+        ],
+        "rewardItemIds": [
+            {
+                "itemId": "riven_tides_hotel_keycard_no_107",
+                "quantity": 1
+            },
+            {
+                "itemId": "smoke_grenade_trap",
+                "quantity": 3
+            }
+        ],
+        "xp": 0,
+        "previousQuestIds": [
+            "off_the_radar"
+        ],
+        "nextQuestIds": [],
+        "updatedAt": "04/28/2026"
     },
     {
         "id": "bees",
@@ -3154,25 +3405,25 @@
             },
             {
                 "da": "Hent Celestes journaler fra den nordlige forpost med udsigt over Red Lakes",
-                "de": "Hol Celestes Tagebücher aus dem nördlichen Außenposten mit Blick auf die Roten Seen.",
-                "en": "Retrieve Celeste’s Journals from the northern outpost overlooking the Red Lakes",
-                "es": "Recupera los diarios de Celeste en el puesto norte con vistas a los lagos rojos.",
-                "fr": "Récupérer les journaux de Celeste à l'avant-poste nord surplombant les Lacs rouges",
+                "de": "Hol Celestes Tagebücher aus dem Raider-Außenposten Ost.",
+                "en": "Retrieve Celeste’s Journals from Raider Outpost East",
+                "es": "Recupera los diarios de Celeste en el puesto de Raider este.",
+                "fr": "Récupérer les journaux de Celeste à l'avant-poste de Raiders est",
                 "he": "להחזיר את היומנים של Celeste מהמוצב הצפוני המשקיף על ה-Red Lakes",
                 "hr": "Prikupi Celestine dnevnike iz sjeverne predstraže s pogledom na Crvena jezera",
-                "it": "Recupera i diari di Celeste dall'avamposto settentrionale che dà sui Laghi rossi",
-                "ja": "赤い池を見渡せる北の前哨基地からセレステの日誌を回収した",
-                "ko-KR": "붉은 호수가 내려다보이는 북쪽 전초 기지에서 셀레스테의 일지 회수하기",
+                "it": "Recupera i diari di Celeste dall'Avamposto Raider est",
+                "ja": "レイダーの東拠点でセレストの日誌を回収する",
+                "ko-KR": "동쪽 레이더 전초 기지에서 셀레스테의 일지 회수하기",
                 "no": "Hent Celestes journaler fra den nordlige utposten med utsikt over Red Lakes",
-                "pl": "Odzyskaj dzienniki Celeste z posterunku północnego nad Jeziorami Czerwonymi",
+                "pl": "Odzyskaj dzienniki Celeste ze wschodniego posterunku łupieżców",
                 "pt": "Recupere os Diários da Celeste do posto avançado ao norte com vista para os Red Lakes",
-                "pt-BR": "Recupere os Diários da Celeste no posto avançado ao norte, com vista para os Lagos Vermelhos",
-                "ru": "Найдите дневники Селесты в северном аванпосте с видом на Алые озера.",
+                "pt-BR": "Recupere os Diários da Celeste no Posto Avançado de Raider Leste",
+                "ru": "Найдите дневники Селесты в восточном рейдерском аванпосте.",
                 "sr": "Povrati Celestine dnevnike iz severne ispostave koja gleda na Red Lakes",
-                "tr": "Kızıl Göller'e bakan kuzey karakolundan Celeste'in Günlüğü'nü al",
+                "tr": "Doğu Raider Karakolu'ndan Celeste'in Günlüğü'nü al",
                 "uk": "Забрати щоденники Celeste з північного аванпосту над Червоними озерами",
-                "zh-CN": "从俯瞰红湖的北部哨站取回塞莱斯特的日记",
-                "zh-TW": "從可眺望紅湖的北方哨站回收莎莉絲特的日誌"
+                "zh-CN": "从奇袭者岗哨东侧取回塞莱斯特的日记",
+                "zh-TW": "從東掠手哨站回收莎莉絲特的日誌"
             },
             {
                 "da": "Aflever {0} journaler til Celeste",
@@ -3218,7 +3469,7 @@
         "nextQuestIds": [
             "back_on_top"
         ],
-        "updatedAt": "03/31/2026"
+        "updatedAt": "04/28/2026"
     },
     {
         "id": "clamoring_for_attention",
@@ -3601,6 +3852,126 @@
             "snap_and_salvage"
         ],
         "updatedAt": "03/31/2026"
+    },
+    {
+        "id": "collision_course",
+        "name": {
+            "da": "Kollisionskurs",
+            "de": "Kollisionskurs",
+            "en": "Collision Course",
+            "es": "Trayectoria de colisión",
+            "fr": "Droit à la collision",
+            "he": "מסלול התנגשות",
+            "hr": "Putanja sudara",
+            "it": "Rotta di collisione",
+            "ja": "衝突コース",
+            "ko-KR": "충돌 경로",
+            "no": "Kollisjonskurs",
+            "pl": "Kurs kolizyjny",
+            "pt": "Rota de Colisão",
+            "pt-BR": "Rota de Colisão",
+            "ru": "Траектория столкновения",
+            "sr": "Putanja sudara",
+            "tr": "Çarpışma Rotası",
+            "uk": "Курс на зіткнення",
+            "zh-CN": "碰撞航线",
+            "zh-TW": "碰撞航線"
+        },
+        "trader": "Tian Wen",
+        "requiredItemIds": [
+            {
+                "itemId": "comet_igniter",
+                "quantity": 1
+            }
+        ],
+        "description": {
+            "da": "Mange Raiders har lært at undvige en Komet, men alt for få ved, hvordan man nedlægger dem og får fat i deres indre dele.",
+            "de": "Viele Raider haben gelernt, einem Kometen auszuweichen, aber viel zu wenige wissen, wie man sie zum Absturz bringt und an ihre inneren Teile herankommt.",
+            "en": "Many Raiders have learned how to dodge a Comet, but far too few know how to bring them down and get at their inner parts.",
+            "es": "La mayoría de Raiders ya saben cómo esquivar un cometa, pero muy pocos saben cómo abatirlo y llevarse sus piezas internas.",
+            "fr": "Bon nombre de Raiders ont appris à esquiver une Comète, mais très peu savent les abattre et en extraire les composants.",
+            "he": "פושטים רבים למדו איך להתחמק מ-Comet, אבל מעטים מדי יודעים איך להפיל אותם ולהגיע לחלקים הפנימיים שלהם.",
+            "hr": "Mnogi Raideri su naučili kako izbjeći Comet, ali ih premalo zna kako ih srušiti i dočepati se njihovih unutarnjih dijelova.",
+            "it": "Molti Raider hanno imparato a schivare una Cometa, ma purtroppo pochi sanno come abbatterla e raggiungere le sue parti interne.",
+            "ja": "コメットの避け方を覚えたレイダーはたくさんいるけど、倒して内部のパーツを手に入れる方法を知る人はあまりにも少ないんだ。",
+            "ko-KR": "레이더가 코멧을 피하는 법을 아는 사람은 많지만, 놈을 격추해 내부 부품을 확보하는 법을 아는 이는 턱없이 적습니다.",
+            "no": "Mange Raiders har lært å unnvike en Comet, men altfor få vet hvordan de skal felle dem og få tak i de indre delene.",
+            "pl": "Wielu łupieżców nauczyło się unikać komety, ale zdecydowanie zbyt mała garstka wie, jak je pokonać i wydobyć z nich części.",
+            "pt": "Muitos Raiders já aprenderam a se esquivar de um Cometa, mas poucos sabem como derrubar um e aproveitar o que tem dentro.",
+            "pt-BR": "Muitos Raiders já aprenderam a se esquivar de um Cometa, mas poucos sabem como derrubar um e aproveitar o que tem dentro.",
+            "ru": "Многие рейдеры научились уворачиваться от «Комет», но лишь единицы знают, как их одолеть и разобрать на запчасти.",
+            "sr": "Mnogi Raideri su naučili kako da izbegnu Comet, ali premalo njih zna kako da ga obori i dođe do njegovih unutrašnjih delova.",
+            "tr": "Birçok Raider Kuyruklı Yıldızlardan kaçınmasını öğrendi ancak onları düşürüp iç kısımlarına ulaşmasını çok azı biliyor.",
+            "uk": "Багато Рейдерів навчилися ухилятися від Комет, але надто мало знають, як їх збивати та діставати внутрішні деталі.",
+            "zh-CN": "不少奇袭者都懂得如何躲避“彗星”，可没几个人知道怎么击落它、拆出内部零件。",
+            "zh-TW": "許多掠手都學會了如何迴避彗星，但太少人知道如何打倒它們、取得它們的內部零件了。"
+        },
+        "objectives": [
+            {
+                "da": "Ødelæg en Komet",
+                "de": "Zerstöre einen Kometen.",
+                "en": "Destroy a Comet",
+                "es": "Destruye un cometa.",
+                "fr": "Détruire une Comète",
+                "he": "השמד Comet",
+                "hr": "Uništi Comet",
+                "it": "Distruggi una Cometa",
+                "ja": "コメットを破壊する",
+                "ko-KR": "코멧 파괴하기",
+                "no": "Ødelegg en Comet",
+                "pl": "Zniszcz kometę",
+                "pt": "Destrua um Cometa",
+                "pt-BR": "Destrua um Cometa",
+                "ru": "Уничтожьте «Комету».",
+                "sr": "Uništi Comet",
+                "tr": "Bir Kuyruklu Yıldız Yok Et",
+                "uk": "Знищте Комету",
+                "zh-CN": "摧毁一个“彗星”",
+                "zh-TW": "摧毀1台彗星"
+            },
+            {
+                "da": "Aflever en Komet-tændsats til Tian Wen",
+                "de": "Liefere einen Kometenzünder an Tian Wen.",
+                "en": "Deliver a Comet Igniter to Tian Wen",
+                "es": "Entrégale un encendedor de cometa a Tian Wen.",
+                "fr": "Livrer un allumeur de Comète à Tian Wen",
+                "he": "מסור מצת Comet ל-Tian Wen",
+                "hr": "Dostavi upaljač Cometa Tian Wenu",
+                "it": "Consegna un Accendicomete a Tian Wen",
+                "ja": "ティアン・ウェンにコメット・イグナイターを届ける",
+                "ko-KR": "티안 웬에게 코멧 점화기 전달하기",
+                "no": "Lever en Comet-tenner til Tian Wen",
+                "pl": "Dostarcz zapalnik komety Tian Wen",
+                "pt": "Entregue um Acendedor de Cometa para Tian Wen",
+                "pt-BR": "Entregue um Acendedor de Cometa para Tian Wen",
+                "ru": "Доставьте Тянь Вэнь запальное устройство «Кометы».",
+                "sr": "Dostavi Comet Igniter Tian Wenu",
+                "tr": "Tian Wen'e bir Kuyruklu Yıldız Ateşleyicisi teslim et",
+                "uk": "Передайте запалювач Комети Tian Wen",
+                "zh-CN": "将“彗星”点火器交给天玟",
+                "zh-TW": "將彗星點火器送去給田文"
+            }
+        ],
+        "rewardItemIds": [
+            {
+                "itemId": "canto_i",
+                "quantity": 1
+            },
+            {
+                "itemId": "extended_medium_mag_iii",
+                "quantity": 1
+            },
+            {
+                "itemId": "muzzle_brake_ii",
+                "quantity": 1
+            }
+        ],
+        "xp": 0,
+        "previousQuestIds": [
+            "safe_passage"
+        ],
+        "nextQuestIds": [],
+        "updatedAt": "04/28/2026"
     },
     {
         "id": "combat_recon",
@@ -7120,8 +7491,10 @@
         "previousQuestIds": [
             "furtive_meetings"
         ],
-        "nextQuestIds": [],
-        "updatedAt": "03/31/2026"
+        "nextQuestIds": [
+            "line_in_the_sand"
+        ],
+        "updatedAt": "04/28/2026"
     },
     {
         "id": "life_of_a_pharmacist",
@@ -7308,6 +7681,169 @@
             "tribute_to_toledo"
         ],
         "updatedAt": "02/25/2026"
+    },
+    {
+        "id": "line_in_the_sand",
+        "name": {
+            "da": "Streg i sandet",
+            "de": "Linie im Sand",
+            "en": "Line in the Sand",
+            "es": "Una línea en la arena",
+            "fr": "Dernière limite",
+            "he": "קו בחול",
+            "hr": "Crta u pijesku",
+            "it": "Linea nella sabbia",
+            "ja": "最終防衛線",
+            "ko-KR": "모래 위 저지선",
+            "no": "Strek i sanden",
+            "pl": "Ostateczna granica",
+            "pt": "Linha na Areia",
+            "pt-BR": "Risco na Areia",
+            "ru": "Линия на песке",
+            "sr": "Linija u pesku",
+            "tr": "Kumdaki Hat",
+            "uk": "Лінія на піску",
+            "zh-CN": "沙滩防线",
+            "zh-TW": "沙灘紅線"
+        },
+        "map": [
+            "buried_city"
+        ],
+        "trader": "Celeste",
+        "description": {
+            "da": "Den Stella Montis-harddisk indeholdt mere end bare nedlukningsdokumentationen - den havde også transportplanerne for nogle ret kritiske Exodus-komponenter.",
+            "de": "Auf dieser Festplatte aus Stella Montis befanden sich nicht nur die Unterlagen zur Stilllegung, sondern auch die Transportpläne für einige ziemlich wichtige Exodus-Komponenten.",
+            "en": "That Stella Montis hard drive contained more than just the shutdown documentation - it also had the transport schedules of some pretty critical Exodus components.",
+            "es": "Ese disco duro de Stella Montis no solo contenía documentos de la cancelación, también había horarios de transporte de unos componentes del Éxodo muy importantes.",
+            "fr": "Ce disque dur de Stella Montis ne contenait pas seulement la documentation relative à l'arrêt du projet, mais aussi les calendriers de transport de certains composants essentiels de l'Exode.",
+            "he": "הכונן הקשיח מ-Stella Montis הכיל יותר מסתם מסמכי כיבוי - היו בו גם לוחות זמני ההובלה של כמה רכיבי Exodus קריטיים למדי.",
+            "hr": "Taj tvrdi disk iz Stella Montisa sadržavao je više od same dokumentacije o gašenju - na njemu su bili i rasporedi transporta nekih prilično ključnih komponenti Exodusa.",
+            "it": "Il disco rigido di Stella Montis non conteneva solo la documentazione per lo spegnimento, ma anche i programmi di trasporto di alcuni componenti critici dell'Esodo.",
+            "ja": "ステラ・モンティスのハードドライブに入っていたのは、中止に関するドキュメントだけじゃない。かなり重要なエクソダスの部品の輸送スケジュールも含まれていた。",
+            "ko-KR": "스텔라 몬티스 하드 드라이브에는 중단 문서만 들어 있던 게 아니었습니다. 꽤 중요한 엑소더스 부품의 운송 계획도 들어 있었죠.",
+            "no": "Den harddisken fra Stella Montis inneholdt mer enn bare nedstengningsdokumentasjonen - den hadde også transportplanene for noen ganske kritiske Exodus-komponenter.",
+            "pl": "Na tym dysku twardym ze Stella Montis znajdowała się nie tylko dokumentacja z zamknięcia, ale też harmonogramy transportowe dotyczące kluczowych części z czasów Exodusu.",
+            "pt": "Aquele disco rígido de Stella Montis continha mais do que apenas a documentação de desligamento - também tinha os cronogramas de transporte de alguns componentes muito críticos do Exodus.",
+            "pt-BR": "Aquele HD de Stella Montis não tinha só a papelada do encerramento. Também tinha os cronogramas de transporte de componentes bem importantes do Êxodo.",
+            "ru": "На жестком диске из «Стелла Монтис» была не только документация о закрытии, но и расписание поставок критически важных для Исхода компонентов.",
+            "sr": "Taj Stella Montis hard disk je sadržao više od same dokumentacije o gašenju - na njemu su se nalazili i rasporedi transporta nekih prilično ključnih komponenti za Exodus.",
+            "tr": "Stella Montis'ten gelen sabit diskte kapanış belgelerinden daha fazlası varmış. Bazı çok kritik Exodus bileşenlerlerinin taşıma programları da içindeymiş.",
+            "uk": "Той жорсткий диск зі Stella Montis містив не лише документацію щодо відключення — на ньому також були графіки транспортування досить важливих компонентів Exodus.",
+            "zh-CN": "那个星辰山硬盘里不光有关停文件，还有“离巢”关键部件的运输时刻表。",
+            "zh-TW": "那個星辰山硬碟包含的資料遠遠不只是終止文件，另外還有一些相當重要的出逃用品運輸時程表。"
+        },
+        "objectives": [
+            {
+                "da": "Find ud af, hvorfor toget aldrig nåede frem til Marano Station",
+                "de": "Finde heraus, warum der Zug den Marano-Bahnhof nie erreicht hat.",
+                "en": "Find out why the train never reached Marano Station",
+                "es": "Averigua por qué el tren nunca llegó a la estación de Marano.",
+                "fr": "Découvrir pourquoi le train n'a jamais atteint la gare de Marano",
+                "he": "גלה מדוע הרכבת מעולם לא הגיעה ל-Marano Station",
+                "hr": "Saznaj zašto vlak nikada nije stigao na Marano Station",
+                "it": "Scopri perché il treno non è mai arrivato alla stazione Marano",
+                "ja": "電車がマラーノ駅に到着しなかった理由を調べる",
+                "ko-KR": "열차가 마라노역에 도착하지 못한 이유 알아내기",
+                "no": "Finn ut hvorfor toget aldri nådde Marano Station",
+                "pl": "Dowiedz się, dlaczego pociąg nigdy nie dojechał na stację Marano",
+                "pt": "Descubra por que o trem nunca chegou a Marano Station",
+                "pt-BR": "Descubra por que o trem nunca chegou à Estação Marano",
+                "ru": "Выясните, почему поезд так и не дошел до станции Марано.",
+                "sr": "Saznaj zašto voz nikada nije stigao na stanicu Marano",
+                "tr": "Trenin Marano İstasyonu'na ulaşmama nedenini öğren",
+                "uk": "Дізнайтеся, чому поїзд так і не прибув на Marano Station",
+                "zh-CN": "查明列车为何未能抵达马拉诺车站",
+                "zh-TW": "查出火車始終未能抵達馬拉諾站的原因"
+            },
+            {
+                "da": "Find ud af, hvem der stod bag røveriet",
+                "de": "Finde heraus, wer den Raubüberfall organisiert hat.",
+                "en": "Find out who orchestrated the robbery",
+                "es": "Descubre quién orquestó el robo.",
+                "fr": "Découvrir qui a orchestré le vol",
+                "he": "גלה מי תכנן את השוד",
+                "hr": "Saznaj tko je organizirao pljačku",
+                "it": "Scopri chi ha orchestrato il furto",
+                "ja": "強盗事件の首謀者を突き止める",
+                "ko-KR": "강도 사건의 주동자 알아내기",
+                "no": "Finn ut hvem som orkestrerte ranet",
+                "pl": "Dowiedz się, kto zorganizował napad",
+                "pt": "Descubra quem orquestrou o roubo",
+                "pt-BR": "Descubra quem orquestrou o roubo",
+                "ru": "Выясните, кто организовал кражу.",
+                "sr": "Saznaj ko je organizovao pljačku",
+                "tr": "Soygunu kimin düzenlediğini öğren",
+                "uk": "Дізнайтеся, хто організував пограбування",
+                "zh-CN": "查明策划劫案的主谋",
+                "zh-TW": "查出是誰策劃了這起搶劫"
+            },
+            {
+                "da": "Find ud af, hvor raketventilerne blev gemt",
+                "de": "Finde heraus, wo die Schubdüsenventile versteckt wurden.",
+                "en": "Find out where the thruster valves were stashed",
+                "es": "Averigua dónde escondieron las válvulas de propulsor.",
+                "fr": "Découvrir où les vannes de propulseur ont été cachées",
+                "he": "גלה היכן הוסתרו שסתומי הדחף",
+                "hr": "Saznaj gdje su skriveni ventili potisnika",
+                "it": "Scopri dove sono riposte le valvole di propulsione",
+                "ja": "スラスターバルブの隠し場所を見つける",
+                "ko-KR": "추진기 밸브가 숨겨진 곳 알아내기",
+                "no": "Finn ut hvor thruster-ventilene ble gjemt",
+                "pl": "Dowiedz się, gdzie ukryto zawory silników sterujących",
+                "pt": "Descubra onde as válvulas do propulsor foram escondidas",
+                "pt-BR": "Descubra onde as válvulas de propulsão foram escondidas",
+                "ru": "Найдите, куда припрятали клапаны двигателей.",
+                "sr": "Saznaj gde su sakriveni ventili potisnika",
+                "tr": "İtici vanaların zulalandığı yeri bul",
+                "uk": "Дізнайтеся, де були заховані клапани прискорювача",
+                "zh-CN": "查明推进器阀门的藏匿地点",
+                "zh-TW": "找出推進閥門被藏在哪裡"
+            },
+            {
+                "da": "Gennemsøg kælderen i købmandens nærliggende lejlighed",
+                "de": "Durchsuche den Keller des nahegelegenen Händler-Apartments.",
+                "en": "Search the basement of the merchant’s nearby apartment",
+                "es": "Registra el sótano del apartamento cercano del comerciante.",
+                "fr": "Fouiller le sous-sol de l'appartement proche du marchand.",
+                "he": "חפש במרתף הדירה הסמוכה של הסוחר",
+                "hr": "Pretraži podrum obližnjeg trgovčevog stana",
+                "it": "Ispeziona il seminterrato dell'appartamento vicino del mercante.",
+                "ja": "商人の近くのアパートの地下を調べる",
+                "ko-KR": "상인의 근처 아파트 지하실 수색하기",
+                "no": "Gjennomsøk kjelleren i kjøpmannens nærliggende leilighet",
+                "pl": "Przeszukaj piwnicę pobliskiego mieszkania kupca.",
+                "pt": "Vasculhe o porão do apartamento próximo do mercador",
+                "pt-BR": "Vasculhe o porão do apartamento próximo do comerciante.",
+                "ru": "Обыщите подвал близлежащей квартиры продавца.",
+                "sr": "Pretraži podrum obližnjeg trgovčevog stana",
+                "tr": "Tüccarın yakındaki apartmanının bodrumunu ara",
+                "uk": "Обшукайте підвал сусідньої квартири торговця",
+                "zh-CN": "搜查商人附近公寓的地下室",
+                "zh-TW": "搜尋商人附近公寓的地下室"
+            }
+        ],
+        "rewardItemIds": [
+            {
+                "itemId": "exodus_modules",
+                "quantity": 2
+            },
+            {
+                "itemId": "magnetic_accelerator",
+                "quantity": 2
+            },
+            {
+                "itemId": "magnetron",
+                "quantity": 2
+            }
+        ],
+        "xp": 0,
+        "previousQuestIds": [
+            "last_entry"
+        ],
+        "nextQuestIds": [
+            "safe_harbor"
+        ],
+        "updatedAt": "04/28/2026"
     },
     {
         "id": "lost_in_transmission",
@@ -8252,9 +8788,11 @@
         ],
         "nextQuestIds": [
             "a_first_foothold",
+            "shoring_up_defenses",
+            "battening_down",
             "a_bad_feeling"
         ],
-        "updatedAt": "03/31/2026"
+        "updatedAt": "04/28/2026"
     },
     {
         "id": "on_deaf_ears",
@@ -9223,11 +9761,6 @@
             "zh-CN": "积少成多",
             "zh-TW": "撿起材料"
         },
-        "map": [
-            "the_spaceport",
-            "buried_city",
-            "dam_battlegrounds"
-        ],
         "trader": "Shani",
         "description": {
             "da": "Stormen har mestendels lagt sig, men meget af vores infrastruktur har fået en hård medfart. Hvis du håber på at blive hos os, skal du trække dit læs i reparationsarbejdet.",
@@ -9313,7 +9846,7 @@
             "clearer_skies",
             "trash_into_treasure"
         ],
-        "updatedAt": "03/31/2026"
+        "updatedAt": "04/28/2026"
     },
     {
         "id": "power_out",
@@ -9791,6 +10324,176 @@
         "updatedAt": "02/25/2026"
     },
     {
+        "id": "safe_harbor",
+        "name": {
+            "da": "Sikker havn",
+            "de": "Sicherer Hafen",
+            "en": "Safe Harbor",
+            "es": "Puerto seguro",
+            "fr": "Havre de paix",
+            "he": "חוף מבטחים",
+            "hr": "Sigurna luka",
+            "it": "Porto sicuro",
+            "ja": "安全な港",
+            "ko-KR": "안식의 항구",
+            "no": "Trygg havn",
+            "pl": "Bezpieczna przystań",
+            "pt": "Porto Seguro",
+            "pt-BR": "Porto Seguro",
+            "ru": "Тихая гавань",
+            "sr": "Sigurna luka",
+            "tr": "Güvenli Liman",
+            "uk": "Безпечна гавань",
+            "zh-CN": "安全港湾",
+            "zh-TW": "安全海灣"
+        },
+        "map": [
+            "riven_tide"
+        ],
+        "trader": "Tian Wen",
+        "requiredItemIds": [
+            {
+                "itemId": "precision_gimbal",
+                "quantity": 1
+            }
+        ],
+        "description": {
+            "da": "Det lader til, at nyheden om togafsporingen spredte sig hurtigt… Og fik mange arbejdere til at gemme noget meget lækker teknologi væk fra nysgerrige blikke.",
+            "de": "Die Nachricht von der Zugentgleisung hat sich wohl schnell verbreitet … Und viele Mitarbeiter dazu veranlasst, einige wirklich schicke technische Spielereien vor neugierigen Blicken zu verstecken.",
+            "en": "Seems like news of the train derailment spread fast… And drove many workers to stash some very tasty technology away from prying eyes.",
+            "es": "Parece ser que la noticia del descarrilamiento corrió como la pólvora... e hizo que muchos trabajadores escondieran tecnología de lo más jugosa.",
+            "fr": "La nouvelle du déraillement s'est répandue comme une traînée de poudre... et elle a poussé de nombreux employés à escamoter des technologies prometteuses.",
+            "he": "נראה שהחדשות על ירידת הרכבת מהפסים התפשטו מהר… וגרמו לפועלים רבים להחביא טכנולוגיה שווה במיוחד הרחק מעיניים סקרניות.",
+            "hr": "Čini se da su se vijesti o iskliznuću vlaka brzo proširile… I natjerale mnoge radnike da sakriju vrlo primamljivu tehnologiju od znatiželjnih očiju.",
+            "it": "Sembra che la notizia del deragliamento del treno si sia diffusa in fretta... E abbia spinto molti lavoratori a nascondere della tecnologia molto preziosa lontano da occhi indiscreti.",
+            "ja": "脱線事故のニュースはあっという間に広まったみたいだね… そして多くの作業員が、人目を避けて貴重な技術を隠そうとした。",
+            "ko-KR": "열차 탈선 소식이 빠르게 퍼진 것 같습니다… 그래서 많은 노동자가 감시를 피해 탐나는 장비를 숨겨두게 된 것 같고요.",
+            "no": "Ser ut til at nyheten om togavsporingen spredte seg raskt… Og fikk mange arbeidere til å gjemme unna svært fristende teknologi fra nysgjerrige blikk.",
+            "pl": "Wieści o wykolejeniu pociągu chyba szybko się rozniosły… I skłoniły wielu pracowników do ukrycia bardzo kuszącej technologii z dala od wścibskich oczu.",
+            "pt": "Parece que a notícia do descarrilamento do trem se espalhou rápido... e fez com que muitos trabalhadores escondessem ótimas tecnologias.",
+            "pt-BR": "Parece que a notícia do descarrilamento do trem se espalhou rápido... e fez com que muitos trabalhadores escondessem ótimas tecnologias.",
+            "ru": "Кажется, новости о поезде, сошедшем с рельсов, распространились быстро. Многие работники быстро утащили лакомые технологии подальше от любопытных глаз.",
+            "sr": "Izgleda da su se vesti o iskliznuću voza brzo proširile… I naterale mnoge radnike da sakriju veoma primamljivu tehnologiju daleko od radoznalih očiju.",
+            "tr": "Anlaşılan raydan çıkan tren haberi hızlı yayılmış... Birçok işçi fırsattan istifade değerli teknoloji ürünlerini meraklı gözlerden uzağa zulalamış.",
+            "uk": "Схоже, новина про сходження потяга з рейок розлетілася швидко… І змусила багатьох робітників приховати дуже ласі технології подалі від сторонніх очей.",
+            "zh-CN": "列车脱轨的消息传得真快……还促使不少工人把值钱的科技装备藏了起来，避开耳目。",
+            "zh-TW": "看來火車出軌的消息傳播得很快…許多工人聽到消息，跑去把一些令人垂涎的科技設備偷偷藏了起來。"
+        },
+        "objectivesOneRound": true,
+        "objectives": [
+            {
+                "da": "Find sporet, der er efterladt af restaurantens køkkenpersonale",
+                "de": "Finde den Hinweis, der vom Küchenpersonal des Restaurants zurückgelassen wurde.",
+                "en": "Find the clue left by the restaurant kitchen staff",
+                "es": "Encuentra la pista que dejó el personal de cocina.",
+                "fr": "Trouver l'indice laissé par le personnel de cuisine du restaurant",
+                "he": "מצא את הרמז שהשאיר צוות המטבח של המסעדה",
+                "hr": "Pronađi trag koji je ostavilo kuhinjsko osoblje restorana",
+                "it": "Trova l'indizio lasciato dallo staff della cucina del ristorante",
+                "ja": "レストランの厨房スタッフが残したヒントを探す",
+                "ko-KR": "레스토랑 주방 직원이 남긴 단서 찾기",
+                "no": "Finn ledetråden etterlatt av restaurantens kjøkkenpersonale",
+                "pl": "Znajdź wskazówkę pozostawioną przez pracowników restauracyjnej kuchni",
+                "pt": "Encontre a pista deixada pelos funcionários da cozinha do restaurante",
+                "pt-BR": "Encontre a pista deixada pelos funcionários da cozinha do restaurante",
+                "ru": "Найдите подсказку, оставленную сотрудником кухни.",
+                "sr": "Pronađi trag koji je ostavilo osoblje restoranske kuhinje",
+                "tr": "Restoranın mutfak personeli tarafından bırakılan ipucunu bul",
+                "uk": "Знайдіть підказку, залишену персоналом кухні ресторану",
+                "zh-CN": "找到餐厅后厨员工留下的线索",
+                "zh-TW": "找到餐廳廚房員工留下的線索"
+            },
+            {
+                "da": "Find området vist på skitsen",
+                "de": "Finde das Gebiet, das auf der Skizze zu sehen ist.",
+                "en": "Find the area portrayed in the sketch",
+                "es": "Encuentra la zona del dibujo.",
+                "fr": "Trouver la surface illustrée sur le croquis",
+                "he": "מצא את האזור המופיע בסקיצה",
+                "hr": "Pronađi područje prikazano na skici",
+                "it": "Trova l'area ritratta nel disegno",
+                "ja": "スケッチに描かれた場所を探す",
+                "ko-KR": "스케치에 그려진 장소 찾기",
+                "no": "Finn området avbildet på skissen",
+                "pl": "Znajdź miejsce przedstawione na rysunku",
+                "pt": "Encontre a área mostrada no esboço",
+                "pt-BR": "Encontre a área mostrada no esboço",
+                "ru": "Найдите место с рисунка.",
+                "sr": "Pronađi oblast prikazanu na skici",
+                "tr": "Taslakta çizilen bölgeyi bul",
+                "uk": "Знайдіть місце, зображене на ескізі",
+                "zh-CN": "找到素描中描绘的区域",
+                "zh-TW": "找到素描中描繪的區域"
+            },
+            {
+                "da": "Grav den nedgravede del op",
+                "de": "Grabe das unter der Erde liegende Teil aus.",
+                "en": "Dig up the buried part",
+                "es": "Desentierra la parte cubierta de arena.",
+                "fr": "Déterrer la pièce enfouie",
+                "he": "חפור והוצא את החלק הקבור",
+                "hr": "Iskopaj zakopani dio",
+                "it": "Dissotterra la parte sepolta",
+                "ja": "埋まっているパーツを掘り出す",
+                "ko-KR": "묻힌 부품 파내기",
+                "no": "Grav opp den nedgravde delen",
+                "pl": "Wykop zakopaną część",
+                "pt": "Desenterre a peça enterrada",
+                "pt-BR": "Desenterre a peça enterrada",
+                "ru": "Раскопайте деталь.",
+                "sr": "Iskopaj zakopani deo",
+                "tr": "Gömülü parçayı kazarak çıkar",
+                "uk": "Викопайте закопану деталь",
+                "zh-CN": "挖出掩埋的零件",
+                "zh-TW": "挖出埋藏的零件"
+            },
+            {
+                "da": "Aflever Præcisions-gimbal til Tian Wen",
+                "de": "Liefere das Präzisions-Kardan-System an Tian Wen.",
+                "en": "Deliver the Precision Gimbal to Tian Wen",
+                "es": "Entrégale el cardán de precisión a Tian Wen.",
+                "fr": "Livrer le cardan de précision à Tian Wen",
+                "he": "מסור את הגימבל המדויק ל-Tian Wen",
+                "hr": "Isporuči Precizni stabilizator Tian Wenu",
+                "it": "Consegna il giunto cardanico di precisione a Tian Wen",
+                "ja": "ティアン・ウェンに精密ジンバルを届ける",
+                "ko-KR": "티안 웬에게 정밀 짐벌 전달하기",
+                "no": "Lever Precision Gimbal til Tian Wen",
+                "pl": "Dostarcz precyzyjny stabilizator Tian Wen",
+                "pt": "Entregue o Cardã de Precisão para Tian Wen",
+                "pt-BR": "Entregue o Cardã de Precisão para Tian Wen",
+                "ru": "Доставьте Тянь Вэнь карданный подвес гироскопа.",
+                "sr": "Dostavi precizni stabilizator Tian Wenu",
+                "tr": "Tian Wen'e Hassas Yalpa Çemberi'ni teslim et",
+                "uk": "Доставте Точний підвіс для Tian Wen",
+                "zh-CN": "将精密云台交给天玟",
+                "zh-TW": "將高精度平衡環架送去給田文"
+            }
+        ],
+        "rewardItemIds": [
+            {
+                "itemId": "surge_coil",
+                "quantity": 1
+            },
+            {
+                "itemId": "heavy_gun_parts",
+                "quantity": 1
+            },
+            {
+                "itemId": "horizontal_grip",
+                "quantity": 1
+            }
+        ],
+        "xp": 0,
+        "previousQuestIds": [
+            "line_in_the_sand"
+        ],
+        "nextQuestIds": [
+            "a_wrench_in_the_works"
+        ],
+        "updatedAt": "04/28/2026"
+    },
+    {
         "id": "safe_passage",
         "name": {
             "da": "Sikker passage",
@@ -9894,9 +10597,10 @@
             "a_bad_feeling"
         ],
         "nextQuestIds": [
-            "what_goes_around"
+            "what_goes_around",
+            "collision_course"
         ],
-        "updatedAt": "02/25/2026"
+        "updatedAt": "04/28/2026"
     },
     {
         "id": "settled_in_full",
@@ -10009,6 +10713,176 @@
         ],
         "nextQuestIds": [],
         "updatedAt": "03/31/2026"
+    },
+    {
+        "id": "shoring_up_defenses",
+        "name": {
+            "da": "Forstærkning af forsvaret",
+            "de": "Verteidigungslinie aufbauen",
+            "en": "Shoring Up Defenses",
+            "es": "Apuntalando las defensas",
+            "fr": "Renforcer les défenses",
+            "he": "ביצור ההגנות",
+            "hr": "Učvršćivanje obrane",
+            "it": "Rafforzare le difese",
+            "ja": "防衛体制の強化",
+            "ko-KR": "방어선 보강",
+            "no": "Forsterke forsvaret",
+            "pl": "Obrona na brzegu",
+            "pt": "Reforçando as Defesas",
+            "pt-BR": "Reforçando as Defesas",
+            "ru": "Прибрежная оборона",
+            "sr": "Ojačavanje odbrane",
+            "tr": "Savunmayı Desteklemek",
+            "uk": "Зміцнення оборони",
+            "zh-CN": "加固海岸防线",
+            "zh-TW": "加固防禦"
+        },
+        "map": [
+            "riven_tide"
+        ],
+        "trader": "Apollo",
+        "otherRequirements": [
+            "20x Raids"
+        ],
+        "grantedItemIds": [
+            {
+                "itemId": "dockmasters_detector",
+                "quantity": 1
+            }
+        ],
+        "description": {
+            "da": "Den åbne kystlinje betød tidligere fare, men nu er det det eneste sted, vi kan spotte nye trusler, der rykker ind i Rustbæltet.\r\n\r\nSå vi bliver nødt til at lave vores egen dækning og forstærke de få forsvarsværker, vi kan finde.",
+            "de": "Früher war die weitläufige Küste ein Ort der Gefahr, doch heute ist sie der einzige Ort, von dem aus wir neue Bedrohungen ausmachen können, die in den Rostgürtel vordringen.\r\n\r\nAlso müssen wir uns selbst Deckung schaffen und die wenigen Verteidigungsanlagen verstärken, die wir finden können.",
+            "en": "The wide-open coastline used to mean danger, but now it's the only place we can spot new threats moving into the Rust Belt.\r\n\r\nSo we'll have to make our own cover, and reinforce what few defenses we can find.",
+            "es": "Antaño, una costa tan despejada era sinónimo de peligro, pero ahora es el único lugar desde el que podemos avistar nuevas amenazas adentrándose en el Cinturón de óxido.\r\n\r\nNos toca construir nuestra propia cobertura y reforzar las pocas defensas que haya.",
+            "fr": "Autrefois, ce littoral à perte de vue était synonyme de danger. Aujourd'hui, c'est le seul endroit d'où l'on peut repérer les nouvelles menaces qui se dirigent vers la Région de la rouille.\r\n\r\nIl va donc falloir nous créer notre propre abri et renforcer les rares défenses que nous pourrons trouver.",
+            "he": "קו החוף הפתוח היווה בעבר סכנה, אבל עכשיו זה המקום היחיד שבו אנחנו יכולים לזהות איומים חדשים שנעים לעבר ה-Rust Belt.\r\n\r\nלכן נצטרך ליצור מחסות בעצמנו, ולחזק את ההגנות המעטות שנוכל למצוא.",
+            "hr": "Široka, otvorena obala nekada je značila opasnost, ali sada je jedino mjesto gdje možemo uočiti nove prijetnje koje ulaze u Rust Belt.\r\n\r\nZato ćemo morati napraviti vlastiti zaklon i pojačati ono malo obrane što možemo pronaći.",
+            "it": "Un tempo questo litorale esposto era sinonimo di pericolo, ma ora è l'unico punto da cui possiamo avvistare le nuove minacce che avanzano verso la Cintura di ruggine.\r\n\r\nQuindi dovremo crearci una copertura e rafforzare le poche difese che riusciamo a trovare.",
+            "ja": "かつてこの開けた海岸線は危険の象徴だった。だが今では、ラストベルトへ進軍してくる新たな脅威を察知できる唯一の場所だ。\r\n\r\nだから自分たちで遮蔽物を作って、向こうで見つかる数少ない防御設備を強化しないといけない。",
+            "ko-KR": "사방이 트인 해안선은 예전엔 위험 그 자체였지만, 이제는 러스트 벨트로 유입되는 새로운 위협을 감시할 수 있는 유일한 장소입니다.\r\n\r\n그러니 우리가 직접 엄폐물을 만들고, 남아 있는 얼마 안 되는 방어 시설도 보강해야 합니다.",
+            "no": "Den åpne kystlinjen pleide å bety fare, men nå er det det eneste stedet vi kan oppdage nye trusler som beveger seg inn i Rust Belt.\r\n\r\nSå vi må lage vår egen dekning, og forsterke det lille forsvaret vi kan finne.",
+            "pl": "Rozległe, odsłonięte wybrzeże kojarzyło się niegdyś z niebezpieczeństwem, ale obecnie to jedyne miejsce, z którego możemy dostrzec nowe zagrożenia nadciągające do Rdzawego Pasa.\r\n\r\nBędziemy musieli zadbać o osłonę i wzmocnić wszelkie znalezione na miejscu struktury obronne.",
+            "pt": "Antigamente, este litoral aberto era sinônimo de perigo, mas agora é o único lugar de onde podemos avistar novas ameaças avançando para o Cinturão da Ferrugem.\r\n\r\nEntão vamos ter que improvisar cobertura e reforçar as poucas defesas que restam.",
+            "pt-BR": "Antigamente, este litoral aberto era sinônimo de perigo, mas agora é o único lugar de onde podemos avistar novas ameaças avançando para o Cinturão da Ferrugem.\r\n\r\nEntão vamos ter que improvisar cobertura e reforçar as poucas defesas que restam.",
+            "ru": "Раньше открытое побережье означало опасность, но теперь это единственное место, откуда можно заметить новые угрозы, проникающие в Медный пояс.\r\n\r\nТак что придется самим сделать укрытия и починить укрепления, которые еще целы.",
+            "sr": "Široka, otvorena obala nekada je značila opasnost, ali sada je to jedino mesto odakle možemo uočiti nove pretnje koje ulaze u Rust Belt.\r\n\r\nZato ćemo morati da napravimo sopstveni zaklon i pojačamo to malo odbrane što možemo da pronađemo.",
+            "tr": "Eskiden bu uçsuz bucaksız sahil şeridi tehlike demekti; şimdiyse Paslı Kemer'e ilerleyen yeni tehditleri saptayabileceğimiz tek yer orası.\r\n\r\nO yüzden siperimizi kendimiz kazıp savunmaya dair ne bulursak güçlendireceğiz.",
+            "uk": "Раніше відкрита берегова лінія означала небезпеку, але тепер це єдине місце, звідки можна помітити нові загрози, що наближаються до Іржавого поясу.\r\n\r\nТож нам доведеться створити власне укриття і зміцнити ті нечисленні оборонні споруди, які вдасться знайти.",
+            "zh-CN": "过去，开阔的海岸线曾是危险的象征；但现在，这里是我们唯一能发现威胁迁入锈带的地方。\r\n\r\n所以我们得自己搭建掩体，加固仅存的防御工事。",
+            "zh-TW": "過去，開闊的海岸線曾是危險的象徵；但現在，它是我們監視威脅進入鐵鏽帶的唯一地點。\r\n\r\n因此，我們必須建造自己的掩體，並強化我們能找到的少少幾處防禦。"
+        },
+        "objectives": [
+            {
+                "da": "Ødelæg 5 Wasps",
+                "de": "Zerstöre 5 Wespen.",
+                "en": "Destroy 5 Wasps",
+                "es": "Destruye 5 avispas.",
+                "fr": "Détruire 5 Guêpes",
+                "he": "השמד 5 Wasps",
+                "hr": "Uništi 5 Waspa",
+                "it": "Distruggi 5 Vespe",
+                "ja": "ワスプを5体破壊する",
+                "ko-KR": "와스프 5개 파괴하기",
+                "no": "Ødelegg 5 Wasps",
+                "pl": "Zniszcz osy: 5",
+                "pt": "Destrua 5 Vespas",
+                "pt-BR": "Destrua 5 Vespas",
+                "ru": "Уничтожьте «Ос»: 5.",
+                "sr": "Uništi 5 Waspova",
+                "tr": "5 Eşek Arısı Yok Et",
+                "uk": "Знищте 5 Wasps",
+                "zh-CN": "摧毁5个“黄蜂”",
+                "zh-TW": "摧毀5台黃蜂"
+            },
+            {
+                "da": "Ødelæg 3 Fireflies",
+                "de": "Zerstöre 3 Glühwürmchen.",
+                "en": "Destroy 3 Fireflies",
+                "es": "Destruye 3 luciérnagas.",
+                "fr": "Détruire 3 Lucioles",
+                "he": "השמד 3 Fireflies",
+                "hr": "Uništi 3 Fireflyja",
+                "it": "Distruggi 3 Lucciole",
+                "ja": "ファイアフライを3体破壊する",
+                "ko-KR": "파이어플라이 3개 파괴하기",
+                "no": "Ødelegg 3 Fireflies",
+                "pl": "Zniszcz świetliki: 3",
+                "pt": "Destrua 3 Vaga-lumes",
+                "pt-BR": "Destrua 3 Vaga-lumes",
+                "ru": "Уничтожьте «Светлячков»: 3.",
+                "sr": "Uništi 3 Fireflyja",
+                "tr": "3 Ateş Böceği Yok Et",
+                "uk": "Знищте 3 Fireflies",
+                "zh-CN": "摧毁3个“萤火虫”",
+                "zh-TW": "摧毀3台螢火蟲"
+            },
+            {
+                "da": "Brug 1 ARC Alloy til at forstærke Raider-strukturen oven på en hvilken som helst kran i Stacking Yard",
+                "de": "Verwende 1 ARC-Legierung(en), um die Raider-Struktur auf einem beliebigen Kran des Stapellagers zu verstärken.",
+                "en": "Use 1 ARC Alloy to reinforce the Raider structure on top of any Stacking Yard crane",
+                "es": "Usa 1 aleaciones de ARC para reforzar la estructura de Raiders de cualquier grúa del patio de apilado.",
+                "fr": "Utiliser 1 unité(s) d'alliage de l'ARC pour renforcer une structure de Raider au sommet de n'importe quelle grue de l'aire d’empilement.",
+                "he": "השתמש ב-ARC Alloy אחד כדי לחזק את מבנה ה-Raider מעל כל מנוף ב-Stacking Yard",
+                "hr": "Upotrijebi 1 ARC Alloy za ojačavanje Raider konstrukcije na vrhu bilo koje dizalice u Stacking Yardu",
+                "it": "Usa 1 leghe ARC per rafforzare la struttura Raider sopra qualsiasi gru del cortile di accumulo.",
+                "ja": "1つのARC合金を使い、積み込み場のクレーンの上にあるレイダーの住居を補強する",
+                "ko-KR": "적치장 크레인 아무 곳의 꼭대기에 있는 레이더 구조물을 아크 합금 1개로 보강하기",
+                "no": "Bruk 1 ARC Alloy til å forsterke Raider-strukturen på toppen av en hvilken som helst kran i Stacking Yard",
+                "pl": "Użyj 1 szt. stopu ARC, aby wzmocnić konstrukcję łupieżców na szczycie dowolnego żurawia na składowisku.",
+                "pt": "Use 1 ligas ARC para reforçar a estrutura de Raider no topo de qualquer guindaste do Pátio de Empilhamento.",
+                "pt-BR": "Use 1 ligas ARC para reforçar a estrutura de Raider no topo de qualquer guindaste do Pátio de Empilhamento.",
+                "ru": "Используйте сплав ARC (1), чтобы укрепить постройку рейдеров на любом из кранов складской площадки.",
+                "sr": "Upotrebi 1 ARC Alloy za ojačavanje Raider konstrukcije na vrhu bilo koje dizalice u Stacking Yardu",
+                "tr": "1 ARC Alaşımı kullanarak bir Yığma Avlusu vincinin üzerindeki Raider yapısını güçlendir",
+                "uk": "Використайте 1 ARC Alloy, щоб укріпити конструкцію Raider на верхівці будь-якого крана в Stacking Yard",
+                "zh-CN": "使用1块ARC合金加固堆料场起重机顶部的奇袭者建筑",
+                "zh-TW": "使用1個ARC合金來加固堆置場任一台吊車頂端的掠手建築"
+            },
+            {
+                "da": "Søm brædder for de skoddede vinduer på hotellet",
+                "de": "Verbarrikadiere die verschlossenen Fenster im Hotel.",
+                "en": "Board up shuttered windows in the hotel",
+                "es": "Sella las ventanas rotas del hotel.",
+                "fr": "Barricader les fenêtres à volets de l'hôtel",
+                "he": "אטום בקרשים את החלונות המוגפים במלון",
+                "hr": "Zabij daskama zatvorene prozore u hotelu",
+                "it": "Sbarra con delle assi le finestre chiuse dell'hotel",
+                "ja": "ホテルの閉ざされた窓を板で塞ぐ",
+                "ko-KR": "호텔의 닫힌 창문에 판자 덧대기",
+                "no": "Spikre igjen vinduer med skodder på hotellet",
+                "pl": "Zabij deskami rozbite okna w hotelu",
+                "pt": "Feche com tábuas as janelas protegidas do hotel",
+                "pt-BR": "Feche com tábuas as janelas protegidas do hotel",
+                "ru": "Забейте досками окна в отеле.",
+                "sr": "Zakucaj daskama zatvorene prozore u hotelu",
+                "tr": "Oteldeki panjurları kapalı pencerelere tahta çak",
+                "uk": "Забийте дошками зачинені вікна в готелі",
+                "zh-CN": "用木板封住酒店的百叶窗",
+                "zh-TW": "封住飯店的百葉窗"
+            }
+        ],
+        "rewardItemIds": [
+            {
+                "itemId": "barricade_kit",
+                "quantity": 3
+            },
+            {
+                "itemId": "lure_grenade_trap",
+                "quantity": 3
+            },
+            {
+                "itemId": "seeker_grenade",
+                "quantity": 6
+            }
+        ],
+        "xp": 0,
+        "previousQuestIds": [
+            "off_the_radar"
+        ],
+        "nextQuestIds": [],
+        "updatedAt": "04/28/2026"
     },
     {
         "id": "snap_and_salvage",
@@ -11392,7 +12266,8 @@
             "zh-TW": "聯賽"
         },
         "map": [
-            "dam_battlegrounds"
+            "dam_battlegrounds",
+            "buried_city"
         ],
         "trader": "Apollo",
         "requiredItemIds": [
@@ -11544,7 +12419,7 @@
         "nextQuestIds": [
             "test_case"
         ],
-        "updatedAt": "03/31/2026"
+        "updatedAt": "04/28/2026"
     },
     {
         "id": "the_majors_footlocker",
@@ -13168,25 +14043,25 @@
             },
             {
                 "da": "Søg efter spor af et sikkerhedsbrud i Arrival Building Data Office",
-                "de": "Suche im Ankunftsgebäude nach Spuren einer Sicherheitsverletzung.",
+                "de": "Suche im Ankunftsgebäude des Data Office nach Spuren einer Sicherheitsverletzung.",
                 "en": "Search for any traces of a security breach in the Arrival Building Data Office",
-                "es": "Busca rastros de una brecha de seguridad en el edificio de llegadas.",
-                "fr": "Rechercher toute trace de faille de sécurité dans le Bâtiment d'arrivée",
+                "es": "Busca rastros de una brecha de seguridad en la oficina de datos del edificio de llegadas.",
+                "fr": "Rechercher toute trace de faille de sécurité dans le bureau des données du Bâtiment d'arrivée",
                 "he": "חפש עקבות לפרצת אבטחה במשרד הנתונים של בניין הנחיתות",
                 "hr": "Potraži bilo kakve tragove proboja sigurnosti u uredu za podatke zgrade dolazaka",
-                "it": "Cerca eventuali tracce di violazioni della sicurezza nell'Edificio arrivi",
-                "ja": "到着棟でセキュリティ突破の痕跡を探した",
-                "ko-KR": "도착동의 보안실에서 침입 흔적 찾기",
+                "it": "Cerca eventuali segni di violazioni della sicurezza presso l'Ufficio dati dell'Edificio arrivi",
+                "ja": "到着棟のデータオフィスでセキュリティ突破の痕跡を探す",
+                "ko-KR": "도착동의 데이터 사무실에서 보안 침해 흔적 찾기",
                 "no": "Søk etter spor etter et sikkerhetsbrudd i Arrival Building Data Office",
-                "pl": "Poszukaj śladów naruszenia bezpieczeństwa w budynku przylotów",
+                "pl": "Poszukaj śladów naruszenia bezpieczeństwa w biurze danych w budynku przylotów",
                 "pt": "Procure indícios de quebra de segurança no Prédio de Desembarque",
-                "pt-BR": "Procure indícios de quebra de segurança no Prédio de Desembarque",
-                "ru": "Поищите свидетельства взлома в зоне прилета.",
+                "pt-BR": "Procure indícios de quebra de segurança no Escritório de Dados do Prédio de Desembarque",
+                "ru": "Поищите свидетельства взлома в станции данных в зоне прилета.",
                 "sr": "Potraži bilo kakve tragove proboja bezbednosti u kancelariji za podatke zgrade dolazaka",
-                "tr": "Geliş Binası'nda güvenlik ihlali izleri olup olmadığını araştır.",
+                "tr": "Geliş Binası Veri Ofisi'nde güvenlik ihlali izleri olup olmadığını araştır",
                 "uk": "Знайди будь-які сліди порушення безпеки в офісі даних будівлі прибуття",
-                "zh-CN": "在到达楼中寻找安保入侵痕迹",
-                "zh-TW": "在入境大樓內搜尋任何保全漏洞的跡象"
+                "zh-CN": "搜寻到达楼数据办公室的安保入侵痕迹",
+                "zh-TW": "在入境大樓資料辦公室內搜尋保全漏洞的跡象"
             }
         ],
         "rewardItemIds": [
@@ -13208,7 +14083,7 @@
             "dust_on_the_wires"
         ],
         "nextQuestIds": [],
-        "updatedAt": "03/31/2026"
+        "updatedAt": "04/28/2026"
     },
     {
         "id": "water_troubles",
