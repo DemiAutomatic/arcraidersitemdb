@@ -1008,8 +1008,7 @@
                     {
                         "category": "ArcDamage",
                         "kind": "damage_tiers",
-                        "questGameAssetId": "250322893",
-                        "rewardItemId": "expedition_skill_point_token",
+                        "valueRequired": 100000,
                         "tiers": [
                             5000,
                             10000,
@@ -1017,7 +1016,8 @@
                             50000,
                             100000
                         ],
-                        "valueRequired": 100000
+                        "questGameAssetId": "250322893",
+                        "rewardItemId": "expedition_skill_point_token"
                     }
                 ],
                 "requirementItemIds": []
@@ -1538,8 +1538,7 @@
                     {
                         "category": "ArcDamage",
                         "kind": "damage_tiers",
-                        "questGameAssetId": "674698992",
-                        "rewardItemId": "expedition_skill_point_token",
+                        "valueRequired": 100000,
                         "tiers": [
                             5000,
                             10000,
@@ -1547,7 +1546,8 @@
                             50000,
                             100000
                         ],
-                        "valueRequired": 100000
+                        "questGameAssetId": "674698992",
+                        "rewardItemId": "expedition_skill_point_token"
                     }
                 ],
                 "requirementItemIds": []
@@ -2068,8 +2068,7 @@
                     {
                         "category": "ArcDamage",
                         "kind": "damage_tiers",
-                        "questGameAssetId": "431784727",
-                        "rewardItemId": "expedition_skill_point_token",
+                        "valueRequired": 100000,
                         "tiers": [
                             5000,
                             10000,
@@ -2077,7 +2076,8 @@
                             50000,
                             100000
                         ],
-                        "valueRequired": 100000
+                        "questGameAssetId": "431784727",
+                        "rewardItemId": "expedition_skill_point_token"
                     }
                 ],
                 "requirementItemIds": []
@@ -2090,26 +2090,26 @@
         "id": "avian_alarm_project",
         "disabled": false,
         "name": {
-            "da": "Fuglealarm",
             "de": "Vogelalarm",
             "en": "Avian Alarm",
             "es": "Alarma aviar",
             "fr": "Alarme aviaire",
-            "he": "אזעקת ציפורים",
-            "hr": "Ptičji alarm",
             "it": "Allarme aviario",
             "ja": "鳥類警報",
             "ko-KR": "조류 경보",
-            "no": "Fuglealarm",
             "pl": "Ptasi alarm",
-            "pt": "Alarme Aviário",
             "pt-BR": "Alarme Aviário",
             "ru": "Пернатая тревога",
-            "sr": "Птичји аларм",
             "tr": "Kuş Alarmı",
-            "uk": "Пташина сигналізація",
             "zh-CN": "禽鸟警报",
-            "zh-TW": "禽類警報"
+            "zh-TW": "禽類警報",
+            "uk": "Пташина сигналізація",
+            "pt": "Alarme Aviário",
+            "hr": "Ptičji alarm",
+            "no": "Fuglealarm",
+            "he": "אזעקת ציפורים",
+            "da": "Fuglealarm",
+            "sr": "Птичји аларм"
         },
         "description": {
             "da": "Speranzanerne har bemærket, at nogle fugle er følsomme over for atmosfæriske ændringer, og er begyndt at designe flertrins-alarmsystemer for at advare om forestående fare. Selvom deres præcision har været diskuteret, er den beroligende effekt af deres selskab ubestridelig.",
@@ -2184,12 +2184,12 @@
                     {
                         "category": "InteractTask",
                         "kind": "checkbox",
-                        "questGameAssetId": "382664970",
-                        "rewardItemId": "expedition_skill_point_token",
+                        "valueRequired": 1,
                         "tiers": [
                             1
                         ],
-                        "valueRequired": 1
+                        "questGameAssetId": "382664970",
+                        "rewardItemId": "expedition_skill_point_token"
                     }
                 ],
                 "requirementItemIds": []
@@ -2437,7 +2437,7 @@
                 "phase": 5,
                 "requirementItemIds": [
                     {
-                        "itemId": "monolith_part",
+                        "itemId": "turbine_compressor",
                         "quantity": 2
                     },
                     {
@@ -2692,7 +2692,7 @@
                         "quantity": 15
                     },
                     {
-                        "itemId": "monolith_part",
+                        "itemId": "turbine_compressor",
                         "quantity": 5
                     },
                     {
@@ -2970,8 +2970,7 @@
                     {
                         "category": "ArcDamage",
                         "kind": "damage_tiers",
-                        "questGameAssetId": "242691618",
-                        "rewardItemId": "expedition_skill_point_token",
+                        "valueRequired": 100000,
                         "tiers": [
                             5000,
                             10000,
@@ -2979,7 +2978,8 @@
                             50000,
                             100000
                         ],
-                        "valueRequired": 100000
+                        "questGameAssetId": "242691618",
+                        "rewardItemId": "expedition_skill_point_token"
                     }
                 ],
                 "requirementItemIds": []
