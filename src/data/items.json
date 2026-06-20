@@ -209,6 +209,11 @@
       "med_station"
     ],
     "stationLevelRequired": 1,
+    "craftSkills": {
+      "in_raid": [
+        "surv_3r"
+      ]
+    },
     "recipe": {
       "chemicals": 3,
       "plastic_parts": 3
@@ -221,7 +226,7 @@
       "chemicals": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/v2/adrenaline_shot.png",
-    "updatedAt": "02/24/2026",
+    "updatedAt": "05/30/2026",
     "addedIn": "base",
     "vendors": [
       {
@@ -857,6 +862,11 @@
       }
     },
     "craftBench": "in_raid",
+    "craftSkills": {
+      "in_raid": [
+        "surv_3r"
+      ]
+    },
     "recipe": {
       "agave": 1,
       "empty_wine_bottle": 1
@@ -865,7 +875,7 @@
       "empty_wine_bottle": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/v2/agave_juice.png",
-    "updatedAt": "03/17/2026",
+    "updatedAt": "05/30/2026",
     "addedIn": "base",
     "recycleValue": 0,
     "salvageValue": 1000,
@@ -5608,6 +5618,11 @@
       "workbench"
     ],
     "stationLevelRequired": 1,
+    "craftSkills": {
+      "in_raid": [
+        "surv_3r"
+      ]
+    },
     "recipe": {
       "fabric": 5
     },
@@ -5618,7 +5633,7 @@
       "fabric": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/v2/bandage.png",
-    "updatedAt": "02/24/2026",
+    "updatedAt": "05/30/2026",
     "addedIn": "base",
     "vendors": [
       {
@@ -7596,12 +7611,21 @@
       "workbench"
     ],
     "stationLevelRequired": 1,
+    "craftSkills": {
+      "in_raid": [
+        "surv_5c",
+        "surv_3r"
+      ],
+      "workbench": [
+        "surv_5c"
+      ]
+    },
     "recipe": {
       "blaze_grenade": 1,
       "wires": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/v2/blaze_grenade_trap.png",
-    "updatedAt": "03/17/2026",
+    "updatedAt": "05/30/2026",
     "addedIn": "base",
     "recycleValue": 0,
     "salvageValue": 0,
@@ -12367,6 +12391,183 @@
     "droppedBy": []
   },
   {
+    "id": "colorful_shoes_green",
+    "name": {
+      "da": "Farverige sko (grønne)",
+      "de": "Farbenfrohe Schuhe (grün)",
+      "en": "Colorful Shoes (Green)",
+      "es": "Zapatos coloridos (verdes)",
+      "fr": "Chaussures colorées (vertes)",
+      "he": "נעליים צבעוניות (ירוקות)",
+      "hr": "Šarene cipele (zelene)",
+      "it": "Scarpe colorate (verdi)",
+      "ja": "カラフルな靴（緑）",
+      "ko-KR": "알록달록한 신발 (녹색)",
+      "no": "Fargerike sko (grønne)",
+      "pl": "Kolorowe buty (zielone)",
+      "pt": "Sapatos coloridos (verdes)",
+      "pt-BR": "Sapatos coloridos (verdes)",
+      "ru": "Разноцветная обувь (зеленая)",
+      "sr": "Šarene cipele (zelene)",
+      "tr": "Renkli Ayakkabılar (Yeşil)",
+      "uk": "Барвисте взуття (зелене)",
+      "zh-CN": "彩色鞋（绿色）",
+      "zh-TW": "彩色鞋（綠色）"
+    },
+    "description": {
+      "da": "Dette specialiserede fodtøj er udsmykket med farverige ceremonielle mønstre og designet til at forankre bæreren til jorden. Det menes at have tilhørt fortidens vandrere af stor anseelse.",
+      "de": "Dieses spezielle Schuhwerk ist mit leuchtenden zeremoniellen Mustern verziert und soll den Träger am Boden verankern. Man glaubt, dass es einst angesehenen Wanderern der Antike gehörte.",
+      "en": "This specialized footwear is adorned with vibrant ceremonial designs, and designed to anchor the wearer to the ground. It is thought to have belonged to ancient wanderers of great renown.",
+      "es": "Este calzado especializado está adornado con vibrantes diseños ceremoniales y diseñado para anclar a quien lo lleva al suelo. Se cree que perteneció a antiguos caminantes de gran renombre.",
+      "fr": "Ces chaussures spécialisées sont ornées de motifs cérémoniels éclatants et conçues pour ancrer leur porteur au sol. On pense qu'elles ont appartenu à d'anciens voyageurs de grand renom.",
+      "he": "הנעליים הייעודיות האלה מעוטרות בעיצובים טקסיים ססגוניים, ונועדו לעגן את הנועל אל הקרקע. סבורים שהן היו שייכות לנודדים קדומים בעלי שם רב.",
+      "hr": "Ova specijalizirana obuća ukrašena je živopisnim ceremonijalnim uzorcima i osmišljena da prizemlji onoga tko je nosi. Smatra se da je pripadala drevnim lutalicama velikog ugleda.",
+      "it": "Queste calzature specializzate sono adornate con vivaci motivi cerimoniali e progettate per ancorare chi le indossa al suolo. Si ritiene siano appartenute ad antichi viandanti di grande fama.",
+      "ja": "この特殊な履物は鮮やかな儀式用の意匠で飾られ、履く者を大地につなぎ留めるよう作られている。名高い古代の放浪者たちの持ち物だったと考えられている。",
+      "ko-KR": "이 특수 신발은 선명한 의식용 문양으로 장식되어 있으며 착용자를 땅에 붙들어 두도록 설계되었습니다. 큰 명성을 지닌 고대 방랑자들의 것이었다고 여겨집니다.",
+      "no": "Dette spesialiserte fottøyet er prydet med livlige seremonielle mønstre og laget for å forankre brukeren til bakken. Det antas å ha tilhørt eldgamle vandrere med stort ry.",
+      "pl": "To specjalistyczne obuwie zdobią jaskrawe ceremonialne wzory i zaprojektowano je tak, by kotwiczyło noszącego przy ziemi. Uważa się, że należało do dawnych wędrowców o wielkiej renomie.",
+      "pt": "Este calçado especializado está adornado com desenhos cerimoniais vibrantes e foi concebido para prender o utilizador ao solo. Julga-se que pertenceu a antigos viajantes de grande renome.",
+      "pt-BR": "Este calçado especializado é adornado com desenhos cerimoniais vibrantes e foi projetado para ancorar quem o usa ao chão. Acredita-se que pertenceu a antigos andarilhos de grande renome.",
+      "ru": "Эта специализированная обувь украшена яркими церемониальными узорами и создана, чтобы удерживать владельца на земле. Считается, что она принадлежала древним странникам с громкой славой.",
+      "sr": "Ova specijalizovana obuća ukrašena je živopisnim ceremonijalnim šarama i osmišljena da pričvrsti nosioca za tlo. Smatra se da je pripadala drevnim lutalicama velikog ugleda.",
+      "tr": "Bu özel ayakkabılar canlı törensel desenlerle süslenmiş ve giyeni yere sabitlemek için tasarlanmıştır. Büyük şöhrete sahip kadim gezginlere ait olduğu düşünülür.",
+      "uk": "Це спеціалізоване взуття прикрашене яскравими церемоніальними візерунками й створене, щоб тримати носія при землі. Вважається, що воно належало давнім мандрівникам великої слави.",
+      "zh-CN": "这双专用鞋履饰有鲜艳的仪式图案，旨在将穿戴者锚定于地面。据说它曾属于声名显赫的古代旅人。",
+      "zh-TW": "這雙專用鞋履飾有鮮豔的儀式圖案，旨在將穿戴者錨定於地面。據說它曾屬於聲名顯赫的古代旅人。"
+    },
+    "type": "Trinket",
+    "rarity": "Epic",
+    "value": 7000,
+    "stackSize": 1,
+    "imageFilename": "https://cdn.arctracker.io/items/v2/colorful_shoes_green.png",
+    "updatedAt": "06/17/2026",
+    "addedIn": "1.33",
+    "recycleValue": 0,
+    "salvageValue": 0,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
+    "id": "colorful_shoes_red",
+    "name": {
+      "da": "Farverige sko (røde)",
+      "de": "Farbenfrohe Schuhe (rot)",
+      "en": "Colorful Shoes (Red)",
+      "es": "Zapatos coloridos (rojos)",
+      "fr": "Chaussures colorées (rouges)",
+      "he": "נעליים צבעוניות (אדומות)",
+      "hr": "Šarene cipele (crvene)",
+      "it": "Scarpe colorate (rosse)",
+      "ja": "カラフルな靴（赤）",
+      "ko-KR": "알록달록한 신발 (빨간색)",
+      "no": "Fargerike sko (røde)",
+      "pl": "Kolorowe buty (czerwone)",
+      "pt": "Sapatos coloridos (vermelhos)",
+      "pt-BR": "Sapatos coloridos (vermelhos)",
+      "ru": "Разноцветная обувь (красная)",
+      "sr": "Šarene cipele (crvene)",
+      "tr": "Renkli Ayakkabılar (Kırmızı)",
+      "uk": "Барвисте взуття (червоне)",
+      "zh-CN": "彩色鞋（红色）",
+      "zh-TW": "彩色鞋（紅色）"
+    },
+    "description": {
+      "da": "Dette specialiserede fodtøj er udsmykket med farverige ceremonielle mønstre og designet til at forankre bæreren til jorden. Det menes at have tilhørt fortidens vandrere af stor anseelse.",
+      "de": "Dieses spezielle Schuhwerk ist mit leuchtenden zeremoniellen Mustern verziert und soll den Träger am Boden verankern. Man glaubt, dass es einst angesehenen Wanderern der Antike gehörte.",
+      "en": "This specialized footwear is adorned with vibrant ceremonial designs, and designed to anchor the wearer to the ground. It is thought to have belonged to ancient wanderers of great renown.",
+      "es": "Este calzado especializado está adornado con vibrantes diseños ceremoniales y diseñado para anclar a quien lo lleva al suelo. Se cree que perteneció a antiguos caminantes de gran renombre.",
+      "fr": "Ces chaussures spécialisées sont ornées de motifs cérémoniels éclatants et conçues pour ancrer leur porteur au sol. On pense qu'elles ont appartenu à d'anciens voyageurs de grand renom.",
+      "he": "הנעליים הייעודיות האלה מעוטרות בעיצובים טקסיים ססגוניים, ונועדו לעגן את הנועל אל הקרקע. סבורים שהן היו שייכות לנודדים קדומים בעלי שם רב.",
+      "hr": "Ova specijalizirana obuća ukrašena je živopisnim ceremonijalnim uzorcima i osmišljena da prizemlji onoga tko je nosi. Smatra se da je pripadala drevnim lutalicama velikog ugleda.",
+      "it": "Queste calzature specializzate sono adornate con vivaci motivi cerimoniali e progettate per ancorare chi le indossa al suolo. Si ritiene siano appartenute ad antichi viandanti di grande fama.",
+      "ja": "この特殊な履物は鮮やかな儀式用の意匠で飾られ、履く者を大地につなぎ留めるよう作られている。名高い古代の放浪者たちの持ち物だったと考えられている。",
+      "ko-KR": "이 특수 신발은 선명한 의식용 문양으로 장식되어 있으며 착용자를 땅에 붙들어 두도록 설계되었습니다. 큰 명성을 지닌 고대 방랑자들의 것이었다고 여겨집니다.",
+      "no": "Dette spesialiserte fottøyet er prydet med livlige seremonielle mønstre og laget for å forankre brukeren til bakken. Det antas å ha tilhørt eldgamle vandrere med stort ry.",
+      "pl": "To specjalistyczne obuwie zdobią jaskrawe ceremonialne wzory i zaprojektowano je tak, by kotwiczyło noszącego przy ziemi. Uważa się, że należało do dawnych wędrowców o wielkiej renomie.",
+      "pt": "Este calçado especializado está adornado com desenhos cerimoniais vibrantes e foi concebido para prender o utilizador ao solo. Julga-se que pertenceu a antigos viajantes de grande renome.",
+      "pt-BR": "Este calçado especializado é adornado com desenhos cerimoniais vibrantes e foi projetado para ancorar quem o usa ao chão. Acredita-se que pertenceu a antigos andarilhos de grande renome.",
+      "ru": "Эта специализированная обувь украшена яркими церемониальными узорами и создана, чтобы удерживать владельца на земле. Считается, что она принадлежала древним странникам с громкой славой.",
+      "sr": "Ova specijalizovana obuća ukrašena je živopisnim ceremonijalnim šarama i osmišljena da pričvrsti nosioca za tlo. Smatra se da je pripadala drevnim lutalicama velikog ugleda.",
+      "tr": "Bu özel ayakkabılar canlı törensel desenlerle süslenmiş ve giyeni yere sabitlemek için tasarlanmıştır. Büyük şöhrete sahip kadim gezginlere ait olduğu düşünülür.",
+      "uk": "Це спеціалізоване взуття прикрашене яскравими церемоніальними візерунками й створене, щоб тримати носія при землі. Вважається, що воно належало давнім мандрівникам великої слави.",
+      "zh-CN": "这双专用鞋履饰有鲜艳的仪式图案，旨在将穿戴者锚定于地面。据说它曾属于声名显赫的古代旅人。",
+      "zh-TW": "這雙專用鞋履飾有鮮豔的儀式圖案，旨在將穿戴者錨定於地面。據說它曾屬於聲名顯赫的古代旅人。"
+    },
+    "type": "Trinket",
+    "rarity": "Rare",
+    "value": 3000,
+    "stackSize": 1,
+    "imageFilename": "https://cdn.arctracker.io/items/v2/colorful_shoes_red.png",
+    "updatedAt": "06/17/2026",
+    "addedIn": "1.33",
+    "recycleValue": 0,
+    "salvageValue": 0,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
+    "id": "colorful_shoes_silver",
+    "name": {
+      "da": "Farverige sko (sølv)",
+      "de": "Farbenfrohe Schuhe (silber)",
+      "en": "Colorful Shoes (Silver)",
+      "es": "Zapatos coloridos (plateados)",
+      "fr": "Chaussures colorées (argentées)",
+      "he": "נעליים צבעוניות (כסופות)",
+      "hr": "Šarene cipele (srebrne)",
+      "it": "Scarpe colorate (argento)",
+      "ja": "カラフルな靴（銀）",
+      "ko-KR": "알록달록한 신발 (은색)",
+      "no": "Fargerike sko (sølv)",
+      "pl": "Kolorowe buty (srebrne)",
+      "pt": "Sapatos coloridos (prateados)",
+      "pt-BR": "Sapatos coloridos (prateados)",
+      "ru": "Разноцветная обувь (серебристая)",
+      "sr": "Šarene cipele (srebrne)",
+      "tr": "Renkli Ayakkabılar (Gümüş)",
+      "uk": "Барвисте взуття (срібне)",
+      "zh-CN": "彩色鞋（银色）",
+      "zh-TW": "彩色鞋（銀色）"
+    },
+    "description": {
+      "da": "Dette specialiserede fodtøj er udsmykket med farverige ceremonielle mønstre og designet til at forankre bæreren til jorden. Det menes at have tilhørt fortidens vandrere af stor anseelse.",
+      "de": "Dieses spezielle Schuhwerk ist mit leuchtenden zeremoniellen Mustern verziert und soll den Träger am Boden verankern. Man glaubt, dass es einst angesehenen Wanderern der Antike gehörte.",
+      "en": "This specialized footwear is adorned with vibrant ceremonial designs, and designed to anchor the wearer to the ground. It is thought to have belonged to ancient wanderers of great renown.",
+      "es": "Este calzado especializado está adornado con vibrantes diseños ceremoniales y diseñado para anclar a quien lo lleva al suelo. Se cree que perteneció a antiguos caminantes de gran renombre.",
+      "fr": "Ces chaussures spécialisées sont ornées de motifs cérémoniels éclatants et conçues pour ancrer leur porteur au sol. On pense qu'elles ont appartenu à d'anciens voyageurs de grand renom.",
+      "he": "הנעליים הייעודיות האלה מעוטרות בעיצובים טקסיים ססגוניים, ונועדו לעגן את הנועל אל הקרקע. סבורים שהן היו שייכות לנודדים קדומים בעלי שם רב.",
+      "hr": "Ova specijalizirana obuća ukrašena je živopisnim ceremonijalnim uzorcima i osmišljena da prizemlji onoga tko je nosi. Smatra se da je pripadala drevnim lutalicama velikog ugleda.",
+      "it": "Queste calzature specializzate sono adornate con vivaci motivi cerimoniali e progettate per ancorare chi le indossa al suolo. Si ritiene siano appartenute ad antichi viandanti di grande fama.",
+      "ja": "この特殊な履物は鮮やかな儀式用の意匠で飾られ、履く者を大地につなぎ留めるよう作られている。名高い古代の放浪者たちの持ち物だったと考えられている。",
+      "ko-KR": "이 특수 신발은 선명한 의식용 문양으로 장식되어 있으며 착용자를 땅에 붙들어 두도록 설계되었습니다. 큰 명성을 지닌 고대 방랑자들의 것이었다고 여겨집니다.",
+      "no": "Dette spesialiserte fottøyet er prydet med livlige seremonielle mønstre og laget for å forankre brukeren til bakken. Det antas å ha tilhørt eldgamle vandrere med stort ry.",
+      "pl": "To specjalistyczne obuwie zdobią jaskrawe ceremonialne wzory i zaprojektowano je tak, by kotwiczyło noszącego przy ziemi. Uważa się, że należało do dawnych wędrowców o wielkiej renomie.",
+      "pt": "Este calçado especializado está adornado com desenhos cerimoniais vibrantes e foi concebido para prender o utilizador ao solo. Julga-se que pertenceu a antigos viajantes de grande renome.",
+      "pt-BR": "Este calçado especializado é adornado com desenhos cerimoniais vibrantes e foi projetado para ancorar quem o usa ao chão. Acredita-se que pertenceu a antigos andarilhos de grande renome.",
+      "ru": "Эта специализированная обувь украшена яркими церемониальными узорами и создана, чтобы удерживать владельца на земле. Считается, что она принадлежала древним странникам с громкой славой.",
+      "sr": "Ova specijalizovana obuća ukrašena je živopisnim ceremonijalnim šarama i osmišljena da pričvrsti nosioca za tlo. Smatra se da je pripadala drevnim lutalicama velikog ugleda.",
+      "tr": "Bu özel ayakkabılar canlı törensel desenlerle süslenmiş ve giyeni yere sabitlemek için tasarlanmıştır. Büyük şöhrete sahip kadim gezginlere ait olduğu düşünülür.",
+      "uk": "Це спеціалізоване взуття прикрашене яскравими церемоніальними візерунками й створене, щоб тримати носія при землі. Вважається, що воно належало давнім мандрівникам великої слави.",
+      "zh-CN": "这双专用鞋履饰有鲜艳的仪式图案，旨在将穿戴者锚定于地面。据说它曾属于声名显赫的古代旅人。",
+      "zh-TW": "這雙專用鞋履飾有鮮豔的儀式圖案，旨在將穿戴者錨定於地面。據說它曾屬於聲名顯赫的古代旅人。"
+    },
+    "type": "Trinket",
+    "rarity": "Legendary",
+    "value": 10000,
+    "stackSize": 1,
+    "imageFilename": "https://cdn.arctracker.io/items/v2/colorful_shoes_silver.png",
+    "updatedAt": "06/17/2026",
+    "addedIn": "1.33",
+    "recycleValue": 0,
+    "salvageValue": 0,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
     "id": "combat_mk1",
     "name": {
       "da": "Kamp Mk. 1",
@@ -14463,7 +14664,7 @@
       "sr": "Podloga za sletanje",
       "tr": "İniş Minderi",
       "uk": "Посадковий мат",
-      "zh-CN": "着陆垫",
+      "zh-CN": "缓冲垫",
       "zh-TW": "降落墊"
     },
     "description": {
@@ -14485,7 +14686,7 @@
       "sr": "Bacivi uređaj za hitno sletanje koji ublažava teška prizemljenja",
       "tr": "Bazı sert inişleri yumuşatmak için fırlatılabilen acil iniş cihazı",
       "uk": "Кидальний пристрій аварійної посадки, що пом'якшує важкі приземлення",
-      "zh-CN": "一种可投掷的紧急着陆装置，用于缓冲部分重着陆冲击",
+      "zh-CN": "可投掷紧急着陆装置，用于缓冲沉重的坠落冲击。",
       "zh-TW": "一種可投擲的緊急降落裝置，用來緩和部分重著陸衝擊"
     },
     "type": "Quick Use",
@@ -14559,7 +14760,7 @@
       "sr": "Bacivi uređaj za hitno sletanje koji ublažava teška prizemljenja",
       "tr": "Bazı sert inişleri yumuşatmak için fırlatılabilen acil iniş cihazı",
       "uk": "Кидальний пристрій аварійної посадки, що пом'якшує важкі приземлення",
-      "zh-CN": "一种可投掷的紧急着陆装置，用于缓冲部分重着陆冲击",
+      "zh-CN": "可投掷紧急着陆装置，用于缓冲沉重的坠落冲击。",
       "zh-TW": "一種可投擲的緊急降落裝置，用來緩和部分重著陸衝擊"
     },
     "type": "Blueprint",
@@ -14808,7 +15009,7 @@
       "sr": "Oštećeno ARC jezgro pokreta",
       "tr": "Hasarlı ARC Hareket Çekirdeği",
       "uk": "Пошкоджене ядро руху ARC",
-      "zh-CN": "损坏的ARC运动核心",
+      "zh-CN": "受损的ARC运动核心",
       "zh-TW": "損壞的ARC動力核心"
     },
     "description": {
@@ -15144,7 +15345,7 @@
       "sr": "Oštećeni Rocketeer Pokretač",
       "tr": "Hasarlı Roketçi Sürücüsü",
       "uk": "Пошкоджений ракетний драйвер",
-      "zh-CN": "损坏的火箭手引擎",
+      "zh-CN": "受损的“火箭手”引擎",
       "zh-TW": "損壞的火箭手驅動器"
     },
     "description": {
@@ -16405,10 +16606,35 @@
     "value": 1000,
     "weightKg": 1,
     "stackSize": 1,
+    "effects": {
+      "Durability": {
+        "value": "100/100",
+        "da": "Holdbarhed",
+        "de": "Haltbarkeit",
+        "en": "Durability",
+        "es": "Durabilidad",
+        "fr": "Durabilité",
+        "he": "עמידות",
+        "hr": "Izdržljivost",
+        "it": "Tenuta",
+        "ja": "耐久性",
+        "ko-KR": "내구도",
+        "no": "Holdbarhet",
+        "pl": "Wytrzymałość",
+        "pt": "Durabilidade",
+        "pt-BR": "Durabilidade",
+        "ru": "Прочность",
+        "sr": "Izdržljivost",
+        "tr": "Dayanıklılık",
+        "uk": "Міцність",
+        "zh-CN": "耐久度",
+        "zh-TW": "耐久度"
+      }
+    },
     "imageFilename": "https://cdn.arctracker.io/items/v2/dockmasters_detector.png",
     "updatedAt": "04/28/2026",
     "addedIn": "1.26",
-    "durability": 100,
+    "repairDurability": 0.5,
     "recycleValue": 0,
     "salvageValue": 0,
     "recycledFrom": {},
@@ -17228,6 +17454,65 @@
     "droppedBy": []
   },
   {
+    "id": "elephant_obelisk",
+    "name": {
+      "da": "Elefantobelisk",
+      "de": "Elefantenobelisk",
+      "en": "Elephant Obelisk",
+      "es": "Obelisco de elefante",
+      "fr": "Obélisque éléphant",
+      "he": "אובליסק הפיל",
+      "hr": "Slonovski obelisk",
+      "it": "Obelisco elefante",
+      "ja": "象のオベリスク",
+      "ko-KR": "코끼리 오벨리스크",
+      "no": "Elefantobelisk",
+      "pl": "Obelisk słonia",
+      "pt": "Obelisco de elefante",
+      "pt-BR": "Obelisco de elefante",
+      "ru": "Обелиск слона",
+      "sr": "Slonovski obelisk",
+      "tr": "Fil Dikilitaşı",
+      "uk": "Слонячий обеліск",
+      "zh-CN": "大象方尖碑",
+      "zh-TW": "大象方尖碑"
+    },
+    "description": {
+      "da": "En genstand for særlig nomadisk fascination; nogle mener, at disse legendariske lastdyr bar Launch Towers på plads.",
+      "de": "Ein Objekt besonderer nomadischer Faszination; manche glauben, dass diese legendären Lasttiere die Launch Towers an ihren Platz trugen.",
+      "en": "An object of particular nomadic fixation, some believe that these legendary beasts of burden carried the Launch Towers into place.",
+      "es": "Un objeto de particular fijación nómada; algunos creen que estas legendarias bestias de carga llevaron las Launch Towers hasta su lugar.",
+      "fr": "Objet d'une fascination particulière chez les nomades, certains pensent que ces légendaires bêtes de somme ont transporté les Launch Towers jusqu'à leur emplacement.",
+      "he": "חפץ שמעורר קיבעון נוודי מיוחד; יש המאמינים שבהמות המשא האגדיות האלה נשאו את מגדלי השיגור למקומם.",
+      "hr": "Predmet osobite nomadske opsesije; neki vjeruju da su te legendarne tegleće zvijeri donijele Launch Towers na njihovo mjesto.",
+      "it": "Oggetto di particolare fissazione nomade, secondo alcuni queste leggendarie bestie da soma portarono le Launch Towers al loro posto.",
+      "ja": "遊牧民がとりわけ執着する物。伝説の荷役獣がローンチタワーを所定の場所まで運んだと信じる者もいる。",
+      "ko-KR": "유목민들이 유독 집착하는 물건으로, 일부는 이 전설적인 짐승들이 발사탑을 제자리로 운반했다고 믿습니다.",
+      "no": "En gjenstand for særlig nomadisk fascinasjon; noen mener at disse legendariske trekkdyrene bar Launch Towers på plass.",
+      "pl": "Przedmiot szczególnej nomadzkiej fascynacji; niektórzy wierzą, że te legendarne zwierzęta juczne ustawiły Launch Towers na miejscu.",
+      "pt": "Um objeto de particular fascínio nómada; alguns acreditam que estas lendárias bestas de carga levaram as Launch Towers até ao seu lugar.",
+      "pt-BR": "Um objeto de particular fascínio nômade; alguns acreditam que estas lendárias bestas de carga levaram as Launch Towers até o seu lugar.",
+      "ru": "Предмет особого кочевого почитания; некоторые считают, что эти легендарные вьючные звери доставили Башни запуска на место.",
+      "sr": "Predmet posebne nomadske opsesije; neki veruju da su te legendarne tegleće zveri donele Launch Towers na svoje mesto.",
+      "tr": "Özel bir göçebe takıntısının nesnesi; bazıları bu efsanevi yük hayvanlarının Launch Towers'ı yerine taşıdığına inanır.",
+      "uk": "Предмет особливої кочової захопленості; дехто вірить, що ці легендарні в'ючні звірі доставили Пускові вежі на місце.",
+      "zh-CN": "这是游牧民格外痴迷的物件；有人相信这些传奇驮兽曾将发射塔运到位。",
+      "zh-TW": "這是遊牧民格外著迷的物件；有人相信這些傳奇馱獸曾將發射塔運到位。"
+    },
+    "type": "Trinket",
+    "rarity": "Legendary",
+    "value": 10000,
+    "stackSize": 1,
+    "imageFilename": "https://cdn.arctracker.io/items/v2/elephant_obelisk.png",
+    "updatedAt": "06/17/2026",
+    "addedIn": "1.33",
+    "recycleValue": 0,
+    "salvageValue": 0,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
     "id": "empty_wine_bottle",
     "name": {
       "da": "Tom vinflaske",
@@ -17605,6 +17890,65 @@
     "imageFilename": "https://cdn.arctracker.io/items/v2/equalizer_blueprint.png",
     "updatedAt": "01/13/2026",
     "addedIn": "base",
+    "recycleValue": 0,
+    "salvageValue": 0,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
+    "id": "equatorial_sundial",
+    "name": {
+      "da": "Ækvatorialt solur",
+      "de": "Äquatoriale Sonnenuhr",
+      "en": "Equatorial Sundial",
+      "es": "Reloj de sol ecuatorial",
+      "fr": "Cadran solaire équatorial",
+      "he": "שעון שמש משווני",
+      "hr": "Ekvatorijalni sunčani sat",
+      "it": "Meridiana equatoriale",
+      "ja": "赤道式日時計",
+      "ko-KR": "적도의 해시계",
+      "no": "Ekvatorialt solur",
+      "pl": "Równikowy zegar słoneczny",
+      "pt": "Relógio solar equatorial",
+      "pt-BR": "Relógio solar equatorial",
+      "ru": "Экваториальные солнечные часы",
+      "sr": "Ekvatorski sunčani sat",
+      "tr": "Ekvator Güneş Saati",
+      "uk": "Екваторіальний сонячний годинник",
+      "zh-CN": "赤道日晷",
+      "zh-TW": "赤道日晷"
+    },
+    "description": {
+      "da": "Et vidunder af oldtidens snilde; de, der har hang til stjernekiggeri, kan finde de fascinerende mønstre besynderligt velkendte.",
+      "de": "Ein Wunderwerk antiker Ingenieurskunst; wer eine Vorliebe fürs Sternegucken hat, dem könnten die faszinierenden Muster seltsam vertraut vorkommen.",
+      "en": "A marvel of ancient ingenuity, those with a penchant for stargazing may find the mesmerizing patterns oddly familiar.",
+      "es": "Una maravilla de ingenio antiguo; quienes sienten debilidad por observar las estrellas quizá encuentren sus hipnóticos patrones extrañamente familiares.",
+      "fr": "Merveille d'ingéniosité ancienne, ceux qui aiment observer les étoiles pourraient trouver ces motifs envoûtants étrangement familiers.",
+      "he": "פלא של תושייה עתיקה; מי שנמשך לצפייה בכוכבים עשוי למצוא את הדפוסים המהפנטים מוכרים באופן מוזר.",
+      "hr": "Čudo drevne domišljatosti; oni skloni promatranju zvijezda mogli bi u očaravajućim uzorcima pronaći nešto neobično poznato.",
+      "it": "Una meraviglia dell'ingegno antico: chi ha un debole per l'osservazione delle stelle potrebbe trovare questi motivi ipnotici stranamente familiari.",
+      "ja": "古代の創意工夫が生んだ驚異。星空観察を好む者には、その魅惑的な模様が妙に見覚えのあるものに映るかもしれない。",
+      "ko-KR": "고대의 독창성이 빚어낸 경이입니다. 별 관측을 좋아하는 이라면 매혹적인 무늬가 묘하게 익숙하게 느껴질지도 모릅니다.",
+      "no": "Et underverk av eldgammel oppfinnsomhet; de med sans for stjernekikking kan finne de hypnotiserende mønstrene merkelig kjente.",
+      "pl": "Cud starożytnej pomysłowości; osoby z zamiłowaniem do obserwacji gwiazd mogą uznać te hipnotyzujące wzory za dziwnie znajome.",
+      "pt": "Uma maravilha de engenho antigo; quem tiver gosto pela observação das estrelas poderá achar os padrões hipnotizantes estranhamente familiares.",
+      "pt-BR": "Uma maravilha da engenhosidade antiga; quem tem gosto por observar estrelas pode achar os padrões hipnotizantes estranhamente familiares.",
+      "ru": "Чудо древней изобретательности; тем, кто любит смотреть на звезды, эти завораживающие узоры могут показаться странно знакомыми.",
+      "sr": "Čudo drevne domišljatosti; oni koji vole da posmatraju zvezde mogli bi da pronađu nešto neobično poznato u opčinjavajućim šarama.",
+      "tr": "Kadim bir ustalığın harikası; yıldızları izlemeye meraklı olanlar bu büyüleyici desenleri tuhaf biçimde tanıdık bulabilir.",
+      "uk": "Диво давньої винахідливості; тим, хто любить спостерігати за зорями, ці заворожливі візерунки можуть здатися дивно знайомими.",
+      "zh-CN": "古老巧思的奇迹；钟爱观星的人或许会觉得这些迷人的图案异常熟悉。",
+      "zh-TW": "古老巧思的奇蹟；喜愛觀星的人或許會覺得這些迷人的圖案異常熟悉。"
+    },
+    "type": "Trinket",
+    "rarity": "Rare",
+    "value": 3000,
+    "stackSize": 1,
+    "imageFilename": "https://cdn.arctracker.io/items/v2/equatorial_sundial.png",
+    "updatedAt": "06/17/2026",
+    "addedIn": "1.33",
     "recycleValue": 0,
     "salvageValue": 0,
     "recycledFrom": {},
@@ -22482,6 +22826,11 @@
       }
     },
     "craftBench": "in_raid",
+    "craftSkills": {
+      "in_raid": [
+        "surv_3r"
+      ]
+    },
     "recipe": {
       "air_freshener": 1,
       "fireball_burner": 1
@@ -22494,7 +22843,7 @@
       "fireball_burner": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/v2/flame_spray.png",
-    "updatedAt": "02/24/2026",
+    "updatedAt": "05/30/2026",
     "addedIn": "base",
     "repairCost": {
       "canister": 1,
@@ -22717,7 +23066,7 @@
       "sr": "Fosilizovana munja",
       "tr": "Fosilleşmiş Şimşek",
       "uk": "Скам'яніла блискавка",
-      "zh-CN": "化石闪电",
+      "zh-CN": "闪电管石",
       "zh-TW": "化石閃電"
     },
     "description": {
@@ -22739,7 +23088,7 @@
       "sr": "Predmet koji ima šansu da se pojavi nakon udara munje.",
       "tr": "Yıldırım düştükten sonra ortaya çıkma şansı olan bir eşya.",
       "uk": "Предмет, який має шанс з'явитися після удару блискавки.",
-      "zh-CN": "在雷击后有几率生成的物品。",
+      "zh-CN": "可回收为制作材料。在雷击后有概率生成的物品。",
       "zh-TW": "在雷擊後有機會生成的物品。"
     },
     "type": "Topside Material",
@@ -23113,13 +23462,18 @@
       }
     },
     "craftBench": "in_raid",
+    "craftSkills": {
+      "in_raid": [
+        "surv_3r"
+      ]
+    },
     "recipe": {
       "apricot": 1,
       "lemon": 1,
       "prickly_pear": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/v2/fruit_mix.png",
-    "updatedAt": "02/24/2026",
+    "updatedAt": "05/30/2026",
     "addedIn": "base",
     "recycleValue": 0,
     "salvageValue": 0,
@@ -23543,12 +23897,21 @@
       "workbench"
     ],
     "stationLevelRequired": 1,
+    "craftSkills": {
+      "in_raid": [
+        "surv_5c",
+        "surv_3r"
+      ],
+      "workbench": [
+        "surv_5c"
+      ]
+    },
     "recipe": {
       "gas_grenade": 1,
       "wires": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/v2/gas_grenade_trap.png",
-    "updatedAt": "03/17/2026",
+    "updatedAt": "05/30/2026",
     "addedIn": "base",
     "recycleValue": 0,
     "salvageValue": 0,
@@ -25992,6 +26355,12 @@
       "med_station"
     ],
     "stationLevelRequired": 1,
+    "craftSkills": {
+      "in_raid": [
+        "surv_5c",
+        "surv_3r"
+      ]
+    },
     "recipe": {
       "durable_cloth": 1,
       "great_mullein": 1
@@ -26004,7 +26373,7 @@
       "fabric": 8
     },
     "imageFilename": "https://cdn.arctracker.io/items/v2/herbal_bandage.png",
-    "updatedAt": "03/22/2026",
+    "updatedAt": "05/30/2026",
     "addedIn": "base",
     "vendors": [
       {
@@ -28683,7 +29052,7 @@
       "sr": "Nečisto ARC rashladivo sredstvo",
       "tr": "Kirli ARC Soğutma Sıvısı",
       "uk": "Нечистий охолоджувач ARC",
-      "zh-CN": "不纯ARC冷却液",
+      "zh-CN": "不纯净的ARC冷却剂",
       "zh-TW": "不純ARC冷卻液"
     },
     "description": {
@@ -30603,7 +30972,7 @@
       "sr": "Lens je lično rasporedio nekoliko ovih po Pojasu Hrđe, iz nekog razloga.",
       "tr": "Lance, bir nedenden dolayı bunlardan bir dizi tanesini Pas Kuşağı'nın etrafına bizzat yerleştirmiş.",
       "uk": "Ленс особисто розмістив декілька таких по всьому Іржавому Поясу, з якоїсь причини.",
-      "zh-CN": "兰斯出于某种原因，亲自在锈带各处放置了许多这些东西。",
+      "zh-CN": "出于某种原因，兰斯亲自在锈带周围放了不少这种磁带。",
       "zh-TW": "蘭斯出於某種原因，親自在鏽帶各處放置了許多這些東西。"
     },
     "type": "Trinket",
@@ -31779,6 +32148,11 @@
       "workbench"
     ],
     "stationLevelRequired": 1,
+    "craftSkills": {
+      "in_raid": [
+        "surv_3r"
+      ]
+    },
     "recipe": {
       "chemicals": 3,
       "plastic_parts": 2
@@ -31791,7 +32165,7 @@
       "chemicals": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/v2/light_impact_grenade.png",
-    "updatedAt": "02/24/2026",
+    "updatedAt": "05/30/2026",
     "addedIn": "base",
     "vendors": [
       {
@@ -32073,6 +32447,11 @@
       "utility_bench"
     ],
     "stationLevelRequired": 1,
+    "craftSkills": {
+      "in_raid": [
+        "surv_3r"
+      ]
+    },
     "recipe": {
       "chemicals": 5,
       "plastic_parts": 1
@@ -32085,7 +32464,7 @@
       "chemicals": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/v2/lil_smoke_grenade.png",
-    "updatedAt": "02/24/2026",
+    "updatedAt": "05/30/2026",
     "addedIn": "base",
     "recycleValue": 110,
     "salvageValue": 100,
@@ -33228,12 +33607,21 @@
       "workbench"
     ],
     "stationLevelRequired": 1,
+    "craftSkills": {
+      "in_raid": [
+        "surv_5c",
+        "surv_3r"
+      ],
+      "workbench": [
+        "surv_5c"
+      ]
+    },
     "recipe": {
       "lure_grenade": 1,
       "wires": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/v2/lure_grenade_trap.png",
-    "updatedAt": "03/17/2026",
+    "updatedAt": "05/30/2026",
     "addedIn": "base",
     "recycleValue": 0,
     "salvageValue": 0,
@@ -33774,7 +34162,7 @@
       "sr": "Mehaničke Komponente",
       "tr": "Mekanik Bileşenler",
       "uk": "Механічні компоненти",
-      "zh-CN": "机械零件",
+      "zh-CN": "机械元件",
       "zh-TW": "機械零件"
     },
     "description": {
@@ -33796,7 +34184,7 @@
       "sr": "Koristi se za pravljenje širokog spektra predmeta. Može se reciklirati u materijale za pravljenje. Koristi se za pravljenje: Il Toro, Burletta, Anvil, Muzzle Brake II, Extended Medium Mag II",
       "tr": "Çok çeşitli eşyaları üretmek için kullanılır. Üretim malzemelerine geri dönüştürülebilir. Üretim için kullanılır: Il Toro, Burletta, Anvil, Namlu Freni II, Uzatılmış Orta Şarjör II",
       "uk": "Використовується для створення широкого спектру предметів. Можна переробити на матеріали для крафту. Використовується для створення: Il Toro, Burletta, Anvil, дульний гальмо II, розширений середній магазин II",
-      "zh-CN": "用于制作各种物品。可回收成制作材料。用于制作：Il Toro、Burletta、Anvil、枪口制退器II、中型扩容弹匣II",
+      "zh-CN": "用于制作各种物品。可回收为制作材料。用于制作：公牛、布尔莱塔、铁砧、枪口制退器II、中型扩容弹匣II",
       "zh-TW": "用於製作各種物品。可回收成製作材料。用於製作：Il Toro、Burletta、Anvil、槍口制退器II、延長中型彈匣II"
     },
     "type": "Refined Material",
@@ -36068,6 +36456,12 @@
       }
     },
     "craftBench": "in_raid",
+    "craftSkills": {
+      "in_raid": [
+        "surv_5c",
+        "surv_3r"
+      ]
+    },
     "recipe": {
       "plastic_parts": 2,
       "speaker_component": 1
@@ -36079,7 +36473,7 @@
       "speaker_component": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/v2/noisemaker.png",
-    "updatedAt": "01/13/2026",
+    "updatedAt": "05/30/2026",
     "addedIn": "base",
     "vendors": [
       {
@@ -38747,7 +39141,7 @@
       "sr": "Prenosni TV",
       "tr": "Portatif Televizyon",
       "uk": "Портативний телевізор",
-      "zh-CN": "便携式电视",
+      "zh-CN": "便携电视",
       "zh-TW": "攜帶型電視"
     },
     "description": {
@@ -39110,7 +39504,7 @@
       "sr": "Punjiva Baterija",
       "tr": "Taşınabilir Şarj Aleti",
       "uk": "Зовнішній акумулятор",
-      "zh-CN": "充电宝",
+      "zh-CN": "移动电源",
       "zh-TW": "行動電源"
     },
     "description": {
@@ -40154,10 +40548,11 @@
     "type": "Trinket",
     "rarity": "Common",
     "weightKg": 0.5,
+    "value": 100,
     "stackSize": 1,
     "questItem": true,
     "imageFilename": "https://cdn.arctracker.io/items/v2/raider_flag.png",
-    "updatedAt": "05/04/2026",
+    "updatedAt": "05/23/2026",
     "addedIn": "base",
     "recycleValue": 0,
     "salvageValue": 0,
@@ -40221,12 +40616,18 @@
       "utility_bench"
     ],
     "stationLevelRequired": 2,
+    "craftSkills": {
+      "in_raid": [
+        "surv_5c",
+        "surv_3r"
+      ]
+    },
     "recipe": {
       "advanced_electrical_components": 1,
       "sensors": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/v2/raider_hatch_key.png",
-    "updatedAt": "03/22/2026",
+    "updatedAt": "05/30/2026",
     "addedIn": "base",
     "vendors": [
       {
@@ -40248,12 +40649,48 @@
   {
     "id": "rascal_blueprint",
     "name": {
+      "da": "Rascal-skabelon",
+      "de": "Rascal-Blaupause",
       "en": "Rascal Blueprint",
-      "zh-CN": "无赖蓝图"
+      "es": "Planos de Rascal",
+      "fr": "Plan Rascal",
+      "he": "שרטוט Rascal",
+      "hr": "Rascal nacrt",
+      "it": "Disegno tecnico Rascal",
+      "ja": "ラスカル設計図",
+      "ko-KR": "라스칼 도면",
+      "no": "Rascal-tegning",
+      "pl": "Projekt Rascala",
+      "pt": "Plano do Rascal",
+      "pt-BR": "Plano do Rascal",
+      "ru": "Чертеж Раскала",
+      "sr": "Rascal nacrt",
+      "tr": "Rascal Planı",
+      "uk": "Креслення Раскала",
+      "zh-CN": "无赖蓝图",
+      "zh-TW": "無賴藍圖"
     },
     "description": {
+      "da": "Skyder eksplosive projektiler, der kun detonerer ved at ramme ARC.",
+      "de": "Feuert explosive Geschosse, die nur beim Treffen von ARC detonieren.",
       "en": "Fires explosive projectiles that only detonate when hitting ARC.",
-      "zh-CN": "可发射爆炸式射弹，仅当命中ARC时，射弹才会引爆。"
+      "es": "Dispara proyectiles explosivos que solo detonan al impactar contra ARC.",
+      "fr": "Tire des projectiles explosifs qui ne détonent qu'en frappant ARC.",
+      "he": "יוציר פרויקטיילים מתפוצצים שפוצצים רק כשפוגעים ב-ARC.",
+      "hr": "Pucava eksplozivne projektele koji detoniraju samo pri udaru u ARC.",
+      "it": "Spara proiettili esplosivi che detonano solo colpendo ARC.",
+      "ja": "爆発的な投射弾を発射し、ARCに命中した時のみ炸裂する。",
+      "ko-KR": "ARC에 충돌했을 때만 폭발하는 폭발投射물을 발사합니다.",
+      "no": "Skyter eksplosive prosjektiler som bare detonerer ved å treffe ARC.",
+      "pl": "Strzelał wybuchowymi pociskami, które eksplodują tylko po trafieniu ARC.",
+      "pt": "Dispara projéteis explosivos que só detonam ao atingir o ARC.",
+      "pt-BR": "Dispara projéteis explosivos que só detonam ao atingir o ARC.",
+      "ru": "Стреляет взрывными снарядами, которые взрываются только при попадании в ARC.",
+      "sr": "Pucava eksplozivne projektile koji detoniraju samo pri udarcu u ARC.",
+      "tr": "ARC'ye vurduğunda patlayan patlayıcı mermiler fırlatır.",
+      "uk": "Стріляє вибуховими снарядами, які вибухають лише при попаданні в ARC.",
+      "zh-CN": "可发射爆炸式射弹，仅当命中ARC时，射弹才会引爆。",
+      "zh-TW": "可發射爆炸式射彈，僅當命中ARC時，射彈才會引爆。"
     },
     "type": "Blueprint",
     "rarity": "Common",
@@ -40272,12 +40709,48 @@
   {
     "id": "rascal_i",
     "name": {
+      "da": "Rascal I",
+      "de": "Rascal I",
       "en": "Rascal I",
-      "zh-CN": "无赖 I"
+      "es": "Rascal I",
+      "fr": "Rascal I",
+      "he": "Rascal I",
+      "hr": "Rascal I",
+      "it": "Rascal I",
+      "ja": "ラスカル I",
+      "ko-KR": "라스칼 I",
+      "no": "Rascal I",
+      "pl": "Rascal I",
+      "pt": "Rascal I",
+      "pt-BR": "Rascal I",
+      "ru": "Раскал I",
+      "sr": "Rascal I",
+      "tr": "Rascal I",
+      "uk": "Раскал I",
+      "zh-CN": "无赖 I",
+      "zh-TW": "無賴 I"
     },
     "description": {
+      "da": "Skyder eksplosive projektiler, der kun detonerer ved at ramme ARC.",
+      "de": "Feuert explosive Geschosse, die nur beim Treffen von ARC detonieren.",
       "en": "Fires explosive projectiles that only detonate when hitting ARC.",
-      "zh-CN": "可发射爆炸式射弹，仅当命中ARC时，射弹才会引爆。"
+      "es": "Dispara proyectiles explosivos que solo detonan al impactar contra ARC.",
+      "fr": "Tire des projectiles explosifs qui ne détonent qu'en frappant ARC.",
+      "he": "יוציר פרויקטיילים מתפוצצים שפוצצים רק כשפוגעים ב-ARC.",
+      "hr": "Pucava eksplozivne projektele koji detoniraju samo pri udaru u ARC.",
+      "it": "Spara proiettili esplosivi che detonano solo colpendo ARC.",
+      "ja": "爆発的な投射弾を発射し、ARCに命中した時のみ炸裂する。",
+      "ko-KR": "ARC에 충돌했을 때만 폭발하는 폭발投射물을 발사합니다.",
+      "no": "Skyter eksplosive prosjektiler som bare detonerer ved å treffe ARC.",
+      "pl": "Strzelał wybuchowymi pociskami, które eksplodują tylko po trafieniu ARC.",
+      "pt": "Dispara projéteis explosivos que só detonam ao atingir o ARC.",
+      "pt-BR": "Dispara projéteis explosivos que só detonam ao atingir o ARC.",
+      "ru": "Стреляет взрывными снарядами, которые взрываются только при попадании в ARC.",
+      "sr": "Pucava eksplozivne projektile koji detoniraju samo pri udarcu u ARC.",
+      "tr": "ARC'ye vurduğunda patlayan patlayıcı mermiler fırlatır.",
+      "uk": "Стріляє вибуховими снарядами, які вибухають лише при попаданні в ARC.",
+      "zh-CN": "可发射爆炸式射弹，仅当命中ARC时，射弹才会引爆。",
+      "zh-TW": "可發射爆炸式射彈，僅當命中ARC時，射彈才會引爆。"
     },
     "type": "Special",
     "rarity": "Rare",
@@ -40428,12 +40901,48 @@
   {
     "id": "rascal_ii",
     "name": {
+      "da": "Rascal II",
+      "de": "Rascal II",
       "en": "Rascal II",
-      "zh-CN": "无赖 II"
+      "es": "Rascal II",
+      "fr": "Rascal II",
+      "he": "Rascal II",
+      "hr": "Rascal II",
+      "it": "Rascal II",
+      "ja": "ラスカル II",
+      "ko-KR": "라스칼 II",
+      "no": "Rascal II",
+      "pl": "Rascal II",
+      "pt": "Rascal II",
+      "pt-BR": "Rascal II",
+      "ru": "Раскал II",
+      "sr": "Rascal II",
+      "tr": "Rascal II",
+      "uk": "Раскал II",
+      "zh-CN": "无赖 II",
+      "zh-TW": "無賴 II"
     },
     "description": {
+      "da": "Skyder eksplosive projektiler, der kun detonerer ved at ramme ARC.",
+      "de": "Feuert explosive Geschosse, die nur beim Treffen von ARC detonieren.",
       "en": "Fires explosive projectiles that only detonate when hitting ARC.",
-      "zh-CN": "可发射爆炸式射弹，仅当命中ARC时，射弹才会引爆。"
+      "es": "Dispara proyectiles explosivos que solo detonan al impactar contra ARC.",
+      "fr": "Tire des projectiles explosifs qui ne détonent qu'en frappant ARC.",
+      "he": "יוציר פרויקטיילים מתפוצצים שפוצצים רק כשפוגעים ב-ARC.",
+      "hr": "Pucava eksplozivne projektele koji detoniraju samo pri udaru u ARC.",
+      "it": "Spara proiettili esplosivi che detonano solo colpendo ARC.",
+      "ja": "爆発的な投射弾を発射し、ARCに命中した時のみ炸裂する。",
+      "ko-KR": "ARC에 충돌했을 때만 폭발하는 폭발投射물을 발사합니다.",
+      "no": "Skyter eksplosive prosjektiler som bare detonerer ved å treffe ARC.",
+      "pl": "Strzelał wybuchowymi pociskami, które eksplodują tylko po trafieniu ARC.",
+      "pt": "Dispara projéteis explosivos que só detonam ao atingir o ARC.",
+      "pt-BR": "Dispara projéteis explosivos que só detonam ao atingir o ARC.",
+      "ru": "Стреляет взрывными снарядами, которые взрываются только при попадании в ARC.",
+      "sr": "Pucava eksplozivne projektile koji detoniraju samo pri udarcu u ARC.",
+      "tr": "ARC'ye vurduğunda patlayan patlayıcı mermiler fırlatır.",
+      "uk": "Стріляє вибуховими снарядами, які вибухають лише при попаданні в ARC.",
+      "zh-CN": "可发射爆炸式射弹，仅当命中ARC时，射弹才会引爆。",
+      "zh-TW": "可發射爆炸式射彈，僅當命中ARC時，射彈才會引爆。"
     },
     "type": "Special",
     "rarity": "Rare",
@@ -40464,12 +40973,48 @@
   {
     "id": "rascal_iii",
     "name": {
+      "da": "Rascal III",
+      "de": "Rascal III",
       "en": "Rascal III",
-      "zh-CN": "无赖 III"
+      "es": "Rascal III",
+      "fr": "Rascal III",
+      "he": "Rascal III",
+      "hr": "Rascal III",
+      "it": "Rascal III",
+      "ja": "ラスカル III",
+      "ko-KR": "라스칼 III",
+      "no": "Rascal III",
+      "pl": "Rascal III",
+      "pt": "Rascal III",
+      "pt-BR": "Rascal III",
+      "ru": "Раскал III",
+      "sr": "Rascal III",
+      "tr": "Rascal III",
+      "uk": "Раскал III",
+      "zh-CN": "无赖 III",
+      "zh-TW": "無賴 III"
     },
     "description": {
+      "da": "Skyder eksplosive projektiler, der kun detonerer ved at ramme ARC.",
+      "de": "Feuert explosive Geschosse, die nur beim Treffen von ARC detonieren.",
       "en": "Fires explosive projectiles that only detonate when hitting ARC.",
-      "zh-CN": "可发射爆炸式射弹，仅当命中ARC时，射弹才会引爆。"
+      "es": "Dispara proyectiles explosivos que solo detonan al impactar contra ARC.",
+      "fr": "Tire des projectiles explosifs qui ne détonent qu'en frappant ARC.",
+      "he": "יוציר פרויקטיילים מתפוצצים שפוצצים רק כשפוגעים ב-ARC.",
+      "hr": "Pucava eksplozivne projektele koji detoniraju samo pri udaru u ARC.",
+      "it": "Spara proiettili esplosivi che detonano solo colpendo ARC.",
+      "ja": "爆発的な投射弾を発射し、ARCに命中した時のみ炸裂する。",
+      "ko-KR": "ARC에 충돌했을 때만 폭발하는 폭발投射물을 발사합니다.",
+      "no": "Skyter eksplosive prosjektiler som bare detonerer ved å treffe ARC.",
+      "pl": "Strzelał wybuchowymi pociskami, które eksplodują tylko po trafieniu ARC.",
+      "pt": "Dispara projéteis explosivos que só detonam ao atingir o ARC.",
+      "pt-BR": "Dispara projéteis explosivos que só detonam ao atingir o ARC.",
+      "ru": "Стреляет взрывными снарядами, которые взрываются только при попадании в ARC.",
+      "sr": "Pucava eksplozivne projektile koji detoniraju samo pri udarcu u ARC.",
+      "tr": "ARC'ye vurduğunda patlayan patlayıcı mermiler fırlatır.",
+      "uk": "Стріляє вибуховими снарядами, які вибухають лише при попаданні в ARC.",
+      "zh-CN": "可发射爆炸式射弹，仅当命中ARC时，射弹才会引爆。",
+      "zh-TW": "可發射爆炸式射彈，僅當命中ARC時，射彈才會引爆。"
     },
     "type": "Special",
     "rarity": "Rare",
@@ -40500,12 +41045,48 @@
   {
     "id": "rascal_iv",
     "name": {
+      "da": "Rascal IV",
+      "de": "Rascal IV",
       "en": "Rascal IV",
-      "zh-CN": "无赖 IV"
+      "es": "Rascal IV",
+      "fr": "Rascal IV",
+      "he": "Rascal IV",
+      "hr": "Rascal IV",
+      "it": "Rascal IV",
+      "ja": "ラスカル IV",
+      "ko-KR": "라스칼 IV",
+      "no": "Rascal IV",
+      "pl": "Rascal IV",
+      "pt": "Rascal IV",
+      "pt-BR": "Rascal IV",
+      "ru": "Раскал IV",
+      "sr": "Rascal IV",
+      "tr": "Rascal IV",
+      "uk": "Раскал IV",
+      "zh-CN": "无赖 IV",
+      "zh-TW": "無賴 IV"
     },
     "description": {
+      "da": "Skyder eksplosive projektiler, der kun detonerer ved at ramme ARC.",
+      "de": "Feuert explosive Geschosse, die nur beim Treffen von ARC detonieren.",
       "en": "Fires explosive projectiles that only detonate when hitting ARC.",
-      "zh-CN": "可发射爆炸式射弹，仅当命中ARC时，射弹才会引爆。"
+      "es": "Dispara proyectiles explosivos que solo detonan al impactar contra ARC.",
+      "fr": "Tire des projectiles explosifs qui ne détonent qu'en frappant ARC.",
+      "he": "יוציר פרויקטיילים מתפוצצים שפוצצים רק כשפוגעים ב-ARC.",
+      "hr": "Pucava eksplozivne projektele koji detoniraju samo pri udaru u ARC.",
+      "it": "Spara proiettili esplosivi che detonano solo colpendo ARC.",
+      "ja": "爆発的な投射弾を発射し、ARCに命中した時のみ炸裂する。",
+      "ko-KR": "ARC에 충돌했을 때만 폭발하는 폭발投射물을 발사합니다.",
+      "no": "Skyter eksplosive prosjektiler som bare detonerer ved å treffe ARC.",
+      "pl": "Strzelał wybuchowymi pociskami, które eksplodują tylko po trafieniu ARC.",
+      "pt": "Dispara projéteis explosivos que só detonam ao atingir o ARC.",
+      "pt-BR": "Dispara projéteis explosivos que só detonam ao atingir o ARC.",
+      "ru": "Стреляет взрывными снарядами, которые взрываются только при попадании в ARC.",
+      "sr": "Pucava eksplozivne projektile koji detoniraju samo pri udarcu u ARC.",
+      "tr": "ARC'ye vurduğunda patlayan patlayıcı mermiler fırlatır.",
+      "uk": "Стріляє вибуховими снарядами, які вибухають лише при попаданні в ARC.",
+      "zh-CN": "可发射爆炸式射弹，仅当命中ARC时，射弹才会引爆。",
+      "zh-TW": "可發射爆炸式射彈，僅當命中ARC時，射彈才會引爆。"
     },
     "type": "Special",
     "rarity": "Rare",
@@ -45422,7 +46003,7 @@
       "sr": "Zahrđali ARC čelik",
       "tr": "Paslı ARC Çeliği",
       "uk": "Іржава сталь ARC",
-      "zh-CN": "生锈的ARC钢铁",
+      "zh-CN": "生锈的ARC钢材",
       "zh-TW": "生鏽的ARC鋼鐵"
     },
     "description": {
@@ -45444,7 +46025,7 @@
       "sr": "Dobija se od ARC neprijatelja i aktivnosti. Može se reciklirati u otpadni metal.",
       "tr": "ARC düşmanlarından ve etkinliklerinden elde edilir. Hurda metale geri dönüştürülebilir.",
       "uk": "Отримується зворогів ARC та активностей. Можна переробити на металобрухт.",
-      "zh-CN": "从ARC敌人和活动中获得。可以回收成废金属。",
+      "zh-CN": "可回收为制作材料。",
       "zh-TW": "從ARC敵人和活動中獲得。可以回收成廢金屬。"
     },
     "type": "Recyclable",
@@ -46091,6 +46672,65 @@
     ]
   },
   {
+    "id": "sextant",
+    "name": {
+      "da": "Sekstant",
+      "de": "Sextant",
+      "en": "Sextant",
+      "es": "Sextante",
+      "fr": "Sextant",
+      "he": "סקסטנט",
+      "hr": "Sekstant",
+      "it": "Sestante",
+      "ja": "六分儀",
+      "ko-KR": "육분의",
+      "no": "Sekstant",
+      "pl": "Sekstant",
+      "pt": "Sextante",
+      "pt-BR": "Sextante",
+      "ru": "Секстант",
+      "sr": "Sekstant",
+      "tr": "Sekstant",
+      "uk": "Секстант",
+      "zh-CN": "六分仪",
+      "zh-TW": "六分儀"
+    },
+    "description": {
+      "da": "Engang troede man, at den var en simpel prototype på et rumskib, men Nomaderne hævder, at den er en sofistikeret metode til at dokumentere ens rejser.",
+      "de": "Einst hielt man es für einen rudimentären Raumschiffprototyp, doch die Nomaden behaupten, es sei eine ausgeklügelte Methode, um die eigenen Reisen zu dokumentieren.",
+      "en": "Once thought to be a rudimentary spaceship prototype, it is claimed by the Nomads to be a sophisticated method for documenting one's travels.",
+      "es": "Se creyó en otro tiempo que era un prototipo rudimentario de nave espacial, pero los Nómadas afirman que es un método sofisticado para documentar los viajes de uno.",
+      "fr": "Autrefois considéré comme un prototype rudimentaire de vaisseau spatial, il est présenté par les Nomades comme une méthode sophistiquée pour documenter ses voyages.",
+      "he": "פעם חשבו שזה אבטיפוס בסיסי של חללית, אך הנוודים טוענים שמדובר בשיטה מתוחכמת לתיעוד מסעותיו של אדם.",
+      "hr": "Nekoć se smatralo da je riječ o rudimentarnom prototipu svemirskog broda, no Nomadi tvrde da je to sofisticirana metoda za bilježenje vlastitih putovanja.",
+      "it": "Un tempo ritenuto un rudimentale prototipo di astronave, secondo i Nomadi è invece un metodo sofisticato per documentare i propri viaggi.",
+      "ja": "かつては初歩的な宇宙船の試作品と思われていたが、ノマドたちは旅の記録を残すための洗練された手段だと主張している。",
+      "ko-KR": "한때는 원시적인 우주선 시제품으로 여겨졌지만, 노마드들은 이것이 자신의 여정을 기록하는 정교한 방법이라고 주장합니다.",
+      "no": "En gang trodde man at dette var en enkel prototype på et romskip, men Nomadene hevder at det er en sofistikert metode for å dokumentere ens reiser.",
+      "pl": "Kiedyś uważano go za prymitywny prototyp statku kosmicznego, lecz Nomadzi twierdzą, że to wyrafinowana metoda dokumentowania własnych podróży.",
+      "pt": "Outrora considerado um protótipo rudimentar de nave espacial, os Nómadas afirmam que é um método sofisticado para documentar as próprias viagens.",
+      "pt-BR": "Antes considerado um protótipo rudimentar de nave espacial, os Nômades afirmam que é um método sofisticado para documentar as próprias viagens.",
+      "ru": "Когда-то его считали примитивным прототипом космического корабля, но Кочевники утверждают, что это изощренный способ документировать свои путешествия.",
+      "sr": "Nekada se mislilo da je rudimentarni prototip svemirskog broda, ali Nomadi tvrde da je to sofisticiran metod za beleženje sopstvenih putovanja.",
+      "tr": "Bir zamanlar ilkel bir uzay gemisi prototipi sanılırdı; Nomadlar ise bunun kişinin yolculuklarını belgelemek için gelişmiş bir yöntem olduğunu iddia eder.",
+      "uk": "Колись його вважали примітивним прототипом космічного корабля, але Номади стверджують, що це витончений спосіб документувати власні подорожі.",
+      "zh-CN": "它曾被认为是简陋的宇宙飞船原型，但游牧民声称这是一种记录个人旅程的精巧方法。",
+      "zh-TW": "它曾被認為是粗略的太空船原型，但遊牧民聲稱這是一種記錄個人旅程的精巧方法。"
+    },
+    "type": "Trinket",
+    "rarity": "Uncommon",
+    "value": 2000,
+    "stackSize": 1,
+    "imageFilename": "https://cdn.arctracker.io/items/v2/sextant.png",
+    "updatedAt": "06/17/2026",
+    "addedIn": "1.33",
+    "recycleValue": 0,
+    "salvageValue": 0,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
     "id": "shaker",
     "name": {
       "da": "Shaker",
@@ -46143,6 +46783,11 @@
     "weightKg": 0.2,
     "stackSize": 1,
     "craftBench": "in_raid",
+    "craftSkills": {
+      "in_raid": [
+        "surv_3r"
+      ]
+    },
     "recipe": {
       "assorted_seeds": 7,
       "canister": 1
@@ -46154,7 +46799,7 @@
       "plastic_parts": 4
     },
     "imageFilename": "https://cdn.arctracker.io/items/v2/shaker.png",
-    "updatedAt": "03/22/2026",
+    "updatedAt": "05/30/2026",
     "addedIn": "1.7",
     "repairCost": {
       "plastic_parts": 4
@@ -46304,6 +46949,11 @@
       "workbench"
     ],
     "stationLevelRequired": 1,
+    "craftSkills": {
+      "in_raid": [
+        "surv_3r"
+      ]
+    },
     "recipe": {
       "arc_powercell": 1,
       "rubber_parts": 5
@@ -46315,7 +46965,7 @@
       "rubber_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/v2/shield_recharger.png",
-    "updatedAt": "02/24/2026",
+    "updatedAt": "05/30/2026",
     "addedIn": "base",
     "vendors": [
       {
@@ -48301,9 +48951,9 @@
     "rarity": "Epic",
     "value": 7000,
     "weightKg": 0.5,
-    "stackSize": 1,
+    "stackSize": 3,
     "imageFilename": "https://cdn.arctracker.io/items/v2/sirena_dorata_ship_model.png",
-    "updatedAt": "04/28/2026",
+    "updatedAt": "06/17/2026",
     "addedIn": "1.26",
     "recycleValue": 0,
     "salvageValue": 0,
@@ -48608,12 +49258,21 @@
       "workbench"
     ],
     "stationLevelRequired": 1,
+    "craftSkills": {
+      "in_raid": [
+        "surv_5c",
+        "surv_3r"
+      ],
+      "workbench": [
+        "surv_5c"
+      ]
+    },
     "recipe": {
       "smoke_grenade": 1,
       "wires": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/v2/smoke_grenade_trap.png",
-    "updatedAt": "03/17/2026",
+    "updatedAt": "05/30/2026",
     "addedIn": "base",
     "recycleValue": 0,
     "salvageValue": 0,
@@ -54110,6 +54769,65 @@
     "droppedBy": []
   },
   {
+    "id": "tellurion",
+    "name": {
+      "da": "Tellurion",
+      "de": "Tellurion",
+      "en": "Tellurion",
+      "es": "Tellurion",
+      "fr": "Tellurion",
+      "he": "טלוריון",
+      "hr": "Telurion",
+      "it": "Tellurion",
+      "ja": "テルリオン",
+      "ko-KR": "텔루리온",
+      "no": "Tellurion",
+      "pl": "Tellurion",
+      "pt": "Tellurion",
+      "pt-BR": "Tellurion",
+      "ru": "Теллурион",
+      "sr": "Telurion",
+      "tr": "Tellurion",
+      "uk": "Телуріон",
+      "zh-CN": "特鲁里仪",
+      "zh-TW": "特魯里儀"
+    },
+    "description": {
+      "da": "Et vidunder af oldtidens snilde; de, der har hang til stjernekiggeri, kan finde de fascinerende mønstre besynderligt velkendte.",
+      "de": "Ein Wunderwerk antiker Ingenieurskunst; wer eine Vorliebe fürs Sternegucken hat, dem könnten die faszinierenden Muster seltsam vertraut vorkommen.",
+      "en": "A marvel of ancient ingenuity, those with a penchant for stargazing may find the mesmerizing patterns oddly familiar.",
+      "es": "Una maravilla de ingenio antiguo; quienes sienten debilidad por observar las estrellas quizá encuentren sus hipnóticos patrones extrañamente familiares.",
+      "fr": "Merveille d'ingéniosité ancienne, ceux qui aiment observer les étoiles pourraient trouver ces motifs envoûtants étrangement familiers.",
+      "he": "פלא של תושייה עתיקה; מי שנמשך לצפייה בכוכבים עשוי למצוא את הדפוסים המהפנטים מוכרים באופן מוזר.",
+      "hr": "Čudo drevne domišljatosti; oni skloni promatranju zvijezda mogli bi u očaravajućim uzorcima pronaći nešto neobično poznato.",
+      "it": "Una meraviglia dell'ingegno antico: chi ha un debole per l'osservazione delle stelle potrebbe trovare questi motivi ipnotici stranamente familiari.",
+      "ja": "古代の創意工夫が生んだ驚異。星空観察を好む者には、その魅惑的な模様が妙に見覚えのあるものに映るかもしれない。",
+      "ko-KR": "고대의 독창성이 빚어낸 경이입니다. 별 관측을 좋아하는 이라면 매혹적인 무늬가 묘하게 익숙하게 느껴질지도 모릅니다.",
+      "no": "Et underverk av eldgammel oppfinnsomhet; de med sans for stjernekikking kan finne de hypnotiserende mønstrene merkelig kjente.",
+      "pl": "Cud starożytnej pomysłowości; osoby z zamiłowaniem do obserwacji gwiazd mogą uznać te hipnotyzujące wzory za dziwnie znajome.",
+      "pt": "Uma maravilha de engenho antigo; quem tiver gosto pela observação das estrelas poderá achar os padrões hipnotizantes estranhamente familiares.",
+      "pt-BR": "Uma maravilha da engenhosidade antiga; quem tem gosto por observar estrelas pode achar os padrões hipnotizantes estranhamente familiares.",
+      "ru": "Чудо древней изобретательности; тем, кто любит смотреть на звезды, эти завораживающие узоры могут показаться странно знакомыми.",
+      "sr": "Čudo drevne domišljatosti; oni koji vole da posmatraju zvezde mogli bi da pronađu nešto neobično poznato u opčinjavajućim šarama.",
+      "tr": "Kadim bir ustalığın harikası; yıldızları izlemeye meraklı olanlar bu büyüleyici desenleri tuhaf biçimde tanıdık bulabilir.",
+      "uk": "Диво давньої винахідливості; тим, хто любить спостерігати за зорями, ці заворожливі візерунки можуть здатися дивно знайомими.",
+      "zh-CN": "古老巧思的奇迹；钟爱观星的人或许会觉得这些迷人的图案异常熟悉。",
+      "zh-TW": "古老巧思的奇蹟；喜愛觀星的人或許會覺得這些迷人的圖案異常熟悉。"
+    },
+    "type": "Trinket",
+    "rarity": "Epic",
+    "value": 7000,
+    "stackSize": 1,
+    "imageFilename": "https://cdn.arctracker.io/items/v2/tellurion.png",
+    "updatedAt": "06/17/2026",
+    "addedIn": "1.33",
+    "recycleValue": 0,
+    "salvageValue": 0,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
     "id": "tempest_blueprint",
     "name": {
       "da": "Tempest-tegning",
@@ -55510,7 +56228,7 @@
       "sr": "Poderana Knjiga",
       "tr": "Parçalanmış Kitap",
       "uk": "Порвана книга",
-      "zh-CN": "破损的书",
+      "zh-CN": "旧书",
       "zh-TW": "破損的書"
     },
     "description": {
@@ -55532,7 +56250,7 @@
       "sr": "Preostale stranice govore o herojima, vampirima i mnogo pogleda.",
       "tr": "Geriye kalan sayfalarda seçilmiş kahramanlardan, vampirlerden ve özlem dolu bakışlardan bahsediliyor.",
       "uk": "Сторінки, що залишилися, розповідають про героїв, вампірів та безліч поглядів.",
-      "zh-CN": "残存的书页讲述着英雄、吸血鬼和许多目光的故事。",
+      "zh-CN": "残存的书页中提到了被命运选中的英雄、吸血的怪物，以及许多描述众人景仰的场面。",
       "zh-TW": "殘存的書頁講述著英雄、吸血鬼和許多目光的故事。"
     },
     "type": "Trinket",
@@ -56775,6 +57493,65 @@
     "droppedBy": []
   },
   {
+    "id": "train_model",
+    "name": {
+      "da": "Togmodel",
+      "de": "Zugmodell",
+      "en": "Train Model",
+      "es": "Modelo de tren",
+      "fr": "Modèle réduit de train",
+      "he": "דגם רכבת",
+      "hr": "Model vlaka",
+      "it": "Modellino di treno",
+      "ja": "鉄道模型",
+      "ko-KR": "기차 모형",
+      "no": "Togmodell",
+      "pl": "Model pociągu",
+      "pt": "Modelo de comboio",
+      "pt-BR": "Modelo de trem",
+      "ru": "Модель поезда",
+      "sr": "Model voza",
+      "tr": "Tren Modeli",
+      "uk": "Модель поїзда",
+      "zh-CN": "火车模型",
+      "zh-TW": "火車模型"
+    },
+    "description": {
+      "da": "Håndlavede med fuld detaljering af undervognen giver disse modeller en overraskende indviklet skematisk gengivelse af togdrift fra før Exodus.",
+      "de": "Handgefertigt mit vollständiger Unterboden-Detaillierung bieten diese Modelle ein überraschend komplexes Schema der Fortbewegung aus der Zeit vor dem Exodus.",
+      "en": "Hand-crafted with full underbody detailing, these models offer a surprisingly intricate schematic of pre-Exodus locomotion.",
+      "es": "Elaborados a mano con todo el detalle del chasis, estos modelos ofrecen un esquema sorprendentemente intrincado de la locomoción anterior al Exodus.",
+      "fr": "Fabriqués à la main avec un soubassement entièrement détaillé, ces modèles offrent un schéma étonnamment complexe de la locomotion d'avant l'Exodus.",
+      "he": "דגמים אלה, מעשה יד עם פירוט מלא של החלק התחתון, מציעים תרשים מפתיע במורכבותו של תנועה מסילתית מלפני ה-Exodus.",
+      "hr": "Ručno izrađeni s potpunim detaljima podvozja, ovi modeli nude iznenađujuće zamršen shematski prikaz lokomocije iz vremena prije Exodusa.",
+      "it": "Realizzati a mano con dettagli completi del sottoscocca, questi modelli offrono uno schema sorprendentemente intricato della locomozione precedente all'Exodus.",
+      "ja": "車体下部まで精巧に作り込まれた手製の模型で、Exodus以前の移動手段を驚くほど入り組んだ図式で示している。",
+      "ko-KR": "하부 구조까지 세밀하게 손으로 만든 이 모형들은 Exodus 이전 이동 수단의 놀라울 만큼 복잡한 도식을 보여줍니다.",
+      "no": "Håndlaget med full detaljering av understellet gir disse modellene en overraskende intrikat skjematisk framstilling av togdrift fra før Exodus.",
+      "pl": "Ręcznie wykonane, z pełnymi detalami podwozia, modele te oferują zaskakująco złożony schemat lokomocji sprzed Exodusu.",
+      "pt": "Feitos à mão com todos os detalhes da parte inferior, estes modelos oferecem um esquema surpreendentemente intricado da locomoção pré-Exodus.",
+      "pt-BR": "Feitos à mão com todos os detalhes da parte inferior, estes modelos oferecem um esquema surpreendentemente intrincado da locomoção pré-Exodus.",
+      "ru": "Сделанные вручную с полной проработкой днища, эти модели предлагают удивительно сложную схему передвижения времен до Exodus.",
+      "sr": "Ručno izrađeni sa svim detaljima podvozja, ovi modeli nude iznenađujuće zamršen šematski prikaz lokomocije iz vremena pre Exodusa.",
+      "tr": "Alt gövde ayrıntıları tamamen işlenmiş el yapımı bu modeller, Exodus öncesi ulaşımın şaşırtıcı derecede karmaşık bir şemasını sunar.",
+      "uk": "Створені вручну з повною деталізацією нижньої частини, ці моделі пропонують напрочуд складну схему пересування часів до Exodus.",
+      "zh-CN": "这些手工制作的模型连底盘细节都一应俱全，呈现出一幅关于 Exodus 之前机车运行的惊人复杂示意图。",
+      "zh-TW": "這些手工製作的模型連底盤細節都一應俱全，呈現出一幅關於 Exodus 之前機車運行的驚人複雜示意圖。"
+    },
+    "type": "Trinket",
+    "rarity": "Common",
+    "value": 1000,
+    "stackSize": 1,
+    "imageFilename": "https://cdn.arctracker.io/items/v2/train_model.png",
+    "updatedAt": "06/17/2026",
+    "addedIn": "1.33",
+    "recycleValue": 0,
+    "salvageValue": 0,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
     "id": "trigger_nade",
     "name": {
       "da": "Udløser-granat",
@@ -57202,9 +57979,9 @@
     "rarity": "Uncommon",
     "value": 1000,
     "weightKg": 0.5,
-    "stackSize": 1,
+    "stackSize": 5,
     "imageFilename": "https://cdn.arctracker.io/items/v2/twilight_compass_ship_model.png",
-    "updatedAt": "04/28/2026",
+    "updatedAt": "06/17/2026",
     "addedIn": "1.26",
     "recycleValue": 0,
     "salvageValue": 0,
@@ -57458,9 +58235,9 @@
     "rarity": "Rare",
     "value": 3000,
     "weightKg": 0.5,
-    "stackSize": 1,
+    "stackSize": 3,
     "imageFilename": "https://cdn.arctracker.io/items/v2/velocity_ship_model.png",
-    "updatedAt": "04/28/2026",
+    "updatedAt": "06/17/2026",
     "addedIn": "1.26",
     "recycleValue": 0,
     "salvageValue": 0,
@@ -59162,6 +59939,65 @@
     "imageFilename": "https://cdn.arctracker.io/items/v2/very_comfortable_pillow.png",
     "updatedAt": "01/13/2026",
     "addedIn": "base",
+    "recycleValue": 0,
+    "salvageValue": 0,
+    "recycledFrom": {},
+    "salvagedFrom": {},
+    "droppedBy": []
+  },
+  {
+    "id": "vintage_steering_wheel",
+    "name": {
+      "da": "Vintage-rat",
+      "de": "Vintage-Lenkrad",
+      "en": "Vintage Steering Wheel",
+      "es": "Volante vintage",
+      "fr": "Volant ancien",
+      "he": "גלגל הגה וינטג'",
+      "hr": "Starinski upravljač",
+      "it": "Volante vintage",
+      "ja": "ヴィンテージのステアリングホイール",
+      "ko-KR": "빈티지 운전대",
+      "no": "Klassisk ratt",
+      "pl": "Zabytkowa kierownica",
+      "pt": "Volante vintage",
+      "pt-BR": "Volante vintage",
+      "ru": "Винтажный руль",
+      "sr": "Starinski volan",
+      "tr": "Vintage Direksiyon",
+      "uk": "Вінтажне кермо",
+      "zh-CN": "复古方向盘",
+      "zh-TW": "復古方向盤"
+    },
+    "description": {
+      "da": "En harmonisk artefakt med trevejs symmetri; nogle Nomader mener, at dette er et gammelt relikvieskrin, der ærer det månelige, det solare og det jordiske.",
+      "de": "Ein harmonisches Artefakt dreifacher Symmetrie; manche Nomaden glauben, es sei ein antikes Reliquiar zu Ehren des Lunarischen, Solaren und Terrestrischen.",
+      "en": "A harmonious artifact of three-way symmetry, some Nomads believe this to be an ancient reliquary honoring the lunar, the solar and the terrestrial.",
+      "es": "Un artefacto armonioso de simetría triple; algunos Nómadas creen que es un antiguo relicario en honor a lo lunar, lo solar y lo terrestre.",
+      "fr": "Artefact harmonieux à la symétrie ternaire, certains Nomades pensent qu'il s'agit d'un ancien reliquaire honorant le lunaire, le solaire et le terrestre.",
+      "he": "חפץ הרמוני בעל סימטריה תלת-כיוונית; כמה מהנוודים מאמינים שזהו כלי קודש עתיק המוקדש לירחי, לשמשי ולארצי.",
+      "hr": "Skladan artefakt trostruke simetrije; neki Nomadi vjeruju da je riječ o drevnom relikvijaru koji odaje počast lunarnom, solarnom i zemaljskom.",
+      "it": "Un armonioso manufatto a simmetria triplice: alcuni Nomadi credono che sia un antico reliquiario in onore del lunare, del solare e del terrestre.",
+      "ja": "三方向の対称性を備えた調和の取れた遺物。ノマドの中には、月と太陽と大地を称える古代の聖遺物箱だと信じる者もいる。",
+      "ko-KR": "세 방향 대칭을 이룬 조화로운 유물로, 일부 노마드들은 이것이 달과 태양, 대지를 기리는 고대 성유물함이라고 믿습니다.",
+      "no": "En harmonisk gjenstand med treveis symmetri; noen Nomader mener at dette er et gammelt relikvieskrin som hedrer det månelige, det solare og det jordiske.",
+      "pl": "Harmonijny artefakt o trójstronnej symetrii; niektórzy Nomadzi wierzą, że to starożytny relikwiarz ku czci tego, co księżycowe, słoneczne i ziemskie.",
+      "pt": "Um artefacto harmonioso de simetria tripla; alguns Nómadas acreditam que seja um antigo relicário em honra do lunar, do solar e do terrestre.",
+      "pt-BR": "Um artefato harmonioso de simetria tripla; alguns Nômades acreditam que seja um antigo relicário em honra ao lunar, ao solar e ao terrestre.",
+      "ru": "Гармоничный артефакт трехсторонней симметрии; некоторые Кочевники считают, что это древний реликварий, почитающий лунное, солнечное и земное.",
+      "sr": "Skladan artefakt trostruke simetrije; neki Nomadi veruju da je to drevni relikvijar koji odaje počast lunarnom, solarnom i zemaljskom.",
+      "tr": "Üç yönlü simetriye sahip uyumlu bir eser; bazı Nomadlar bunun ayı, güneşi ve yeryüzünü onurlandıran antik bir kutsal emanetlik olduğuna inanır.",
+      "uk": "Гармонійний артефакт тристоронньої симетрії; деякі Номади вірять, що це давній релікварій на честь місячного, сонячного й земного.",
+      "zh-CN": "一件具有三向对称的和谐造物；一些游牧民相信它是古代圣物匣，用来礼敬月、日与大地。",
+      "zh-TW": "一件具有三向對稱的和諧造物；一些遊牧民相信它是古代聖物匣，用來禮敬月、日與大地。"
+    },
+    "type": "Trinket",
+    "rarity": "Uncommon",
+    "value": 2000,
+    "stackSize": 1,
+    "imageFilename": "https://cdn.arctracker.io/items/v2/vintage_steering_wheel.png",
+    "updatedAt": "06/17/2026",
+    "addedIn": "1.33",
     "recycleValue": 0,
     "salvageValue": 0,
     "recycledFrom": {},
@@ -61222,6 +62058,11 @@
       "in_raid"
     ],
     "stationLevelRequired": 1,
+    "craftSkills": {
+      "in_raid": [
+        "surv_3r"
+      ]
+    },
     "recipe": {
       "fabric": 10,
       "plastic_parts": 3
@@ -61234,7 +62075,7 @@
       "fabric": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/v2/white_flag.png",
-    "updatedAt": "04/28/2026",
+    "updatedAt": "05/30/2026",
     "addedIn": "1.26",
     "recycleValue": 310,
     "salvageValue": 150,
@@ -61352,9 +62193,9 @@
     "rarity": "Common",
     "value": 1000,
     "weightKg": 0.5,
-    "stackSize": 1,
+    "stackSize": 10,
     "imageFilename": "https://cdn.arctracker.io/items/v2/wind_sprite_ship_model.png",
-    "updatedAt": "04/28/2026",
+    "updatedAt": "06/17/2026",
     "addedIn": "1.26",
     "recycleValue": 0,
     "salvageValue": 0,
